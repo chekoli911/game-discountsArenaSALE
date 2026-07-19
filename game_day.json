@@ -1,0 +1,40 @@
+{
+  "updated_at": "2026-07-20T05:22:06.824768+00:00",
+  "settings": {
+    "prices_p2": {
+      "7": 100,
+      "14": 200,
+      "21": 300,
+      "28": 400
+    },
+    "p3_extra": 100,
+    "cards_count": 1,
+    "page_url": "https://arenapsgm.ru/allgames"
+  },
+  "cards": [
+    {
+      "slug": "banishers-ghosts-of-new-eden",
+      "title": "Banishers: Ghosts of New Eden",
+      "description": "Тёмный фэнтези-экшен, где каждый выбор меняет судьбу мира и героев. Исследуйте земли Нового Эдема, сражайтесь с призраками и решайте, кого изгнать — а кого оставить.\n\nАтмосфера, боёвка и сюжет затягивают с первых минут. Идеальный кандидат на «игру дня»: глубокий мир, сильные персонажи и визуальный стиль, который хочется рассматривать.\n\nБерите на сутки по спеццене — и успейте прожить историю, пока акция активна.",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0615/c8a66a099314ba3d504d226c570e100cd7c6eaf8e936fbdf.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/62ff4cf508ffbf813b98bf16d00a985ada34d70749fbbce0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/4c57d56a87f9e00729443a1f0b0b9ebf9bae97390e8376a7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/8b2b9e9e1b30fd13e6e26e72c5b75a72398256ee5eb641d0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/380cabd326f49f8d96f16f49aa663b832a78e823d6d255f7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/82357eb59d2bab6641230c4873ba4643cb88f5ffea5a193c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/6a1efae75c0bffd750124bb5e2f1f7ba9ceb39afe19d6f8e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/5a08f8d3ae2b4256890ec6541092c0bae291f68ee75db48b.jpg"
+      ],
+      "release_date": "13/2/2024",
+      "publisher": "Focus Entertainment",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10006098",
+      "tilda_uid": "",
+      "sku": "gameday-banishers-ghosts-of-new-eden",
+      "expires_at": "2026-07-21T05:22:06.823679+00:00"
+    }
+  ]
+}
