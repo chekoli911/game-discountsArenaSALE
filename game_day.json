@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T07:00:58Z",
-  "server_time_utc": "2026-07-20T07:00:58Z",
+  "updated_at": "2026-07-20T07:24:18Z",
+  "server_time_utc": "2026-07-20T07:24:18Z",
   "page_url": "https://arenapsgm.ru/allgames",
   "next_rotation_at": "2026-07-21T02:00:00Z",
   "expires_at": "2026-07-21T02:00:00Z",
@@ -26,6 +26,58 @@
   "cards_count": 1,
   "cards": [
     {
+      "slug": "tomb-raider-iv-vi-remastered-ps4-ps5",
+      "title": "Tomb Raider IV-VI Remastered PS4/PS5",
+      "description": "Лара Крофт снова на экране - и с новым видом! 🌍  \nВозвращаемся к классическим приключениям, только теперь в свежем ремастере. Выбирайте: оригинальные полигоны или детализированный ремастер - по вашему настроению.\n\nСледите за Ларой по всему миру - от дремучих лесов до подземных лабиринтов. Боритесь с врагами, раскрываете тайны и сталкиваетесь с мифами, что не уходят со времен.\n\nРазгадывайте секреты её прошлого - кто она была, где исчезла и почему до сих пор живёт в воспоминаниях.  \n\nИгра #TombRaiderIVVIRemastered - как в оригинале, только теперь в ярком свете современных технологий.",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1221/c785b0366d8f84a18dd17a0d046fdee92ccd6195d79c81a1.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/2822/d75cc9c02e5e70fb787caeb4eeb319263bac845200f030d8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/2822/10022143ea901b29421ccbc393e9ecb7fe002bd79e9aca9a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/2822/a2a22bcd6289ad93fe749d7440ce2f0f298f87b74279c33f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/2822/feab5a1bd15226cdd259afed578c0883b27a0c78c6122a02.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/2822/aad64ecd271af42db39b648ccca61be05f634ed04dc7f60b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/2822/c640b77fa05e00066a2ed9ddc62b25b1822847ef12adf084.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/2822/af457477b0c0ebeb20a081602491a68100c7d8daccce4a3b.jpg"
+      ],
+      "release_date": "14/2/2025",
+      "publisher": "ASPYR MEDIA, INC",
+      "platforms": "PS4, PS5",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10009064",
+      "tilda_uid": "566709933972",
+      "sku": "",
+      "external_id": "3GeO2blcKsVFdzvRM3A7",
+      "url": "http://arenapsgm.ru/tproduct/566709933972-tomb-raider-iv-vi-remastered-ps4ps5",
+      "expires_at": "2026-07-21T02:00:00Z",
+      "published_at": "2026-07-20T07:24:18Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Лара Крофт снова на экране - но теперь с новым видом и в свежем ремастере.  \nДремучие леса, подземные лабиринты и мифы, которые не уходят - всё это возвращается, только ярче и детальнее."
+    }
+  ],
+  "history": [
+    {
       "slug": "enotria-the-last-song-deluxe-edition-ps5",
       "title": "Enotria: The Last Song Deluxe Edition PS5",
       "description": "☀️ Вдруг в твоей игре начался итальянский летний день?  \nEnotria: The Last Song Deluxe Edition - это ролевой экшен, где каждый шаг пронизан ароматом солнца, пыльных улиц и фольклорных сюжетов.  \n\nМир вдохновлён итальянским летом - тёплый, живой, полный тайн и магии. Ты не просто борешься с врагами - ты меняешь их, окружающую среду, даже саму атмосферу.  \n\nЭто не классический Souls-like - это «Summer-soul». В нём лето не просто фон, оно центральный элемент игры.  \n\nАренда доступна на PS5. Напиши сюда - и получишь игру в кратчайшие сроки 📩",
@@ -49,34 +101,31 @@
       "sku": "",
       "external_id": "KRNXGlUt6lc9tD8r6YsM",
       "url": "http://arenapsgm.ru/gamescatalog/tproduct/154824086282-enotria-the-last-song-deluxe-edition-ps5",
-      "expires_at": "2026-07-21T02:00:00Z",
       "published_at": "2026-07-20T07:00:58Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 350,
+          "14": 599,
+          "21": 645,
+          "28": 745
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 450,
+          "14": 699,
+          "21": 745,
+          "28": 845
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 350,
+        "14": 599,
+        "21": 645,
+        "28": 745
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Вдруг в твоей игре начался итальянский летний день?  \nEnotria: The Last Song Deluxe Edition - ролевой экшен, где лето живёт во всём: от аромата солнца до магии фольклора. Всё вокруг меняется - враги, ландшафт, даже атмосфера. Это не Souls-like - это «Summer-soul». Доступно на PS5."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "need-for-speed-rivals-ps4-ps5",
       "title": "Need for Speed Rivals PS4/PS5",
