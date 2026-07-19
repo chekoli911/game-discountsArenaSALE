@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T06:50:03Z",
-  "server_time_utc": "2026-07-20T06:50:03Z",
+  "updated_at": "2026-07-20T07:00:58Z",
+  "server_time_utc": "2026-07-20T07:00:58Z",
   "page_url": "https://arenapsgm.ru/allgames",
   "next_rotation_at": "2026-07-21T02:00:00Z",
   "expires_at": "2026-07-21T02:00:00Z",
@@ -26,6 +26,58 @@
   "cards_count": 1,
   "cards": [
     {
+      "slug": "enotria-the-last-song-deluxe-edition-ps5",
+      "title": "Enotria: The Last Song Deluxe Edition PS5",
+      "description": "☀️ Вдруг в твоей игре начался итальянский летний день?  \nEnotria: The Last Song Deluxe Edition - это ролевой экшен, где каждый шаг пронизан ароматом солнца, пыльных улиц и фольклорных сюжетов.  \n\nМир вдохновлён итальянским летом - тёплый, живой, полный тайн и магии. Ты не просто борешься с врагами - ты меняешь их, окружающую среду, даже саму атмосферу.  \n\nЭто не классический Souls-like - это «Summer-soul». В нём лето не просто фон, оно центральный элемент игры.  \n\nАренда доступна на PS5. Напиши сюда - и получишь игру в кратчайшие сроки 📩",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0214/b6aab4f9a6cf0940f15ecc4cdbe0de678e7d69eff632006d.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202403/2115/78b402b46bffbb850cfd5e921427f676a873f9bf8293265c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202403/2115/b17e03671d06a2f662a31f012330f925941665b7a302f0de.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202403/2115/0134469a0064e4c249b30f67742a6941a4ed1b5fb7cdfe6c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202403/2115/6e355c394c8805faf44c81b2111eb6d3f9d18dd12f1c5a90.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202403/2115/2a21363125df053f8ba187ee073a183e39dc8a38111fc407.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202403/2115/e5f893520d3fd77f8365281e530de1a031f0675982488d17.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202403/2115/12d597a05a22cd168089866a1c6174f608c01dd628e04032.jpg"
+      ],
+      "release_date": "19/9/2024",
+      "publisher": "Jyamma Games Srl",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10008826",
+      "tilda_uid": "154824086282",
+      "sku": "",
+      "external_id": "KRNXGlUt6lc9tD8r6YsM",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/154824086282-enotria-the-last-song-deluxe-edition-ps5",
+      "expires_at": "2026-07-21T02:00:00Z",
+      "published_at": "2026-07-20T07:00:58Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Вдруг в твоей игре начался итальянский летний день?  \nEnotria: The Last Song Deluxe Edition - ролевой экшен, где лето живёт во всём: от аромата солнца до магии фольклора. Всё вокруг меняется - враги, ландшафт, даже атмосфера. Это не Souls-like - это «Summer-soul». Доступно на PS5."
+    }
+  ],
+  "history": [
+    {
       "slug": "need-for-speed-rivals-ps4-ps5",
       "title": "Need for Speed Rivals PS4/PS5",
       "description": "Гонки на полной скорости - и не просто гонки. В Редвью полицейские и гонщики борются за контроль над дорогами, каждый использует лучшие машины и трюки.  \n\nВыбирайте роль: будьте волшебным пилотом или умной манёвренной машиной - у каждой стороны своя физика, свои вызовы и последствия.  \n\nВсё это - в Need for Speed Rivals. Погрузитесь в битву с высокими ставками и без остановки. 🚗💨",
@@ -49,34 +101,31 @@
       "sku": "",
       "external_id": "IZhnBLSkhfIJaVOXUZDX",
       "url": "http://arenapsgm.ru/tproduct/796321275772-need-for-speed-rivals-ps4ps5",
-      "expires_at": "2026-07-21T02:00:00Z",
       "published_at": "2026-07-20T06:39:38Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Гонки на полной скорости - теперь и с полицейскими.  \nВыбирайте: пилот или машина - у каждой своя физика и битва."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "tomb-raider-i-iii-remastered-starring-lara-croft-ps4-ps5",
       "title": "Tomb Raider I-III Remastered Starring Lara Croft PS4/PS5",
