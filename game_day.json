@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T07:24:18Z",
-  "server_time_utc": "2026-07-20T07:24:18Z",
+  "updated_at": "2026-07-20T09:18:02Z",
+  "server_time_utc": "2026-07-20T09:18:02Z",
   "page_url": "https://arenapsgm.ru/allgames",
   "next_rotation_at": "2026-07-21T02:00:00Z",
   "expires_at": "2026-07-21T02:00:00Z",
@@ -77,6 +77,55 @@
     }
   ],
   "history": [
+    {
+      "slug": "devil-may-cry-5-special-edition-ps4-ps5",
+      "title": "Devil May Cry 5 Special Edition PS4/PS5",
+      "description": "Девил Мэй Кри - снова на нашем экране! 🎮  \nВернётся брат Данте, Вергилий - новый герой с тёмной гранью и собственной душой. Игра не просто возвращается - она растягивается, как сама по себе безумная энергия.\n\nТеперь можно играть на максимуме: режим «Турбо» ускоряет всё на 1,2 раза, а трассировка лучей и высокая частота кадров - как будто ты в реальности.  \n\nЛегендарный режим «Тёмный рыцарь» проверит твою выносливость: сражайся с ордами врагов, как настоящий мастер.  \nНо уведомление: некоторые трофеи доступны только за Данте - не забывай про персонажа!\n\nВсё это на полной мощности PS5 - безумие, стиль и адреналин в одном флаконе.",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3012/lPldVWxsnIfFOUBvBTKXndnw.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/1mvGQmDQ1p6k5X7LWiVxuoe0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/8oopBIEtJbymMaExE7d2gPN9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/Z3QwI65T0jUHkwoBQNRIJyIK.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/Jkg12v5kirjIagAxC7QJal4k.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/MriX5c1cc575IOsitnBnWkb8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/NpQjQA6vmUZnNY3dlrFwFg5v.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/C1uCUulanEG7LTPP45Ac11ql.jpg"
+      ],
+      "release_date": "12/11/2020",
+      "publisher": "CE EUROPE LIMITED",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/227315",
+      "tilda_uid": "972215926052",
+      "sku": "",
+      "external_id": "ZCAAi1YdMlTdzFbrtr0h",
+      "url": "http://arenapsgm.ru/tproduct/972215926052-devil-may-cry-5-special-edition-ps4ps5",
+      "published_at": "2026-07-20T09:18:02Z",
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "prices_p2": {
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
+      },
+      "p3_extra": 100,
+      "is_game_day": false,
+      "short_description": "Девил Мэй Кри снова возвращается - с Вергилием и братом Данте.  \nТурбо-режим, высокая частота кадров и «Тёмный рыцарь» дадут ощущение настоящей безумной реальности. Некоторые трофеи только за Данте - не пропусти его!"
+    },
     {
       "slug": "enotria-the-last-song-deluxe-edition-ps5",
       "title": "Enotria: The Last Song Deluxe Edition PS5",
