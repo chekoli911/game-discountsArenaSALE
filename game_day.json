@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T07:16:26Z",
-  "server_time_utc": "2026-07-24T07:16:26Z",
+  "updated_at": "2026-07-24T07:17:34Z",
+  "server_time_utc": "2026-07-24T07:17:34Z",
   "page_url": "https://arenapsgm.ru/allgames",
   "next_rotation_at": "2026-07-24T02:00:00Z",
   "expires_at": "2026-07-24T02:00:00Z",
@@ -26,6 +26,59 @@
   "cards_count": 1,
   "cards": [
     {
+      "slug": "tomb-raider-i-iii-remastered-starring-lara-croft-ps4-ps5",
+      "title": "Tomb Raider I-III Remastered Starring Lara Croft PS4/PS5",
+      "description": "Лара Крофт снова на экране - и не просто в новом виде, а с душой оригинальных приключений.  \n\nПогрузись в мир, где каждый шаг - это борьба с мифами, опасностями и тайнами прошлого. Ты сам выбираешь: играть с классическими моделями или переключиться на яркую ремастеренную графику.  \n\nПриключение не останавливается - ты будешь следовать за Ларой по горам, лесам и подземельям, раскрывая тайны её исчезновения и уходя в глубины загадок.  \n\nДля аренды пиши сюда 📩 @ArenaPSGMadmin - игра уже ждёт!",
+      "image_url": "https://static.tildacdn.com/stor3432-3439-4332-a135-646662366532/26208416.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2600/06afa00a75787db1956fed45a53e2866267d31ee61a39845.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2600/c8b4462ae7ec35d1574d03f4562b3aef86f575cce612684d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2600/8536db36a1e8ec1989391f6b16e1e8f5311bc96258d4c394.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202402/0822/f56db766f5eb898d436cfaaad5b111424159165f910691a0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202402/0822/5e20a1f53d700a000be800db54f69cd7925752afd718729d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202402/0822/f53b676e36792336612d070f998893bbcb8b1cff795cff68.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202402/0822/6e9397c9a56724cf4531300aa3eb5166066f16b985d26b5b.jpg"
+      ],
+      "release_date": "14/2/2024",
+      "publisher": "ASPYR MEDIA, INC",
+      "platforms": "PS4, PS5",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.38,
+      "store_url": "https://store.playstation.com/en-tr/concept/10008568",
+      "tilda_uid": "499020344942",
+      "sku": "",
+      "external_id": "ptrXgoIImHsdEoe9xP0c",
+      "url": "http://arenapsgm.ru/tproduct/499020344942-tomb-raider-i-iii-remastered-starring-la",
+      "expires_at": "2026-07-24T02:00:00Z",
+      "published_at": "2026-07-24T07:17:34Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Лара Крофт вернулась - с душой старых приключений и новым видом.  \nТы ведёшь за собой Лару сквозь горы, леса и подземелья - каждый шаг - борьба с тайнами прошлого."
+    }
+  ],
+  "history": [
+    {
       "slug": "star-wars-battlefront-ii-ps4-ps5",
       "title": "Star Wars: Battlefront II PS4/PS5",
       "description": "Погрузитесь в мир «Звёздных Войн» - настоящий бой на фронте, где вы сами становитесь героем.  \n\nВыбирайте свою роль: пехотинец, пилот истребителя или боевой спецназ - каждый по-своему впечатляет.  \n\nСамая яркая серия HD-игр с живым сюжетом и ощущением настоящей борьбы.  \n\nИгра в «Battlefront II» - не просто визуал, а полный боевой опыт.",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "U4G4EaFaCtvnIzlKnPiM",
       "url": "http://arenapsgm.ru/tproduct/233383874892-star-wars-battlefront-ii-ps4ps5",
-      "expires_at": "2026-07-24T02:00:00Z",
       "published_at": "2026-07-24T07:16:26Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Войдите в «Звёздные Войны» - станьте героем на фронте.  \nВыбирайте пехотинца, пилота или спецназа - каждый ведёт бой по-своему."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "sackboy-a-big-adventure-ps4-ps5",
       "title": "Sackboy: A Big Adventure PS4/PS5",
