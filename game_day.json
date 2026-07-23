@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T00:30:41Z",
-  "server_time_utc": "2026-07-24T00:30:41Z",
+  "updated_at": "2026-07-24T00:35:18Z",
+  "server_time_utc": "2026-07-24T00:35:18Z",
   "page_url": "https://arenapsgm.ru/allgames",
   "next_rotation_at": "2026-07-24T02:00:00Z",
   "expires_at": "2026-07-24T02:00:00Z",
@@ -26,6 +26,56 @@
   "cards_count": 1,
   "cards": [
     {
+      "slug": "dead-space-ps5",
+      "title": "DEAD SPACE PS5",
+      "description": "Dead Space на PS5 - космическая драма с драйвом и паникой.  \n\nАйзек Кларк прибывает на корабль «Ишимура» с простыми инструментами и мечтой найти убитую Николь. А там - тьма, разрушения и хищники из подполья - некроморфы.  \n\nОн не имеет команды, не может бежать - только выживает, используя инженерные навыки и умение держаться в голове.  \n\nЧистый, напряжённый сюжет. Ужасы в каждом шаге. Игра как будто дышит.",
+      "image_url": "https://static.tildacdn.com/stor6166-3264-4564-b864-373039313137/74761616.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202209/2914/eO9do9ad5VmYk61W8t2fKDgH.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202209/2914/rMVDNfe0pSTt61yb6LC54lWF.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202209/2914/9uesOizqw4t4haMQbQY2w5vY.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202209/2914/RIsYwCaWouIdJm8uQuH9HBY0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202209/2914/gvRLwMT4uwXZSs05Q3FNFosE.jpg"
+      ],
+      "release_date": "27/1/2023",
+      "publisher": "EA Swiss Sarl",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10002958",
+      "tilda_uid": "266065528582",
+      "sku": "",
+      "external_id": "KnoK7ER8nl9CeecUeV4P",
+      "url": "http://arenapsgm.ru/tproduct/266065528582-dead-space-ps5",
+      "expires_at": "2026-07-24T02:00:00Z",
+      "published_at": "2026-07-24T00:35:18Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Dead Space на PS5 - космическая драма с паникой и хищниками.  \nАйзек выживает без команды, используя инструменты и разум - каждый шаг напряжённый, как дыхание игры."
+    }
+  ],
+  "history": [
+    {
       "slug": "alien-rogue-incursion-vr-deluxe-ps5",
       "title": "Alien: Rogue Incursion VR Deluxe PS5",
       "description": "Захватывающая VR-игра «Alien: Rogue Incursion» - как будто вы впервые оказались на борту колониальной станции. Вы играете за Зулу Хендрикс, бывшего морпеха, который отправляется в ужасную миссию по Пурдану, где сидит заброшенная шахтерская колония и… что-то не так.  \n\nСинт-компаньон Дэвис-01 рядом - но это не просто бот. Он чувствует, думает, ведёт за собой. Вы проникаете в станцию «Джеминай Экзоплэнет Солюшнз», где ксеноморфы лазят по тоннелям, вешаются на предметы и охотятся как в фильмах.  \n\nКаждое движение - настоящий опыт: вы подбираете оружие, перезаряжаете его, включаете свет, смотрите за углами. Потому что тело здесь не просто визуализация - оно живёт и реагирует на ваше поведение.  \n\nЧувствуйте себя настоящим морпехом без подготовки - и поднимайтесь к ужасам, не забывая: иногда лучше спрятаться, чем броситься вперёд.",
@@ -49,34 +99,31 @@
       "sku": "",
       "external_id": "I9sb955ZkcbJJ4FjKFDb",
       "url": "http://arenapsgm.ru/tproduct/211794575112-alien-rogue-incursion-vr-deluxe-ps5",
-      "expires_at": "2026-07-24T02:00:00Z",
       "published_at": "2026-07-24T00:30:41Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 0,
+          "14": 0,
+          "21": 0,
+          "28": 1632
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 0,
+          "14": 0,
+          "21": 0,
+          "28": 1632
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 0,
+        "14": 0,
+        "21": 0,
+        "28": 1632
       },
-      "p3_extra": 100,
-      "is_game_day": true,
+      "p3_extra": 0,
+      "is_game_day": false,
       "short_description": "«Alien: Rogue Incursion» - вы на борту колониальной станции, где сидит заброшенная шахтерская база и что-то не так.  \n\nДэвис-01 - не просто бот, он чувствует и думает. Ксеноморфы охотятся как в фильмах, а ваше тело реагирует на каждое движение."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "anime-girls-highschool-of-dead-ps5",
       "title": "Аnime Girls: Highschool of Dead PS5",
