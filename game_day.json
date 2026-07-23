@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T02:46:14Z",
-  "server_time_utc": "2026-07-24T02:46:14Z",
+  "updated_at": "2026-07-24T07:16:26Z",
+  "server_time_utc": "2026-07-24T07:16:26Z",
   "page_url": "https://arenapsgm.ru/allgames",
   "next_rotation_at": "2026-07-24T02:00:00Z",
   "expires_at": "2026-07-24T02:00:00Z",
@@ -26,6 +26,59 @@
   "cards_count": 1,
   "cards": [
     {
+      "slug": "star-wars-battlefront-ii-ps4-ps5",
+      "title": "Star Wars: Battlefront II PS4/PS5",
+      "description": "Погрузитесь в мир «Звёздных Войн» - настоящий бой на фронте, где вы сами становитесь героем.  \n\nВыбирайте свою роль: пехотинец, пилот истребителя или боевой спецназ - каждый по-своему впечатляет.  \n\nСамая яркая серия HD-игр с живым сюжетом и ощущением настоящей борьбы.  \n\nИгра в «Battlefront II» - не просто визуал, а полный боевой опыт.",
+      "image_url": "https://static.tildacdn.com/stor3163-3739-4230-a136-666239666135/62934797.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP0006/CUSA05749_00/FREE_CONTENTzaQXYNstO8gql6YuHLIX/1.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA05749_00/FREE_CONTENT2bXokGecmLYIiKMtsZKv/2.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA05749_00/FREE_CONTENTqBUuhoiVS75VMqotNiUA/3.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA05749_00/FREE_CONTENThVR7OAjusbQs0fZL4njq/4.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA05749_00/FREE_CONTENTQzFLCbYilmnDhvNlcnFO/5.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA05749_00/FREE_CONTENTihM9P3zUmvG19GQezEyP/6.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA05749_00/FREE_CONTENTAMgV2PJo4slKe3byb9Zx/7.jpg"
+      ],
+      "release_date": "17/11/2017",
+      "publisher": "EA Swiss Sarl",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.34,
+      "store_url": "https://store.playstation.com/en-tr/concept/229438",
+      "tilda_uid": "233383874892",
+      "sku": "",
+      "external_id": "U4G4EaFaCtvnIzlKnPiM",
+      "url": "http://arenapsgm.ru/tproduct/233383874892-star-wars-battlefront-ii-ps4ps5",
+      "expires_at": "2026-07-24T02:00:00Z",
+      "published_at": "2026-07-24T07:16:26Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Войдите в «Звёздные Войны» - станьте героем на фронте.  \nВыбирайте пехотинца, пилота или спецназа - каждый ведёт бой по-своему."
+    }
+  ],
+  "history": [
+    {
       "slug": "sackboy-a-big-adventure-ps4-ps5",
       "title": "Sackboy: A Big Adventure PS4/PS5",
       "description": "Sackboy: A Big Adventure - это не просто игра, а настоящий приключенческий хаос. Прыгайте с головой в мир, где каждый шаг может превратиться в дикий прыжок или битву с коварным Вексом и его устрашающим Хаосинатором.  \n\nВыбирайте одиночный путь - боритесь за спасение Мира творчества - или собирайтесь в команду из 2–4 игроков, чтобы вместе смеяться, сражаться и выполнять странные, но невероятно весёлые задания.  \n\nНовый Сэкбой - теперь с магическими способностями, трюками и необычными инструментами. Всё это вновь захватывает дух, делает приключения живыми и хочется снова прыгать по незнакомым ландшафтам.  \n\nИгра с душой. Игра с хохотом. Игра, которую можно запускать - и уже не выпускать.",
@@ -49,34 +102,31 @@
       "sku": "",
       "external_id": "nUTHfGeNbdTZGHleLr7B",
       "url": "http://arenapsgm.ru/tproduct/366582947812-sackboy-a-big-adventure-ps4ps5",
-      "expires_at": "2026-07-24T02:00:00Z",
       "published_at": "2026-07-24T02:46:14Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 350,
+          "14": 490,
+          "21": 799,
+          "28": 899
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 450,
+          "14": 590,
+          "21": 899,
+          "28": 999
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 350,
+        "14": 490,
+        "21": 799,
+        "28": 899
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Сэкбой: А Биг Адвенчуры - это не просто игра, а хаотичный приключенческий бред.  \n\nПрыгайте, трюки, битвы с Вексом - и ведите себя как настоящий дурак на свежем воздухе."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "flatout-4-total-insanity",
       "title": "FlatOut 4 - Total Insanity",
