@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T00:19:39Z",
-  "server_time_utc": "2026-07-24T00:19:39Z",
+  "updated_at": "2026-07-24T00:26:08Z",
+  "server_time_utc": "2026-07-24T00:26:08Z",
   "page_url": "https://arenapsgm.ru/allgames",
   "next_rotation_at": "2026-07-24T02:00:00Z",
   "expires_at": "2026-07-24T02:00:00Z",
@@ -26,29 +26,30 @@
   "cards_count": 1,
   "cards": [
     {
-      "slug": "spider-man-remastered-ps5",
-      "title": "Spider Man: Remastered PS5",
-      "description": "Паук на PS5 - как в кино, только с шармом и драйвом.  \nОбновлённая версия «Человек-паук» теперь бьёт по всему разрешению - кадры живые, движение плавное, а физика танцует под ритмом уличных битов.  \n\nТри DLC-главы добавляют глубину: от шпионских операций до ночного города, который никогда не спит.  \n\nГотовы к новой волны? Игра уже в твоём сознании - просто забери и прыгни в историю.",
-      "image_url": "https://static.tildacdn.com/stor3739-6433-4833-b031-343766663637/88767079.jpg",
+      "slug": "anime-girls-highschool-of-dead-ps5",
+      "title": "Аnime Girls: Highschool of Dead PS5",
+      "description": "Готова к битве с нежитью? В «Anime Girls: Highschool of Dead» ты - школьница, которая не просто выживает, а сражается. Аниме-девочки в твоём распоряжении: каждый облик - с уникальным оружием и стилем. Выбери ту, что подойдёт, и развивай её по мере прогресса.\n\nВраги не просто гуляют по коридорам - они приходят в волны. Чем выше уровень, тем сложнее. Тебе нужно быть внимательным: каждый тип зомби требует свой подход. А боссы? Они проверят твою ловкость и стратегию.\n\nШкола - не просто фон. В ней скрываются контейнеры с оружием, аптечками и патронами. Найди их, пополни запасы - и стань на шаг ближе к выживанию. Постепенно превращай дикую школу в убежище.\n\nТы одинока? Да. Но ты сильна. Готова ли ты в одиночку вернуть школьные коридоры в порядок?",
+      "image_url": "https://static.tildacdn.com/stor3534-3166-4261-b330-636634643166/37170628.jpg",
       "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0718/21b32023d0332afe6f2fa5ae74d66ceea4fa82212922135a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0718/2c98c3222259f47462e6d7cd596e7e6bb2c9c0ff2ed314f6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0718/023d3a703dd14e4b76534132d18e5a648c3bd1b2f3f082ea.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0718/ca4fa327f917323de1822c3511640700f11af3772b4d0cf1.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0718/e2293c139402f6a14ffb7b69ea4da5fbfd58939bd9bccd5b.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2614/e3d9aa3577f24223b3bd931a98cc99c041a7b47e1a8b1187.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2614/040f9c760b29b04329e173b50ba9f60e7acc1a67ac8bf682.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2614/590022105f16343df781a846b501bfd868336156b6e0712d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2614/c2222f262daaf807dbc322d71e5d303e722a2160a7ddd132.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2614/9bf164772e7c6540fd78d26ae0aa9e8ba3394e9efa091f71.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2614/9d7cf53aa4c0dbfdeaf23b9d6751623253ef637c05c4e4cc.jpg"
       ],
-      "release_date": "20/10/2023",
-      "publisher": "Sony Interactive Entertainment",
+      "release_date": "27/6/2025",
+      "publisher": "Revolt Games SRL",
       "platforms": "PS5",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10002456",
-      "tilda_uid": "430879799322",
+      "voice": "",
+      "text_translation": "Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10015585",
+      "tilda_uid": "299226724642",
       "sku": "",
-      "external_id": "h2KeuIy9eXE2oRkcUI7U",
-      "url": "http://arenapsgm.ru/tproduct/430879799322-spider-man-remastered-ps5",
+      "external_id": "2nE6Uid6gViVRholhSjh",
+      "url": "http://arenapsgm.ru/tproduct/299226724642-anime-girls-highschool-of-dead-ps5",
       "expires_at": "2026-07-24T02:00:00Z",
-      "published_at": "2026-07-24T00:19:39Z",
+      "published_at": "2026-07-24T00:26:08Z",
       "prices": {
         "p2": {
           "7": 100,
@@ -71,10 +72,57 @@
       },
       "p3_extra": 100,
       "is_game_day": true,
-      "short_description": "Паук на PS5 - как из кино, но с драйвом и живыми кадрами.  \nТри DLC-главы раскрывают мир: от шпионских миссий до бодрого ночного города."
+      "short_description": "Готова к битве с нежитью? В «Anime Girls: Highschool of Dead» ты - школьница, которая сражается, а не просто выживает.  \n\nДевочки с уникальным оружием, волны зомби и боссы на каждом уровне - всё как в бою. Школа скрывает ресурсы, превращай её в убежище. Ты одна, но ты сильна."
     }
   ],
   "history": [
+    {
+      "slug": "spider-man-remastered-ps5",
+      "title": "Spider Man: Remastered PS5",
+      "description": "Паук на PS5 - как в кино, только с шармом и драйвом.  \nОбновлённая версия «Человек-паук» теперь бьёт по всему разрешению - кадры живые, движение плавное, а физика танцует под ритмом уличных битов.  \n\nТри DLC-главы добавляют глубину: от шпионских операций до ночного города, который никогда не спит.  \n\nГотовы к новой волны? Игра уже в твоём сознании - просто забери и прыгни в историю.",
+      "image_url": "https://static.tildacdn.com/stor3739-6433-4833-b031-343766663637/88767079.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0718/21b32023d0332afe6f2fa5ae74d66ceea4fa82212922135a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0718/2c98c3222259f47462e6d7cd596e7e6bb2c9c0ff2ed314f6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0718/023d3a703dd14e4b76534132d18e5a648c3bd1b2f3f082ea.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0718/ca4fa327f917323de1822c3511640700f11af3772b4d0cf1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0718/e2293c139402f6a14ffb7b69ea4da5fbfd58939bd9bccd5b.jpg"
+      ],
+      "release_date": "20/10/2023",
+      "publisher": "Sony Interactive Entertainment",
+      "platforms": "PS5",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10002456",
+      "tilda_uid": "430879799322",
+      "sku": "",
+      "external_id": "h2KeuIy9eXE2oRkcUI7U",
+      "url": "http://arenapsgm.ru/tproduct/430879799322-spider-man-remastered-ps5",
+      "published_at": "2026-07-24T00:19:39Z",
+      "prices": {
+        "p2": {
+          "7": 350,
+          "14": 550,
+          "21": 700,
+          "28": 90
+        },
+        "p3": {
+          "7": 450,
+          "14": 650,
+          "21": 800,
+          "28": 1000
+        }
+      },
+      "prices_p2": {
+        "7": 350,
+        "14": 550,
+        "21": 700,
+        "28": 90
+      },
+      "p3_extra": 100,
+      "is_game_day": false,
+      "short_description": "Паук на PS5 - как из кино, но с драйвом и живыми кадрами.  \nТри DLC-главы раскрывают мир: от шпионских миссий до бодрого ночного города."
+    },
     {
       "slug": "system-shock-ps4-ps5",
       "title": "System Shock PS4/PS5",
