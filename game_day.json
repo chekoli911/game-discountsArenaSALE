@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-24T07:17:34Z",
-  "server_time_utc": "2026-07-24T07:17:34Z",
+  "updated_at": "2026-07-24T12:10:57Z",
+  "server_time_utc": "2026-07-24T12:10:57Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-07-24T02:00:00Z",
-  "expires_at": "2026-07-24T02:00:00Z",
+  "next_rotation_at": "2026-07-25T02:00:00Z",
+  "expires_at": "2026-07-25T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,62 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-07-24T02:00:00Z"
+    "next_rotation_at": "2026-07-25T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "the-division-2-ps4-ps5",
+      "title": "The Division 2 PS4/PS5",
+      "description": "У вас есть шанс стать настоящим героем - вступите в Спецотряд и спасайте город от хаоса.  \n\nВашингтон в игре - не просто сцена, а живой, бьющийся мир с опасными угрозами и реальными вызовами.  \n\nЭлитные агенты из обычного населения - ваша новая команда. Всё зависит от вас.  \n\nПопробуйте прямо сейчас - включайте свою амбициозность и бойцовский дух. 🚀",
+      "image_url": "https://static.tildacdn.com/stor6361-3730-4135-b637-393438356466/32023986.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2319/c58ca1ac880278f09ae87e1916e95bd84720f13e666b1ff1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2319/e2f15167c102694ca4f98c0894395066bdc0f36f5f93bcac.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2319/425c38eab25833dec4a47f3590dcf4f91edc2c8c7df23f89.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2319/d167a8de6a00b5b80fc071d6a2709ef207f90c2f1861acd3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2319/19fb0ef6b875002e4a2897a83c3c06e139a5682f54cc4623.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2319/8d97e4746b7db2894a44650e252713b181d387ee17cae65f.jpg"
+      ],
+      "release_date": "15/3/2019",
+      "publisher": "Ubisoft",
+      "platforms": "PS4",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.29,
+      "store_url": "https://store.playstation.com/en-tr/concept/232391",
+      "tilda_uid": "353673262392",
+      "sku": "",
+      "external_id": "CazB7zK0CfuyBEmkc5Bz",
+      "url": "http://arenapsgm.ru/tproduct/353673262392-the-division-2-ps4ps5",
+      "expires_at": "2026-07-25T02:00:00Z",
+      "published_at": "2026-07-24T12:10:57Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Станьте героем - вступите в Спецотряд и спасайте город.  \nВашингтон живёт, а угрозы реальны. Всё зависит от вас."
+    }
+  ],
+  "history": [
     {
       "slug": "tomb-raider-i-iii-remastered-starring-lara-croft-ps4-ps5",
       "title": "Tomb Raider I-III Remastered Starring Lara Croft PS4/PS5",
@@ -50,34 +102,31 @@
       "sku": "",
       "external_id": "ptrXgoIImHsdEoe9xP0c",
       "url": "http://arenapsgm.ru/tproduct/499020344942-tomb-raider-i-iii-remastered-starring-la",
-      "expires_at": "2026-07-24T02:00:00Z",
       "published_at": "2026-07-24T07:17:34Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 350,
+          "14": 400,
+          "21": 490,
+          "28": 650
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 450,
+          "14": 500,
+          "21": 590,
+          "28": 750
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 350,
+        "14": 400,
+        "21": 490,
+        "28": 650
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Лара Крофт вернулась - с душой старых приключений и новым видом.  \nТы ведёшь за собой Лару сквозь горы, леса и подземелья - каждый шаг - борьба с тайнами прошлого."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "star-wars-battlefront-ii-ps4-ps5",
       "title": "Star Wars: Battlefront II PS4/PS5",
