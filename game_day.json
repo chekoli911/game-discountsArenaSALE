@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T12:10:57Z",
-  "server_time_utc": "2026-07-24T12:10:57Z",
+  "updated_at": "2026-07-25T03:47:30Z",
+  "server_time_utc": "2026-07-25T03:47:30Z",
   "page_url": "https://arenapsgm.ru/allgames",
   "next_rotation_at": "2026-07-25T02:00:00Z",
   "expires_at": "2026-07-25T02:00:00Z",
@@ -26,6 +26,59 @@
   "cards_count": 1,
   "cards": [
     {
+      "slug": "destroy-all-humans-2-reprobed-ps5",
+      "title": "Destroy All Humans! 2 - Reprobed PS5",
+      "description": "Крипто снова на борту - и теперь с гениталиями. Злой пришелец стал ещё хуже, а вы - уже в шестидесятых, с пачкой марихуаны и тяжёлым настроением.  \n\nПогрузитесь в атмосферу 60-х: летайте на тарелке, боритесь с хиппи, которые не понимают, что коровы летают не только в фильмах.  \n\nСобирайте гуманоидов из разных стран, смешивайте их ДНК и прокачивайте свои навыки - всё это на фоне ужасных сцен, где КГБ взрывает ваш корабль.  \n\nИграйте вдвоём - просто позвоните другу и поделитесь экраном. У вас есть классические пушки и что-то крутое - например, Метеоритный дождь.",
+      "image_url": "https://static.tildacdn.com/stor6361-3364-4132-a365-316635383231/15196416.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202206/0719/tsxZrj9S6CA741zyaiaTnUzK.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202206/0719/nzOw6MShKPsHjMQlzWbDeobf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202206/0719/e8yeRtlsd2emVNFMcwYKyVQT.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202206/0719/60k5nOhZUHd9PyG9kgUang2C.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202206/0719/zfe0mqsZLKfzKUpTXy8t05f3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202206/0719/Sy4kArDLlkY1xHC7c3xHg82i.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202206/0719/JNZ8xe0dP29QNgR08mHI2t4b.jpg"
+      ],
+      "release_date": "30/8/2022",
+      "publisher": "THQ NORDIC GMBH",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.14,
+      "store_url": "https://store.playstation.com/en-tr/concept/10003868",
+      "tilda_uid": "730031723942",
+      "sku": "",
+      "external_id": "tSzcBdZyIRcHSSBlVL5t",
+      "url": "http://arenapsgm.ru/tproduct/730031723942-destroy-all-humans-2-reprobed-ps5",
+      "expires_at": "2026-07-25T02:00:00Z",
+      "published_at": "2026-07-25T03:47:30Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Крипто снова на борту - теперь с гениталиями и хиппи, которые не понимают, что коровы летают.  \nЛетайте, боритесь, смешивайте гуманоидов - КГБ взрывает ваш корабль. Играйте вдвоём, просто поделитесь экраном."
+    }
+  ],
+  "history": [
+    {
       "slug": "the-division-2-ps4-ps5",
       "title": "The Division 2 PS4/PS5",
       "description": "У вас есть шанс стать настоящим героем - вступите в Спецотряд и спасайте город от хаоса.  \n\nВашингтон в игре - не просто сцена, а живой, бьющийся мир с опасными угрозами и реальными вызовами.  \n\nЭлитные агенты из обычного населения - ваша новая команда. Всё зависит от вас.  \n\nПопробуйте прямо сейчас - включайте свою амбициозность и бойцовский дух. 🚀",
@@ -49,34 +102,31 @@
       "sku": "",
       "external_id": "CazB7zK0CfuyBEmkc5Bz",
       "url": "http://arenapsgm.ru/tproduct/353673262392-the-division-2-ps4ps5",
-      "expires_at": "2026-07-25T02:00:00Z",
       "published_at": "2026-07-24T12:10:57Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Станьте героем - вступите в Спецотряд и спасайте город.  \nВашингтон живёт, а угрозы реальны. Всё зависит от вас."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "tomb-raider-i-iii-remastered-starring-lara-croft-ps4-ps5",
       "title": "Tomb Raider I-III Remastered Starring Lara Croft PS4/PS5",
