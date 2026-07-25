@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T12:11:49Z",
-  "server_time_utc": "2026-07-25T12:11:49Z",
+  "updated_at": "2026-07-25T12:32:21Z",
+  "server_time_utc": "2026-07-25T12:32:21Z",
   "page_url": "https://arenapsgm.ru/allgames",
   "next_rotation_at": "2026-07-26T02:00:00Z",
   "expires_at": "2026-07-26T02:00:00Z",
@@ -26,6 +26,58 @@
   "cards_count": 1,
   "cards": [
     {
+      "slug": "a-quiet-place-the-road-ahead-ps5",
+      "title": "A Quiet Place: The Road Ahead PS5",
+      "description": "Где тишина - ключ к выживанию.  \nВ A Quiet Place: The Road Ahead ты ведёшь себя как женщина, которая в апокалипсисе сталкивается не только с ужасающими существами, но и со своими страхами. Семейные споры, тайны - всё это вплетено в напряжённый хоррор.  \n\nТонкая игра, где каждый шаг требует внимания, а молчание - твоё главное оружие.  \nНастоящая драма под маской страха.  \n\nИгра на PS5 - только для тех, кто любит напряжённые моменты и реальные посты в тишине.",
+      "image_url": "https://static.tildacdn.com/stor3063-3063-4335-b166-313036333833/85392725.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0613/33b8cfd9a94707fb05a9470c2a6ba1d5bbf169c9ec4feeb2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0613/b16ca701285f0dd16f70d024222f77a89c6c6963418628ea.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0613/1d79cc6a9f7c453d6f22bb9638513f8c01785b2f58e054be.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0613/c877456af24b79c56d8434daa61c227786d8712b700d6732.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0613/30fb8aaa1c241abf9f68add725652421f1ed337be03c2cb6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0613/dc3e414c894a9a077afce2fc128c940b66c4c9bd94bac045.jpg"
+      ],
+      "release_date": "17/10/2024",
+      "publisher": "Saber Interactive, Inc",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.85,
+      "store_url": "https://store.playstation.com/en-tr/concept/10009366",
+      "tilda_uid": "448577777652",
+      "sku": "",
+      "external_id": "TEflF7BXR78vfaCIC4YE",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/448577777652-a-quiet-place-the-road-ahead-ps5",
+      "expires_at": "2026-07-26T02:00:00Z",
+      "published_at": "2026-07-25T12:32:21Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "В A Quiet Place: The Road Ahead ты живёшь в тишине - молчание становится твоим оружием.  \nКаждый шаг - как драма, где страх и тайны борются внутри тебя. Только для тех, кто не боится молчать."
+    }
+  ],
+  "history": [
+    {
       "slug": "virtua-fighter-5-ultimate-showdown-ps4-ps5",
       "title": "Virtua Fighter 5: Ultimate Showdown PS4/PS5",
       "description": "Вот новая часть серии Virtua Fighter - с яркой графикой, реалистичными боями и всеми теми же классическими адреналин-моментами.  \n\nТеперь битвы проходят в 3D с динамикой оригинала, но на уровне современных консолей - умные сетевые функции, турниры до 16 игроков и режим наблюдателя, где ты можешь учиться у настоящих мастеров.  \n\nСражайся в аркадном или рейтинговом режиме, создавай свои лиги и бойцы - всё как в оригинале, только теперь с мощной техникой и новыми возможностями.  \n\nИгра дня на PS4/PS5 - для тех, кто любит настоящий файтинг без фильтров.",
@@ -49,34 +101,31 @@
       "sku": "",
       "external_id": "xkOfsU3TuSpboBZ6P9Ju",
       "url": "http://arenapsgm.ru/tproduct/655591817152-virtua-fighter-5-ultimate-showdown-ps4ps",
-      "expires_at": "2026-07-26T02:00:00Z",
       "published_at": "2026-07-25T12:11:49Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Новая часть серии Virtua Fighter – яркие бои в 3D, как в оригинале, но с современной техникой.  \nСражайся в аркадном или рейтинговом режиме, создавай лиги и бойцов – всё на высоте, без фильтров."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "destroy-all-humans-2-reprobed-ps5",
       "title": "Destroy All Humans! 2 - Reprobed PS5",
