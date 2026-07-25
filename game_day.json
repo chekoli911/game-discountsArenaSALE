@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-25T03:47:30Z",
-  "server_time_utc": "2026-07-25T03:47:30Z",
+  "updated_at": "2026-07-25T12:11:49Z",
+  "server_time_utc": "2026-07-25T12:11:49Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-07-25T02:00:00Z",
-  "expires_at": "2026-07-25T02:00:00Z",
+  "next_rotation_at": "2026-07-26T02:00:00Z",
+  "expires_at": "2026-07-26T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,62 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-07-25T02:00:00Z"
+    "next_rotation_at": "2026-07-26T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "virtua-fighter-5-ultimate-showdown-ps4-ps5",
+      "title": "Virtua Fighter 5: Ultimate Showdown PS4/PS5",
+      "description": "Вот новая часть серии Virtua Fighter - с яркой графикой, реалистичными боями и всеми теми же классическими адреналин-моментами.  \n\nТеперь битвы проходят в 3D с динамикой оригинала, но на уровне современных консолей - умные сетевые функции, турниры до 16 игроков и режим наблюдателя, где ты можешь учиться у настоящих мастеров.  \n\nСражайся в аркадном или рейтинговом режиме, создавай свои лиги и бойцы - всё как в оригинале, только теперь с мощной техникой и новыми возможностями.  \n\nИгра дня на PS4/PS5 - для тех, кто любит настоящий файтинг без фильтров.",
+      "image_url": "https://static.tildacdn.com/stor3732-6138-4331-b366-316137316232/53195496.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/ZzLRQtL4BLR9B9odvYoSZ2Cv.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/iimvJR5FaYW6ksYAuaqRQHHJ.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/3kFKSuslqy3XraDyGUe64bXM.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/fhwSvindCBsTWkQp6ImImAs9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/8Pzn6FnkZR6CEKbBxpmz78a3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/ph1LDWtGjsGloJWIt9sXat7V.jpg"
+      ],
+      "release_date": "1/6/2021",
+      "publisher": "SEGA EUROPE LTD",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 3.97,
+      "store_url": "https://store.playstation.com/en-tr/concept/10000743",
+      "tilda_uid": "655591817152",
+      "sku": "",
+      "external_id": "xkOfsU3TuSpboBZ6P9Ju",
+      "url": "http://arenapsgm.ru/tproduct/655591817152-virtua-fighter-5-ultimate-showdown-ps4ps",
+      "expires_at": "2026-07-26T02:00:00Z",
+      "published_at": "2026-07-25T12:11:49Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Новая часть серии Virtua Fighter – яркие бои в 3D, как в оригинале, но с современной техникой.  \nСражайся в аркадном или рейтинговом режиме, создавай лиги и бойцов – всё на высоте, без фильтров."
+    }
+  ],
+  "history": [
     {
       "slug": "destroy-all-humans-2-reprobed-ps5",
       "title": "Destroy All Humans! 2 - Reprobed PS5",
@@ -50,34 +102,31 @@
       "sku": "",
       "external_id": "tSzcBdZyIRcHSSBlVL5t",
       "url": "http://arenapsgm.ru/tproduct/730031723942-destroy-all-humans-2-reprobed-ps5",
-      "expires_at": "2026-07-25T02:00:00Z",
       "published_at": "2026-07-25T03:47:30Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 280,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 380,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 280,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Крипто снова на борту - теперь с гениталиями и хиппи, которые не понимают, что коровы летают.  \nЛетайте, боритесь, смешивайте гуманоидов - КГБ взрывает ваш корабль. Играйте вдвоём, просто поделитесь экраном."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "the-division-2-ps4-ps5",
       "title": "The Division 2 PS4/PS5",
