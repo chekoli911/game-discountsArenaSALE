@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-25T12:32:21Z",
-  "server_time_utc": "2026-07-25T12:32:21Z",
+  "updated_at": "2026-07-26T12:12:31Z",
+  "server_time_utc": "2026-07-26T12:12:31Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-07-26T02:00:00Z",
-  "expires_at": "2026-07-26T02:00:00Z",
+  "next_rotation_at": "2026-07-27T02:00:00Z",
+  "expires_at": "2026-07-27T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-07-26T02:00:00Z"
+    "next_rotation_at": "2026-07-27T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "maid-of-sker-ps4-ps5",
+      "title": "Maid of Sker PS4/PS5",
+      "description": "Ночь в отеле без света - и ты сама не знаешь, что случилось.  \nСкерская дева - жуткая игра-выживание в стиле «ужастик», где всё начинается с одного звукового устройства. Ты в отеле на краю мира, заброшенном, с кровавой историей из уэльского фольклора.  \n\nТам живут не просто монстры - это культы ИИ, которые слышат твои шаги. Нужно быть тихим, осторожным, и использовать стелс, чтобы не попасть в ловушку.  \n\nВ 1898 году всё было под контролем… пока не начали просыпаться древние тайны, пираты, рабство и проклятия. Игра как будто вытягивает тебя в эпоху мрачных сказок - с дрожью в груди и холодом в крови.  \n\nСлушай звук, не шевелись - и надейся, что ты выживешь.",
+      "image_url": "https://static.tildacdn.com/stor6331-6431-4066-b064-663438333762/86308655.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0914/lk6rnk8pBOSDURH8lNR0J8sx.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0914/cGeaOuEARO8hb5PpMuU5dmgT.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0914/0atHEVr8tqEBoE2Nln9fT0iS.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0914/79bFjgW95wuLRL5fUSdgTkU7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0914/fGYUExSHheX4vrITAyvm3iAK.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0914/Gla4gNGezSVP0mwXOzrVC2T0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0914/Dd36ucItaXEDmAFuE61WMGXW.jpg"
+      ],
+      "release_date": "26/5/2021",
+      "publisher": "Wales Interactive Limited",
+      "platforms": "PS4, PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.1,
+      "store_url": "https://store.playstation.com/en-tr/concept/233393",
+      "tilda_uid": "795319817942",
+      "sku": "",
+      "external_id": "IurZIGVSOhFu988gehTb",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/795319817942-maid-of-sker-ps4ps5",
+      "expires_at": "2026-07-27T02:00:00Z",
+      "published_at": "2026-07-26T12:12:31Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Ночь в отеле без света - и ты уже не знаешь, что случилось.  \nТы в заброшенном отеле с кровавой историей: культы ИИ слушают твои шаги. Слушай звук, будь тихим - и надеяйся, что выживешь."
+    }
+  ],
+  "history": [
     {
       "slug": "a-quiet-place-the-road-ahead-ps5",
       "title": "A Quiet Place: The Road Ahead PS5",
@@ -49,34 +102,31 @@
       "sku": "",
       "external_id": "TEflF7BXR78vfaCIC4YE",
       "url": "http://arenapsgm.ru/gamescatalog/tproduct/448577777652-a-quiet-place-the-road-ahead-ps5",
-      "expires_at": "2026-07-26T02:00:00Z",
       "published_at": "2026-07-25T12:32:21Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 390,
+          "14": 490,
+          "21": 790,
+          "28": 90
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 490,
+          "14": 590,
+          "21": 890,
+          "28": 990
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 390,
+        "14": 490,
+        "21": 790,
+        "28": 90
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "В A Quiet Place: The Road Ahead ты живёшь в тишине - молчание становится твоим оружием.  \nКаждый шаг - как драма, где страх и тайны борются внутри тебя. Только для тех, кто не боится молчать."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "virtua-fighter-5-ultimate-showdown-ps4-ps5",
       "title": "Virtua Fighter 5: Ultimate Showdown PS4/PS5",
