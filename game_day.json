@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-29T12:14:25Z",
-  "server_time_utc": "2026-07-29T12:14:25Z",
+  "updated_at": "2026-07-30T12:15:07Z",
+  "server_time_utc": "2026-07-30T12:15:07Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-07-30T02:00:00Z",
-  "expires_at": "2026-07-30T02:00:00Z",
+  "next_rotation_at": "2026-07-31T02:00:00Z",
+  "expires_at": "2026-07-31T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-07-30T02:00:00Z"
+    "next_rotation_at": "2026-07-31T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "guardians-of-the-galaxy-ps4-ps5",
+      "title": "Guardians of the Galaxy PS4/PS5",
+      "description": "Звёздный Лорд не просто герой - он боец, который собирает с собой бросающихся вперёд кумов и выжигает из них мощь.  \n\nВ Guardians of the Galaxy ты ведёшь бой на галактическом уровне - от диких огнём до мрачных тайн, всё по-настоящему.  \n\nСамый крутой боевик от Marvel с юмором, харизмой и драйвом - идеальный выбор для тех, кто хочет включиться в адреналин без лишних слов.  \n\nПиши в чат 📩 @ArenaPSGMadmin – и сразу получишь доступ к игре.",
+      "image_url": "https://static.tildacdn.com/stor3161-6534-4635-b439-663265616666/31513067.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2410/DdagEnKHDkOsjGQUSc6kdgUz.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2410/7YTJ4JbtK7CA4HjUlqThGXKx.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2410/DPUKozXFBdioX7GBhBOJmX9H.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2410/q6EJre9Y6x4SPnbIhNhZQQnM.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2410/LcZxYzw8MJpUG4QEMLf4SQgB.jpg"
+      ],
+      "release_date": "26/10/2021",
+      "publisher": "Eidos Interactive Corp",
+      "platforms": "PS4, PS5",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.61,
+      "store_url": "https://store.playstation.com/en-tr/concept/234665",
+      "tilda_uid": "192208736222",
+      "sku": "",
+      "external_id": "2mZdgGTeTCjNlHTtZ3aZ",
+      "url": "http://arenapsgm.ru/tproduct/192208736222-guardians-of-the-galaxy-ps4ps5",
+      "expires_at": "2026-07-31T02:00:00Z",
+      "published_at": "2026-07-30T12:15:07Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Звёздный Лорд - герой, который тянет на бой своих кумов и выжигает из них силу.  \n\nБоевик с юмором и драйвом от Marvel - настоящий галактический адреналин без лишних слов."
+    }
+  ],
+  "history": [
     {
       "slug": "dishonored-2-ps4-ps5",
       "title": "Dishonored 2 PS4/PS5",
@@ -50,34 +101,31 @@
       "sku": "",
       "external_id": "IuMPHdyezNvdMSTPtdEo",
       "url": "http://arenapsgm.ru/tproduct/599186053002-dishonored-2-ps4ps5",
-      "expires_at": "2026-07-30T02:00:00Z",
       "published_at": "2026-07-29T12:14:25Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 290,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 390,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 290,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Джеймс снова - ассасин с божественной силой.  \n\nIGN, Eurogamer и Game Informer назвали игру «удивительной», «шедевром» и одной из лучших историй о мести."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "like-a-dragon-infinite-wealth-ps4-ps5",
       "title": "Like a Dragon: Infinite Wealth PS4/PS5",
