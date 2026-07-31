@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-30T12:15:07Z",
-  "server_time_utc": "2026-07-30T12:15:07Z",
+  "updated_at": "2026-07-31T12:15:46Z",
+  "server_time_utc": "2026-07-31T12:15:46Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-07-31T02:00:00Z",
-  "expires_at": "2026-07-31T02:00:00Z",
+  "next_rotation_at": "2026-08-01T02:00:00Z",
+  "expires_at": "2026-08-01T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-07-31T02:00:00Z"
+    "next_rotation_at": "2026-08-01T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "cars-3-ps4-ps5",
+      "title": "Cars 3 PS4/PS5",
+      "description": "Гонки только на высшем уровне - Cars 3: Driven to Win продолжает борьбу за победу после финальной гонки. Теперь ты не просто смотришь, а вождишь - в новой игре всё живёт и развивается дальше.\n\nБолее 20 персонажей - каждый можно подкрутить под свой стиль. Трассы из фильмов, но теперь с реальной динамикой. И ты не один: можно играть вдвоем - разделённый экран, совместные задания и соревнования.\n\nТеперь ты - не просто участник, а часть гонки. Всё это - на PS4 и PS5.",
+      "image_url": "https://static.tildacdn.com/stor6366-3731-4564-b530-663834326564/72418157.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1709/2206536bb751e80d3b0cb1374cd3871e4c16a3a29d35dc37.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1709/eacdf40e954f28acaedf589ca48e529814c669ecaa5d8d61.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1709/18dfc4ba3392b7bef3178913a78070bfd47baee0d12de0ab.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1709/00bb51c5cd53abc25ef6aad3cd3b2cb5bfcbadaf014975fe.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1709/af8db4803d5590abba5c6e33a5a4f18c68d83f57d82682fd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1709/3bc3ca9d5f0b8b95d5b9cad884639f6950f6a8de823914ef.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1709/2fab8fe1eccad85b846ec782f53b0b0ce331458b8091dfd8.jpg"
+      ],
+      "release_date": "9/7/2026",
+      "publisher": "Entity3 Limited",
+      "platforms": "PS5",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "store_url": "https://store.playstation.com/en-tr/concept/10019465",
+      "tilda_uid": "230065743762",
+      "sku": "",
+      "external_id": "d5kjB4LEMER0lkKBU79v",
+      "url": "http://arenapsgm.ru/tproduct/230065743762-cars-3-ps4ps5",
+      "expires_at": "2026-08-01T02:00:00Z",
+      "published_at": "2026-07-31T12:15:46Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Cars 3: Driven to Win - игра, где ты реально вождишь, а не просто смотришь.  \n20 персонажей, трассы из фильмов, динамика и режим двоих - всё живёт и растёт вместе."
+    }
+  ],
+  "history": [
     {
       "slug": "guardians-of-the-galaxy-ps4-ps5",
       "title": "Guardians of the Galaxy PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "2mZdgGTeTCjNlHTtZ3aZ",
       "url": "http://arenapsgm.ru/tproduct/192208736222-guardians-of-the-galaxy-ps4ps5",
-      "expires_at": "2026-07-31T02:00:00Z",
       "published_at": "2026-07-30T12:15:07Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 290,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 390,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 290,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Звёздный Лорд - герой, который тянет на бой своих кумов и выжигает из них силу.  \n\nБоевик с юмором и драйвом от Marvel - настоящий галактический адреналин без лишних слов."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "dishonored-2-ps4-ps5",
       "title": "Dishonored 2 PS4/PS5",
