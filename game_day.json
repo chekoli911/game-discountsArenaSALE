@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T12:15:46Z",
-  "server_time_utc": "2026-07-31T12:15:46Z",
+  "updated_at": "2026-08-01T04:25:13Z",
+  "server_time_utc": "2026-08-01T04:25:13Z",
   "page_url": "https://arenapsgm.ru/allgames",
   "next_rotation_at": "2026-08-01T02:00:00Z",
   "expires_at": "2026-08-01T02:00:00Z",
@@ -26,6 +26,59 @@
   "cards_count": 1,
   "cards": [
     {
+      "slug": "skull-and-bones-ps5",
+      "title": "SKULL AND BONES PS5",
+      "description": "Пиратская буря уже начинается. 🏴‍☠️  \n\nSKULL AND BONES - это не просто морской экшн, а настоящий пиратский флот под твоим управлением: строй корабли, настрой пушки и веди битвы с грозным оружием. Каждое сражение - как в бою за власть на море.  \n\nТы не один - можно продержаться вместе с дружными пиратами, делиться заданиями и шарить по миру, где штормы, чудища и тёмные силы ждут каждого.  \n\nОткрой мир, полный опасностей и приключений. Играй 6 часов бесплатно - всё прогресс сохранится, если решится купить полную версию.  \n\nАрендуем по запросу - пиши сюда 📩 @ArenaPSGMadmin",
+      "image_url": "https://static.tildacdn.com/stor3661-3436-4334-a136-393831653036/74903491.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/4219e8703682e26a0e4ce99c24cc61524b95074872ecf8fa.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/dc61d21a35e3d62d001c923547d87c1aa672a2ccf436b0ae.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/8dc4cc2b07306d92d284b08f1b0880690e8ce6f439264b5a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/74b381b7d97111898055e3269af9c62c33d93ab8899a5606.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/9ff16f5c6dc443e0db7af792771ebc8ac31eab9c2ddc263b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/f252b40eba3cd7432f15d3a11077b1d156a7b43907133342.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/a1784ca3b9e8bd143294e55393ab56096e516fd7ea26769c.jpg"
+      ],
+      "release_date": "16/2/2024",
+      "publisher": "Ubisoft",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 2.85,
+      "store_url": "https://store.playstation.com/en-tr/concept/225700",
+      "tilda_uid": "472770564572",
+      "sku": "",
+      "external_id": "CG5o0V42Pz9HzmSyMCNR",
+      "url": "http://arenapsgm.ru/tproduct/472770564572-skull-and-bones-ps5",
+      "expires_at": "2026-08-01T02:00:00Z",
+      "published_at": "2026-08-01T04:25:13Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Пиратская буря уже наступила - в SKULL AND BONES ты командуешь флотом и ведёшь бои на море.  \n\nСражайся, объединяйся с пиратами и проникай в мир штормов, чудищ и тёмной силы - всё бесплатно, прогресс сохранится."
+    }
+  ],
+  "history": [
+    {
       "slug": "cars-3-ps4-ps5",
       "title": "Cars 3 PS4/PS5",
       "description": "Гонки только на высшем уровне - Cars 3: Driven to Win продолжает борьбу за победу после финальной гонки. Теперь ты не просто смотришь, а вождишь - в новой игре всё живёт и развивается дальше.\n\nБолее 20 персонажей - каждый можно подкрутить под свой стиль. Трассы из фильмов, но теперь с реальной динамикой. И ты не один: можно играть вдвоем - разделённый экран, совместные задания и соревнования.\n\nТеперь ты - не просто участник, а часть гонки. Всё это - на PS4 и PS5.",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "d5kjB4LEMER0lkKBU79v",
       "url": "http://arenapsgm.ru/tproduct/230065743762-cars-3-ps4ps5",
-      "expires_at": "2026-08-01T02:00:00Z",
       "published_at": "2026-07-31T12:15:46Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Cars 3: Driven to Win - игра, где ты реально вождишь, а не просто смотришь.  \n20 персонажей, трассы из фильмов, динамика и режим двоих - всё живёт и растёт вместе."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "guardians-of-the-galaxy-ps4-ps5",
       "title": "Guardians of the Galaxy PS4/PS5",
