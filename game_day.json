@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-01T04:25:13Z",
-  "server_time_utc": "2026-08-01T04:25:13Z",
+  "updated_at": "2026-08-01T12:16:28Z",
+  "server_time_utc": "2026-08-01T12:16:28Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-01T02:00:00Z",
-  "expires_at": "2026-08-01T02:00:00Z",
+  "next_rotation_at": "2026-08-02T02:00:00Z",
+  "expires_at": "2026-08-02T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-01T02:00:00Z"
+    "next_rotation_at": "2026-08-02T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "empire-of-the-ants-ps5",
+      "title": "Empire Of The Ants PS5",
+      "description": "Почему-то у вас в доме живёт целый лес из муравьев.  \nНо не просто лес - это бурный, жестокий и невероятно хитрый мир, где каждый муравей - сила, а каждая тропа - шанс на выживание.  \n\nВ Empire of the Ants вы не просто наблюдаете за природой - вы входите в её сердце. Управляете колонией, строите города, разбиваете линии и боретесь с другими кланами.  \n\nГотовы к засадам, стратегиям и жестоким победам? Это не просто игра - это жара в голове.",
+      "image_url": "https://static.tildacdn.com/stor3138-6636-4539-b137-663237356430/29724351.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/154427439e656732aef4cbddfe4e3f9fa15fdc44d8bdf412.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/091978a477c875f15627bf6db4cb9288d00590e2844c9db0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/c11dcec03028d5e712eea36b9be3fa8fb1290f7a95de78b2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/769d1eb9151e1b7c8921f6ccf4afbb9c1f8016b560b2040f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/cceaa74d6b4e4996cff2944c7ed280aae8e3a2ac0c4ee90c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/3525897ee8cb2c515ab716785fb355c6e209a0b73f06e685.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/cf4688ab91a0f4ffb86e848d17b6a247e985d63d6bf21000.jpg"
+      ],
+      "release_date": "4/11/2024",
+      "publisher": "Microids",
+      "platforms": "PS5",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 4.12,
+      "store_url": "https://store.playstation.com/en-tr/concept/10007652",
+      "tilda_uid": "436287275002",
+      "sku": "",
+      "external_id": "sSloSUdBvreiJT6F20cD",
+      "url": "http://arenapsgm.ru/tproduct/436287275002-empire-of-the-ants-ps5",
+      "expires_at": "2026-08-02T02:00:00Z",
+      "published_at": "2026-08-01T12:16:28Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "В Empire of the Ants вы - глава колонии муравьев, где каждый шаг - битва.  \nЖарко, хитро и реально: стройте города, боритесь с кланами и живите в лесу без выхода."
+    }
+  ],
+  "history": [
     {
       "slug": "skull-and-bones-ps5",
       "title": "SKULL AND BONES PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "CG5o0V42Pz9HzmSyMCNR",
       "url": "http://arenapsgm.ru/tproduct/472770564572-skull-and-bones-ps5",
-      "expires_at": "2026-08-01T02:00:00Z",
       "published_at": "2026-08-01T04:25:13Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 349,
+          "14": 549,
+          "21": 645,
+          "28": 745
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 449,
+          "14": 649,
+          "21": 745,
+          "28": 845
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 349,
+        "14": 549,
+        "21": 645,
+        "28": 745
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Пиратская буря уже наступила - в SKULL AND BONES ты командуешь флотом и ведёшь бои на море.  \n\nСражайся, объединяйся с пиратами и проникай в мир штормов, чудищ и тёмной силы - всё бесплатно, прогресс сохранится."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "cars-3-ps4-ps5",
       "title": "Cars 3 PS4/PS5",
