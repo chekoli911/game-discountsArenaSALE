@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-01T12:16:28Z",
-  "server_time_utc": "2026-08-01T12:16:28Z",
+  "updated_at": "2026-08-02T12:17:12Z",
+  "server_time_utc": "2026-08-02T12:17:12Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-02T02:00:00Z",
-  "expires_at": "2026-08-02T02:00:00Z",
+  "next_rotation_at": "2026-08-03T02:00:00Z",
+  "expires_at": "2026-08-03T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-02T02:00:00Z"
+    "next_rotation_at": "2026-08-03T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "lego-batman-3-pokidaya-gotem-ps4-ps5",
+      "title": "LEGO Batman 3: Покидая Готэм PS4/PS5",
+      "description": "Крестоносец в плаще - на космических вылазках, с дружбой и битвами. Всё, что нужно - это объединиться со супергероями DC и улететь в космос.  \n\nБрейниак собирает Сияющие кольца, чтобы уничтожить Землю. А ты - главный герой, который должен остановить его, пока не поздно.  \n\nСобери кольца, пролети по всем мирам и выиграешь битву с самым опасным злодеем вселенной.  \n\nИгра вдохновляет на дружбу, смелость и командную работу - как в самом настоящем DC-мультсериале.",
+      "image_url": "https://static.tildacdn.com/stor6564-3063-4033-b766-663532396362/1a2274e3f5fe17687e920c628a2dfd22.webp",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6564-3063-4033-b766-663532396362/1a2274e3f5fe17687e920c628a2dfd22.webp",
+        "https://static.tildacdn.com/stor3863-3031-4635-b065-316335353738/21aa7615e82828b2ac72fb9783290161.jpg",
+        "https://static.tildacdn.com/stor3764-3664-4338-b336-306439383331/90033148b93930579464448df875b826.jpg",
+        "https://static.tildacdn.com/stor3262-3330-4662-b566-323466626235/7fd15d89ee9b0f21152f12031751d579.jpg",
+        "https://static.tildacdn.com/stor6263-6265-4337-a636-643837366662/0c405a5105fed90c997cc7457acd17e0.jpg"
+      ],
+      "release_date": "",
+      "publisher": "",
+      "platforms": "",
+      "voice": "",
+      "text_translation": "",
+      "rating": null,
+      "store_url": "",
+      "tilda_uid": "956334717592",
+      "sku": "",
+      "external_id": "4DKVBxJR3G4Nem28Tydb",
+      "url": "http://arenapsgm.ru/tproduct/956334717592-lego-batman-3-pokidaya-gotem-ps4ps5",
+      "expires_at": "2026-08-03T02:00:00Z",
+      "published_at": "2026-08-02T12:17:12Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Крестоносец в плаще улетает в космос с дружбой и битвами – ты тоже можешь стать его союзником.  \n\nСобери Сияющие кольца, пролети по мирам и останови Брейниака перед тем, как он разрушит Землю."
+    }
+  ],
+  "history": [
     {
       "slug": "empire-of-the-ants-ps5",
       "title": "Empire Of The Ants PS5",
@@ -50,34 +101,31 @@
       "sku": "",
       "external_id": "sSloSUdBvreiJT6F20cD",
       "url": "http://arenapsgm.ru/tproduct/436287275002-empire-of-the-ants-ps5",
-      "expires_at": "2026-08-02T02:00:00Z",
       "published_at": "2026-08-01T12:16:28Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 280,
+          "14": 412,
+          "21": 692,
+          "28": 752
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 380,
+          "14": 512,
+          "21": 792,
+          "28": 852
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 280,
+        "14": 412,
+        "21": 692,
+        "28": 752
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "В Empire of the Ants вы - глава колонии муравьев, где каждый шаг - битва.  \nЖарко, хитро и реально: стройте города, боритесь с кланами и живите в лесу без выхода."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "skull-and-bones-ps5",
       "title": "SKULL AND BONES PS5",
