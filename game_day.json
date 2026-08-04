@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-03T12:17:45Z",
-  "server_time_utc": "2026-08-03T12:17:45Z",
+  "updated_at": "2026-08-04T12:18:36Z",
+  "server_time_utc": "2026-08-04T12:18:36Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-04T02:00:00Z",
-  "expires_at": "2026-08-04T02:00:00Z",
+  "next_rotation_at": "2026-08-05T02:00:00Z",
+  "expires_at": "2026-08-05T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-04T02:00:00Z"
+    "next_rotation_at": "2026-08-05T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "payday-3-ps5",
+      "title": "Payday 3 PS5",
+      "description": "Payday 3 - сиквел, который не просто продолжает серию, а вносит новую дозу драйва и напряжения. Уже давно игроки знают: когда в команде все на месте - ограбление становится настоящим шоу.\n\nТеперь банда снова в деле. Их задача - найти тех, кто мешает им выйти на пенсию раньше срока. А бдительность законов и зависть коллег по цеху - как всегда, не дают покоя.\n\nСнова ритм, стратегия, взрывной драйв - всё, что делало PAYDAY великим, но теперь в новом формате. Игра для тех, кто любит действовать на ходу и смотреть, как команда выходит из кризиса - вместе.\n\nАренду можно оформить напрямую - пиши @ArenaPSGMadmin",
+      "image_url": "https://static.tildacdn.com/stor3737-6265-4465-b361-313430376663/92682172.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2410/cfa2e3ad0a57419b13c8a1fd44a6b955a5e1d1a87ff90c7c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2410/58860d5d5a870b87a7387f280b4ed72bd1852cc677586337.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2410/8d89d6cd31c2d2e902cbf36b5f2928eabb448da6cf1632df.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2410/a7dada86052985c619552875c733e41098b0eb462a0cbed6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2410/6dc84cdd20ce0f7d0cc8a47391dc39389cc3ff428b99e853.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2410/52eb11b6796b0918b587fa58bf5651162ce995f765080e56.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2410/47d616b34c3e2eb33fc626cfd2c48ad53ad3120487496091.jpg"
+      ],
+      "release_date": "21/9/2023",
+      "publisher": "Starbreeze Publishing AB",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.0,
+      "store_url": "https://store.playstation.com/en-tr/concept/10007263",
+      "tilda_uid": "341484630922",
+      "sku": "",
+      "external_id": "2ONKBjn7AUrOxN9oB22X",
+      "url": "http://arenapsgm.ru/tproduct/341484630922-payday-3-ps5",
+      "expires_at": "2026-08-05T02:00:00Z",
+      "published_at": "2026-08-04T12:18:36Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Payday 3 - не просто продолжение, а новый уровень драйва и напряжения.  \n\nКоманда снова в деле: выявляют тех, кто мешает выйти на пенсию, а бдительность законов и зависть коллег – как всегда, не дают покоя."
+    }
+  ],
+  "history": [
     {
       "slug": "hunt-call-of-the-wild-ps4-ps5",
       "title": "Hunt Call of the wild PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "a4NiHBKG5fFELKENzxNv",
       "url": "http://arenapsgm.ru/tproduct/434696440152-hunt-call-of-the-wild-ps4ps5",
-      "expires_at": "2026-08-04T02:00:00Z",
       "published_at": "2026-08-03T12:17:45Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Новая игра дня - в твои руки!  \nДоступно через приватную группу и чат канала. Оставь отзыв после игры."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "lego-batman-3-pokidaya-gotem-ps4-ps5",
       "title": "LEGO Batman 3: Покидая Готэм PS4/PS5",
