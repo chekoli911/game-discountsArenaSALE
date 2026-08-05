@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-04T12:18:36Z",
-  "server_time_utc": "2026-08-04T12:18:36Z",
+  "updated_at": "2026-08-05T12:19:19Z",
+  "server_time_utc": "2026-08-05T12:19:19Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-05T02:00:00Z",
-  "expires_at": "2026-08-05T02:00:00Z",
+  "next_rotation_at": "2026-08-06T02:00:00Z",
+  "expires_at": "2026-08-06T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-05T02:00:00Z"
+    "next_rotation_at": "2026-08-06T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "lego-marvel-super-heroes-ps4-ps5",
+      "title": "LEGO Marvel Super Heroes PS4/PS5",
+      "description": "Железный Человек, Паук, Халк - и даже Росомаха! 🚀 В «LEGO Marvel Super Heroes» ты вперёд с персонажами из всей вселенной Марвел. Собери команду, держи ритм и борись с Локи и его злодеями - чтобы не сломать мир.  \n\nСюжет живой, боевая атмосфера - как в фильме, но на шарах и вращающихся машинах. Управление простое, весело и очень крутит.  \n\nТолько на PS4 и PS5 - без лишнего, только супер-энергия.  \nИгра днём - как бодрый разговор с друзьями в кабинете.",
+      "image_url": "https://static.tildacdn.com/stor6166-3835-4362-a364-616166333838/90817489.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00044_00/FREE_CONTENTIIIxJlEkSBR8odePCOqg/PREVIEW_SCREENSHOT1_417814.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00044_00/FREE_CONTENTKmahbQaZxJQMUpcwwgLJ/PREVIEW_SCREENSHOT2_417814.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00044_00/FREE_CONTENTZToc9qOB3cMX6DvQicx3/PREVIEW_SCREENSHOT3_417814.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00044_00/FREE_CONTENTP6WAlE9VjZ34zLUAVX4O/PREVIEW_SCREENSHOT4_417814.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00044_00/FREE_CONTENT9Rdu31JlMctWvpp6llF1/PREVIEW_SCREENSHOT5_417814.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00044_00/FREE_CONTENTYlEWXuh83XzhGHPvGqj5/PREVIEW_SCREENSHOT6_417814.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00044_00/FREE_CONTENTjjhYPrfpjSBkmQtfMOmS/PREVIEW_SCREENSHOT7_417814.jpg"
+      ],
+      "release_date": "29/11/2013",
+      "publisher": "WARNER BROS. INTERACTIVE",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.4,
+      "store_url": "https://store.playstation.com/en-tr/concept/202493",
+      "tilda_uid": "409873529822",
+      "sku": "",
+      "external_id": "cejnNJirEJcXJIr9Zeo3",
+      "url": "http://arenapsgm.ru/tproduct/409873529822-lego-marvel-super-heroes-ps4ps5",
+      "expires_at": "2026-08-06T02:00:00Z",
+      "published_at": "2026-08-05T12:19:19Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Железный Человек, Паук, Халк - и даже Росомаха! В «LEGO Marvel Super Heroes» ты вперёд с топ-героями Марвел - борись с Локи и спасай мир.  \nБоевая атмосфера как в фильме, но на шарах и вращающихся машинах - просто, весело, без лишнего. Только на PS4 и PS5."
+    }
+  ],
+  "history": [
     {
       "slug": "payday-3-ps5",
       "title": "Payday 3 PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "2ONKBjn7AUrOxN9oB22X",
       "url": "http://arenapsgm.ru/tproduct/341484630922-payday-3-ps5",
-      "expires_at": "2026-08-05T02:00:00Z",
       "published_at": "2026-08-04T12:18:36Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 325,
+          "14": 595,
+          "21": 845,
+          "28": 995
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 425,
+          "14": 695,
+          "21": 945,
+          "28": 1195
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 325,
+        "14": 595,
+        "21": 845,
+        "28": 995
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Payday 3 - не просто продолжение, а новый уровень драйва и напряжения.  \n\nКоманда снова в деле: выявляют тех, кто мешает выйти на пенсию, а бдительность законов и зависть коллег – как всегда, не дают покоя."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "hunt-call-of-the-wild-ps4-ps5",
       "title": "Hunt Call of the wild PS4/PS5",
