@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-05T12:19:19Z",
-  "server_time_utc": "2026-08-05T12:19:19Z",
+  "updated_at": "2026-08-06T12:19:53Z",
+  "server_time_utc": "2026-08-06T12:19:53Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-06T02:00:00Z",
-  "expires_at": "2026-08-06T02:00:00Z",
+  "next_rotation_at": "2026-08-07T02:00:00Z",
+  "expires_at": "2026-08-07T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-06T02:00:00Z"
+    "next_rotation_at": "2026-08-07T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "the-last-guardian-ps4-ps5",
+      "title": "The last Guardian PS4/PS5",
+      "description": "Мальчик и его мистический питомец - не просто сюжет, а душа игры.  \n\nПогрузитесь в мир, где дружба - сила, а головоломки - как ключи к древним секретам.  \n\nТрико - не просто животное, это ваш компаньон на пути к истине и открытию тайн.  \n\nОдин из самых трогательных и ожидаемых проектов десятилетия от создателей Ico и Shadow of the Colossus. 💫",
+      "image_url": "https://static.tildacdn.com/stor3836-3738-4564-b339-313739616432/79798627.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3836-3738-4564-b339-313739616432/79798627.jpg",
+        "https://static.tildacdn.com/stor3037-3538-4562-b264-623735306438/4666ef3ab452b43874cef4e47a7f49b1.jpg",
+        "https://static.tildacdn.com/stor3864-3436-4263-b264-643730383561/648d5c5d8326b5f652016e98e48bd83b.jpg",
+        "https://static.tildacdn.com/stor3063-6463-4934-b464-623366313835/8fa8000ec91299b502ddad0d7a2a4722.jpg",
+        "https://static.tildacdn.com/stor3230-3564-4830-a430-363034656463/9664f9f1f9f1b82e53300baf7f220838.jpg"
+      ],
+      "release_date": "",
+      "publisher": "",
+      "platforms": "",
+      "voice": "",
+      "text_translation": "",
+      "rating": null,
+      "store_url": "",
+      "tilda_uid": "196113471562",
+      "sku": "",
+      "external_id": "mn7N9NFgxtiCcNvfI5RY",
+      "url": "http://arenapsgm.ru/tproduct/196113471562-the-last-guardian-ps4ps5",
+      "expires_at": "2026-08-07T02:00:00Z",
+      "published_at": "2026-08-06T12:19:53Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Мальчик и его мистическое животное - сердце игры.  \nДружба, головоломки и тайны - всё это в одном проекте от Ico и Shadow of the Colossus."
+    }
+  ],
+  "history": [
     {
       "slug": "lego-marvel-super-heroes-ps4-ps5",
       "title": "LEGO Marvel Super Heroes PS4/PS5",
@@ -50,34 +101,31 @@
       "sku": "",
       "external_id": "cejnNJirEJcXJIr9Zeo3",
       "url": "http://arenapsgm.ru/tproduct/409873529822-lego-marvel-super-heroes-ps4ps5",
-      "expires_at": "2026-08-06T02:00:00Z",
       "published_at": "2026-08-05T12:19:19Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Железный Человек, Паук, Халк - и даже Росомаха! В «LEGO Marvel Super Heroes» ты вперёд с топ-героями Марвел - борись с Локи и спасай мир.  \nБоевая атмосфера как в фильме, но на шарах и вращающихся машинах - просто, весело, без лишнего. Только на PS4 и PS5."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "payday-3-ps5",
       "title": "Payday 3 PS5",
