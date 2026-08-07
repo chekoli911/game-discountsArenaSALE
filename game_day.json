@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-06T12:19:53Z",
-  "server_time_utc": "2026-08-06T12:19:53Z",
+  "updated_at": "2026-08-07T12:20:43Z",
+  "server_time_utc": "2026-08-07T12:20:43Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-07T02:00:00Z",
-  "expires_at": "2026-08-07T02:00:00Z",
+  "next_rotation_at": "2026-08-08T02:00:00Z",
+  "expires_at": "2026-08-08T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-07T02:00:00Z"
+    "next_rotation_at": "2026-08-08T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "the-crew-2-gold-edition-ps4-ps5",
+      "title": "The Crew 2 Gold Edition PS4/PS5",
+      "description": "🚗 В The Crew 2 Gold Edition - не просто гонки, а настоящий кросс-континентальный поезд. Погружайтесь в США, где каждый маршрут - как сюжет из фильма: от пустынь до гор и морей.\n\n🔥 Сезонный проход даёт доступ к новым трассам, транспорту и событиям - каждая весна приносит что-то новое. А в арсенале сотни моделей авто для выбора: от классики до гиперкаров.\n\n👥 Участвуйте в динамичных соревнованиях, пройдитесь по всей Америке и пригласите до 7 друзей - вместе можно выиграть больше, чем в одиночку.\n\nПопробуйте прямо сейчас - без лишних слов.",
+      "image_url": "https://static.tildacdn.com/stor3639-3639-4534-b561-646337323965/93568558.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTDgOYAjg0pogPdpoITAq0/PREVIEW_SCREENSHOT1_155407.jpg",
+        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTGOhl9eClJENnqdT9uDjh/PREVIEW_SCREENSHOT2_155407.jpg",
+        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTolN8uYY8c0bepstedNrf/PREVIEW_SCREENSHOT3_155407.jpg",
+        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTN9Q2tQTeHzlkgUD3pjIq/PREVIEW_SCREENSHOT4_155407.jpg",
+        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTImsd9VptO6YcxtfqnLEt/PREVIEW_SCREENSHOT5_155407.jpg",
+        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTAfX18CR7V9Vi470w2Zfr/PREVIEW_SCREENSHOT6_155407.jpg",
+        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTDSBjKL8WR5peAfD2SCDG/PREVIEW_SCREENSHOT7_155407.jpg"
+      ],
+      "release_date": "29/6/2018",
+      "publisher": "Ubisoft",
+      "platforms": "PS4",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.14,
+      "store_url": "https://store.playstation.com/en-tr/concept/227552",
+      "tilda_uid": "689345727522",
+      "sku": "",
+      "external_id": "H6i62V9udy6LjvuhOI3F",
+      "url": "http://arenapsgm.ru/tproduct/689345727522-the-crew-2-gold-edition-ps4ps5",
+      "expires_at": "2026-08-08T02:00:00Z",
+      "published_at": "2026-08-07T12:20:43Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "В The Crew 2 Gold Edition - гонки по всей Америке, как в фильме: от пустынь до морей.  \n\nНовые трассы, авто и события каждый сезон - сотни моделей, динамичные соревнования и приглашение до 7 друзей для командной игры."
+    }
+  ],
+  "history": [
     {
       "slug": "the-last-guardian-ps4-ps5",
       "title": "The last Guardian PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "mn7N9NFgxtiCcNvfI5RY",
       "url": "http://arenapsgm.ru/tproduct/196113471562-the-last-guardian-ps4ps5",
-      "expires_at": "2026-08-07T02:00:00Z",
       "published_at": "2026-08-06T12:19:53Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Мальчик и его мистическое животное - сердце игры.  \nДружба, головоломки и тайны - всё это в одном проекте от Ico и Shadow of the Colossus."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "lego-marvel-super-heroes-ps4-ps5",
       "title": "LEGO Marvel Super Heroes PS4/PS5",
