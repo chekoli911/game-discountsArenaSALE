@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T08:07:41Z",
+  "updated_at": "2026-08-08T08:56:21Z",
   "page_url": "https://arenapsgm.ru/",
   "buy_url": "https://t.me/m/NrVGWXJpOGNi",
   "total": 786,
@@ -18,7 +18,7 @@
       "file": "sections/header.json",
       "count": 71,
       "home": false,
-      "banner": true
+      "banner": false
     },
     {
       "key": "novinki",
@@ -156,11 +156,6 @@
       "count": 13
     },
     {
-      "key": "header",
-      "title": "Шапка",
-      "count": 71
-    },
-    {
       "key": "novinki",
       "title": "Новинки",
       "count": 119
@@ -229,11 +224,6 @@
       "key": "ps5",
       "title": "Только PS5",
       "count": 142
-    },
-    {
-      "key": "fortnite",
-      "title": "Fortnite",
-      "count": 29
     },
     {
       "key": "all",
