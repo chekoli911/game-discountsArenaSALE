@@ -1,7 +1,7 @@
 {
   "key": "fortnite",
   "title": "Fortnite",
-  "updated_at": "2026-08-08T08:07:41Z",
+  "updated_at": "2026-08-08T08:56:21Z",
   "games": [
     {
       "slug": "devil-may-cry-4-special-edition-pokupka",
@@ -9,15 +9,25 @@
       "mark": "",
       "price_from": 2376,
       "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor6366-6135-4237-a563-663635373833/5eb912fe039fdb2db6c874937c5ddb93.jpg",
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01708_00/2/i_0053575f2cfcf97c3c8e919286bb337b56b25859bc0ae06bdc76b6a9c0028c67/i/icon0.png",
       "screenshots": [
-        "https://static.tildacdn.com/stor6366-6135-4237-a563-663635373833/5eb912fe039fdb2db6c874937c5ddb93.jpg"
+        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01708_00/2/i_0053575f2cfcf97c3c8e919286bb337b56b25859bc0ae06bdc76b6a9c0028c67/i/icon0.png",
+        "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/FREE_CONTENTqgBZUB8vW2EcB3vboG39/PREVIEW_SCREENSHOT1_453897.jpg",
+        "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/FREE_CONTENTOKtXpluwW5x5PkHgzw55/PREVIEW_SCREENSHOT2_453897.jpg",
+        "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/FREE_CONTENT0KL9yW2p8aKHUr6rL7cx/PREVIEW_SCREENSHOT3_453897.jpg",
+        "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/FREE_CONTENTh2nIzvEdl2zwVREFi1Er/PREVIEW_SCREENSHOT4_453897.jpg",
+        "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/FREE_CONTENTM1icXXMfM16uHWZMCZfz/PREVIEW_SCREENSHOT5_453897.jpg",
+        "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/FREE_CONTENTN9ZzNMq5BY0sweYUn3DB/PREVIEW_SCREENSHOT6_453897.jpg",
+        "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/FREE_CONTENTFUATCzf5TvtwXh1B9u1y/PREVIEW_SCREENSHOT7_453897.jpg"
       ],
       "description": "Покупка на ваш личный профиль Турции Devil May Cry 4 Special Edition Покупка\nДобавьте товар в корзину. После оплаты с вами связывается Админ для выполнения вашего заказа. Покупка игры происходит после входа в ваш Турецкий Аккаунт - приготовьте данные заранее.\nЕсли нет Турецкого профиля, сделаем новый + 750р\n(выбрать Нужен пустой Аккаунт)\nНа профиле должна быть установлена 2FA, если ее нет подскажем как установить. Если она есть, нужно будет приготовить два одноразовых кода.\nВремя оформления занимает около 15 минут.",
       "categories": [
         "Fortnite"
       ],
-      "platforms": "PS5",
+      "platforms": "PS4",
+      "platform_ps4": true,
+      "platform_ps5": false,
+      "platforms_choice": false,
       "prices": {
         "p2": {
           "7": 0,
@@ -37,7 +47,14 @@
       "external_id": "SHIBi5OyOpJ3jJJiEkND",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/848181746742-devil-may-cry-4-special-edition-pokupka",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": 4.73,
+      "release_date": "24/6/2015",
+      "publisher": "CE EUROPE LIMITED",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/200909",
+      "edition_banner": "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/zWuNF4pWS8Tjurl6kEJ2bhnxMabMLuEz.png"
     },
     {
       "slug": "elden-ring-ps4-amp-ps5-pokupka",
@@ -54,6 +71,9 @@
         "Fortnite"
       ],
       "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
       "prices": {
         "p2": {
           "7": 0,
@@ -73,7 +93,14 @@
       "external_id": "Z19s0XDOv6tRvVgagzyD",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/773978911972-elden-ring-ps4-amp-ps5-pokupka",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "elden-ring-shadow-of-the-erdtree-edition-ps4-amp-ps5-pokupka",
@@ -90,6 +117,9 @@
         "Fortnite"
       ],
       "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
       "prices": {
         "p2": {
           "7": 0,
@@ -109,7 +139,14 @@
       "external_id": "yxxul13ES1Dnz1aNvnrx",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/591073745452-elden-ring-shadow-of-the-erdtree-edition",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "farming-simulator-22-ps4-ps5-pokupka",
@@ -117,15 +154,23 @@
       "mark": "",
       "price_from": 3556,
       "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3463-3532-4730-b737-323863346365/80843759.jpg",
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202107/0508/wg0gD2XINJXeJox3mrYSRoqA.png",
       "screenshots": [
-        "https://static.tildacdn.com/stor3463-3532-4730-b737-323863346365/80843759.jpg"
+        "https://image.api.playstation.com/vulcan/img/rnd/202107/0508/wg0gD2XINJXeJox3mrYSRoqA.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1713/a5fee173a75960701f458d98984f3a49bfc05713620f4894.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1713/ac16bddb5a1da28f89fc2eeaf1ebb7a2a74005a8976a6094.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1713/a5e7d6851f0fbc1bf3e382df5f6f4b23f262ad01a0c6be93.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1713/e3e9cc3b96a61a239a2cbcad8bc9a75e66fbca9be9525afe.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1713/6aca1891bbf4ed0ecafff19c4e39b6c404ac0fdad593a736.jpg"
       ],
       "description": "Покупка на ваш личный профиль Турции Farming Simulator 22 PS4/PS5 Покупка\nДобавьте товар в корзину. После оплаты с вами связывается Админ для выполнения вашего заказа. Покупка игры происходит после входа в ваш Турецкий Аккаунт - приготовьте данные заранее.\nЕсли нет Турецкого профиля, сделаем новый + 750р\n(выбрать Нужен пустой Аккаунт)\nНа профиле должна быть установлена 2FA, если ее нет подскажем как установить. Если она есть, нужно будет приготовить два одноразовых кода.\nВремя оформления занимает около 15 минут.",
       "categories": [
         "Fortnite"
       ],
       "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
       "prices": {
         "p2": {
           "7": 0,
@@ -145,7 +190,14 @@
       "external_id": "OHk7P6rTucl1N1Rxe2Gp",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/259221680862-farming-simulator-22-ps4ps5-pokupka",
       "seo_title": "Farming Simulator 22 PS4/PS5 Покупка",
-      "seo_descr": "Farming Simulator 22 PS4/PS5 Покупка"
+      "seo_descr": "Farming Simulator 22 PS4/PS5 Покупка",
+      "rating": 4.23,
+      "release_date": "22/11/2021",
+      "publisher": "GIANTS SOFTWARE GMBH",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10001771",
+      "edition_banner": "https://image.api.playstation.com/vulcan/img/rnd/202107/0508/wg0gD2XINJXeJox3mrYSRoqA.png"
     },
     {
       "slug": "fortnite-1-000-v-bucks",
@@ -169,6 +221,9 @@
         "Fortnite"
       ],
       "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
       "prices": {
         "p2": {
           "7": 0,
@@ -188,7 +243,14 @@
       "external_id": "oMktUzaZCPccbMFFBOIt",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/956084581252-fortnite-1000-v-bucks",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "fortnite-13-500-v-bucks",
@@ -212,6 +274,9 @@
         "Fortnite"
       ],
       "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
       "prices": {
         "p2": {
           "7": 0,
@@ -231,7 +296,14 @@
       "external_id": "IlBveotx7ZBk99cMmPF3",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/911765763062-fortnite-13500-v-bucks",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "fortnite-2-800-v-bucks",
@@ -253,6 +325,9 @@
         "Fortnite"
       ],
       "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
       "prices": {
         "p2": {
           "7": 0,
@@ -272,7 +347,14 @@
       "external_id": "VM0rTvUtiLcLs8gBRCUE",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/290480570752-fortnite-2800-v-bucks",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "fortnite-5-000-v-bucks",
@@ -296,6 +378,9 @@
         "Fortnite"
       ],
       "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
       "prices": {
         "p2": {
           "7": 0,
@@ -315,7 +400,14 @@
       "external_id": "XIPageSPMCKn7OXlZUm0",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/837814207882-fortnite-5000-v-bucks",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "it-take-two-ps4-ps5-pokupka",
@@ -332,6 +424,9 @@
         "Fortnite"
       ],
       "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
       "prices": {
         "p2": {
           "7": 0,
@@ -351,7 +446,14 @@
       "external_id": "PTrNZXstu3INbp548dmv",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/113721017722-it-take-two-ps4ps5-pokupka",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "minecraft-ps4-ps5pokupka",
@@ -368,6 +470,9 @@
         "Fortnite"
       ],
       "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
       "prices": {
         "p2": {
           "7": 0,
@@ -387,7 +492,14 @@
       "external_id": "gppJ1jmdebAsVMZFLSSZ",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/508144858582-minecraft-ps4ps5pokupka",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "mortal-kombat-1-dopolnenie-gospodstvo-haosa-pokupka",
@@ -404,6 +516,9 @@
         "Fortnite"
       ],
       "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
       "prices": {
         "p2": {
           "7": 0,
@@ -423,7 +538,14 @@
       "external_id": "fVNJnfpl4ydmshsC9HSe",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/858353884352-mortal-kombat-1-dopolnenie-gospodstvo-ha",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "mortal-kombat-x-ps4-ps5-pokupka",
@@ -431,15 +553,25 @@
       "mark": "",
       "price_from": 649,
       "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor6463-3830-4533-b563-383866613536/70447795.png",
+      "image_url": "https://image.api.playstation.com/cdn/UP1018/CUSA00967_00/95B3EIOEjU0DPK5V5ltFAWlW9KYtZVP7ZbB5ofWactS47y5BWTkwN1MujcdezNZ4.png",
       "screenshots": [
-        "https://static.tildacdn.com/stor6463-3830-4533-b563-383866613536/70447795.png"
+        "https://image.api.playstation.com/cdn/UP1018/CUSA00967_00/95B3EIOEjU0DPK5V5ltFAWlW9KYtZVP7ZbB5ofWactS47y5BWTkwN1MujcdezNZ4.png",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00970_00/FREE_CONTENTwdJKxCPRvLnPWUjznTdT/PREVIEW_SCREENSHOT1_451703.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00970_00/FREE_CONTENTYWqSmtmeOos74KW4hv5P/PREVIEW_SCREENSHOT2_451703.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00970_00/FREE_CONTENTss8y6pu1w7TrxG697QOY/PREVIEW_SCREENSHOT3_451703.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00970_00/FREE_CONTENT1azHnDuLRn6dsRamxsWe/PREVIEW_SCREENSHOT4_451703.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00970_00/FREE_CONTENT3mZc0Z7R7UjWBbtmCLeP/PREVIEW_SCREENSHOT5_451703.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00970_00/FREE_CONTENT9ABxCvzmdxHtittukWc2/PREVIEW_SCREENSHOT6_451703.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00970_00/FREE_CONTENTENHaiaKaSpMmBKlm2vGU/PREVIEW_SCREENSHOT7_451703.jpg"
       ],
       "description": "Цена актуальна до 07.05.2026\nMortal Kombat X PS4\nДобавьте товар в корзину. После оплаты с вами связывается Админ для выполнения вашего заказа. Покупка игры происходит после входа в ваш СНГ Аккаунт - приготовьте данные заранее.\nЕсли нет СНГ профиля, сделаем новый + 750р\n(выбрать Нужен пустой Аккаунт)\nНа профиле должна быть установлена 2FA, если ее нет подскажем как установить. Если она есть, нужно будет приготовить два одноразовых кода.\nВремя оформления занимает около 15 минут.",
       "categories": [
         "Fortnite"
       ],
-      "platforms": "PS4, PS5",
+      "platforms": "PS4",
+      "platform_ps4": true,
+      "platform_ps5": false,
+      "platforms_choice": false,
       "prices": {
         "p2": {
           "7": 0,
@@ -459,7 +591,14 @@
       "external_id": "8SmoVIgUnd1acUybCSF2",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/825349292362-mortal-kombat-x-ps4ps5-pokupka",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": 4.53,
+      "release_date": "14/4/2015",
+      "publisher": "WARNER BROS. INTERACTIVE",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/202943",
+      "edition_banner": "https://image.api.playstation.com/cdn/EP1018/CUSA00970_00/vdeZDZaLf8qImDoCzZSfyOrfHrds4hdp.png"
     },
     {
       "slug": "nhl-26-ps5-pokupka",
@@ -467,15 +606,25 @@
       "mark": "",
       "price_from": 8990,
       "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3939-3631-4336-a634-636563366537/37637945.jpg",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2815/cddab006460e7a559bd92778208da9332500dbec19585c14.png",
       "screenshots": [
-        "https://static.tildacdn.com/stor3939-3631-4336-a634-636563366537/37637945.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202511/2815/cddab006460e7a559bd92778208da9332500dbec19585c14.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202508/2700/f14bd294f3ef2ef2ba1fa1b6bd32e89700a15dbe1893b4e5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202508/2700/7a9a80bd835adca109229c50acec35f5dd80728e4fe2378f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202508/2700/a66a3624875d0c987db6687e5f4ecfdd3bf382dbaf29a7b9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202508/2700/fdd03b3a9dd75e94d181ca73be25cdba879af989719b84c9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202508/2700/50791fcc6248d1913431a98157b1c1daaa6b66ce58e4925b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202508/2700/92a653fd86bb6d4a3563980ac6d1ff6e9f5d1825107debb4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202508/2700/874fc63e6acd0bced3410f1c4c4663513d8a33842251a9da.jpg"
       ],
       "description": "NHL 26 PS5 Турция\nДобавьте товар в корзину. После оплаты с вами связывается Админ для выполнения вашего заказа. Покупка игры происходит после входа в ваш Турецкий Аккаунт - приготовьте данные заранее.\nЕсли нет Турецкого профиля, сделаем новый + 750р\n(выбрать Нужен пустой Аккаунт)\nНа профиле должна быть установлена 2FA, если ее нет подскажем как установить. Если она есть, нужно будет приготовить два одноразовых кода.\nВремя оформления занимает около 15 минут.",
       "categories": [
         "Fortnite"
       ],
       "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
       "prices": {
         "p2": {
           "7": 0,
@@ -495,7 +644,14 @@
       "external_id": "bTSvdDxouHomMDjnplCR",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/156049025622-nhl-26-ps5-pokupka",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": 3.23,
+      "release_date": "12/9/2025",
+      "publisher": "EA Swiss Sarl",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10012851",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2815/cddab006460e7a559bd92778208da9332500dbec19585c14.png"
     },
     {
       "slug": "resident-evil-requiem-deluxe-edition-pokupka",
@@ -503,15 +659,25 @@
       "mark": "",
       "price_from": 7456,
       "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3636-3738-4134-b464-396532363865/a7b67a8fa349b93569eac50442eec11f.jpg",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png",
       "screenshots": [
-        "https://static.tildacdn.com/stor3636-3738-4134-b464-396532363865/a7b67a8fa349b93569eac50442eec11f.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/b2ee4bb116cbc638d085ccf6f8a70926e23a945810ef8696.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/0defaa05f3a37f4340975cb80cbd328462d6f9af93c115b0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/42738d3e42f78fab129efa703bd39b56c223d1e9aff488cd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/85f70c7da036a82417a2c4e9bf9dc6876320e22c25def9d9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/f8fc0bb33bb532fd955efc69f5206a487507361406213583.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/53835b4d3bd76248d5df4ea114f851da584ad3dee93170a5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/b63335ca9f101e01db8bc3a61e3941abfc4658e50f84f4d5.jpg"
       ],
       "description": "Покупка на ваш личный профиль СНГ Resident Evil Requiem Deluxe Edition Покупка\nДобавьте товар в корзину. После оплаты с вами связывается Админ для выполнения вашего заказа. Покупка игры происходит после входа в ваш СНГ Аккаунт - приготовьте данные заранее.\nЕсли нет СНГ профиля, сделаем новый БЕСПЛАТНО\nНа профиле должна быть установлена 2FA, если ее нет подскажем как установить. Если она есть, нужно будет приготовить два одноразовых кода.\nВремя оформления занимает около 15 минут.",
       "categories": [
         "Fortnite"
       ],
       "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
       "prices": {
         "p2": {
           "7": 0,
@@ -531,7 +697,14 @@
       "external_id": "sTMOz7MoYkHX5tvXRFAC",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/738838901932-resident-evil-requiem-deluxe-edition-pok",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": 4.9,
+      "release_date": "27/2/2026",
+      "publisher": "CE EUROPE LIMITED",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10015533",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png"
     },
     {
       "slug": "resident-evil-requiem-deluxe-edition-turtsiya-pokupka",
@@ -548,6 +721,9 @@
         "Fortnite"
       ],
       "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
       "prices": {
         "p2": {
           "7": 0,
@@ -567,7 +743,14 @@
       "external_id": "8tjPG9M6ZuKY3fvODl6s",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/869143830432-resident-evil-requiem-deluxe-edition-tur",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "sports-fc-26-dlya-ps4-i-ps5-pokupka",
@@ -589,6 +772,9 @@
         "Fortnite"
       ],
       "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
       "prices": {
         "p2": {
           "7": 0,
@@ -608,7 +794,14 @@
       "external_id": "H2EDLEx69beA5BnNtgFd",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/503688685882-sports-fc-26-dlya-ps4-i-ps5-pokupka",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "ufc-4-ps4-pokupka",
@@ -625,6 +818,9 @@
         "Fortnite"
       ],
       "platforms": "PS4",
+      "platform_ps4": true,
+      "platform_ps5": false,
+      "platforms_choice": false,
       "prices": {
         "p2": {
           "7": 0,
@@ -644,7 +840,14 @@
       "external_id": "FM49Tkxvit5ioLusbjxn",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/416506414162-ufc-4-ps4-pokupka",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "uncharted-the-nathan-drake-collection-pokupka",
@@ -652,15 +855,25 @@
       "mark": "",
       "price_from": 2104,
       "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor6365-3564-4763-b061-343763633436/82442852.jpg",
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1101/zC3kulm2Ho3ZE38ZUYHW7WMK.png",
       "screenshots": [
-        "https://static.tildacdn.com/stor6365-3564-4763-b061-343763633436/82442852.jpg"
+        "https://image.api.playstation.com/vulcan/img/rnd/202011/1101/zC3kulm2Ho3ZE38ZUYHW7WMK.png",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02344_00/FREE_CONTENTDv5NlNFKZG2ktpoJUTzA/1.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02344_00/FREE_CONTENTjqg0HrTu4yqztX18U7dM/2.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02344_00/FREE_CONTENTEm7Pap3Yw8RZPmZm4BKC/3.png",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02344_00/FREE_CONTENT2zUr325Ca4IcFEuoYruI/4.png",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02344_00/FREE_CONTENTLm00bW3SKnbUFsluEeUt/7.png",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02344_00/FREE_CONTENThjXFGnLEuei86ZqOX8Ag/8.png",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02344_00/FREE_CONTENT2fVHIYhJcd72Uv38IXOw/9.png"
       ],
       "description": "Покупка на ваш личный профиль Турции Uncharted: The Nathan Drake Collection Покупка\nДобавьте товар в корзину. После оплаты с вами связывается Админ для выполнения вашего заказа. Покупка игры происходит после входа в ваш Турецкий Аккаунт - приготовьте данные заранее.\nЕсли нет Турецкого профиля, сделаем новый + 750р\n(выбрать Нужен пустой Аккаунт)\nНа профиле должна быть установлена 2FA, если ее нет подскажем как установить. Если она есть, нужно будет приготовить два одноразовых кода.\nВремя оформления занимает около 15 минут.",
       "categories": [
         "Fortnite"
       ],
-      "platforms": "PS5",
+      "platforms": "PS4",
+      "platform_ps4": true,
+      "platform_ps5": false,
+      "platforms_choice": false,
       "prices": {
         "p2": {
           "7": 0,
@@ -680,7 +893,14 @@
       "external_id": "SMdJS5N7s2tOPJp7v497",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/354762464762-uncharted-the-nathan-drake-collection-po",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": 4.62,
+      "release_date": "7/10/2015",
+      "publisher": "Sony Interactive Entertainment",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/205353",
+      "edition_banner": "https://image.api.playstation.com/vulcan/img/rnd/202011/1101/zC3kulm2Ho3ZE38ZUYHW7WMK.png"
     },
     {
       "slug": "aktivatsiya-ps-plus-ps4-ps5",
@@ -698,6 +918,9 @@
         "Подписка Plus"
       ],
       "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
       "prices": {
         "p2": {
           "7": 0,
@@ -717,7 +940,14 @@
       "external_id": "N5hMnhlM5nNnHHI1ze0Y",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/812807024043-aktivatsiya-ps-plus-ps4ps5",
       "seo_title": "Как активировать подписку на Турецкий аккаунт, Активация PS plus",
-      "seo_descr": "Быстрая активация PS Plus с вашего баланса"
+      "seo_descr": "Быстрая активация PS Plus с вашего баланса",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "pustoy-akkaunt-dlya-playstation-ps4-ps5",
@@ -735,6 +965,9 @@
         "Продажа акаунтов пустых"
       ],
       "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
       "prices": {
         "p2": {
           "7": 0,
@@ -754,7 +987,14 @@
       "external_id": "ISK0BaEd875pnAP4EutP",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/918415887262-pustoi-akkaunt-dlya-playstation-ps4ps5",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "sluchaynaya-igra-1590r-ps4-ps5",
@@ -771,6 +1011,9 @@
         "Fortnite"
       ],
       "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
       "prices": {
         "p2": {
           "7": 0,
@@ -790,7 +1033,14 @@
       "external_id": "GT4cI9r0vSDT0BRSg8R3",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/788435200892-sluchainaya-igra-1590r-ps4ps5",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "sluchaynaya-igra-1990r-ps4-ps5",
@@ -807,6 +1057,9 @@
         "Fortnite"
       ],
       "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
       "prices": {
         "p2": {
           "7": 0,
@@ -826,7 +1079,14 @@
       "external_id": "b259Is1trj8jUhbuhgvv",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/801788829272-sluchainaya-igra-1990r-ps4ps5",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "sluchaynaya-igra-790r-ps4-ps5",
@@ -843,6 +1103,9 @@
         "Fortnite"
       ],
       "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
       "prices": {
         "p2": {
           "7": 0,
@@ -862,7 +1125,14 @@
       "external_id": "rDArS68Y3ED66VBJ6NSd",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/635127190162-sluchainaya-igra-790r-ps4ps5",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "sluchaynaya-igra-ot-250r-ps4-ps5",
@@ -879,6 +1149,9 @@
         "Fortnite"
       ],
       "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
       "prices": {
         "p2": {
           "7": 250,
@@ -898,7 +1171,14 @@
       "external_id": "dlBJzL6HgZZl71GpXbXp",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/595281540642-sluchainaya-igra-ot-250r-ps4ps5",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "sluchaynaya-igra-ot-350r-ps4-ps5",
@@ -915,6 +1195,9 @@
         "Fortnite"
       ],
       "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
       "prices": {
         "p2": {
           "7": 350,
@@ -934,7 +1217,14 @@
       "external_id": "usgfIHN9nM0tLNgs8Nhn",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/232068011132-sluchainaya-igra-ot-350r-ps4ps5",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "sng-elden-ring-shadow-of-the-erdtree-edition-ps4-amp-ps5-pokupka",
@@ -951,6 +1241,9 @@
         "Fortnite"
       ],
       "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
       "prices": {
         "p2": {
           "7": 0,
@@ -970,7 +1263,14 @@
       "external_id": "lp7oVnTE4p1mbXcFD0Dv",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/384289942002-sng-elden-ring-shadow-of-the-erdtree-edi",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "sng-ps-plus-deluxe-god",
@@ -988,6 +1288,9 @@
         "Подписка Plus"
       ],
       "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
       "prices": {
         "p2": {
           "7": 0,
@@ -1007,7 +1310,14 @@
       "external_id": "1zbGKuCRmHc1PiT9ozot",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/385111530232-sng-ps-plus-deluxe-god",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "sng-ps-plus-extra-god",
@@ -1025,6 +1335,9 @@
         "Подписка Plus"
       ],
       "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
       "prices": {
         "p2": {
           "7": 0,
@@ -1044,7 +1357,14 @@
       "external_id": "LbG1oXR6U3IczYpesfeC",
       "url": "http://arenapsgm.ru/cardplaystationnetwork/tproduct/191840177082-sng-ps-plus-extra-god",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     },
     {
       "slug": "sng-ps-plus-extra-p3-god",
@@ -1063,6 +1383,9 @@
         "Подписка Plus"
       ],
       "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
       "prices": {
         "p2": {
           "7": 0,
@@ -1082,7 +1405,14 @@
       "external_id": "LeFEmmnF0BpZ5nmbXRIL",
       "url": "http://arenapsgm.ru/p2p3/tproduct/191565418012-sng-ps-plus-extra-p3-god",
       "seo_title": "",
-      "seo_descr": ""
+      "seo_descr": "",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": ""
     }
   ]
 }
