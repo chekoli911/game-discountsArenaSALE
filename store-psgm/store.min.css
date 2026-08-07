@@ -4,12 +4,24 @@
 #arena-store .st-topbar{position:sticky;top:0;z-index:9500;width:100%;margin:0;border-radius:0!important;overflow:visible}
 #arena-store .st-shell{padding-top:0}
 #arena-store .st-main{padding-top:14px}
-#arena-store .st-menu{display:flex;flex-direction:column;padding-bottom:max(32px,calc(var(--safe-b) + 28px));-webkit-overflow-scrolling:touch;background:color-mix(in srgb,var(--bg-base) 88%,transparent)}
+#arena-store .st-menu{display:flex;flex-direction:column;padding-bottom:max(32px,calc(var(--safe-b) + 28px));-webkit-overflow-scrolling:touch;background:color-mix(in srgb,var(--bg-base) 88%,transparent);scrollbar-width:none;-ms-overflow-style:none}
+#arena-store .st-menu::-webkit-scrollbar{display:none;width:0;height:0}
 #arena-store .st-menu::before{background:linear-gradient(180deg,var(--glass-tint),color-mix(in srgb,var(--bg-base) 70%,transparent))}
 #arena-store .st-menu::after{content:none!important}
-#arena-store .st-menu__nav{flex:1;overflow-y:auto;overscroll-behavior:contain;padding-bottom:12px}
+#arena-store .st-menu__nav{flex:1;overflow-y:auto;overscroll-behavior:contain;padding-bottom:12px;scrollbar-width:none;-ms-overflow-style:none}
+#arena-store .st-menu__nav::-webkit-scrollbar{display:none;width:0;height:0}
+@media(min-width:900px){
+#arena-store .st-menu,#arena-store .st-menu__nav{scrollbar-width:none!important;-ms-overflow-style:none!important}
+#arena-store .st-menu::-webkit-scrollbar,#arena-store .st-menu__nav::-webkit-scrollbar{display:none!important;width:0!important;height:0!important}
+}
 #arena-store .st-menu__link{margin-bottom:8px}
 #arena-store .st-menu__foot{flex-shrink:0;height:12px}
+#arena-store .st-recs{margin:28px 0 8px;padding-top:8px}
+#arena-store .st-recs__title{margin:0 0 14px;font-size:1.05rem;font-weight:900;color:var(--text)}
+#arena-store .st-recs-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+@media(min-width:681px){#arena-store .st-recs-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}}
+@media(min-width:1000px){#arena-store .st-recs-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}}
+#arena-store .st-recs-grid .st-card{width:100%}
 #arena-store .st-detail__bar{position:sticky;top:0;z-index:40;margin:0 0 14px;padding:10px 0 12px;display:flex;align-items:center;gap:10px;background:linear-gradient(180deg,color-mix(in srgb,var(--bg-base) 92%,transparent) 55%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px)}
 #arena-store .st-promo{margin:12px 0 20px;overflow:hidden}
 #arena-store .st-promo__track{display:flex;gap:14px;width:max-content;animation:stPromo 40s linear infinite}
