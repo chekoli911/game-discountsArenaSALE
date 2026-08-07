@@ -1,0 +1,263 @@
+{
+  "updated_at": "2026-08-08T08:07:41Z",
+  "page_url": "https://arenapsgm.ru/",
+  "buy_url": "https://t.me/m/NrVGWXJpOGNi",
+  "total": 786,
+  "sections": [
+    {
+      "key": "preorders",
+      "title": "Предзаказы",
+      "file": "sections/preorders.json",
+      "count": 13,
+      "home": true,
+      "banner": true
+    },
+    {
+      "key": "header",
+      "title": "Шапка",
+      "file": "sections/header.json",
+      "count": 71,
+      "home": false,
+      "banner": true
+    },
+    {
+      "key": "novinki",
+      "title": "Новинки",
+      "file": "sections/novinki.json",
+      "count": 119,
+      "home": true,
+      "banner": false
+    },
+    {
+      "key": "action",
+      "title": "Боевики",
+      "file": "sections/action.json",
+      "count": 334,
+      "home": true,
+      "banner": false
+    },
+    {
+      "key": "adventure",
+      "title": "Приключения",
+      "file": "sections/adventure.json",
+      "count": 310,
+      "home": true,
+      "banner": false
+    },
+    {
+      "key": "shooters",
+      "title": "Шутеры",
+      "file": "sections/shooters.json",
+      "count": 130,
+      "home": true,
+      "banner": false
+    },
+    {
+      "key": "horror",
+      "title": "Хоррор",
+      "file": "sections/horror.json",
+      "count": 87,
+      "home": true,
+      "banner": false
+    },
+    {
+      "key": "rpg",
+      "title": "РПГ",
+      "file": "sections/rpg.json",
+      "count": 67,
+      "home": true,
+      "banner": false
+    },
+    {
+      "key": "sport",
+      "title": "Спорт",
+      "file": "sections/sport.json",
+      "count": 47,
+      "home": true,
+      "banner": false
+    },
+    {
+      "key": "racing",
+      "title": "Гонки",
+      "file": "sections/racing.json",
+      "count": 26,
+      "home": true,
+      "banner": false
+    },
+    {
+      "key": "coop",
+      "title": "Игры на двоих",
+      "file": "sections/coop.json",
+      "count": 69,
+      "home": true,
+      "banner": false
+    },
+    {
+      "key": "strategy",
+      "title": "Стратегии и симуляторы",
+      "file": "sections/strategy.json",
+      "count": 33,
+      "home": true,
+      "banner": false
+    },
+    {
+      "key": "platformers",
+      "title": "Платформеры",
+      "file": "sections/platformers.json",
+      "count": 27,
+      "home": true,
+      "banner": false
+    },
+    {
+      "key": "cinema",
+      "title": "Интерактивное кино",
+      "file": "sections/cinema.json",
+      "count": 28,
+      "home": true,
+      "banner": false
+    },
+    {
+      "key": "vr",
+      "title": "VR",
+      "file": "sections/vr.json",
+      "count": 14,
+      "home": true,
+      "banner": false
+    },
+    {
+      "key": "ps5",
+      "title": "Только PS5",
+      "file": "sections/ps5.json",
+      "count": 142,
+      "home": true,
+      "banner": false
+    },
+    {
+      "key": "fortnite",
+      "title": "Fortnite",
+      "file": "sections/fortnite.json",
+      "count": 29,
+      "home": false,
+      "banner": false
+    },
+    {
+      "key": "all",
+      "title": "Все игры",
+      "file": "sections/all.json",
+      "count": 584,
+      "home": false,
+      "banner": false
+    }
+  ],
+  "menu": [
+    {
+      "key": "preorders",
+      "title": "Предзаказы",
+      "count": 13
+    },
+    {
+      "key": "header",
+      "title": "Шапка",
+      "count": 71
+    },
+    {
+      "key": "novinki",
+      "title": "Новинки",
+      "count": 119
+    },
+    {
+      "key": "action",
+      "title": "Боевики",
+      "count": 334
+    },
+    {
+      "key": "adventure",
+      "title": "Приключения",
+      "count": 310
+    },
+    {
+      "key": "shooters",
+      "title": "Шутеры",
+      "count": 130
+    },
+    {
+      "key": "horror",
+      "title": "Хоррор",
+      "count": 87
+    },
+    {
+      "key": "rpg",
+      "title": "РПГ",
+      "count": 67
+    },
+    {
+      "key": "sport",
+      "title": "Спорт",
+      "count": 47
+    },
+    {
+      "key": "racing",
+      "title": "Гонки",
+      "count": 26
+    },
+    {
+      "key": "coop",
+      "title": "Игры на двоих",
+      "count": 69
+    },
+    {
+      "key": "strategy",
+      "title": "Стратегии и симуляторы",
+      "count": 33
+    },
+    {
+      "key": "platformers",
+      "title": "Платформеры",
+      "count": 27
+    },
+    {
+      "key": "cinema",
+      "title": "Интерактивное кино",
+      "count": 28
+    },
+    {
+      "key": "vr",
+      "title": "VR",
+      "count": 14
+    },
+    {
+      "key": "ps5",
+      "title": "Только PS5",
+      "count": 142
+    },
+    {
+      "key": "fortnite",
+      "title": "Fortnite",
+      "count": 29
+    },
+    {
+      "key": "all",
+      "title": "Все игры",
+      "count": 584
+    }
+  ],
+  "home_order": [
+    "preorders",
+    "novinki",
+    "action",
+    "adventure",
+    "shooters",
+    "horror",
+    "rpg",
+    "sport",
+    "racing",
+    "coop",
+    "strategy",
+    "platformers",
+    "cinema",
+    "vr",
+    "ps5"
+  ],
+  "brand": "Store PSGM",
+  "tagline": "аренда игр Playstation"
+}
