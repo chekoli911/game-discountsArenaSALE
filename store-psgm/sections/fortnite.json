@@ -1,7 +1,7 @@
 {
   "key": "fortnite",
   "title": "Fortnite",
-  "updated_at": "2026-08-08T09:37:18Z",
+  "updated_at": "2026-08-08T18:37:37Z",
   "games": [
     {
       "slug": "devil-may-cry-4-special-edition-pokupka",
@@ -29,18 +29,8 @@
       "platform_ps5": false,
       "platforms_choice": false,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "848181746742",
       "sku": "",
@@ -54,7 +44,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/200909",
-      "edition_banner": "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/zWuNF4pWS8Tjurl6kEJ2bhnxMabMLuEz.png"
+      "edition_banner": "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/zWuNF4pWS8Tjurl6kEJ2bhnxMabMLuEz.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "elden-ring-ps4-amp-ps5-pokupka",
@@ -75,18 +71,8 @@
       "platform_ps5": true,
       "platforms_choice": true,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "773978911972",
       "sku": "",
@@ -100,7 +86,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "elden-ring-shadow-of-the-erdtree-edition-ps4-amp-ps5-pokupka",
@@ -121,18 +113,8 @@
       "platform_ps5": true,
       "platforms_choice": true,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "591073745452",
       "sku": "",
@@ -146,7 +128,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "farming-simulator-22-ps4-ps5-pokupka",
@@ -172,18 +160,8 @@
       "platform_ps5": true,
       "platforms_choice": true,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "259221680862",
       "sku": "",
@@ -197,7 +175,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10001771",
-      "edition_banner": "https://image.api.playstation.com/vulcan/img/rnd/202107/0508/wg0gD2XINJXeJox3mrYSRoqA.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/img/rnd/202107/0508/wg0gD2XINJXeJox3mrYSRoqA.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "fortnite-1-000-v-bucks",
@@ -225,18 +209,8 @@
       "platform_ps5": true,
       "platforms_choice": false,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "956084581252",
       "sku": "",
@@ -250,7 +224,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "fortnite-13-500-v-bucks",
@@ -278,18 +258,8 @@
       "platform_ps5": true,
       "platforms_choice": false,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "911765763062",
       "sku": "",
@@ -303,7 +273,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "fortnite-2-800-v-bucks",
@@ -329,18 +305,8 @@
       "platform_ps5": true,
       "platforms_choice": false,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "290480570752",
       "sku": "",
@@ -354,7 +320,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "fortnite-5-000-v-bucks",
@@ -382,18 +354,8 @@
       "platform_ps5": true,
       "platforms_choice": false,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "837814207882",
       "sku": "",
@@ -407,7 +369,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "it-take-two-ps4-ps5-pokupka",
@@ -428,18 +396,8 @@
       "platform_ps5": true,
       "platforms_choice": true,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "113721017722",
       "sku": "",
@@ -453,7 +411,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "minecraft-ps4-ps5pokupka",
@@ -474,18 +438,8 @@
       "platform_ps5": true,
       "platforms_choice": true,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "508144858582",
       "sku": "",
@@ -499,7 +453,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "mortal-kombat-1-dopolnenie-gospodstvo-haosa-pokupka",
@@ -520,18 +480,8 @@
       "platform_ps5": true,
       "platforms_choice": false,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "858353884352",
       "sku": "",
@@ -545,7 +495,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "mortal-kombat-x-ps4-ps5-pokupka",
@@ -573,18 +529,8 @@
       "platform_ps5": false,
       "platforms_choice": false,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "825349292362",
       "sku": "",
@@ -598,7 +544,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/202943",
-      "edition_banner": "https://image.api.playstation.com/cdn/EP1018/CUSA00970_00/vdeZDZaLf8qImDoCzZSfyOrfHrds4hdp.png"
+      "edition_banner": "https://image.api.playstation.com/cdn/EP1018/CUSA00970_00/vdeZDZaLf8qImDoCzZSfyOrfHrds4hdp.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "nhl-26-ps5-pokupka",
@@ -626,18 +578,8 @@
       "platform_ps5": true,
       "platforms_choice": false,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "156049025622",
       "sku": "",
@@ -651,7 +593,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10012851",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2815/cddab006460e7a559bd92778208da9332500dbec19585c14.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2815/cddab006460e7a559bd92778208da9332500dbec19585c14.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "resident-evil-requiem-deluxe-edition-pokupka",
@@ -679,18 +627,8 @@
       "platform_ps5": true,
       "platforms_choice": false,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "738838901932",
       "sku": "",
@@ -704,7 +642,13 @@
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10015533",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "resident-evil-requiem-deluxe-edition-turtsiya-pokupka",
@@ -725,18 +669,8 @@
       "platform_ps5": true,
       "platforms_choice": false,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "869143830432",
       "sku": "",
@@ -750,7 +684,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "sports-fc-26-dlya-ps4-i-ps5-pokupka",
@@ -776,18 +716,8 @@
       "platform_ps5": true,
       "platforms_choice": true,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "503688685882",
       "sku": "",
@@ -801,7 +731,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "ufc-4-ps4-pokupka",
@@ -822,18 +758,8 @@
       "platform_ps5": false,
       "platforms_choice": false,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "416506414162",
       "sku": "",
@@ -847,7 +773,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "uncharted-the-nathan-drake-collection-pokupka",
@@ -875,18 +807,8 @@
       "platform_ps5": false,
       "platforms_choice": false,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "354762464762",
       "sku": "",
@@ -900,7 +822,13 @@
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/205353",
-      "edition_banner": "https://image.api.playstation.com/vulcan/img/rnd/202011/1101/zC3kulm2Ho3ZE38ZUYHW7WMK.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/img/rnd/202011/1101/zC3kulm2Ho3ZE38ZUYHW7WMK.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "aktivatsiya-ps-plus-ps4-ps5",
@@ -922,18 +850,8 @@
       "platform_ps5": true,
       "platforms_choice": true,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "812807024043",
       "sku": "",
@@ -947,7 +865,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "pustoy-akkaunt-dlya-playstation-ps4-ps5",
@@ -969,18 +893,8 @@
       "platform_ps5": true,
       "platforms_choice": true,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "918415887262",
       "sku": "",
@@ -994,7 +908,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "sluchaynaya-igra-1590r-ps4-ps5",
@@ -1015,18 +935,8 @@
       "platform_ps5": true,
       "platforms_choice": true,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "788435200892",
       "sku": "",
@@ -1040,7 +950,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "sluchaynaya-igra-1990r-ps4-ps5",
@@ -1061,18 +977,8 @@
       "platform_ps5": true,
       "platforms_choice": true,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "801788829272",
       "sku": "",
@@ -1086,7 +992,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "sluchaynaya-igra-790r-ps4-ps5",
@@ -1107,18 +1019,8 @@
       "platform_ps5": true,
       "platforms_choice": true,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "635127190162",
       "sku": "",
@@ -1132,7 +1034,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "sluchaynaya-igra-ot-250r-ps4-ps5",
@@ -1178,7 +1086,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "sluchaynaya-igra-ot-350r-ps4-ps5",
@@ -1224,7 +1138,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "sng-elden-ring-shadow-of-the-erdtree-edition-ps4-amp-ps5-pokupka",
@@ -1245,18 +1165,8 @@
       "platform_ps5": true,
       "platforms_choice": true,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "384289942002",
       "sku": "",
@@ -1270,7 +1180,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "sng-ps-plus-deluxe-god",
@@ -1292,18 +1208,8 @@
       "platform_ps5": true,
       "platforms_choice": false,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "385111530232",
       "sku": "",
@@ -1317,7 +1223,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "sng-ps-plus-extra-god",
@@ -1339,18 +1251,8 @@
       "platform_ps5": true,
       "platforms_choice": false,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "191840177082",
       "sku": "",
@@ -1364,55 +1266,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
-    },
-    {
-      "slug": "sng-ps-plus-extra-p3-god",
-      "title": "СНГ PS Plus Extra П3 год",
-      "mark": "",
-      "price_from": 5990,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor6536-6530-4438-a361-346231643566/0ef89154202abbcd1ec53c665e87f4d6.png",
-      "screenshots": [
-        "https://static.tildacdn.com/stor6536-6530-4438-a361-346231643566/0ef89154202abbcd1ec53c665e87f4d6.png"
-      ],
-      "description": "PS Plus Extra (П3 доступ) — 5990₽ / 12 месяцев\n✔ Онлайн и игры будут отлично работать с личного профиля\n✔ Подписка PS Plus Extra уже активна на нашем аккаунте\n✔ Доступ выдаётся сразу после оформления\n✔ Регион: СНГ\nВыдаем свой собственные профиль в пользование.\nПосле получения вы НЕ ИМЕЕТЕ ПРАВО МЕНЯТЬ почту, пароль, ник.\nЕсли вам нужен подписка по выгодной цене, выберите вариант:\n«П3 PS Plus 12 месяцев»\nПосле оформления заявки администратор свяжется с вами для выдачи данных.\n⏱ Время выдачи: 10–15 минут\nЕсли есть вопрос - писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "П2 и П3",
-        "Fortnite",
-        "Подписка Plus"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
-      },
-      "tilda_uid": "191565418012",
-      "sku": "",
-      "external_id": "LeFEmmnF0BpZ5nmbXRIL",
-      "url": "http://arenapsgm.ru/p2p3/tproduct/191565418012-sng-ps-plus-extra-p3-god",
-      "seo_title": "",
-      "seo_descr": "",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     }
   ]
 }
