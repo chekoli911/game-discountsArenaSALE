@@ -1,7 +1,7 @@
 {
   "key": "rpg",
   "title": "РПГ",
-  "updated_at": "2026-08-08T09:37:18Z",
+  "updated_at": "2026-08-08T18:37:37Z",
   "games": [
     {
       "slug": "a-i-l-a-aila-ps5",
@@ -62,13 +62,19 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "assassin-s-creed-black-flag-resynced-ps5",
       "title": "Assassin's Creed Black Flag Resynced PS5",
       "mark": "NEW",
-      "price_from": 1390,
+      "price_from": 990,
       "price_old": null,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/0962bc91a4952e6433367fcfec38b7e0655c6bd29b431712.png",
       "screenshots": [
@@ -96,6 +102,7 @@
       "platforms_choice": false,
       "prices": {
         "p2": {
+          "3": 990,
           "7": 1390,
           "14": 1490,
           "21": 1590,
@@ -120,7 +127,14 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/product/EP0001-PPSA28183_00-DELUXE0000000000",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/0962bc91a4952e6433367fcfec38b7e0655c6bd29b431712.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/0962bc91a4952e6433367fcfec38b7e0655c6bd29b431712.png",
+      "rent_days": [
+        3,
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "bo-path-of-the-teal-lotus-ps5",
@@ -178,7 +192,13 @@
       "voice": "",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10008977",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202405/0623/8d20c1dc5ec289ae38ed74c69fe86f5e284e92c3d61d121e.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202405/0623/8d20c1dc5ec289ae38ed74c69fe86f5e284e92c3d61d121e.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "cairn-ps5",
@@ -239,7 +259,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10014085",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2009/7c79fdb4b0dd99bf189d5fde6ad468635e14d03fc7819388.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2009/7c79fdb4b0dd99bf189d5fde6ad468635e14d03fc7819388.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "clair-obscur-expedition-33-ps5",
@@ -300,7 +326,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10008503",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2217/e5833a53529ff9879e87689f1e8b04d45ba7e6c97fa791e2.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2217/e5833a53529ff9879e87689f1e8b04d45ba7e6c97fa791e2.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "claws-of-awaji-assassin-s-creed-shadows-ps5",
@@ -360,7 +392,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "dispatch-ps5",
@@ -423,7 +461,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10013259",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0621/4fb935ea5e75490740d6726da42d05d953cb50a693188174.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0621/4fb935ea5e75490740d6726da42d05d953cb50a693188174.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "frostpunk-2-ps5",
@@ -484,7 +528,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10008442",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1014/d824c7f7e87c5256a40d4e87155152a61ed48da5caacf708.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1014/d824c7f7e87c5256a40d4e87155152a61ed48da5caacf708.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "gothic-1-remake-ps5",
@@ -542,7 +592,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/product/EP4389-PPSA09827_00-GOTHIC1REMAKE000",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0714/683bb359dcdc3856e433ebadaa56dde7fc04403cea152cf7.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0714/683bb359dcdc3856e433ebadaa56dde7fc04403cea152cf7.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "hollow-knight-silksong-ps4-ps5",
@@ -601,7 +657,13 @@
       "voice": "",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10005908",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2505/66f43d82a3d31493a2b3edec5359872e45c0c097115a9fbd.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2505/66f43d82a3d31493a2b3edec5359872e45c0c097115a9fbd.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "little-nightmares-iii-ps4-ps5",
@@ -660,13 +722,19 @@
       "voice": "",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10003713",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1512/2847939df260cbe4fd68ff4c36af6813da3590e0bef55ce6.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1512/2847939df260cbe4fd68ff4c36af6813da3590e0bef55ce6.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "middle-earth-shadow-of-war-ps4-ps5",
       "title": "Middle-earth: Shadow of War PS4/PS5",
       "mark": "NEW",
-      "price_from": 260,
+      "price_from": 250,
       "price_old": null,
       "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA04402_00/4/i_104ac8e1b4e4e700ac38bff7103b9a3625959a28797b01db7d9935cbebc51160/i/icon0.png",
       "screenshots": [
@@ -692,12 +760,14 @@
       "platforms_choice": false,
       "prices": {
         "p2": {
+          "1": 250,
           "7": 260,
           "14": 360,
           "21": 430,
           "28": 469
         },
         "p3": {
+          "1": 350,
           "7": 360,
           "14": 460,
           "21": 530,
@@ -716,7 +786,14 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/216695",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2600/WSkix0tJlfF141wAlSbZQCAb.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2600/WSkix0tJlfF141wAlSbZQCAb.png",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "path-of-exile-2-ps5",
@@ -780,13 +857,19 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10010602",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0521/ccddabd7901e62fd58b72cd0d0fafc45d4c58ab1ee2fffa0.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0521/ccddabd7901e62fd58b72cd0d0fafc45d4c58ab1ee2fffa0.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "persona-3-reload-ps4-ps5",
       "title": "Persona 3 Reload PS4/PS5",
       "mark": "NEW",
-      "price_from": 275,
+      "price_from": 250,
       "price_old": null,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2601/85487475426de191c3c100b47ddc61f77c515b513948272e.png",
       "screenshots": [
@@ -812,12 +895,14 @@
       "platforms_choice": true,
       "prices": {
         "p2": {
+          "1": 250,
           "7": 275,
           "14": 400,
           "21": 599,
           "28": 699
         },
         "p3": {
+          "1": 350,
           "7": 375,
           "14": 500,
           "21": 699,
@@ -836,13 +921,20 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10001555",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2807/5c56b94067d4469d428d6d259adb6f800b1193b04a396dae.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2807/5c56b94067d4469d428d6d259adb6f800b1193b04a396dae.png",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "reanimal-ps5",
       "title": "REANIMAL PS5",
       "mark": "NEW",
-      "price_from": 349,
+      "price_from": 257,
       "price_old": 689,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/3574955c64a46d1405b273ce98314c3e29b699be4ad12812.png",
       "screenshots": [
@@ -874,12 +966,16 @@
       "platforms_choice": false,
       "prices": {
         "p2": {
+          "1": 257,
+          "3": 339,
           "7": 349,
           "14": 423,
           "21": 587,
           "28": 695
         },
         "p3": {
+          "1": 350,
+          "3": 439,
           "7": 449,
           "14": 523,
           "21": 687,
@@ -898,13 +994,21 @@
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10010999",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2109/25422d8bda53b48e35f690b9d68590ab3f5eb4df8755c84f.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2109/25422d8bda53b48e35f690b9d68590ab3f5eb4df8755c84f.png",
+      "rent_days": [
+        1,
+        3,
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "starfield-ps5-na-russkom-yazyke",
       "title": "Starfield PS5 на Русском языке",
       "mark": "NEW",
-      "price_from": 739,
+      "price_from": 697,
       "price_old": null,
       "image_url": "https://static.tildacdn.com/stor3237-6631-4432-b462-383735613034/26c200ef6d6690c2e46f0d9353c53185.jpg",
       "screenshots": [
@@ -935,12 +1039,14 @@
       "platforms_choice": false,
       "prices": {
         "p2": {
+          "1": 697,
           "7": 739,
           "14": 1292,
           "21": 1444,
           "28": 1678
         },
         "p3": {
+          "1": 472,
           "7": 892,
           "14": 1092,
           "21": 1528,
@@ -959,7 +1065,14 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "the-alters-ps5",
@@ -1020,7 +1133,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10008217",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2515/ed6ddbde049f0d584a91e8a55720f780c1fee09fd73ad210.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2515/ed6ddbde049f0d584a91e8a55720f780c1fee09fd73ad210.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "xcom-2-collection-ps4-ps5",
@@ -1073,7 +1192,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "arc-raiders-ps5",
@@ -1131,7 +1256,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10003610",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1515/3ef1ea90a64952c060b797fde8602ee745c2e7c73277c4a5.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1515/3ef1ea90a64952c060b797fde8602ee745c2e7c73277c4a5.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "baldur-s-gate-3-tolko-ps5",
@@ -1200,7 +1331,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "bloodborne-goty-edition-ps4-ps5",
@@ -1255,7 +1392,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "bloodborne-ps4-ps5",
@@ -1313,7 +1456,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/200520",
-      "edition_banner": "https://image.api.playstation.com/vulcan/img/rnd/202011/2320/E3hXKQ8iL9BJtAT8gR9nmIMF.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/img/rnd/202011/2320/E3hXKQ8iL9BJtAT8gR9nmIMF.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "cat-quest-3-ps4-ps5",
@@ -1369,7 +1518,13 @@
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/234578",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1605/k3Muky7sjOFOSLIpwfQKeqrF.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1605/k3Muky7sjOFOSLIpwfQKeqrF.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "cyberpunk-2077-ps4-ps5",
@@ -1426,7 +1581,13 @@
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/234567",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "dark-souls-ii-scholar-of-the-first-sin-ps4-ps5",
@@ -1483,7 +1644,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/226237",
-      "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01589_00/4/i_4775fa4753de7530e6c4fa3e985e1869552054a23931b74414eac03cba388ed8/i/icon0.png"
+      "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01589_00/4/i_4775fa4753de7530e6c4fa3e985e1869552054a23931b74414eac03cba388ed8/i/icon0.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "dark-souls-iii-deluxe-edition-ps4-ps5",
@@ -1539,7 +1706,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/201190",
-      "edition_banner": "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/gSJkkVfpqk8qEp3fQglGcu3OLbXeHJ1W.png"
+      "edition_banner": "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/gSJkkVfpqk8qEp3fQglGcu3OLbXeHJ1W.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "dark-souls-iii-ps4-ps5",
@@ -1596,7 +1769,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/201190",
-      "edition_banner": "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/gSJkkVfpqk8qEp3fQglGcu3OLbXeHJ1W.png"
+      "edition_banner": "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/gSJkkVfpqk8qEp3fQglGcu3OLbXeHJ1W.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "dark-souls-remastered-ps4-ps5",
@@ -1650,7 +1829,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/229482",
-      "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08495_00/4/i_e1d39aec96b1583322c0c83a100142424b2dadd351510fcf0f2c3eed02830576/i/icon0.png"
+      "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08495_00/4/i_e1d39aec96b1583322c0c83a100142424b2dadd351510fcf0f2c3eed02830576/i/icon0.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "dayz-ps4-ps5",
@@ -1707,7 +1892,13 @@
       "voice": "",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/221850",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1014/ORrwkbfh9B1OwfQbPGLBsgs7.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1014/ORrwkbfh9B1OwfQbPGLBsgs7.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "death-stranding-2-on-the-beach",
@@ -1767,7 +1958,13 @@
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10001538",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2115/ae183c63bbeb38d05ecce96aa7f693b4a3769a1835020b63.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2115/ae183c63bbeb38d05ecce96aa7f693b4a3769a1835020b63.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "diablo-4-vessel-of-hatred-ps4-ps5",
@@ -1820,7 +2017,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "diablo-iv-ps5-ps4",
@@ -1873,7 +2076,13 @@
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/231761",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3017/Oo1B84A7BLCT157YFSxjtwG0.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3017/Oo1B84A7BLCT157YFSxjtwG0.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "diablo-prime-evil-collection-ps4-ps5",
@@ -1928,7 +2137,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "divinity-original-sin-2-definitive-edition-ps4-ps5",
@@ -1985,7 +2200,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/232084",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "dragon-s-dogma-2-ps5",
@@ -2042,7 +2263,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10005844",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0203/37bd2f7293cecbc4045d33578d487127ccaa1840eb15eeb5.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0203/37bd2f7293cecbc4045d33578d487127ccaa1840eb15eeb5.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "echoes-of-the-end-enhanced-edition-ps5",
@@ -2101,7 +2328,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10012310",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2815/700a1331c6df2182e0e42ff907b749c4fd6975570a90e874.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2815/700a1331c6df2182e0e42ff907b749c4fd6975570a90e874.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "elden-ring-ps4-ps5",
@@ -2134,13 +2367,11 @@
       "platforms_choice": true,
       "prices": {
         "p2": {
-          "7": 0,
           "14": 550,
           "21": 890,
           "28": 990
         },
         "p3": {
-          "7": 0,
           "14": 650,
           "21": 990,
           "28": 1090
@@ -2158,7 +2389,12 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10000333",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0Jz6uJLxOK7JOMMfcfHFBi1D.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0Jz6uJLxOK7JOMMfcfHFBi1D.png",
+      "rent_days": [
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "elden-ring-shadow-of-the-erdtree-ps4-ps5",
@@ -2190,13 +2426,11 @@
       "platforms_choice": true,
       "prices": {
         "p2": {
-          "7": 0,
           "14": 990,
           "21": 1390,
           "28": 2390
         },
         "p3": {
-          "7": 0,
           "14": 1090,
           "21": 1490,
           "28": 2490
@@ -2214,7 +2448,12 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "enotria-the-last-song-deluxe-edition-ps5",
@@ -2273,7 +2512,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10008826",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0214/b6aab4f9a6cf0940f15ecc4cdbe0de678e7d69eff632006d.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0214/b6aab4f9a6cf0940f15ecc4cdbe0de678e7d69eff632006d.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "indiana-jones-and-the-great-circle-ps5",
@@ -2332,7 +2577,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10012238",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1203/bac7ed51767fc46855424b4fbe42427cb6aee1bd06cab09b.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1203/bac7ed51767fc46855424b4fbe42427cb6aee1bd06cab09b.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "indiana-jones-and-the-great-circle-the-order-of-giants-dlc-ps5",
@@ -2391,7 +2642,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "kingdom-come-deliverance-ii-ps5",
@@ -2449,7 +2706,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10006210",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1208/05a84ce968125d79fa36484c5a756a1c8d9b05622aae21c1.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1208/05a84ce968125d79fa36484c5a756a1c8d9b05622aae21c1.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "lies-of-p-ps4-ps5",
@@ -2505,7 +2768,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10006052",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2308/06b354c8015b3c71e54f43aa883aab4641285d4a91734681.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2308/06b354c8015b3c71e54f43aa883aab4641285d4a91734681.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "like-a-dragon-infinite-wealth-ps4-ps5",
@@ -2559,7 +2828,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "mafia-the-old-country-ps5-new-price",
@@ -2618,7 +2893,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "marathon-standard-edition-ps5",
@@ -2677,7 +2958,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10008864",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202604/1319/f955c94773b5257d96b6e41859754312c2258ca0feba1e14.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202604/1319/f955c94773b5257d96b6e41859754312c2258ca0feba1e14.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "minecraft-dungeons-ps4-ps5",
@@ -2734,7 +3021,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10000378",
-      "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18779_00/4/i_c7b0467e8d83d7fa53d63d40a50e65e5da0edc39e07306e356cf5a6f2aba1977/i/icon0.png"
+      "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18779_00/4/i_c7b0467e8d83d7fa53d63d40a50e65e5da0edc39e07306e356cf5a6f2aba1977/i/icon0.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "minecraft-ps4-ps5",
@@ -2789,7 +3082,13 @@
       "voice": "",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/212779",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "monster-hunter-wilds-ps5",
@@ -2848,7 +3147,13 @@
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10005176",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0506/aa5c40ba185302dfcc88edc276a876fdc6c516c4db07ec9d.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0506/aa5c40ba185302dfcc88edc276a876fdc6c516c4db07ec9d.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "mortal-shell-ps4-ps5",
@@ -2904,7 +3209,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/234489",
-      "edition_banner": "https://image.api.playstation.com/vulcan/img/rnd/202103/0410/GKT3pw7UrRCWNOujHj38aIjv.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/img/rnd/202103/0410/GKT3pw7UrRCWNOujHj38aIjv.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "nioh-1-ps4-ps5",
@@ -2959,7 +3270,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "nioh-3-ps5",
@@ -3019,7 +3336,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10014010",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0401/835b207c01d1b02c29229e73fba0da13b914148c8b8bd4ed.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0401/835b207c01d1b02c29229e73fba0da13b914148c8b8bd4ed.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "nioh-collection-ps4-ps5-remastered",
@@ -3074,7 +3397,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "shadow-of-mordor-game-of-the-year-edition-ps4-ps5",
@@ -3129,7 +3458,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "skyrim-ps4-ps5",
@@ -3183,7 +3518,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "system-shock-ps4-ps5",
@@ -3236,7 +3577,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "terraria-ps4-ps5",
@@ -3290,7 +3637,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "the-elder-scrolls-v-skyrim-anniversary-edition-ps4-ps5",
@@ -3345,7 +3698,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "the-first-berserker-khazan-ps5",
@@ -3404,7 +3763,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10009937",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2604/78cf326a8cceaed3f4a807fe9e3f811abdfb5df96fe0cd06.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2604/78cf326a8cceaed3f4a807fe9e3f811abdfb5df96fe0cd06.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "the-last-faith-ps4-ps5",
@@ -3461,7 +3826,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10005554",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1102/70b8ca1f5df59bd0d14527d6635ba7a372d554632c9bf1a4.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1102/70b8ca1f5df59bd0d14527d6635ba7a372d554632c9bf1a4.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "the-outer-worlds-2-ps5",
@@ -3521,7 +3892,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10011796",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1609/a4fda8e001ee32a4f11cba7bac0c5bbeefc7cd47947ccff6.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1609/a4fda8e001ee32a4f11cba7bac0c5bbeefc7cd47947ccff6.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "the-outer-worlds-ps4-ps5",
@@ -3577,7 +3954,13 @@
       "voice": "",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/232817",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1919/jQt24M0we1Qj8M1uM1WqyPeA.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1919/jQt24M0we1Qj8M1uM1WqyPeA.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "the-outer-worlds-spacer-s-choice-edition-ps4-ps5",
@@ -3633,7 +4016,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10004825",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202208/3117/T8S5mhuuJH8h4tcQj8herpUO.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202208/3117/T8S5mhuuJH8h4tcQj8herpUO.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "the-witcher-3-wild-hunt-game-of-the-year-edition-ps4-ps5",
@@ -3688,7 +4077,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "vampyr-ps4-ps5",
@@ -3744,7 +4139,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/205200",
-      "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA03468_00/3/i_b53500af29886a40317286383edd4c0c960ea66a4ceef006051963f97dc7c2d1/i/icon0.png"
+      "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA03468_00/3/i_b53500af29886a40317286383edd4c0c960ea66a4ceef006051963f97dc7c2d1/i/icon0.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "wuchang-fallen-feathers-ps5",
@@ -3802,7 +4203,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10005853",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2515/7a30e03231f8ea811a225b4b4e21ffdc8bf260e41145f196.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2515/7a30e03231f8ea811a225b4b4e21ffdc8bf260e41145f196.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "arenda-ps-plus-ps4-ps5",
@@ -3850,13 +4257,33 @@
           "7": 565,
           "14": 782,
           "21": 1116,
-          "28": 1449
+          "28": 1449,
+          "42": 2053,
+          "60": 2898,
+          "75": 3536,
+          "90": 4140,
+          "105": 4709,
+          "120": 5244,
+          "135": 5744,
+          "150": 6210,
+          "165": 6641,
+          "180": 7038
         },
         "p3": {
           "7": 765,
           "14": 982,
           "21": 1316,
-          "28": 1649
+          "28": 1649,
+          "42": 2253,
+          "60": 3098,
+          "75": 3736,
+          "90": 4340,
+          "105": 4909,
+          "120": 5444,
+          "135": 5944,
+          "150": 6410,
+          "165": 6841,
+          "180": 7238
         }
       },
       "tilda_uid": "199915107972",
@@ -3871,7 +4298,23 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28,
+        42,
+        60,
+        75,
+        90,
+        105,
+        120,
+        135,
+        150,
+        165,
+        180
+      ]
     }
   ]
 }
