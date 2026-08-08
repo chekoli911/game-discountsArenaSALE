@@ -1,7 +1,7 @@
 {
   "key": "vr",
   "title": "VR",
-  "updated_at": "2026-08-08T09:37:18Z",
+  "updated_at": "2026-08-08T18:37:37Z",
   "games": [
     {
       "slug": "resident-evil-4-ps4-ps5",
@@ -59,7 +59,13 @@
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10004473",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "ace-combat-7-skies-unknown-ps4-ps5",
@@ -115,7 +121,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/221661",
-      "edition_banner": "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/NpgG4kzS0yD5HaWIimgQD1NYLqxDy5mj.png"
+      "edition_banner": "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/NpgG4kzS0yD5HaWIimgQD1NYLqxDy5mj.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "alien-rogue-incursion-vr-deluxe-ps5",
@@ -151,15 +163,9 @@
       "platforms_choice": false,
       "prices": {
         "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
           "28": 1632
         },
         "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
           "28": 1632
         }
       },
@@ -175,7 +181,10 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10004478",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1905/28fee925a09f7fac3ba9cf00bb0974df8c570c1e755ed0a9.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1905/28fee925a09f7fac3ba9cf00bb0974df8c570c1e755ed0a9.png",
+      "rent_days": [
+        28
+      ]
     },
     {
       "slug": "cities-vr-ps5",
@@ -231,7 +240,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "creed-rise-to-glory-ps4-ps5",
@@ -286,7 +301,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "five-nights-at-freddy-help-wanted-vr-ps4-ps5",
@@ -344,7 +365,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10009325",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/7d95ddedbe9879608de4724ff5ddf1daccf01a23a8b9bf59.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/7d95ddedbe9879608de4724ff5ddf1daccf01a23a8b9bf59.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "gran-turismo-7-ps4-ps5",
@@ -401,7 +428,13 @@
       "voice": "",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10000956",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0707/4c622dfa581566c2647bc907e5119cd375ce3a11c03e916e.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0707/4c622dfa581566c2647bc907e5119cd375ce3a11c03e916e.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "horizon-call-of-the-mountain-vr2-ps5",
@@ -457,7 +490,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "job-simulator-ps4-amp-ps5",
@@ -511,7 +550,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "no-man-s-sky-ps4-ps5",
@@ -566,7 +611,13 @@
       "voice": "Русский, Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/216600",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2714/107cd4a41110b3622a5e07959df3807ee61b1dd55d873674.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2714/107cd4a41110b3622a5e07959df3807ee61b1dd55d873674.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "phasmophobia-ps5",
@@ -624,7 +675,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10005673",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1214/9ec3be8acd540e2f84e7362cb492e8d53b93e8a7bea4cd5f.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1214/9ec3be8acd540e2f84e7362cb492e8d53b93e8a7bea4cd5f.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "resident-evil-village-gold-edition-ps4-ps5",
@@ -682,7 +739,13 @@
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/235235",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "skull-and-bones-ps5",
@@ -739,7 +802,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/225700",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/0c7ac434f7527fe28e0d4201db879d14438b8d409e456b86.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/0c7ac434f7527fe28e0d4201db879d14438b8d409e456b86.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "arenda-ps-plus-ps4-ps5",
@@ -787,13 +856,33 @@
           "7": 565,
           "14": 782,
           "21": 1116,
-          "28": 1449
+          "28": 1449,
+          "42": 2053,
+          "60": 2898,
+          "75": 3536,
+          "90": 4140,
+          "105": 4709,
+          "120": 5244,
+          "135": 5744,
+          "150": 6210,
+          "165": 6641,
+          "180": 7038
         },
         "p3": {
           "7": 765,
           "14": 982,
           "21": 1316,
-          "28": 1649
+          "28": 1649,
+          "42": 2253,
+          "60": 3098,
+          "75": 3736,
+          "90": 4340,
+          "105": 4909,
+          "120": 5444,
+          "135": 5944,
+          "150": 6410,
+          "165": 6841,
+          "180": 7238
         }
       },
       "tilda_uid": "199915107972",
@@ -808,7 +897,23 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28,
+        42,
+        60,
+        75,
+        90,
+        105,
+        120,
+        135,
+        150,
+        165,
+        180
+      ]
     }
   ]
 }
