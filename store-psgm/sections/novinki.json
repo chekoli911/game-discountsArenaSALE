@@ -1,7 +1,7 @@
 {
   "key": "novinki",
   "title": "Новинки",
-  "updated_at": "2026-08-08T18:53:45Z",
+  "updated_at": "2026-08-08T18:55:30Z",
   "games": [
     {
       "slug": "007-first-light-ps5",
@@ -5936,59 +5936,6 @@
       "rent_days": [
         1,
         3,
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "grand-theft-auto-vi-ultimate-edition-ps5",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "mark": "",
-      "price_from": 0,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/04c76fb93ac12cca381c9ae3b01ced760fcb9ffbd00bb296.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b3c84f0fb852eb9c6f42b2403f03682ae2e8aeb286445266.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a527b3d5d7613984e14facb01cb1193aa750a7969a5861c8.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/40e2c2955261bb6142f786b75b3182868f70e35de3413122.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/6ea734e2626b8279370536b3b5faecd5243d3022f080a76a.jpg"
-      ],
-      "description": "19.11.2026",
-      "categories": [
-        "GTA 6",
-        "Новинки",
-        "Все игры",
-        "Только PS5",
-        "Game Awards 2024"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {},
-        "p3": {}
-      },
-      "tilda_uid": "688605190782",
-      "sku": "",
-      "external_id": "FsRkumblLIo7iCtg2fT1",
-      "url": "http://arenapsgm.ru/newgame/tproduct/688605190782-grand-theft-auto-vi-ultimate-edition-ps5",
-      "seo_title": "GTA 6 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда GTA 6 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры GTA 6 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": null,
-      "release_date": "18/11/2026",
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/9f51f0ccdb65bd29c36a0907a738c2902a712f03e2fd6470.png",
-      "rent_days": [
         7,
         14,
         21,
