@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-08T18:53:45Z",
+  "updated_at": "2026-08-08T18:55:30Z",
   "page_url": "https://arenapsgm.ru/",
   "buy_url": "https://t.me/m/NrVGWXJpOGNi",
-  "total": 642,
+  "total": 641,
   "sections": [
     {
       "key": "preorders",
@@ -24,7 +24,7 @@
       "key": "novinki",
       "title": "Новинки",
       "file": "sections/novinki.json",
-      "count": 119,
+      "count": 118,
       "home": true,
       "banner": false
     },
@@ -128,7 +128,7 @@
       "key": "ps5",
       "title": "Только PS5",
       "file": "sections/ps5.json",
-      "count": 142,
+      "count": 141,
       "home": true,
       "banner": false
     },
@@ -144,7 +144,7 @@
       "key": "all",
       "title": "Все игры",
       "file": "sections/all.json",
-      "count": 584,
+      "count": 583,
       "home": false,
       "banner": false
     }
@@ -158,7 +158,7 @@
     {
       "key": "novinki",
       "title": "Новинки",
-      "count": 119
+      "count": 118
     },
     {
       "key": "action",
@@ -223,12 +223,12 @@
     {
       "key": "ps5",
       "title": "Только PS5",
-      "count": 142
+      "count": 141
     },
     {
       "key": "all",
       "title": "Все игры",
-      "count": 584
+      "count": 583
     }
   ],
   "home_order": [
