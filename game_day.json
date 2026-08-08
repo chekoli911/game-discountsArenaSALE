@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-07T12:20:43Z",
-  "server_time_utc": "2026-08-07T12:20:43Z",
+  "updated_at": "2026-08-08T12:21:23Z",
+  "server_time_utc": "2026-08-08T12:21:23Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-08T02:00:00Z",
-  "expires_at": "2026-08-08T02:00:00Z",
+  "next_rotation_at": "2026-08-09T02:00:00Z",
+  "expires_at": "2026-08-09T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-08T02:00:00Z"
+    "next_rotation_at": "2026-08-09T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "batman-rytsar-arkhema-ps4-ps5",
+      "title": "Batman: Рыцарь Аркхема PS4/PS5",
+      "description": "Бэтмен снова в Аркхеме - и это уже не просто приключение, а настоящий бой с самыми жуткими злодеями. Пугало вернулся, и теперь он собирает самых грозных врагов: Пингвина, Двуликого и Харли Квинн.  \n\nВот где всё становится настоящим - новый бэтмобиль в стиле Rocksteady, который настолько реалистичен, что ты будешь чувствовать каждый рывок, каждый поворот.  \n\nТы не просто смотришь - ты участвуешь в финале серии, где каждый ход важен, а эмоции - на максимуме.",
+      "image_url": "https://static.tildacdn.com/stor3538-3432-4331-b364-343837356239/48921692.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3538-3432-4331-b364-343837356239/48921692.jpg",
+        "https://static.tildacdn.com/stor6530-3434-4666-b733-656161633566/23908107.jpg",
+        "https://static.tildacdn.com/stor3066-3436-4638-a137-613736343635/94621614.jpg",
+        "https://static.tildacdn.com/stor6435-6361-4566-b334-373230613732/10210822.jpg",
+        "https://static.tildacdn.com/stor6566-3335-4866-b130-336635353362/44299402.jpg"
+      ],
+      "release_date": "",
+      "publisher": "",
+      "platforms": "",
+      "voice": "",
+      "text_translation": "",
+      "rating": null,
+      "store_url": "",
+      "tilda_uid": "927565750322",
+      "sku": "",
+      "external_id": "AH6OioNXxvOv5iNFa41A",
+      "url": "http://arenapsgm.ru/tproduct/927565750322-batman-ritsar-arkhema-ps4ps5",
+      "expires_at": "2026-08-09T02:00:00Z",
+      "published_at": "2026-08-08T12:21:23Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Бэтмен снова в Аркхеме - и теперь бой с Пингвином, Двуликим и Харли Квинн становится настоящим.  \nНовый бэтмобиль как из Rocksteady - реалистичный, динамичный, чувствительный до мелочей."
+    }
+  ],
+  "history": [
     {
       "slug": "the-crew-2-gold-edition-ps4-ps5",
       "title": "The Crew 2 Gold Edition PS4/PS5",
@@ -50,34 +101,31 @@
       "sku": "",
       "external_id": "H6i62V9udy6LjvuhOI3F",
       "url": "http://arenapsgm.ru/tproduct/689345727522-the-crew-2-gold-edition-ps4ps5",
-      "expires_at": "2026-08-08T02:00:00Z",
       "published_at": "2026-08-07T12:20:43Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "В The Crew 2 Gold Edition - гонки по всей Америке, как в фильме: от пустынь до морей.  \n\nНовые трассы, авто и события каждый сезон - сотни моделей, динамичные соревнования и приглашение до 7 друзей для командной игры."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "the-last-guardian-ps4-ps5",
       "title": "The last Guardian PS4/PS5",
