@@ -1,7 +1,7 @@
 {
   "key": "sport",
   "title": "Спорт",
-  "updated_at": "2026-08-08T09:37:18Z",
+  "updated_at": "2026-08-08T18:37:37Z",
   "games": [
     {
       "slug": "nba25-ps4-ps5",
@@ -56,7 +56,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "need-for-speed-2015-ps4-ps5",
@@ -110,7 +116,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "ufc-6-ps5",
@@ -167,7 +179,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/product/EP0006-PPSA23566_00-ULTIMATEEDITION0",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2216/83baec5746075ec3e379c096dfe68111095c91cb7139a633.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2216/83baec5746075ec3e379c096dfe68111095c91cb7139a633.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "undisputed-ps5",
@@ -224,7 +242,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10009297",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2409/3c1a52a8c2497b76cbd89813c9f8f0abe5d224a23fbc29ad.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2409/3c1a52a8c2497b76cbd89813c9f8f0abe5d224a23fbc29ad.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "assetto-corsa-competizione-ps4-ps5",
@@ -258,15 +282,9 @@
         "p2": {
           "7": 250,
           "14": 400,
-          "21": 700,
-          "28": 0
+          "21": 700
         },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p3": {}
       },
       "tilda_uid": "236077326402",
       "sku": "",
@@ -280,7 +298,12 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/234902",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2922/42a58ec7aff10990d3af0c968e9223b9f3b0e1aa7c516ae8.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2922/42a58ec7aff10990d3af0c968e9223b9f3b0e1aa7c516ae8.png",
+      "rent_days": [
+        7,
+        14,
+        21
+      ]
     },
     {
       "slug": "creed-rise-to-glory-ps4-ps5",
@@ -335,7 +358,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "dirt-5-ps4-ps5",
@@ -391,7 +420,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/234401",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2110/8ZEssUZl5TmCSdAV5C8mZuyY.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2110/8ZEssUZl5TmCSdAV5C8mZuyY.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "dirt-rally-ps4-ps5",
@@ -420,18 +455,8 @@
       "platform_ps5": true,
       "platforms_choice": true,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "397756498812",
       "sku": "",
@@ -445,7 +470,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "drift-ce-ps4-ps5",
@@ -501,7 +532,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10005462",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202312/2011/159a73262b5ae84eb770e4e6d8e5fa89f9b548b598e4824e.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202312/2011/159a73262b5ae84eb770e4e6d8e5fa89f9b548b598e4824e.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "expeditions-a-mudrunner-game-ps4-ps5",
@@ -555,7 +592,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "fc-24-ps4-ps5",
@@ -609,7 +652,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "fc-25-ps4-ps5",
@@ -685,7 +734,13 @@
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10009762",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "fifa-22-ultimate-edition-ps4-ps5",
@@ -738,7 +793,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "fifa-23-ps4-ps5",
@@ -791,7 +852,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "gran-turismo-7-ps4-ps5",
@@ -848,7 +915,13 @@
       "voice": "",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10000956",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0707/4c622dfa581566c2647bc907e5119cd375ce3a11c03e916e.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0707/4c622dfa581566c2647bc907e5119cd375ce3a11c03e916e.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "grid-legends-ps4-ps5",
@@ -904,7 +977,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10003002",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2213/9bCyljPZ6TYi3xMTpFywSmlZ.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2213/9bCyljPZ6TYi3xMTpFywSmlZ.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "nba-2k20-ps4-ps5",
@@ -959,7 +1038,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "https://store.playstation.com/en-tr/product/UP1001-PPSA35889_00-NBA2K27SUPERED00",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2913/4a31f711e2ff460cd44ad646983f36533278cea61f639be9.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2913/4a31f711e2ff460cd44ad646983f36533278cea61f639be9.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "nba-2k26-ps5",
@@ -1016,7 +1101,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10014149",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2509/ec1eec85d9130210701491db769cb9874cc09f6512ebca20.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2509/ec1eec85d9130210701491db769cb9874cc09f6512ebca20.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "nba23-ps4-ps5",
@@ -1044,18 +1135,8 @@
       "platform_ps5": true,
       "platforms_choice": true,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "727504858672",
       "sku": "",
@@ -1069,7 +1150,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "nba24-ps4-ps5",
@@ -1122,7 +1209,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "need-for-speed-heat-ps4-ps5",
@@ -1178,7 +1271,13 @@
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/234659",
-      "edition_banner": "https://image.api.playstation.com/vulcan/img/cfn/11307R87SrW3Yr7RA9ESXk5WOEB8ObJ6j7fbURaqaxjNbd_47opwybMB8knvffi9aySGNlrBopb6qS4YClmwt-IcDbcjDekI.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/img/cfn/11307R87SrW3Yr7RA9ESXk5WOEB8ObJ6j7fbURaqaxjNbd_47opwybMB8knvffi9aySGNlrBopb6qS4YClmwt-IcDbcjDekI.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "need-for-speed-payback-ps4-ps5",
@@ -1209,18 +1308,8 @@
       "platform_ps5": false,
       "platforms_choice": false,
       "prices": {
-        "p2": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p2": {},
+        "p3": {}
       },
       "tilda_uid": "592592072792",
       "sku": "",
@@ -1234,7 +1323,13 @@
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/223086",
-      "edition_banner": "https://image.api.playstation.com/cdn/EP0006/CUSA05986_00/fq3W9byQbpDBF4BjRiAVqOjJEKEwAJYg.png"
+      "edition_banner": "https://image.api.playstation.com/cdn/EP0006/CUSA05986_00/fq3W9byQbpDBF4BjRiAVqOjJEKEwAJYg.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "need-for-speed-rivals-ps4-ps5",
@@ -1290,7 +1385,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/203064",
-      "edition_banner": "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/KZnZ2EidOuCPVhQlO17U1noSkMhlNVIr.png"
+      "edition_banner": "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/KZnZ2EidOuCPVhQlO17U1noSkMhlNVIr.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "need-for-speed-unbound-ps5",
@@ -1346,7 +1447,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10001269",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2212/wN4mS0adbyqFvKLTTgdBor67.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2212/wN4mS0adbyqFvKLTTgdBor67.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "nhl-2023-ps4-ps5",
@@ -1399,7 +1506,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "nhl-2024-ps4-ps5",
@@ -1451,7 +1564,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10006500",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2612/45455844ea8256d301d894d41a007a291c000afee1df1638.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2612/45455844ea8256d301d894d41a007a291c000afee1df1638.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "nhl-25-ps5",
@@ -1505,7 +1624,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10009268",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2421/c883f4e356e96f400081c0294301957bde24cca6b4aa7e84.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2421/c883f4e356e96f400081c0294301957bde24cca6b4aa7e84.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "riders-republic-ps4-ps5",
@@ -1561,7 +1686,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10000459",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1815/dc19bc0b8295173ca95d4f1872dc734413c6b527e55bd4f7.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1815/dc19bc0b8295173ca95d4f1872dc734413c6b527e55bd4f7.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "session-skate-sim-ps4-ps5",
@@ -1614,7 +1745,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "street-fighter-6-ps5",
@@ -1671,7 +1808,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10001615",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "tekken-8-ps5",
@@ -1728,7 +1871,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10006270",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0312/aff71a0ced271048f5079b1fcf715bcb45110efc13e9704a.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0312/aff71a0ced271048f5079b1fcf715bcb45110efc13e9704a.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "tennis-world-tour-2-ps4-ps5",
@@ -1780,7 +1929,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "the-crew-2-gold-edition-ps4-ps5",
@@ -1836,7 +1991,13 @@
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/227552",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2708/28833b618429cfe5f65d24ea11933ae62e3308ea7d2015be.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2708/28833b618429cfe5f65d24ea11933ae62e3308ea7d2015be.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "the-crew-motorfest-ps4-ps5",
@@ -1892,7 +2053,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10002313",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2217/aff7ae0da202d816a5761fd4ce865085320052f46223c770.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2217/aff7ae0da202d816a5761fd4ce865085320052f46223c770.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "tony-hawk-s-pro-skater-1-2-ps4-ps5",
@@ -1947,7 +2114,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/235168",
-      "edition_banner": "https://image.api.playstation.com/vulcan/img/rnd/202009/0219/witS8C6Rswg5cINrjBdGdZXA.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/img/rnd/202009/0219/witS8C6Rswg5cINrjBdGdZXA.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "topspin-2k25-ps4-ps5",
@@ -2003,7 +2176,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10004708",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0619/b9cfd4a50d5a87a891c05be6f3e2f107f066d76e8a88dcb6.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0619/b9cfd4a50d5a87a891c05be6f3e2f107f066d76e8a88dcb6.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "ufc-3-ps4-ps5",
@@ -2058,7 +2237,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "ufc-4-ps4-ps5",
@@ -2116,7 +2301,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "ufc-5-ps5",
@@ -2171,7 +2362,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10002788",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0421/418704276d35ce02e8cb532c6ca3826cf866ad2ec66c0b17.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0421/418704276d35ce02e8cb532c6ca3826cf866ad2ec66c0b17.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "ultimate-ea-sports-fc-26-dlya-ps4-ps5",
@@ -2226,7 +2423,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "virtua-fighter-5-ultimate-showdown-ps4-ps5",
@@ -2281,7 +2484,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10000743",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0905/gnQrpmFYp0v8twHj6Zrhn3gs.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0905/gnQrpmFYp0v8twHj6Zrhn3gs.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "wrc-9-ps4-ps5",
@@ -2335,7 +2544,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "wreckfest-ps4-ps5",
@@ -2391,7 +2606,13 @@
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/227252",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0701/QLkNVmB04gcLj8rRB5aWTR2G.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0701/QLkNVmB04gcLj8rRB5aWTR2G.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "wwe-22-ps4-ps5",
@@ -2447,7 +2668,13 @@
       "voice": "Английский",
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10015300",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2716/a1a698c1912cbafeaec1744f804491492af00a1c359d5806.png"
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2716/a1a698c1912cbafeaec1744f804491492af00a1c359d5806.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "wwe-23-ps4-ps5",
@@ -2501,7 +2728,13 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
     },
     {
       "slug": "wwe-2k-battlegrounds-digital-deluxe-ps4-ps5",
@@ -2533,15 +2766,9 @@
         "p2": {
           "7": 250,
           "14": 400,
-          "21": 700,
-          "28": 0
+          "21": 700
         },
-        "p3": {
-          "7": 0,
-          "14": 0,
-          "21": 0,
-          "28": 0
-        }
+        "p3": {}
       },
       "tilda_uid": "634893753512",
       "sku": "",
@@ -2555,7 +2782,12 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21
+      ]
     },
     {
       "slug": "arenda-ps-plus-ps4-ps5",
@@ -2603,13 +2835,33 @@
           "7": 565,
           "14": 782,
           "21": 1116,
-          "28": 1449
+          "28": 1449,
+          "42": 2053,
+          "60": 2898,
+          "75": 3536,
+          "90": 4140,
+          "105": 4709,
+          "120": 5244,
+          "135": 5744,
+          "150": 6210,
+          "165": 6641,
+          "180": 7038
         },
         "p3": {
           "7": 765,
           "14": 982,
           "21": 1316,
-          "28": 1649
+          "28": 1649,
+          "42": 2253,
+          "60": 3098,
+          "75": 3736,
+          "90": 4340,
+          "105": 4909,
+          "120": 5444,
+          "135": 5944,
+          "150": 6410,
+          "165": 6841,
+          "180": 7238
         }
       },
       "tilda_uid": "199915107972",
@@ -2624,7 +2876,23 @@
       "voice": "",
       "text_translation": "",
       "store_url": "",
-      "edition_banner": ""
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28,
+        42,
+        60,
+        75,
+        90,
+        105,
+        120,
+        135,
+        150,
+        165,
+        180
+      ]
     }
   ]
 }
