@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-08T12:21:23Z",
-  "server_time_utc": "2026-08-08T12:21:23Z",
+  "updated_at": "2026-08-09T12:22:02Z",
+  "server_time_utc": "2026-08-09T12:22:02Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-09T02:00:00Z",
-  "expires_at": "2026-08-09T02:00:00Z",
+  "next_rotation_at": "2026-08-10T02:00:00Z",
+  "expires_at": "2026-08-10T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-09T02:00:00Z"
+    "next_rotation_at": "2026-08-10T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "terraria-ps4-ps5",
+      "title": "Terraria PS4/PS5",
+      "description": "Судьба мира - в ваших руках. Выживайте, драться, строить и пытать себя в боях или в мечтах о великих городах.  \n\nТеррария теперь ещё больше: появилось обновление «Любовь к работе» - новая свобода для творчества и привычной работы с предметами.  \n\nБолее 5000 предметов, 25 неигровых персонажей, 400 врагов - всё это в одном мире, где каждый кусок земли может стать началом чего-то великого.  \n\nАрендовать игру - напиши @ArenaPSGMadmin 📩",
+      "image_url": "https://static.tildacdn.com/stor6466-3531-4436-b164-643766333966/21873286.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202601/1914/74f7a8e7dbcc43a37650f244a74c132dedb6ffd97a3ffe2d.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202601/1914/d287b7caf455a69e7181b369613e3ebf5901d476bd0ac4bc.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202601/1914/c50b6ae11c60e4011ea7e847ad7a00f8738e13056d902d2b.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202601/1914/a7c544102fd3393681286e5485265d39a5e15401f6802f53.jpeg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2014/nByY3U3qGpSYqy7U5LiyhwW0.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2014/rC6IMh2WiJwBe8S2qGjEoRwX.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2014/o92E0g4kjP39bMBzaA5kyQRD.jpg"
+      ],
+      "release_date": "12/11/2014",
+      "publisher": "505 GAMES S.R.L.",
+      "platforms": "PS4",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.51,
+      "store_url": "https://store.playstation.com/en-tr/concept/205080",
+      "tilda_uid": "499878361602",
+      "sku": "",
+      "external_id": "DnIYS5fVmYuaRx7ytuhN",
+      "url": "http://arenapsgm.ru/tproduct/499878361602-terraria-ps4ps5",
+      "expires_at": "2026-08-10T02:00:00Z",
+      "published_at": "2026-08-09T12:22:02Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Судьба мира - в ваших руках. Выживайте, боритесь и стройте - мир ждёт вас.\n\nТеррария обновлена: свобода творчества, 5000 предметов и 400 врагов - всё это в одном мире."
+    }
+  ],
+  "history": [
     {
       "slug": "batman-rytsar-arkhema-ps4-ps5",
       "title": "Batman: Рыцарь Аркхема PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "AH6OioNXxvOv5iNFa41A",
       "url": "http://arenapsgm.ru/tproduct/927565750322-batman-ritsar-arkhema-ps4ps5",
-      "expires_at": "2026-08-09T02:00:00Z",
       "published_at": "2026-08-08T12:21:23Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Бэтмен снова в Аркхеме - и теперь бой с Пингвином, Двуликим и Харли Квинн становится настоящим.  \nНовый бэтмобиль как из Rocksteady - реалистичный, динамичный, чувствительный до мелочей."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "the-crew-2-gold-edition-ps4-ps5",
       "title": "The Crew 2 Gold Edition PS4/PS5",
