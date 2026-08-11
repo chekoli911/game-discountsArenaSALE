@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-10T12:22:49Z",
-  "server_time_utc": "2026-08-10T12:22:49Z",
+  "updated_at": "2026-08-11T12:23:28Z",
+  "server_time_utc": "2026-08-11T12:23:28Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-11T02:00:00Z",
-  "expires_at": "2026-08-11T02:00:00Z",
+  "next_rotation_at": "2026-08-12T02:00:00Z",
+  "expires_at": "2026-08-12T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-11T02:00:00Z"
+    "next_rotation_at": "2026-08-12T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "devil-may-cry-5-special-edition-ps4-ps5",
+      "title": "Devil May Cry 5 Special Edition PS4/PS5",
+      "description": "Devil May Cry возвращается - и с силой!  \nПредставляем Вергилия, брата Данте и его заклятого врага. Добавляет новый уровень адреналина и драматики в каждый бой.\n\nНовый режим «Легендарный темный рыцарь» - сражайся с ордами врагов, как в пике хитрости и ужаса.  \nА «Турбо-режим» поднимает скорость игры в 1,2 раза - идеально для тех, кто не хочет ждать.  \n\nГрафика рвётся на новый уровень: трассировка лучей и повышенная частота кадров делают мир DMC5 ещё более реальным и живым.  \nВсё это - благодаря мощи PS5.  \n\nПримечание: некоторые трофеи недоступны при игре за Вергилия.",
+      "image_url": "https://static.tildacdn.com/stor3030-3530-4666-b732-326361633838/57248760.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/1mvGQmDQ1p6k5X7LWiVxuoe0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/8oopBIEtJbymMaExE7d2gPN9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/Z3QwI65T0jUHkwoBQNRIJyIK.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/Jkg12v5kirjIagAxC7QJal4k.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/MriX5c1cc575IOsitnBnWkb8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/NpQjQA6vmUZnNY3dlrFwFg5v.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/C1uCUulanEG7LTPP45Ac11ql.jpg"
+      ],
+      "release_date": "12/11/2020",
+      "publisher": "CE EUROPE LIMITED",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.77,
+      "store_url": "https://store.playstation.com/en-tr/concept/227315",
+      "tilda_uid": "972215926052",
+      "sku": "",
+      "external_id": "ZCAAi1YdMlTdzFbrtr0h",
+      "url": "http://arenapsgm.ru/tproduct/972215926052-devil-may-cry-5-special-edition-ps4ps5",
+      "expires_at": "2026-08-12T02:00:00Z",
+      "published_at": "2026-08-11T12:23:28Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Devil May Cry возвращается - с Вергилием, братом Данте и новыми уровнями хаоса.  \nБольше скорости, драмы и огня - режимы «Турбо» и «Легендарный темный рыцарь», глянцевая графика и мощь PS5."
+    }
+  ],
+  "history": [
     {
       "slug": "forspoken-ps5",
       "title": "Forspoken PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "DJUZs0ZHaGXnNm0oseSD",
       "url": "http://arenapsgm.ru/tproduct/969151632492-forspoken-ps5",
-      "expires_at": "2026-08-11T02:00:00Z",
       "published_at": "2026-08-10T12:22:49Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 280,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 380,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 280,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Фрей - новая жительница Атии, которая бежит через леса, горы и бездны, чтобы добраться домой.  \n\nМистические пейзажи, чудовища и магия - всё в игре. Выбираешь: прыжки или контроль - твой стиль определяет весь путь."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "terraria-ps4-ps5",
       "title": "Terraria PS4/PS5",
