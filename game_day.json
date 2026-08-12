@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-11T12:23:28Z",
-  "server_time_utc": "2026-08-11T12:23:28Z",
+  "updated_at": "2026-08-12T12:24:11Z",
+  "server_time_utc": "2026-08-12T12:24:11Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-12T02:00:00Z",
-  "expires_at": "2026-08-12T02:00:00Z",
+  "next_rotation_at": "2026-08-13T02:00:00Z",
+  "expires_at": "2026-08-13T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-12T02:00:00Z"
+    "next_rotation_at": "2026-08-13T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "mad-max-ps4-ps5",
+      "title": "Mad Max PS4/PS5",
+      "description": "Стань Безумным Максом - одиночным волком в мире, где всё сжигается и только машины остаются.  \n\nВ пустыне, где бандиты шатают тоннели, а дождь - это лишь мимо, ты будешь бороться - на колёсах и на руках. Драться, убегать, ремонтировать машину - всё для выживания в этом безумном мире.  \n\nМакс не боится. Он просто хочет найти покой в таинственной «Безмолвной Равнине» - и ты тоже можешь попробовать пройти путь поиска, где каждый шаг - бой.  \n\nИгра с адреналином, мистикой и настоящим героизмом. Просто включи и рвёшься в Пустыню.",
+      "image_url": "https://static.tildacdn.com/stor3962-3362-4965-b861-333837343839/84044297.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00054_00/FREE_CONTENTygQPeBAHPBEUFCKdkOjH/Mad_Max_01.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00054_00/FREE_CONTENT3YLvadN34caxtrnSD6cy/Mad_Max_02.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00054_00/FREE_CONTENTQXAzFvErJOonVONJ6cT6/Mad_Max_03.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00054_00/FREE_CONTENTZvl7ZfY9imxNjmTO4Ikd/Mad_Max_04.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00054_00/FREE_CONTENTI2hBRteo7njtdobaV1Q3/Mad_Max_05.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00054_00/FREE_CONTENTm4Q2GwYUyjGR2kEAVMgc/Mad_Max_06.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00054_00/FREE_CONTENT8IlkvIntjqOMrMphZcmD/Mad_Max_07.jpg"
+      ],
+      "release_date": "1/9/2015",
+      "publisher": "WARNER BROS. INTERACTIVE",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.47,
+      "store_url": "https://store.playstation.com/en-tr/concept/202765",
+      "tilda_uid": "437217874432",
+      "sku": "",
+      "external_id": "PBXe0r1UPaen0lfJPnxr",
+      "url": "http://arenapsgm.ru/tproduct/437217874432-mad-max-ps4ps5",
+      "expires_at": "2026-08-13T02:00:00Z",
+      "published_at": "2026-08-12T12:24:11Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Стань Безумным Максом - волком в мире, где машины остаются, а всё сжигается.  \n\nБегай, драться, ремонтируй - на колёсах и на руках. Путь к покое в «Безмолвной Равнине» начинается с первого шага."
+    }
+  ],
+  "history": [
     {
       "slug": "devil-may-cry-5-special-edition-ps4-ps5",
       "title": "Devil May Cry 5 Special Edition PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "ZCAAi1YdMlTdzFbrtr0h",
       "url": "http://arenapsgm.ru/tproduct/972215926052-devil-may-cry-5-special-edition-ps4ps5",
-      "expires_at": "2026-08-12T02:00:00Z",
       "published_at": "2026-08-11T12:23:28Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Devil May Cry возвращается - с Вергилием, братом Данте и новыми уровнями хаоса.  \nБольше скорости, драмы и огня - режимы «Турбо» и «Легендарный темный рыцарь», глянцевая графика и мощь PS5."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "forspoken-ps5",
       "title": "Forspoken PS5",
