@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-12T12:24:11Z",
-  "server_time_utc": "2026-08-12T12:24:11Z",
+  "updated_at": "2026-08-13T12:24:50Z",
+  "server_time_utc": "2026-08-13T12:24:50Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-13T02:00:00Z",
-  "expires_at": "2026-08-13T02:00:00Z",
+  "next_rotation_at": "2026-08-14T02:00:00Z",
+  "expires_at": "2026-08-14T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-13T02:00:00Z"
+    "next_rotation_at": "2026-08-14T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "dragon-age-na-strazhe-zavesy-ps5",
+      "title": "Dragon Age: На страже Завесы PS5",
+      "description": "Город, леса, тайны - и два древних бога, которые не хотят жить в покое.  \n\nВам нужно стать Руком - героем, который выбирает свою судьбу. Пусть это будет кем угодно: бойцом, магом или лидером.  \n\nСобирайте команду из семи соратников - каждый со своей историей и целью. Вместе вы станете Стражей Завесы и начнёте сопротивляться разрушению мира.  \n\nВ «Dragon Age: На страже Завесы» - не просто игра, а настоящая ролевая история, где каждый шаг влияет на мир и людей вокруг.  \n\nАрендуем? Напиши в чат 📩 @ArenaPSGMadmin",
+      "image_url": "https://static.tildacdn.com/stor3139-6131-4037-a131-356536623131/67575235.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3139-6131-4037-a131-356536623131/67575235.jpg",
+        "https://static.tildacdn.com/stor6334-6264-4165-b139-356633393432/16498465.jpg",
+        "https://static.tildacdn.com/stor3734-3037-4837-b161-666533653332/64643583.jpg",
+        "https://static.tildacdn.com/stor3566-3834-4234-b234-353832616438/98238716.jpg",
+        "https://static.tildacdn.com/stor6634-6664-4637-b662-336233366230/93918795.jpg"
+      ],
+      "release_date": "",
+      "publisher": "",
+      "platforms": "",
+      "voice": "",
+      "text_translation": "",
+      "rating": null,
+      "store_url": "",
+      "tilda_uid": "407741917022",
+      "sku": "",
+      "external_id": "dRmsDElAlT4KN547xHn0",
+      "url": "http://arenapsgm.ru/newgame/tproduct/407741917022-dragon-age-na-strazhe-zavesi-ps5",
+      "expires_at": "2026-08-14T02:00:00Z",
+      "published_at": "2026-08-13T12:24:50Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Город, леса, тайны - и два бога, которые не спят.  \nСтань Руком: выбери свою роль, собери семерку, защити мир."
+    }
+  ],
+  "history": [
     {
       "slug": "mad-max-ps4-ps5",
       "title": "Mad Max PS4/PS5",
@@ -50,34 +101,31 @@
       "sku": "",
       "external_id": "PBXe0r1UPaen0lfJPnxr",
       "url": "http://arenapsgm.ru/tproduct/437217874432-mad-max-ps4ps5",
-      "expires_at": "2026-08-13T02:00:00Z",
       "published_at": "2026-08-12T12:24:11Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Стань Безумным Максом - волком в мире, где машины остаются, а всё сжигается.  \n\nБегай, драться, ремонтируй - на колёсах и на руках. Путь к покое в «Безмолвной Равнине» начинается с первого шага."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "devil-may-cry-5-special-edition-ps4-ps5",
       "title": "Devil May Cry 5 Special Edition PS4/PS5",
