@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-13T12:24:50Z",
-  "server_time_utc": "2026-08-13T12:24:50Z",
+  "updated_at": "2026-08-14T12:25:35Z",
+  "server_time_utc": "2026-08-14T12:25:35Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-14T02:00:00Z",
-  "expires_at": "2026-08-14T02:00:00Z",
+  "next_rotation_at": "2026-08-15T02:00:00Z",
+  "expires_at": "2026-08-15T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-14T02:00:00Z"
+    "next_rotation_at": "2026-08-15T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "serious-sam-collection-ps4-ps5",
+      "title": "Serious Sam Collection PS4/PS5",
+      "description": "Герой экшена «Крутого» Сэма Стоуна возвращается - с дробовиками, лазерами и пушкой, чтобы уничтожить инопланетных врагов в самых бешеных сценах: от руин Египта до арен Южной Америки.  \n\nСражайтесь как в фильме - одиночно или в команде. До 16 игроков онлайн, или вместе с друзьями локально. Всё это - в кампаниях и режимах выживания.  \n\nИгра включает в себя три главных издания Serious Sam HD и Serious Sam 3, в том числе бонусы The Legend of the Beast и Jewel of the Nile.  \n\nГотовы к взрывам? Взять в аренду - просто и без лишних слов.",
+      "image_url": "https://static.tildacdn.com/stor6361-6261-4134-a237-376161636638/35936347.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202011/0423/BAzVYpuTHTrnLHoOgP7ish1K.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202011/0423/CZEkRIMCJ0dgf13ETCTDbad6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202011/0423/Or4yD2drYMem62HzfwfK8F32.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202011/0423/ur5WspdXWYhq643F0B7kals4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202011/0423/FGPq3NygYReDyHtp1sMCP1ov.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202011/0423/HWMHUohuh2Hmj6lIKkV58iRQ.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202011/0423/TmcvE2Is0YQUKJI43OToK1k8.jpg"
+      ],
+      "release_date": "17/11/2020",
+      "publisher": "Devolver Digital",
+      "platforms": "PS4",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.4,
+      "store_url": "https://store.playstation.com/en-tr/concept/204506",
+      "tilda_uid": "727101110352",
+      "sku": "",
+      "external_id": "UGJpei37TxRx0147FnbB",
+      "url": "http://arenapsgm.ru/tproduct/727101110352-serious-sam-collection-ps4ps5",
+      "expires_at": "2026-08-15T02:00:00Z",
+      "published_at": "2026-08-14T12:25:35Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Сэм Стоун с дробовиками и пушкой возвращается - бьёт инопланетников от Египта до Южной Америки.  \n\nОдиночные или командные бои, 16 игроков онлайн или локально - кампании, выживание и бонусы включены."
+    }
+  ],
+  "history": [
     {
       "slug": "dragon-age-na-strazhe-zavesy-ps5",
       "title": "Dragon Age: На страже Завесы PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "dRmsDElAlT4KN547xHn0",
       "url": "http://arenapsgm.ru/newgame/tproduct/407741917022-dragon-age-na-strazhe-zavesi-ps5",
-      "expires_at": "2026-08-14T02:00:00Z",
       "published_at": "2026-08-13T12:24:50Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 350,
+          "14": 400,
+          "21": 590,
+          "28": 695
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 450,
+          "14": 500,
+          "21": 690,
+          "28": 795
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 350,
+        "14": 400,
+        "21": 590,
+        "28": 695
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Город, леса, тайны - и два бога, которые не спят.  \nСтань Руком: выбери свою роль, собери семерку, защити мир."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "mad-max-ps4-ps5",
       "title": "Mad Max PS4/PS5",
