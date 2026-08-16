@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-15T12:30:41Z",
-  "server_time_utc": "2026-08-15T12:30:41Z",
+  "updated_at": "2026-08-16T11:59:18Z",
+  "server_time_utc": "2026-08-16T11:59:18Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-16T02:00:00Z",
-  "expires_at": "2026-08-16T02:00:00Z",
+  "next_rotation_at": "2026-08-17T02:00:00Z",
+  "expires_at": "2026-08-17T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-16T02:00:00Z"
+    "next_rotation_at": "2026-08-17T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "the-last-faith-ps4-ps5",
+      "title": "The last faith PS4/PS5",
+      "description": "Готовы к жестокости и мрачному вдохновению? The Last Faith - это не просто игра, а битва с самим собой.  \n\nВ ней смешались метроидвания и soulslike: безжалостные бои, точность на каждый шанс, сотни способов убивать - и всё это в пиксельном готическом мире, где горы покрыты снегом, а замки светятся под луной.  \n\nЭрик просыпается в разрушенной реальности, не помня ничего о себе. Он понимает: у него есть только время - и всё больше начинает уходить из его головы. Путь вперёд пролегает через древние религии, божеств и жестокие испытания.  \n\nВсё это - без сюжета, как вы думали? Нет. Тут каждый шаг - выбор, каждый удар - ответ на внутренний вопрос.",
+      "image_url": "https://static.tildacdn.com/stor3534-3331-4466-b037-626365323631/92174606.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202306/0901/8e7c417668095f45d0e30f07a98dc8b51c46bff94018ab57.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202306/0901/8a8191121aa5834252251f20f2296daeb4d3ee10913ffa97.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202306/0901/47fe519aec2436d892f001c9437e22aa705570a99c78a957.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202306/0901/bbddabb6dea3ffc7f891808838dc378f7548632a9a9b17f9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202306/0901/52bfb28b4728a7c00d965ae3322d83e433a24b3b1aa99dc1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202310/0415/ae38e69c89c420f3e274d12ebd52c534f0e07e643048a70f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202306/0901/ea29cb74b6af7f5d7202617c73ee2c93a1f1ffcfc5b5b2e6.jpg"
+      ],
+      "release_date": "15/11/2023",
+      "publisher": "PLAYSTACK LIMITED",
+      "platforms": "PS4, PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.45,
+      "store_url": "https://store.playstation.com/en-tr/concept/10005554",
+      "tilda_uid": "846579826332",
+      "sku": "",
+      "external_id": "YdZTASYYELRPYp3KXzVk",
+      "url": "http://arenapsgm.ru/tproduct/846579826332-the-last-faith-ps4ps5",
+      "expires_at": "2026-08-17T02:00:00Z",
+      "published_at": "2026-08-16T11:59:18Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Готовы к жестокости и мрачному вдохновению? The Last Faith - битва с самим собой в пиксельном готическом мире.  \n\nБои безжалостны, выборы - не просто в сюжете, а в каждом движении. Уходящее время и ускользающие мысли - главный сюжет."
+    }
+  ],
+  "history": [
     {
       "slug": "saints-row-ps4-ps5",
       "title": "Saints Row PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "G1bdrZXlk7zBazob9dRN",
       "url": "http://arenapsgm.ru/tproduct/955070526152-saints-row-ps4ps5",
-      "expires_at": "2026-08-16T02:00:00Z",
       "published_at": "2026-08-15T12:30:41Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Новая игра дня - супер-драйв на PS5, без лишних слов.  \nГотовы к битве? В чате всё в режиме реального времени - ссылки, отзывы, обновления."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "serious-sam-collection-ps4-ps5",
       "title": "Serious Sam Collection PS4/PS5",
