@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-16T11:59:18Z",
-  "server_time_utc": "2026-08-16T11:59:18Z",
+  "updated_at": "2026-08-17T11:59:14Z",
+  "server_time_utc": "2026-08-17T11:59:14Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-17T02:00:00Z",
-  "expires_at": "2026-08-17T02:00:00Z",
+  "next_rotation_at": "2026-08-18T02:00:00Z",
+  "expires_at": "2026-08-18T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-17T02:00:00Z"
+    "next_rotation_at": "2026-08-18T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "gotham-knights-ps5",
+      "title": "Gotham Knights PS5",
+      "description": "Бэтмен мёртв. Готэм погружён в хаос - и теперь на улицах его только семьи Бэтмена: Бэтгёрл, Найтвинг, Красный Колпак и Робин. Только они могут спасти город от тьмы.\n\nРыцари Готэма - это не просто бой с злодеями. Это увлекательная история в открытом мире: ты патрулируешь улицы, разгадываешь тайны и защищаешь жителей города - где бы ни было преступление.\n\nСамый дерзкий стиль, самая динамичная атмосфера. Стань частью борьбы за свет в сердце ночи.  \n\nТеперь ты - рыцарь. Игра начинается уже сегодня.",
+      "image_url": "https://static.tildacdn.com/stor3738-3632-4932-a363-373765383636/31820970.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202204/2218/45fkqkN8fss0CIdMX5Lp59B3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202204/2218/bzBtoURDvFXREbTLOG7iawZY.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202204/2218/RIOTM96b7LYyirtXh5RNOaAR.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202204/2218/E2hcIfi85AxZiDHlxfH5WWgx.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1021/QxXSLSn548KtaXDOVsS7spHU.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1021/2BkDJdUfar5m3vwy62Ua7XQX.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1021/DDlqOTLIN1BKiO2L170Opxg3.jpg"
+      ],
+      "release_date": "21/10/2022",
+      "publisher": "WARNER BROS. INTERACTIVE",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 3.22,
+      "store_url": "https://store.playstation.com/en-tr/concept/233383",
+      "tilda_uid": "526647240672",
+      "sku": "",
+      "external_id": "hK00liiLAS6ntVHnSYz2",
+      "url": "http://arenapsgm.ru/tproduct/526647240672-gotham-knights-ps5",
+      "expires_at": "2026-08-18T02:00:00Z",
+      "published_at": "2026-08-17T11:59:14Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Бэтмен мёртв. Готэм погружён в хаос - и теперь только семья Бэтмена борется с тьмой.  \nПатрулируй улицы, разгадывай загадки и защищай город - всё это в открытом мире. Игра начинается уже сегодня."
+    }
+  ],
+  "history": [
     {
       "slug": "the-last-faith-ps4-ps5",
       "title": "The last faith PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "YdZTASYYELRPYp3KXzVk",
       "url": "http://arenapsgm.ru/tproduct/846579826332-the-last-faith-ps4ps5",
-      "expires_at": "2026-08-17T02:00:00Z",
       "published_at": "2026-08-16T11:59:18Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Готовы к жестокости и мрачному вдохновению? The Last Faith - битва с самим собой в пиксельном готическом мире.  \n\nБои безжалостны, выборы - не просто в сюжете, а в каждом движении. Уходящее время и ускользающие мысли - главный сюжет."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "saints-row-ps4-ps5",
       "title": "Saints Row PS4/PS5",
