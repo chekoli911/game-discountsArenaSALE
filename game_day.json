@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-17T11:59:14Z",
-  "server_time_utc": "2026-08-17T11:59:14Z",
+  "updated_at": "2026-08-18T12:05:01Z",
+  "server_time_utc": "2026-08-18T12:05:01Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-18T02:00:00Z",
-  "expires_at": "2026-08-18T02:00:00Z",
+  "next_rotation_at": "2026-08-19T02:00:00Z",
+  "expires_at": "2026-08-19T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-18T02:00:00Z"
+    "next_rotation_at": "2026-08-19T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "cat-quest-3-ps4-ps5",
+      "title": "Cat Quest 3 PS4/PS5",
+      "description": "Вступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "image_url": "https://static.tildacdn.com/stor6362-3335-4332-b733-303032393062/52272620.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/UP4293/CUSA10215_00/FREE_CONTENT0MWRYTjyzdypbmIXMtHp/PREVIEW_SCREENSHOT7_157749.jpg",
+        "https://image.api.playstation.com/cdn/UP4293/CUSA10215_00/FREE_CONTENTp1fH7YbSvGDJE3tSZVGe/PREVIEW_SCREENSHOT5_157749.jpg",
+        "https://image.api.playstation.com/cdn/UP4293/CUSA10215_00/FREE_CONTENTp6ysAIwqZ1jfetDL6X6G/PREVIEW_SCREENSHOT4_157749.jpg",
+        "https://image.api.playstation.com/cdn/UP4293/CUSA10215_00/FREE_CONTENTzsWDEVmdTjnTl1ACbu8i/PREVIEW_SCREENSHOT3_157749.jpg",
+        "https://image.api.playstation.com/cdn/UP4293/CUSA10215_00/FREE_CONTENTtUhoVV6awkoIGtC3lv8w/PREVIEW_SCREENSHOT2_157749.jpg"
+      ],
+      "release_date": "10/11/2017",
+      "publisher": "Kepler Interactive Limited",
+      "platforms": "PS4",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 4.57,
+      "store_url": "https://store.playstation.com/en-tr/concept/229453",
+      "tilda_uid": "313129830802",
+      "sku": "",
+      "external_id": "OPx5KbIZLnKJ8HkYfgKJ",
+      "url": "http://arenapsgm.ru/tproduct/313129830802-cat-quest-3-ps4ps5",
+      "expires_at": "2026-08-19T02:00:00Z",
+      "published_at": "2026-08-18T12:05:01Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Новая игра дня - супер-акция в приватной группе!  \nГотовься к новым приключениям - читай отзывы, попробуй сам."
+    }
+  ],
+  "history": [
     {
       "slug": "gotham-knights-ps5",
       "title": "Gotham Knights PS5",
@@ -50,34 +101,31 @@
       "sku": "",
       "external_id": "hK00liiLAS6ntVHnSYz2",
       "url": "http://arenapsgm.ru/tproduct/526647240672-gotham-knights-ps5",
-      "expires_at": "2026-08-18T02:00:00Z",
       "published_at": "2026-08-17T11:59:14Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Бэтмен мёртв. Готэм погружён в хаос - и теперь только семья Бэтмена борется с тьмой.  \nПатрулируй улицы, разгадывай загадки и защищай город - всё это в открытом мире. Игра начинается уже сегодня."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "the-last-faith-ps4-ps5",
       "title": "The last faith PS4/PS5",
