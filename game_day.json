@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-18T22:24:25Z",
-  "server_time_utc": "2026-08-18T22:24:25Z",
+  "updated_at": "2026-08-19T02:00:27Z",
+  "server_time_utc": "2026-08-19T02:00:27Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-19T02:00:00Z",
-  "expires_at": "2026-08-19T02:00:00Z",
+  "next_rotation_at": "2026-08-20T02:00:00Z",
+  "expires_at": "2026-08-20T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-19T02:00:00Z"
+    "next_rotation_at": "2026-08-20T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "cuphead-amp-the-delicious-last-course-ps4-ps5",
+      "title": "Cuphead &amp; The Delicious Last Course PS4/PS5",
+      "description": "🔥 Новинка в мире крепких драк и джазовой музыки!  \n\nCuphead - это не просто игра, а мультипликационный экшен 1930-х: ты играешь за Чашека или Кружека, бьёшься с боссами, осваиваешь оружие и приключения в странностях, где каждый кадр - как из старых комиков.  \n\nИ теперь - Золотая Чаша! В дополнении The Delicious Last Course новая героиня присоединяется к команде и отправляется на поиски на новом острове. Новые способности, боссы, оружие - всё это в том же духе: с арт-стилем, как будто вышел из пера Уолта Диснея.  \n\nГрафика, фон, мелодии - всё в стиле 1930-х. Как будто ты включил старый фильм на джазовом фоне.  \n\nСмотрим, как дьявол убегает от пирожных и чашек! 🍳💥",
+      "image_url": "https://static.tildacdn.com/stor3164-6434-4661-a636-383432313566/95464044.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3164-6434-4661-a636-383432313566/95464044.jpg",
+        "https://static.tildacdn.com/stor3465-3961-4330-b735-376133313637/19937109.jpg",
+        "https://static.tildacdn.com/stor3265-6566-4835-a437-663066326665/36887679.jpg",
+        "https://static.tildacdn.com/stor6131-6538-4563-b334-313162626132/42716799.jpg",
+        "https://static.tildacdn.com/stor3935-3334-4433-b137-303461396461/58795431.jpg"
+      ],
+      "release_date": "",
+      "publisher": "",
+      "platforms": "",
+      "voice": "",
+      "text_translation": "",
+      "rating": null,
+      "store_url": "",
+      "tilda_uid": "542621814862",
+      "sku": "",
+      "external_id": "rMntjVSGfuIFdzU4ItRS",
+      "url": "http://arenapsgm.ru/tproduct/542621814862-cuphead-amp-the-delicious-last-course-ps",
+      "expires_at": "2026-08-20T02:00:00Z",
+      "published_at": "2026-08-19T02:00:27Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Новая героиня вставляет в мир крепких драк - Золотая Чаша приходит на поиски на острове.  \n\nДжаз, старые мультики, пирожные и боссы - всё как из фильма 1930-х."
+    }
+  ],
+  "history": [
     {
       "slug": "robocop-rogue-city-ps5",
       "title": "RoboCop: Rogue City PS5",
@@ -50,34 +101,31 @@
       "sku": "",
       "external_id": "Li8msbfMoSHpNseHDccL",
       "url": "http://arenapsgm.ru/tproduct/420711463732-robocop-rogue-city-ps5",
-      "expires_at": "2026-08-19T02:00:00Z",
       "published_at": "2026-08-18T22:24:25Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 349,
+          "14": 550,
+          "21": 890,
+          "28": 990
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 459,
+          "14": 650,
+          "21": 990,
+          "28": 1090
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 349,
+        "14": 550,
+        "21": 890,
+        "28": 990
       },
-      "p3_extra": 100,
-      "is_game_day": true,
+      "p3_extra": 110,
+      "is_game_day": false,
       "short_description": "РобоКоп вернулся - теперь вы его на деле.  \nВыбираете, что считать правдой, сражаетесь в Детройте и растёт ваша мощь - всё это живёт и развивается.  \n#RoboCopRogueCity"
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "cat-quest-3-ps4-ps5",
       "title": "Cat Quest 3 PS4/PS5",
