@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-20T01:39:38+03:00",
-  "updated_at_msk": "20.08.2026 01:39",
+  "updated_at": "2026-08-20T02:39:42+03:00",
+  "updated_at_msk": "20.08.2026 02:39",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 186,
+  "total": 187,
   "unique_games": 101,
   "in_demand": 15,
   "one_off": 76,
@@ -181,7 +181,7 @@
       "title": "Marvel's Avengers Endgame Edition PS4/PS5",
       "item_id": "3893870276",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/marvels_avengers_endgame_edition_ps4ps5_3893870276",
-      "count": 22,
+      "count": 23,
       "demand": "high",
       "avg_price": 350,
       "min_price": 350,
@@ -290,7 +290,7 @@
         18,
         22,
         22,
-        22
+        23
       ],
       "hourly": [
         1,
@@ -373,7 +373,7 @@
         1,
         4,
         0,
-        0
+        1
       ],
       "price_series": [
         350,
@@ -459,7 +459,7 @@
         350
       ],
       "first_at": "2026-06-01T22:20:43+03:00",
-      "last_at": "2026-08-18T20:47:56+03:00"
+      "last_at": "2026-08-20T01:55:26+03:00"
     },
     {
       "id": "ufc-3",
@@ -27128,6 +27128,12 @@
   ],
   "recent": [
     {
+      "title": "Marvel's Avengers Endgame Edition PS4/PS5",
+      "price": 350,
+      "price_string": "350 ₽",
+      "at": "2026-08-20T01:55:26+03:00"
+    },
+    {
       "title": "Tiebreak: Official game of the ATP and WTA PS4/PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -27360,12 +27366,6 @@
       "price": 350,
       "price_string": "350 ₽",
       "at": "2026-08-18T13:17:10+03:00"
-    },
-    {
-      "title": "Nascar 25 PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-08-18T13:15:17+03:00"
     }
   ]
 }
