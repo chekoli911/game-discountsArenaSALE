@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-08-19T20:03:40Z",
-  "generated_at": "2026-08-19T20:04:55Z",
-  "count": 10996,
+  "catalog_id": "2026-08-19T20:36:52Z",
+  "generated_at": "2026-08-19T20:36:54Z",
+  "count": 10997,
   "items": [
     {
       "id": "rise-of-the-ronin",
@@ -662998,6 +662998,66 @@
       "seo_descr": "Аренда REPLAY: VHS IS NOT DEAD PS4 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-19T20:03:40Z"
+    },
+    {
+      "id": "dungeon-antiqua-2",
+      "slug": "dungeon-antiqua-2",
+      "sku": "rent-dungeon-antiqua-2",
+      "title": "Dungeon Antiqua 2 PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "",
+      "categories": [],
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "19.08.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2107/57d2ba8b88103e2808e3b656d3bf5b0d3b1ee93d643a6f36.png",
+      "screenshots": [],
+      "store_url": "",
+      "description": "Dungeon Antiqua 2 PS5 — аренда на PlayStation в Arena PSGM.",
+      "seo_title": "Dungeon Antiqua 2 PS5 аренда игры",
+      "seo_descr": "Аренда Dungeon Antiqua 2 PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-19T20:36:52Z"
     }
   ]
 }
