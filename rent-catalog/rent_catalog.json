@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-08-19T20:36:52Z",
-  "generated_at": "2026-08-19T20:36:54Z",
-  "count": 10997,
+  "catalog_id": "2026-08-19T20:39:38Z",
+  "generated_at": "2026-08-19T20:40:21Z",
+  "count": 10999,
   "items": [
     {
       "id": "rise-of-the-ronin",
@@ -657,8 +657,8 @@
       "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202112/1000/V9R0ldWdLSgS6A4d8qplbAgi.png",
       "screenshots": [],
-      "store_url": "",
-      "description": "Evil West PS4/PS5 — аренда на PlayStation в Arena PSGM.",
+      "store_url": "https://store.playstation.com/en-tr/concept/10001902",
+      "description": "Evil West - дикий запад в крови и тьме. Твой агент в сверхсекретной команде, на грани чёрного экрана и вампирских мрачностей.  \n\nСражайся один или с другом. Каждое оружие - это твоя идея. Собирай приспособления, раскрывай тайны мира, где мифы не просто живут - они бьют.  \n\nМир здесь не дружелюбен. Но ты в нём - и с каждым шагом всё страшнее становится.",
       "seo_title": "Evil West PS4/PS5 аренда игры",
       "seo_descr": "Аренда Evil West PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -855,8 +855,8 @@
       "is_new": false,
       "image_url": "",
       "screenshots": [],
-      "store_url": "",
-      "description": "Guardians of the Galaxy PS5 — аренда на PlayStation в Arena PSGM.",
+      "store_url": "https://store.playstation.com/en-tr/concept/10016296",
+      "description": "Галактика в руках - и ты уже Страж Галактики! 🚀  \n\nВедёшь Звездного Лорда, бегаешь по космическим мирам, ведёшь драки с врагами и спасаешь вселенную вместе с любимыми персонажами.  \n\nИгра на PS5 - как в прошлых мирах, только с ещё большей мощью и плавностью движений.  \n\nПлюс: если ты уже играешь на PS4, у тебя бесплатно цифровая версия для PS5 - просто подключи и вперёд! 💫",
       "seo_title": "Guardians of the Galaxy PS5 аренда игры",
       "seo_descr": "Аренда Guardians of the Galaxy PS5 на PlayStation.",
       "external_id": "",
@@ -2245,8 +2245,8 @@
       "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202009/3006/C76j3lYg8BNBWJRSYtI2ONbo.png",
       "screenshots": [],
-      "store_url": "",
-      "description": "Subnautica PS4/PS5 — аренда на PlayStation в Arena PSGM.",
+      "store_url": "https://store.playstation.com/en-tr/concept/232883",
+      "description": "Subnautica - погружение в подводный мир. Строите базы, собираете ресурсы и исследуете тёмные глубины океана.  \n\nНа PS4 и PS5 - одна и та же история, только теперь с лучшим контролем и графикой.  \n\nЕсли у вас уже есть версия на PS4 - вы получаете её цифровую версию для PS5 бесплатно.  \n\nГлубже, хуже, но волшебно. 🌊",
       "seo_title": "Subnautica PS4/PS5 аренда игры",
       "seo_descr": "Аренда Subnautica PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -2777,7 +2777,7 @@
       "image_url": "",
       "screenshots": [],
       "store_url": "",
-      "description": "Saints Row: The Third PS5 — аренда на PlayStation в Arena PSGM.",
+      "description": "Святые вернулись - и теперь с мощной PS5.  \n\nУправляй Стилпортом, как в фильме: улучшенная графика, яркое освещение, эффекты в полном размахе.  \n\nГород рвётся под твоими ногами - от парашютных танков до воздушных ударов. Твой выбор - без границ.  \n\nСиндикат не даст тебе покоя. Сражайся на улицах, как настоящий лидер.",
       "seo_title": "Saints Row: The Third PS5 аренда игры",
       "seo_descr": "Аренда Saints Row: The Third PS5 на PlayStation.",
       "external_id": "",
@@ -663058,6 +663058,126 @@
       "seo_descr": "Аренда Dungeon Antiqua 2 PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-19T20:36:52Z"
+    },
+    {
+      "id": "akiba-lost",
+      "slug": "akiba-lost",
+      "sku": "rent-akiba-lost",
+      "title": "AKIBA LOST PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "",
+      "categories": [],
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "16.09.2026",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2101/9c2a9d95a036e67db26eaf0ac71f14b2eaf428162957c2e8.png",
+      "screenshots": [],
+      "store_url": "",
+      "description": "AKIBA LOST PS5 — аренда на PlayStation в Arena PSGM.",
+      "seo_title": "AKIBA LOST PS5 аренда игры",
+      "seo_descr": "Аренда AKIBA LOST PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-19T20:39:38Z"
+    },
+    {
+      "id": "akiba-lost-digital-deluxe-edition",
+      "slug": "akiba-lost-digital-deluxe-edition",
+      "sku": "rent-akiba-lost-digital-deluxe-edition",
+      "title": "AKIBA LOST: Digital Deluxe Edition PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "",
+      "categories": [],
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "16.09.2026",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2312/3543091675e1e2e55b12c383d754779574abff889496338a.png",
+      "screenshots": [],
+      "store_url": "",
+      "description": "AKIBA LOST: Digital Deluxe Edition PS5 — аренда на PlayStation в Arena PSGM.",
+      "seo_title": "AKIBA LOST: Digital Deluxe Edition PS5 аренда игры",
+      "seo_descr": "Аренда AKIBA LOST: Digital Deluxe Edition PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-19T20:39:38Z"
     }
   ]
 }
