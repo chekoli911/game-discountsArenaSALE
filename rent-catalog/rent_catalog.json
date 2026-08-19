@@ -1,8 +1,8 @@
 {
   "version": 1,
   "catalog_id": "2026-08-18T14:07:01Z",
-  "generated_at": "2026-08-19T12:41:46Z",
-  "count": 480,
+  "generated_at": "2026-08-19T17:33:22Z",
+  "count": 481,
   "items": [
     {
       "id": "rise-of-the-ronin",
@@ -32309,6 +32309,78 @@
       "seo_descr": "Аренда Disney Speedstorm на PS5. Disney Speedstorm - идеальная геройская гоночная игра на выживание, действие которой происходит на высокоскоростных трассах, вдохновленных мирами Disney и Pixar. Быстрый доступ после оплаты.",
       "external_id": "0DG8-pO_-Eoldf3yIl_4",
       "catalog_added_at": "2026-08-19T11:43:56Z"
+    },
+    {
+      "id": "sky-children-of-the-light",
+      "slug": "sky-children-of-the-light",
+      "sku": "rent-sky-children-of-the-light",
+      "title": "Sky: Children of the Light PS4",
+      "platform": "PS4",
+      "prices": {
+        "p2": {
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799,
+          "56": 1438
+        },
+        "p3": {
+          "1": 357,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899,
+          "56": 1618
+        }
+      },
+      "prices_p2": {
+        "1": 257,
+        "7": 357,
+        "14": 490,
+        "21": 699,
+        "28": 799,
+        "56": 1438
+      },
+      "prices_p3": {
+        "1": 357,
+        "7": 459,
+        "14": 590,
+        "21": 799,
+        "28": 899,
+        "56": 1618
+      },
+      "price_min": 257,
+      "lang_label": "На русском языке!",
+      "genre": "Приключение, Ролевая игра",
+      "categories": [
+        "Все игры",
+        "Приключения",
+        "Платформеры"
+      ],
+      "publisher": "thatgamecompany, Inc.",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.29,
+      "release_date": "06.12.2022",
+      "is_preorder": false,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1019/mqyXGobu2uHwXZ9wjwySX0Bu.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202211/1601/P8bgJmG0OrcvjutczfQHhCs0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202211/1601/BVvH0oqVnckpnHCCzDIgZha8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202211/1601/980rTggg8eva9NkNvDZElsMA.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202211/1601/ARenLsJyWb3A3sfDSSfJi1AX.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202211/1601/F8F8srhIqB9WniVsLP2bLW8i.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202211/1601/vOY9iGOrcG9GCqKW6bEjoPgm.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202211/1601/KVgKrMFqPVS2pC7pCp79ksGd.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10004206",
+      "description": "Скай: Дети света - волшебная погода, дружба и дикие леса.  \nТы летаешь на ветру, строишь храмы, учишься с магами и встречаешь новых друзей по всему небу.  \nИгра - как открытый мир из сказки, где каждый день даёт новый шанс познакомиться с чем-то новым.  \nПогрузись в свет, где даже тень может стать частью истории. 🌤️",
+      "seo_title": "Sky: Children of the Light на PS4 аренда игры",
+      "seo_descr": "Аренда Sky: Children of the Light на PS4. Увлекательная игра в жанре приключение, ролевая игра на PlayStation. Быстрый доступ после оплаты.",
+      "external_id": "7mA2ROr3ewPEbwxzmXSE",
+      "catalog_added_at": "2026-08-19T17:33:22Z"
     }
   ]
 }
