@@ -1,8 +1,8 @@
 {
   "version": 1,
   "catalog_id": "2026-08-18T14:07:01Z",
-  "generated_at": "2026-08-19T17:33:22Z",
-  "count": 481,
+  "generated_at": "2026-08-19T18:22:16Z",
+  "count": 482,
   "items": [
     {
       "id": "rise-of-the-ronin",
@@ -32381,6 +32381,80 @@
       "seo_descr": "Аренда Sky: Children of the Light на PS4. Увлекательная игра в жанре приключение, ролевая игра на PlayStation. Быстрый доступ после оплаты.",
       "external_id": "7mA2ROr3ewPEbwxzmXSE",
       "catalog_added_at": "2026-08-19T17:33:22Z"
+    },
+    {
+      "id": "dead-of-darkness",
+      "slug": "dead-of-darkness",
+      "sku": "rent-dead-of-darkness",
+      "title": "Dead of Darkness PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799,
+          "56": 1438
+        },
+        "p3": {
+          "1": 357,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899,
+          "56": 1618
+        }
+      },
+      "prices_p2": {
+        "1": 257,
+        "7": 357,
+        "14": 490,
+        "21": 699,
+        "28": 799,
+        "56": 1438
+      },
+      "prices_p3": {
+        "1": 357,
+        "7": 459,
+        "14": 590,
+        "21": 799,
+        "28": 899,
+        "56": 1618
+      },
+      "price_min": 257,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен, Хоррор, Приключение",
+      "categories": [
+        "Все игры",
+        "Шутеры",
+        "Приключения",
+        "Платформеры"
+      ],
+      "publisher": "eastasiasoft",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.72,
+      "release_date": "02.07.2025",
+      "is_preorder": false,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0709/37bd8721413b16df544a8a3799e68b296775809e4d19acec.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1606/265b609b8211e08d5177020dd5fe169c7446c40ffca7117f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1606/dde40a40db069a9e4ff73fdeb1810e677337eb2772980a92.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1606/e21073962a3c9ab701a9fd574b4df579f3d03aacea4d73a3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1606/6f9ee7020812e03479faa9d56e7a0af61629dbd959c342b7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1606/93114fd1595dfd85bb987b089657b229724d273bc69f4edb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1606/37d6edbf7dbfe7ca7e67548b53ec6e88ec91ed514f2e2f52.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1606/fcd404d949a7fe5da59c6017262cefadd6a6f0d88af4e680.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1606/cd67ce9ab2dbf5d8c45a9ef4671a544e7b5c2618c2ee5493.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10013861",
+      "description": "Dead of Darkness - хоррор на выживание в пиксельном стиле, где атмосфера напряжения ощущается с первых минут.  \n\nПредставьте: 1985 год, Англия. Детектив Майлз Уиндэм приезжает на остров Вельвет - чтобы найти ответ на смерть своей дочери. Но тут всё начинается не по плану. Люди ведут себя странно, а угрозы оживляют изнутри самого острова.  \n\nВы играете за Майлза и Оливию - двоих, чьи цели разные, но вместе они борются за выживание. Следите за боеприпасами, ищите ключи, поговорите с десятками персонажей, озвученных настоящими актерами.  \n\nГрафика - старомодная, но в высоком разрешении. Визуально насыщенное, анимировано до мелочей. И музыка - просто шокирует.  \nДля PS4 и PS5.",
+      "seo_title": "Dead of Darkness на PS4 и PS5 аренда игры",
+      "seo_descr": "Аренда Dead of Darkness на PS4 и PS5. Dead of Darkness — это 2D-приключенческий экшен в стиле «хоррор на выживание», который сочетает в себе старую добрую пиксельную графику и прорисовку персонажей в… Быстрый доступ после оплаты.",
+      "external_id": "-PRqfoVRtAwqNnYFywDQ",
+      "catalog_added_at": "2026-08-19T18:22:16Z"
     }
   ]
 }
