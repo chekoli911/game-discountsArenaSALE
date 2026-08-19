@@ -1,8 +1,8 @@
 {
   "version": 1,
   "catalog_id": "2026-08-18T14:07:01Z",
-  "generated_at": "2026-08-18T19:11:13Z",
-  "count": 479,
+  "generated_at": "2026-08-19T11:43:56Z",
+  "count": 480,
   "items": [
     {
       "id": "rise-of-the-ronin",
@@ -32236,6 +32236,79 @@
       "seo_descr": "Аренда Reveil PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-18T19:03:15Z"
+    },
+    {
+      "id": "disney-speedstorm",
+      "slug": "disney-speedstorm",
+      "sku": "rent-disney-speedstorm",
+      "title": "Disney Speedstorm PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 357,
+          "7": 259,
+          "14": 490,
+          "21": 699,
+          "28": 799,
+          "56": 1438
+        },
+        "p3": {
+          "1": 257,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899,
+          "56": 1618
+        }
+      },
+      "prices_p2": {
+        "1": 357,
+        "7": 259,
+        "14": 490,
+        "21": 699,
+        "28": 799,
+        "56": 1438
+      },
+      "prices_p3": {
+        "1": 257,
+        "7": 459,
+        "14": 590,
+        "21": 799,
+        "28": 899,
+        "56": 1618
+      },
+      "price_min": 257,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Гонки, Экшен, Simulator",
+      "categories": [
+        "Все игры",
+        "Только PS5",
+        "Игры на двоих",
+        "Гонки"
+      ],
+      "publisher": "Gameloft SE",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.89,
+      "release_date": "18.04.2023",
+      "is_preorder": false,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2214/cf3581ee6069fe5b012479e5691b643d6c1ad5f2de1112e6.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/0914/975dfefe6081a8fc7322a11d25461284bcc7a530f0f2dac3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/0914/f79bc86df4877959f5f991cc49176e904070428b1dcc5da6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/0914/76cfd8f4e9139b4037d6e59b5200d19d27c0fc8631d6afc3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/0914/2017d6a36d77e5287b38356ec5249a967991020f3676cf75.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/0914/e0702ae3fd28b3e4636d95d7e83c6801f12e7c1ac547f85d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/0914/b3ead4770719657f28c5348563b92e3f4bce73bba1404a20.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/0914/4b553ce42699bf82204e5899c3bad24af625fe734eadea3d.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10002651",
+      "description": "Disney Speedstorm - гонки с драйвом, как из мультфильмов. 💥  \n\nСалли, Микки, Мулан и Балу в битве за лидерство - каждый с уникальными навыками: дрифт, нитро, фокус на трассе. Ты сам решаешь, как пройти путь к победе.  \n\nТрассы от Пиратов Карибского моря до Корпорации Монстров - всё вдохновлённо Disney и Pixar. А новая эпопея не останавливается: каждый сезон приносит новых гонщиков, трассы и крутых персонажей.  \n\nГони с друзьями - локально или онлайн. До 4 игроков на PS5. Ты уже в борьбе за звание легенды. 🚗💨",
+      "seo_title": "Disney Speedstorm на PS5 аренда игры",
+      "seo_descr": "Аренда Disney Speedstorm на PS5. Disney Speedstorm - идеальная геройская гоночная игра на выживание, действие которой происходит на высокоскоростных трассах, вдохновленных мирами Disney и Pixar. Быстрый доступ после оплаты.",
+      "external_id": "0DG8-pO_-Eoldf3yIl_4",
+      "catalog_added_at": "2026-08-19T11:43:56Z"
     }
   ]
 }
