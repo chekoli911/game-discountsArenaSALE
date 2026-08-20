@@ -1,7 +1,7 @@
 {
   "key": "fortnite",
   "title": "Fortnite",
-  "updated_at": "2026-08-08T18:55:30Z",
+  "updated_at": "2026-08-20T11:43:39Z",
   "games": [
     {
       "slug": "fortnite-1-000-v-bucks",
@@ -413,7 +413,7 @@
       "slug": "sluchaynaya-igra-ot-250r-ps4-ps5",
       "title": "Случайная игра от 250р PS4/PS5",
       "mark": "",
-      "price_from": 250,
+      "price_from": 650,
       "price_old": null,
       "image_url": "https://static.tildacdn.com/stor3862-3064-4633-a462-313964663565/63677623.png",
       "screenshots": [
@@ -428,17 +428,9 @@
       "platform_ps5": true,
       "platforms_choice": true,
       "prices": {
-        "p2": {
-          "7": 250,
-          "14": 350,
-          "21": 600,
-          "28": 700
-        },
+        "p2": {},
         "p3": {
-          "7": 300,
-          "14": 400,
-          "21": 650,
-          "28": 750
+          "60": 650
         }
       },
       "tilda_uid": "595281540642",
@@ -455,10 +447,7 @@
       "store_url": "",
       "edition_banner": "",
       "rent_days": [
-        7,
-        14,
-        21,
-        28
+        60
       ]
     },
     {
