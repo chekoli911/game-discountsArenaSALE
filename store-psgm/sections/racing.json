@@ -1,7 +1,7 @@
 {
   "key": "racing",
   "title": "Гонки",
-  "updated_at": "2026-08-08T18:55:30Z",
+  "updated_at": "2026-08-20T11:43:39Z",
   "games": [
     {
       "slug": "flatout-4-total-insanity-ps4",
@@ -118,6 +118,69 @@
       "text_translation": "",
       "store_url": "",
       "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "roadcraft-ps5",
+      "title": "RoadCraft PS5",
+      "mark": "NEW",
+      "price_from": 299,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2815/df37826fe46f3e622a6132b50e5f3d7e260bd1594dff35c2.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/2815/df37826fe46f3e622a6132b50e5f3d7e260bd1594dff35c2.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/3111/d0bbf31e2d4844ef9470b52135a3964bf85133f7f542c7ec.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/3111/fc6cab2505db7c715ff8c1c49a0753982f18eab807bd55dc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/3111/9c6cbc1240c4ef13946192ebc79a9aec33338e86e66b3c13.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/3111/0501f50928e9658e684f7f4422f8e813939804b22e620234.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/3111/6fe407d706608dfb6677dc6df4c5a61f8de88db7fcaa055b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/3111/474d5f59b19b798c3280229f8f8ee244c26a3370fe4dbbfe.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/3111/44416679630660d13843a2c132fb5283b39240d86ed27eec.jpg"
+      ],
+      "description": "RoadCraft - симулятор ликвидации последствий стихийных бедствий на PS5. Управляйте более чем 40 единицами техники, восстанавливайте разрушенные районы и прокладывайте маршруты через покинутые фабрики, затопленные плотины и вышедшие из строя электростанции. Игра предлагает детальную физическую симуляцию и поддержку до трёх игроков.",
+      "categories": [
+        "Все игры",
+        "Новинки",
+        "Приключения",
+        "Гонки",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 299,
+          "14": 599,
+          "21": 645,
+          "28": 745
+        },
+        "p3": {
+          "7": 399,
+          "14": 699,
+          "21": 745,
+          "28": 845
+        }
+      },
+      "tilda_uid": "516430430962",
+      "sku": "",
+      "external_id": "tDZPMmOCOB9hFbiIftKj",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/516430430962-roadcraft-ps5",
+      "seo_title": "RoadCraft PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда RoadCraft PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры RoadCraft PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.1,
+      "release_date": "20/5/2025",
+      "publisher": "Focus Entertainment",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10006025",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2815/df37826fe46f3e622a6132b50e5f3d7e260bd1594dff35c2.png",
       "rent_days": [
         7,
         14,
