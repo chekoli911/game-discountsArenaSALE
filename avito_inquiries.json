@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-20T18:41:44+03:00",
-  "updated_at_msk": "20.08.2026 18:41",
+  "updated_at": "2026-08-20T19:41:49+03:00",
+  "updated_at_msk": "20.08.2026 19:41",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 197,
+  "total": 198,
   "unique_games": 110,
   "in_demand": 15,
   "one_off": 85,
@@ -181,7 +181,7 @@
       "title": "Marvel's Avengers Endgame Edition PS4/PS5",
       "item_id": "3893870276",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/marvels_avengers_endgame_edition_ps4ps5_3893870276",
-      "count": 24,
+      "count": 25,
       "demand": "high",
       "avg_price": 350,
       "min_price": 350,
@@ -290,7 +290,7 @@
         18,
         22,
         22,
-        24
+        25
       ],
       "hourly": [
         1,
@@ -373,7 +373,7 @@
         1,
         4,
         0,
-        2
+        3
       ],
       "price_series": [
         350,
@@ -459,7 +459,7 @@
         350
       ],
       "first_at": "2026-06-01T22:20:43+03:00",
-      "last_at": "2026-08-20T18:02:35+03:00"
+      "last_at": "2026-08-20T18:53:30+03:00"
     },
     {
       "id": "ufc-3",
@@ -29522,6 +29522,12 @@
   ],
   "recent": [
     {
+      "title": "Marvel's Avengers Endgame Edition PS4/PS5",
+      "price": 350,
+      "price_string": "350 ₽",
+      "at": "2026-08-20T18:53:30+03:00"
+    },
+    {
       "title": "Drone Simulator PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -29754,12 +29760,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-08-18T17:33:14+03:00"
-    },
-    {
-      "title": "Super Bunny Man PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-08-18T16:40:21+03:00"
     }
   ]
 }
