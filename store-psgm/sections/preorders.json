@@ -1,7 +1,7 @@
 {
   "key": "preorders",
   "title": "Предзаказы",
-  "updated_at": "2026-08-08T18:55:30Z",
+  "updated_at": "2026-08-20T11:43:39Z",
   "games": [
     {
       "slug": "call-of-duty-modern-warfare-4-ps5",
@@ -540,6 +540,66 @@
       "text_translation": "",
       "store_url": "https://store.playstation.com/en-tr/product/UP0102-PPSA27836_00-0000000000000001",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/79a186e6a055909cfeb66264230ad3d76915587b0269cd0d.png",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "phantom-blade-zero-ps5",
+      "title": "Phantom Blade Zero PS5",
+      "mark": "NEW",
+      "price_from": 697,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor6663-3963-4439-b738-656161333638/a3cde825a5f3fcb83bbc33a944fe600e.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6663-3963-4439-b738-656161333638/a3cde825a5f3fcb83bbc33a944fe600e.jpg",
+        "https://static.tildacdn.com/stor3034-6137-4963-b030-343764393635/173d888eb34c9ae5bdf3fc071de489a3.jpg",
+        "https://static.tildacdn.com/stor3430-6365-4661-b534-373564386534/9967e33cecacff8b9e992f5daae2dbcc.jpg",
+        "https://static.tildacdn.com/stor3533-3962-4132-b136-326636356135/21062d85870278b047965a235a4653d5.jpg",
+        "https://static.tildacdn.com/stor6631-6134-4364-a439-313739613165/877ee28331c664ef8844fdffd3b2ed39.jpg",
+        "https://static.tildacdn.com/stor6438-6433-4966-b937-363139633036/a0ed28698edc182ac8c1906cbebfda3e.jpg"
+      ],
+      "description": "«Предзаказ - Требует немедленной оплаты»\nПодробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного соглашения Sony Entertainment Network. Автоматическая загрузка осуществляется, если на системе PS5™ включены настройки «Автоматический вход в систему» и «Автоматический вход в сеть».\nСделайте предзаказ сейчас, чтобы раньше других получить доступ к следующему контенту:\n• Аксессуар: «Чаша сокровищ» (увеличивает шанс выпадения «Пыли остатков» на 10%)\n• Внешний вид: «Наследие»\nS-GAME представляет Phantom Blade Zero — созданное на Unreal Engine 5 сочетание классического повествования в жанре уся и захватывающего экшена. Вы играете за Соула, воина, которому осталось жить всего шестьдесят шесть дней. Отбивайтесь от убийц, раскрывайте заговоры, грозящие гибелью миру, и защищайте свои убеждения ценой собственной жизни.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Предзаказы"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078
+        },
+        "p3": {
+          "1": 497,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933
+        }
+      },
+      "tilda_uid": "495974805243",
+      "sku": "",
+      "external_id": "pbfUnWFD4MOt9WGTwulE",
+      "url": "http://arenapsgm.ru/newgame/tproduct/495974805243-phantom-blade-zero-ps5",
+      "seo_title": "Phantom Blade Zero на PS5 аренда игры",
+      "seo_descr": "Аренда Phantom Blade Zero на PS5. «Предзаказ - Требует немедленной оплаты» Подробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного… Быстрый доступ после оплаты.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
       "rent_days": [
         1,
         7,
