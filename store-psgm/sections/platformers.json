@@ -1,7 +1,7 @@
 {
   "key": "platformers",
   "title": "Платформеры",
-  "updated_at": "2026-08-08T18:55:30Z",
+  "updated_at": "2026-08-20T11:43:39Z",
   "games": [
     {
       "slug": "bo-path-of-the-teal-lotus-ps5",
@@ -61,6 +61,69 @@
       "store_url": "https://store.playstation.com/en-tr/concept/10008977",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202405/0623/8d20c1dc5ec289ae38ed74c69fe86f5e284e92c3d61d121e.png",
       "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "grounded-2-ps5",
+      "title": "Grounded 2 PS5",
+      "mark": "NEW",
+      "price_from": 397,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor6463-6633-4735-a666-336664373363/66b06ce409fe67333a31e95df55372df.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6463-6633-4735-a666-336664373363/66b06ce409fe67333a31e95df55372df.jpg"
+      ],
+      "description": "Если уменьшиться до размеров муравья, то повседневное окружение превратится в дикие джунгли. Исследуйте отданные на откуп природе рукотворные уголки вместе с жучками, которые будут сражаться за вас, помогут найти спрятанные секреты и поддержат в этом большом и страшном мире, совсем не похожем на знакомый задний двор. Наверняка вы уверены, что знаете детскую площадку как свои пять пальцев, но под яркими домиками и горками таится немало загадок. Готовы ли вы их раскрыть?\nВыжить, приспособиться, победить\nМир суров, но и вы тоже. Выберите уникальный архетип, предлагающий особенности для вашего излюбленного стиля игры, и отправляйтесь в приключение. Меткость, хитрость, грубая сила — всё это понадобится, чтобы уцелеть в борьбе с затаившимися в парке угрозами.\nОдному в парке приходится нелегко, зато в компании друзей любое испытание превращается в приключение. Помогайте друг другу со строительством, битвами и поиском спрятанных в траве секретов. Товарищи могут сражаться с вами плечом к плечу или присоединиться к путешествию в общем мире.\nЖучки на все случаи жизни\nОни шустро перебирают лапками и дерутся, а теперь еще и помогают выжить. Выводите, выращивайте и седлайте жучков, а потом мчитесь по парку, сражайтесь верхом или поручайте им собирать ресурсы. Удачный выбор напарника может существенно облегчить жизнь!\nВ парке живут не только знакомые и полюбившиеся вам насекомые. Тарантул Аксель и ящерица — высшие хищники, которых не получится победить без стратегии, подготовки и мужества. Змея — это испытание совсем другого рода: вам придется изучить повадки рептилии, чтобы оседлать ее и собрать чешую. А ведь есть еще и птица! Каждая встреча с обитателями парка делает вас сильнее. Собирайте редкие материалы, мастерите снаряжение и открывайте улучшения, которые помогут выжить в этом опасном мире.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Новинки",
+        "Только PS5",
+        "Игры на двоих",
+        "Приключения",
+        "РПГ",
+        "Платформеры",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 397,
+          "7": 492,
+          "14": 792,
+          "21": 828,
+          "28": 890
+        },
+        "p3": {
+          "1": 497,
+          "7": 592,
+          "14": 892,
+          "21": 928,
+          "28": 990
+        }
+      },
+      "tilda_uid": "851328195903",
+      "sku": "",
+      "external_id": "Nn1WefOBnkb8JMeF0oGZ",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/851328195903-grounded-2-ps5",
+      "seo_title": "Grounded 2 на PS5 аренда игры",
+      "seo_descr": "Аренда Grounded 2 на PS5. Если уменьшиться до размеров муравья, то повседневное окружение превратится в дикие джунгли. Быстрый доступ после оплаты.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        1,
         7,
         14,
         21,
@@ -1142,6 +1205,68 @@
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10012545",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2212/542f13adf581e38321a86470764dbc0ac1b157ed80e1f8b5.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "minecraft-ps4-ps5",
+      "title": "Minecraft PS4/PS5",
+      "mark": "",
+      "price_from": 290,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202407/2423/6fe83bf38f93a06816c21b46ce73945f157260319c4a77d2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202407/2423/0193d3b773501fffe0609513ab4e134ff14759ede12d4423.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202407/2423/fc3e64baae92f6976c2ec81e4020e7862c9afaaf103c1317.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202407/2423/51311490f915043da2f955969ac22133541f122c78c168f5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202407/2423/94dd1a47ceec2cd4fbd4839938ddfcc51d8cad604b57c595.jpg"
+      ],
+      "description": "Мinecraft - бесконечный мир для свободного творчества на PS4 и PS5. Строите, исследуйте биомы и ведёте баталии с мобами в ярком графическом обновлении. Играйте с друзьями в режиме многопользовательской игры или на частном сервере через Realms Plus.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "РПГ",
+        "Стратегии и симуляторы",
+        "Платформеры"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 290,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 390,
+          "14": 500,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "391207322902",
+      "sku": "",
+      "external_id": "uROVV1a22IpXvOPu2765",
+      "url": "http://arenapsgm.ru/tproduct/391207322902-minecraft-ps4ps5",
+      "seo_title": "Minecraft PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Minecraft PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Minecraft PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.29,
+      "release_date": "22/10/2024",
+      "publisher": "MOJANG AB",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/212779",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
       "rent_days": [
         7,
         14,
