@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-19T02:00:27Z",
-  "server_time_utc": "2026-08-19T02:00:27Z",
+  "updated_at": "2026-08-20T02:00:23Z",
+  "server_time_utc": "2026-08-20T02:00:23Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-20T02:00:00Z",
-  "expires_at": "2026-08-20T02:00:00Z",
+  "next_rotation_at": "2026-08-21T02:00:00Z",
+  "expires_at": "2026-08-21T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-20T02:00:00Z"
+    "next_rotation_at": "2026-08-21T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "far-cry-primal-ps4-ps5",
+      "title": "Far Cry Primal PS4/PS5",
+      "description": "Каменный век в живую - ты в середине дикой природы, где каждый шаг - риск, а каждый снег - шанс на выживание.  \n\nТаккар - последний охотник из своей группы. Он не просто выживает. Он борется за право быть живым, и если он проиграет - его история рвётся в пепел.  \n\nНовый режим «Выживание»: твои запасы исчезают, ты устаёшь, а охота становится настоящей катастрофой. А ещё - включай «Окончательная смерть». После первой гибели игра заканчивается. Игру не выиграешь - ты просто погибнешь.  \n\n🔥 Берёшь, борешься, умираешь - всё это в Far Cry Primal.",
+      "image_url": "https://static.tildacdn.com/stor6238-3637-4462-a134-633839323335/31544105.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP0001/CUSA03309_00/FREE_CONTENTjDE8cwUi0qjfHT0E06ab/PREVIEW_SCREENSHOT10_479624.jpg",
+        "https://image.api.playstation.com/cdn/EP0001/CUSA03309_00/FREE_CONTENTmA0keS5RT3dvgbwZZdjq/PREVIEW_SCREENSHOT9_479624.jpg",
+        "https://image.api.playstation.com/cdn/EP0001/CUSA03309_00/FREE_CONTENTZPtDreI13MxhjGOO98N8/PREVIEW_SCREENSHOT8_479624.jpg",
+        "https://image.api.playstation.com/cdn/EP0001/CUSA03309_00/FREE_CONTENTxOQPCBaDj278kGOsrN5x/PREVIEW_SCREENSHOT7_479624.jpg",
+        "https://image.api.playstation.com/cdn/EP0001/CUSA03309_00/FREE_CONTENTvzeXhIwExusx457mDqSI/PREVIEW_SCREENSHOT6_479624.jpg",
+        "https://image.api.playstation.com/cdn/EP0001/CUSA03309_00/FREE_CONTENTVOcqAazACbVYsyloXg0j/PREVIEW_SCREENSHOT5_479624.jpg",
+        "https://image.api.playstation.com/cdn/EP0001/CUSA03309_00/FREE_CONTENTwFKKWMO7ekojyAI0Jc92/PREVIEW_SCREENSHOT4_479624.jpg"
+      ],
+      "release_date": "23/2/2016",
+      "publisher": "Ubisoft",
+      "platforms": "PS4",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 4.52,
+      "store_url": "https://store.playstation.com/en-tr/concept/201634",
+      "tilda_uid": "603852375012",
+      "sku": "",
+      "external_id": "lhAxi9aAZ4r121MezLdh",
+      "url": "http://arenapsgm.ru/tproduct/603852375012-far-cry-primal-ps4ps5",
+      "expires_at": "2026-08-21T02:00:00Z",
+      "published_at": "2026-08-20T02:00:23Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Ты в каменном веке – каждый шаг – риск, каждый снег – шанс выжить.  \nНовый режим «Выживание»: твои запасы исчезают, охота становится катастрофой, и если умираешь – игру не спасёт."
+    }
+  ],
+  "history": [
     {
       "slug": "cuphead-amp-the-delicious-last-course-ps4-ps5",
       "title": "Cuphead &amp; The Delicious Last Course PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "rMntjVSGfuIFdzU4ItRS",
       "url": "http://arenapsgm.ru/tproduct/542621814862-cuphead-amp-the-delicious-last-course-ps",
-      "expires_at": "2026-08-20T02:00:00Z",
       "published_at": "2026-08-19T02:00:27Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 300,
+          "14": 500,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 400,
+          "14": 600,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 300,
+        "14": 500,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Новая героиня вставляет в мир крепких драк - Золотая Чаша приходит на поиски на острове.  \n\nДжаз, старые мультики, пирожные и боссы - всё как из фильма 1930-х."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "robocop-rogue-city-ps5",
       "title": "RoboCop: Rogue City PS5",
