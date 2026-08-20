@@ -1,7 +1,7 @@
 {
   "key": "adventure",
   "title": "Приключения",
-  "updated_at": "2026-08-08T18:55:30Z",
+  "updated_at": "2026-08-20T11:43:39Z",
   "games": [
     {
       "slug": "007-first-light-ps5",
@@ -198,6 +198,68 @@
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/0962bc91a4952e6433367fcfec38b7e0655c6bd29b431712.png",
       "rent_days": [
         3,
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "assassin-s-creed-shadows-ps5",
+      "title": "Assassin’s Creed Shadows PS5",
+      "mark": "NEW",
+      "price_from": 350,
+      "price_old": 1390,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2422/3b21599d6dea076afc4e1e4a80fcca3fc5c19c57a196e619.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/2422/3b21599d6dea076afc4e1e4a80fcca3fc5c19c57a196e619.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202506/2421/f66a434a38d5a5b825312d3c363951e96c66a421062b8a2d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202506/2421/126e5cc2e9ac8b2b49651ae2afe70eecf81b8088bed4bbb4.JPG",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202506/2421/a2d373624d4a82c85b6c5d0ccc9b11f70140c66edd90d6f7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202506/2421/bdc88058dbb4e0351831d606bfaea907b993a83b1937061b.JPG",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202506/2421/e35b34de119e2723056d68a0130bd1c712d009905da6d0c2.jpg"
+      ],
+      "description": "Перенеситесь в феодальную Японию в новом эпическом экшн-приключении! Убийственная ловкость синоби-ассасина и мощь легендарного самурая помогут вам найти свой путь в изумительном открытом мире, где царит раздор. Переключаясь между двумя столь непохожими союзниками, узнайте, что их объединяет. Освоив дополняющие друг друга стили игры, создайте союз синоби, персонализируйте свое убежище и положите начало новой эпохе в истории Японии.\n- Исследуйте завораживающий открытый мир феодальной Японии, где внушительные города-замки и оживленные порты соседствуют с тихими святилищами и разоренными войной провинциями. Вас ждет непредсказуемая погода, смена сезонов и окружение, реагирующее на ваши действия.\n- Погрузитесь в захватывающую историю синоби-ассасина Наоэ и легендарного самурая Ясукэ и освойте дополняющие друг друга стили игры. Наоэ превосходно скрывается от врагов и умело застает их врасплох. Ясукэ побеждает противников точными и могучими ударами. У каждого из них свой прогресс, навыки и снаряжение.\n- Исследуя мир, собирайте сведения и развивайте сеть лазутчиков, которые, став вашими глазами и ушами, помогут выследить следующую цель. И не забывайте вербовать союзников с уникальными способностями, которые пригодятся вам при выполнении заданий.\n- Обустройте для своего растущего союза синоби убежище, которое можно полностью персонализировать, включая выбор планировки, убранства и украшений; в нем можно обучать союзников, создавать новое снаряжение и взаимодействовать с ключевыми персонажами.\nДля аренды игры писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Все игры",
+        "Новинки",
+        "Лента на главной",
+        "Только PS5",
+        "Приключения",
+        "РПГ"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 350,
+          "14": 550,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 550,
+          "14": 750,
+          "21": 900,
+          "28": 1000
+        }
+      },
+      "tilda_uid": "957239091172",
+      "sku": "",
+      "external_id": "0L1ihipXkjMplhIgBcgG",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/957239091172-assassins-creed-shadows-ps5",
+      "seo_title": "Assassin’s Creed Shadows PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Assassin’s Creed Shadows PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Assassin’s Creed Shadows PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.27,
+      "release_date": "20/3/2025",
+      "publisher": "Ubisoft",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10009909",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202412/2018/6d3fddf363563ef352c729c8f5077056ab342fd0a9daae9b.png",
+      "rent_days": [
         7,
         14,
         21,
@@ -1000,6 +1062,69 @@
       ]
     },
     {
+      "slug": "grounded-2-ps5",
+      "title": "Grounded 2 PS5",
+      "mark": "NEW",
+      "price_from": 397,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor6463-6633-4735-a666-336664373363/66b06ce409fe67333a31e95df55372df.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6463-6633-4735-a666-336664373363/66b06ce409fe67333a31e95df55372df.jpg"
+      ],
+      "description": "Если уменьшиться до размеров муравья, то повседневное окружение превратится в дикие джунгли. Исследуйте отданные на откуп природе рукотворные уголки вместе с жучками, которые будут сражаться за вас, помогут найти спрятанные секреты и поддержат в этом большом и страшном мире, совсем не похожем на знакомый задний двор. Наверняка вы уверены, что знаете детскую площадку как свои пять пальцев, но под яркими домиками и горками таится немало загадок. Готовы ли вы их раскрыть?\nВыжить, приспособиться, победить\nМир суров, но и вы тоже. Выберите уникальный архетип, предлагающий особенности для вашего излюбленного стиля игры, и отправляйтесь в приключение. Меткость, хитрость, грубая сила — всё это понадобится, чтобы уцелеть в борьбе с затаившимися в парке угрозами.\nОдному в парке приходится нелегко, зато в компании друзей любое испытание превращается в приключение. Помогайте друг другу со строительством, битвами и поиском спрятанных в траве секретов. Товарищи могут сражаться с вами плечом к плечу или присоединиться к путешествию в общем мире.\nЖучки на все случаи жизни\nОни шустро перебирают лапками и дерутся, а теперь еще и помогают выжить. Выводите, выращивайте и седлайте жучков, а потом мчитесь по парку, сражайтесь верхом или поручайте им собирать ресурсы. Удачный выбор напарника может существенно облегчить жизнь!\nВ парке живут не только знакомые и полюбившиеся вам насекомые. Тарантул Аксель и ящерица — высшие хищники, которых не получится победить без стратегии, подготовки и мужества. Змея — это испытание совсем другого рода: вам придется изучить повадки рептилии, чтобы оседлать ее и собрать чешую. А ведь есть еще и птица! Каждая встреча с обитателями парка делает вас сильнее. Собирайте редкие материалы, мастерите снаряжение и открывайте улучшения, которые помогут выжить в этом опасном мире.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Новинки",
+        "Только PS5",
+        "Игры на двоих",
+        "Приключения",
+        "РПГ",
+        "Платформеры",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 397,
+          "7": 492,
+          "14": 792,
+          "21": 828,
+          "28": 890
+        },
+        "p3": {
+          "1": 497,
+          "7": 592,
+          "14": 892,
+          "21": 928,
+          "28": 990
+        }
+      },
+      "tilda_uid": "851328195903",
+      "sku": "",
+      "external_id": "Nn1WefOBnkb8JMeF0oGZ",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/851328195903-grounded-2-ps5",
+      "seo_title": "Grounded 2 на PS5 аренда игры",
+      "seo_descr": "Аренда Grounded 2 на PS5. Если уменьшиться до размеров муравья, то повседневное окружение превратится в дикие джунгли. Быстрый доступ после оплаты.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
       "slug": "hades-2-ps5",
       "title": "Hades 2 PS5",
       "mark": "NEW",
@@ -1706,6 +1831,73 @@
       ]
     },
     {
+      "slug": "mistfall-hunter-ps5",
+      "title": "Mistfall Hunter PS5",
+      "mark": "NEW",
+      "price_from": 697,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3162-3462-4262-b165-353733303239/b0ab44b4bfc8b68c16e293b2e01e605a.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3162-3462-4262-b165-353733303239/b0ab44b4bfc8b68c16e293b2e01e605a.jpg",
+        "https://static.tildacdn.com/stor3462-3538-4465-a465-303430306433/348943a8401df6be670fb4bd6d37fd32.jpg",
+        "https://static.tildacdn.com/stor3939-6538-4337-b838-316532623836/ca2b6ddb3c32dc4bc777b63caf4b5a0f.jpg",
+        "https://static.tildacdn.com/stor6630-3936-4539-b235-333566363634/247aec9f883e1bfbad2c9eb0aef91a55.jpg",
+        "https://static.tildacdn.com/stor3139-6261-4736-b964-323536386436/9ac5e97e2814d075d975dfa2719285a6.jpg",
+        "https://static.tildacdn.com/stor3932-3337-4235-a661-313532383632/1a0aa7fc8785f76cc8c33ec90c085952.jpg",
+        "https://static.tildacdn.com/stor3531-3861-4939-a539-363838616234/4e66fe335ab9f98dc493e9c0324c7aad.jpg",
+        "https://static.tildacdn.com/stor6231-6366-4330-a561-613430663466/5c7acc618fde93af1b66ea08d3c6e4df.jpg"
+      ],
+      "description": "Mistfall Hunter — аренда на PS5. Оформите аренду и начните играть сразу после оплаты.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Приключения",
+        "РПГ"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078
+        },
+        "p3": {
+          "1": 497,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933
+        }
+      },
+      "tilda_uid": "430609429413",
+      "sku": "",
+      "external_id": "JFNtytwVMFC4iU0TQguU",
+      "url": "http://arenapsgm.ru/tproduct/430609429413-mistfall-hunter-ps5",
+      "seo_title": "Mistfall Hunter на PS5 аренда игры",
+      "seo_descr": "Аренда Mistfall Hunter на PS5. Увлекательная игра в жанре экшен, ролевая игра на PlayStation. Быстрый доступ после оплаты.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
       "slug": "mouse-p-i-for-hire-ps5",
       "title": "MOUSE: P.I. For Hire PS5",
       "mark": "NEW",
@@ -2009,7 +2201,7 @@
         },
         "p3": {
           "1": 349,
-          "7": 250,
+          "7": 599,
           "14": 749,
           "21": 899,
           "28": 1099
@@ -2172,6 +2364,78 @@
       ]
     },
     {
+      "slug": "reanimal-the-prisoner-ps5",
+      "title": "REANIMAL: The Prisoner PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "price_old": 689,
+      "image_url": "https://static.tildacdn.com/stor3865-6464-4633-a630-613964323532/818be47b924daee49fa7399b8cf6b4d8.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3865-6464-4633-a630-613964323532/818be47b924daee49fa7399b8cf6b4d8.jpg",
+        "https://static.tildacdn.com/stor6436-6438-4264-a263-666330653435/aead5769e08da6dae2d894cea3673732.jpg",
+        "https://static.tildacdn.com/stor6262-3536-4837-b535-386361393666/2293b18bcf93ff1a3e2aad85a6be7c25.jpg",
+        "https://static.tildacdn.com/stor6630-3337-4137-a166-323837616565/37a7586d2ce9794a0e1eba44fbd3caa0.jpg",
+        "https://static.tildacdn.com/stor6666-3164-4361-b263-326634623062/441a99a670a9b91b3fd784aea586e454.jpg",
+        "https://static.tildacdn.com/stor3639-6564-4234-a132-323063366431/0e1d926a447e8a4c96310bb2c72c04b3.jpg"
+      ],
+      "description": "Tarsier Studios возвращается с новой главой мрачного кооперативного хоррор-приключения REANIMAL.\nВ этом DLC появляются два новых персонажа — Солдат и Заключённый , которым предстоит выжить на разрушенных войной улицах некогда знакомого места. Их путешествие приведёт их в кроличью нору, которая навсегда изменит их жизни.\nИсследуйте ранее неизвестные уголки мира REANIMAL — пешком и не только — и узнайте, что война может быть настоящим адом, но некоторые вещи оказываются ещё страшнее.\nThe Prisoner — первая из трёх частей DLC для REANIMAL. Каждая из них продолжит историю новых персонажей — Солдата и Заключённого.\nОсобенности:\n• Новая история и персонажи в ранее неизведанной части мира REANIMAL\n• Уникальная атмосфера хоррора и новая пугающая угроза\n• Новые локации и неожиданные изменения знакомых мест\n• Новая глава минималистичного и символичного повествования REANIMAL\n• Возможность разделить страх с другом благодаря Friend's Pass\nДля аренды игры писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Только PS5",
+        "Новинки",
+        "Приключения",
+        "РПГ",
+        "Стратегии и симуляторы",
+        "Новинка главная шапка",
+        "Игры на двоих"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 257,
+          "3": 339,
+          "7": 349,
+          "14": 423,
+          "21": 587,
+          "28": 695
+        },
+        "p3": {
+          "1": 350,
+          "3": 439,
+          "7": 449,
+          "14": 523,
+          "21": 687,
+          "28": 795
+        }
+      },
+      "tilda_uid": "102924467413",
+      "sku": "",
+      "external_id": "JRkeT1CeHaVJAVi0rsFf",
+      "url": "http://arenapsgm.ru/tproduct/102924467413-reanimal-the-prisoner-ps5",
+      "seo_title": "Аренда REANIMAL: The Prisoner DLC PS5 — дополнение",
+      "seo_descr": "Аренда DLC REANIMAL: The Prisoner для PS5. Новая глава хоррор-приключения REANIMAL с двумя новыми персонажами, локациями и продолжением истории.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        1,
+        3,
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
       "slug": "resident-evil-4-ps4-ps5",
       "title": "Resident Evil 4 PS4/PS5",
       "mark": "Хит",
@@ -2298,6 +2562,69 @@
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png",
       "rent_days": [
         1,
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "roadcraft-ps5",
+      "title": "RoadCraft PS5",
+      "mark": "NEW",
+      "price_from": 299,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2815/df37826fe46f3e622a6132b50e5f3d7e260bd1594dff35c2.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/2815/df37826fe46f3e622a6132b50e5f3d7e260bd1594dff35c2.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/3111/d0bbf31e2d4844ef9470b52135a3964bf85133f7f542c7ec.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/3111/fc6cab2505db7c715ff8c1c49a0753982f18eab807bd55dc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/3111/9c6cbc1240c4ef13946192ebc79a9aec33338e86e66b3c13.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/3111/0501f50928e9658e684f7f4422f8e813939804b22e620234.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/3111/6fe407d706608dfb6677dc6df4c5a61f8de88db7fcaa055b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/3111/474d5f59b19b798c3280229f8f8ee244c26a3370fe4dbbfe.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/3111/44416679630660d13843a2c132fb5283b39240d86ed27eec.jpg"
+      ],
+      "description": "RoadCraft - симулятор ликвидации последствий стихийных бедствий на PS5. Управляйте более чем 40 единицами техники, восстанавливайте разрушенные районы и прокладывайте маршруты через покинутые фабрики, затопленные плотины и вышедшие из строя электростанции. Игра предлагает детальную физическую симуляцию и поддержку до трёх игроков.",
+      "categories": [
+        "Все игры",
+        "Новинки",
+        "Приключения",
+        "Гонки",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 299,
+          "14": 599,
+          "21": 645,
+          "28": 745
+        },
+        "p3": {
+          "7": 399,
+          "14": 699,
+          "21": 745,
+          "28": 845
+        }
+      },
+      "tilda_uid": "516430430962",
+      "sku": "",
+      "external_id": "tDZPMmOCOB9hFbiIftKj",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/516430430962-roadcraft-ps5",
+      "seo_title": "RoadCraft PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда RoadCraft PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры RoadCraft PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.1,
+      "release_date": "20/5/2025",
+      "publisher": "Focus Entertainment",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10006025",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2815/df37826fe46f3e622a6132b50e5f3d7e260bd1594dff35c2.png",
+      "rent_days": [
         7,
         14,
         21,
@@ -9802,7 +10129,7 @@
       "slug": "indiana-jones-and-the-great-circle-ps5",
       "title": "Indiana Jones and the Great Circle PS5",
       "mark": "",
-      "price_from": 899,
+      "price_from": 257,
       "price_old": null,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/76248a273eb9e5f940cb4793256b30c165536acafe602483.png",
       "screenshots": [
@@ -9831,16 +10158,18 @@
       "platforms_choice": false,
       "prices": {
         "p2": {
-          "7": 899,
-          "14": 1690,
-          "21": 1990,
-          "28": 2390
+          "1": 257,
+          "7": 649,
+          "14": 799,
+          "21": 949,
+          "28": 1199
         },
         "p3": {
-          "7": 1099,
-          "14": 1890,
-          "21": 2190,
-          "28": 2590
+          "1": 349,
+          "7": 549,
+          "14": 699,
+          "21": 849,
+          "28": 1099
         }
       },
       "tilda_uid": "980652415812",
@@ -9857,6 +10186,7 @@
       "store_url": "https://store.playstation.com/en-tr/concept/10012238",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1203/bac7ed51767fc46855424b4fbe42427cb6aee1bd06cab09b.png",
       "rent_days": [
+        1,
         7,
         14,
         21,
@@ -9867,7 +10197,7 @@
       "slug": "indiana-jones-and-the-great-circle-the-order-of-giants-dlc-ps5",
       "title": "Indiana Jones and the Great Circle: The Order of Giants DLC PS5",
       "mark": "",
-      "price_from": 899,
+      "price_from": 257,
       "price_old": null,
       "image_url": "https://static.tildacdn.com/stor3032-3534-4939-b038-313034666535/506984b681cffa35708248cfe9cf737f.jpg",
       "screenshots": [
@@ -9896,16 +10226,18 @@
       "platforms_choice": false,
       "prices": {
         "p2": {
-          "7": 899,
-          "14": 1690,
-          "21": 1990,
-          "28": 2390
+          "1": 257,
+          "7": 649,
+          "14": 799,
+          "21": 949,
+          "28": 1199
         },
         "p3": {
-          "7": 1099,
-          "14": 1890,
-          "21": 2190,
-          "28": 2590
+          "1": 349,
+          "7": 549,
+          "14": 699,
+          "21": 849,
+          "28": 1099
         }
       },
       "tilda_uid": "243489311012",
@@ -9922,6 +10254,7 @@
       "store_url": "",
       "edition_banner": "",
       "rent_days": [
+        1,
         7,
         14,
         21,
@@ -12648,8 +12981,9 @@
         "Лента на главной",
         "Все игры",
         "Приключения",
-        "Боевики",
-        "РПГ"
+        "РПГ",
+        "Стратегии и симуляторы",
+        "Платформеры"
       ],
       "platforms": "PS5",
       "platform_ps4": false,
