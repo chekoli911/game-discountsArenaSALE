@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-20T02:00:23Z",
-  "server_time_utc": "2026-08-20T02:00:23Z",
+  "updated_at": "2026-08-21T02:01:34Z",
+  "server_time_utc": "2026-08-21T02:01:34Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-21T02:00:00Z",
-  "expires_at": "2026-08-21T02:00:00Z",
+  "next_rotation_at": "2026-08-22T02:00:00Z",
+  "expires_at": "2026-08-22T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-21T02:00:00Z"
+    "next_rotation_at": "2026-08-22T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "thief-master-thief-edition-ps4-ps5",
+      "title": "Thief: Master Thief Edition PS4/PS5",
+      "description": "Гарриетт, мастер-вор. Ты - не просто вор. Ты - главный хитрец города. Ограбления без плана, трофеи, которые никто не видел… и тайны, скрытые за дверью.  \n\nТвой город - на твоём столе. Крадись по теням, обходи охрану, смотри в глаза системам безопасности и исчезай без следа. Каким ты станешь? Скользким, хитрым или просто неприметным?  \n\nTHIEF - настоящая атмосфера. Всё: звук, свет, поведение NPC, уровень глубины. Каждый шаг - как в фильме из 90-х, только с вами на телевизоре.  \n\nАрендуй и погрузись - не думай, просто действуй.",
+      "image_url": "https://static.tildacdn.com/stor3766-3963-4565-b836-316435393834/80435208.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3766-3963-4565-b836-316435393834/80435208.jpg",
+        "https://static.tildacdn.com/stor3430-6634-4666-a362-386533396137/f123b9aa362c3c66dd2a20dd7a48fcdc.jpg",
+        "https://static.tildacdn.com/stor3565-6462-4965-b665-313730626339/be313ecd3dd1e7718321dd411ac8c1cc.jpg",
+        "https://static.tildacdn.com/stor3732-3236-4131-b161-313738303231/d17fafb9594a0af1c901655420926f83.jpg",
+        "https://static.tildacdn.com/stor3734-3966-4738-b630-363233666161/b8221da516386bcbbe42607312ec675a.jpg"
+      ],
+      "release_date": "",
+      "publisher": "",
+      "platforms": "",
+      "voice": "",
+      "text_translation": "",
+      "rating": null,
+      "store_url": "",
+      "tilda_uid": "415649071742",
+      "sku": "",
+      "external_id": "fFTCgfREF7FYGp9cPTYH",
+      "url": "http://arenapsgm.ru/tproduct/415649071742-thief-master-thief-edition-ps4ps5",
+      "expires_at": "2026-08-22T02:00:00Z",
+      "published_at": "2026-08-21T02:01:34Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Гарриетт - главный хитрец города, который обходит охрану и исчезает без следа.  \nТы - вор с тонким чувством к звуку, свету и поведению. Каждый шаг - как в фильме из 90-х."
+    }
+  ],
+  "history": [
     {
       "slug": "far-cry-primal-ps4-ps5",
       "title": "Far Cry Primal PS4/PS5",
@@ -50,34 +101,31 @@
       "sku": "",
       "external_id": "lhAxi9aAZ4r121MezLdh",
       "url": "http://arenapsgm.ru/tproduct/603852375012-far-cry-primal-ps4ps5",
-      "expires_at": "2026-08-21T02:00:00Z",
       "published_at": "2026-08-20T02:00:23Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Ты в каменном веке – каждый шаг – риск, каждый снег – шанс выжить.  \nНовый режим «Выживание»: твои запасы исчезают, охота становится катастрофой, и если умираешь – игру не спасёт."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "cuphead-amp-the-delicious-last-course-ps4-ps5",
       "title": "Cuphead &amp; The Delicious Last Course PS4/PS5",
