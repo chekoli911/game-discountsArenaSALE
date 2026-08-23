@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-22T02:00:23Z",
-  "server_time_utc": "2026-08-22T02:00:23Z",
+  "updated_at": "2026-08-23T02:00:28Z",
+  "server_time_utc": "2026-08-23T02:00:28Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-23T02:00:00Z",
-  "expires_at": "2026-08-23T02:00:00Z",
+  "next_rotation_at": "2026-08-24T02:00:00Z",
+  "expires_at": "2026-08-24T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-23T02:00:00Z"
+    "next_rotation_at": "2026-08-24T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "nhl-2023-ps4-ps5",
+      "title": "NHL 2023 PS4/PS5",
+      "description": "Хочешь почувствовать настоящий хоккей? В NHL 2023 на PS4 и PS5 ты можешь собрать самую сильную команду - от звёзд НХЛ до новичков из разных стран.  \n\nС режимом Hockey Ultimate Team даже женщины могут стать главными стратегами - в одной игре всё, что нужно для крутого соревнования.  \n\nКаждый матч - как на настоящем катке: реальные стили игры, атмосфера и борьба. Погрузись в мир хоккея, где каждый выстрел - это шанс на победу.",
+      "image_url": "https://static.tildacdn.com/stor3232-6238-4839-b937-336436373738/89948739.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3232-6238-4839-b937-336436373738/89948739.jpg",
+        "https://static.tildacdn.com/stor6637-3336-4362-b335-346337376439/92263901.jpg",
+        "https://static.tildacdn.com/stor6261-3233-4461-b838-613763386461/71133405.jpg",
+        "https://static.tildacdn.com/stor3635-6437-4133-b364-333961316130/44584275.jpg",
+        "https://static.tildacdn.com/stor3936-3638-4562-b339-346137323961/73168697.jpg"
+      ],
+      "release_date": "",
+      "publisher": "",
+      "platforms": "",
+      "voice": "",
+      "text_translation": "",
+      "rating": null,
+      "store_url": "",
+      "tilda_uid": "141893671142",
+      "sku": "",
+      "external_id": "bdvZkkM9iOGoggFFDPma",
+      "url": "http://arenapsgm.ru/tproduct/141893671142-nhl-2023-ps4ps5",
+      "expires_at": "2026-08-24T02:00:00Z",
+      "published_at": "2026-08-23T02:00:28Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Хочешь почувствовать настоящий хоккей? В NHL 2023 ты создаёшь свою команду - от звёзд до новичков.  \n\nРеальные стили игры, борьба и атмосфера как на настоящем катке. Каждый выстрел - шанс на победу."
+    }
+  ],
+  "history": [
     {
       "slug": "resident-evil-revelations-1-ps4-ps5",
       "title": "Resident Evil: Revelations 1 PS4/PS5",
@@ -50,34 +101,31 @@
       "sku": "",
       "external_id": "at9YrjpsFhrkUfTZFyFn",
       "url": "http://arenapsgm.ru/tproduct/760997761082-resident-evil-revelations-1-ps4ps5",
-      "expires_at": "2026-08-23T02:00:00Z",
       "published_at": "2026-08-22T02:00:23Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Криш Редфилд и Джил Валентайн на грани правды - а за ними тёмные воды Средиземного моря.  \nРейд - для тех, кто любит стрелять с друзьями. Игра дня: Resident Evil: Revelations 1 - страшно, но реально увлекательно."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "thief-master-thief-edition-ps4-ps5",
       "title": "Thief: Master Thief Edition PS4/PS5",
