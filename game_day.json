@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-23T02:00:28Z",
-  "server_time_utc": "2026-08-23T02:00:28Z",
+  "updated_at": "2026-08-24T02:00:23Z",
+  "server_time_utc": "2026-08-24T02:00:23Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-24T02:00:00Z",
-  "expires_at": "2026-08-24T02:00:00Z",
+  "next_rotation_at": "2026-08-25T02:00:00Z",
+  "expires_at": "2026-08-25T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-24T02:00:00Z"
+    "next_rotation_at": "2026-08-25T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "lego-marvel-avengers-ps4-ps5",
+      "title": "LEGO Marvel Avengers PS4/PS5",
+      "description": "Мстители в LEGO - вот где супер-приключения начинаются! 🚀  \n\nВ новой игре вы не просто смотрите на Мстителей - вы игрываете за них: Шау, Тор, Сквайр и других бойцов, которые спасают мир в крутых, динамичных сценах.  \n\nВсе персонажи - как в фильмах, а сюжет - как настоящий сериал. Хорошо подходит для тех, кто любит не просто управлять героями, а жить их приключениями.  \n\nДля аренды - пиши сюда 📩 @ArenaPSGMadmin",
+      "image_url": "https://static.tildacdn.com/stor3739-6532-4433-b766-643539393361/86335670.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP1018/CUSA02122_00/FREE_CONTENTtfVlUjICM4qkain4h7Ev/PREVIEW_SCREENSHOT1_479117.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA02122_00/FREE_CONTENTfsLhbb01DkB92VxOFaun/PREVIEW_SCREENSHOT2_479117.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA02122_00/FREE_CONTENTVTxHgjpWGIwfBdtKsNzO/PREVIEW_SCREENSHOT3_479117.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA02122_00/FREE_CONTENT5zPVdhlg1WJtJ5keYbmJ/PREVIEW_SCREENSHOT4_479117.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA02122_00/FREE_CONTENTU9GI1guff4mGHe7WN6hF/PREVIEW_SCREENSHOT5_479117.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA02122_00/FREE_CONTENTocBWqoIK8h2vgyF3J1kl/PREVIEW_SCREENSHOT6_479117.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA02122_00/FREE_CONTENTZoFG1Y6Tsged5eiFmEnK/PREVIEW_SCREENSHOT7_479117.jpg"
+      ],
+      "release_date": "29/1/2016",
+      "publisher": "WARNER BROS. INTERACTIVE",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.26,
+      "store_url": "https://store.playstation.com/en-tr/concept/202494",
+      "tilda_uid": "676934247022",
+      "sku": "",
+      "external_id": "aecvCJha6oZt5hLY1DZO",
+      "url": "http://arenapsgm.ru/tproduct/676934247022-lego-marvel-avengers-ps4ps5",
+      "expires_at": "2026-08-25T02:00:00Z",
+      "published_at": "2026-08-24T02:00:23Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Мстители в LEGO - настоящие приключения, где ты не просто смотришь, а действуешь.  \nШау, Тор и другие бойцы спасают мир в живых, динамичных сценах - как в фильмах, но с чувством игры."
+    }
+  ],
+  "history": [
     {
       "slug": "nhl-2023-ps4-ps5",
       "title": "NHL 2023 PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "bdvZkkM9iOGoggFFDPma",
       "url": "http://arenapsgm.ru/tproduct/141893671142-nhl-2023-ps4ps5",
-      "expires_at": "2026-08-24T02:00:00Z",
       "published_at": "2026-08-23T02:00:28Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Хочешь почувствовать настоящий хоккей? В NHL 2023 ты создаёшь свою команду - от звёзд до новичков.  \n\nРеальные стили игры, борьба и атмосфера как на настоящем катке. Каждый выстрел - шанс на победу."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "resident-evil-revelations-1-ps4-ps5",
       "title": "Resident Evil: Revelations 1 PS4/PS5",
