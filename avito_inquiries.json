@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-25T10:31:54+03:00",
-  "updated_at_msk": "25.08.2026 10:31",
+  "updated_at": "2026-08-25T11:32:08+03:00",
+  "updated_at_msk": "25.08.2026 11:32",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 307,
+  "total": 308,
   "unique_games": 188,
   "in_demand": 22,
   "one_off": 153,
@@ -191,9 +191,9 @@
       "title": "Marvel's Avengers Endgame Edition PS4/PS5",
       "item_id": "3893870276",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/marvels_avengers_endgame_edition_ps4ps5_3893870276",
-      "count": 28,
+      "count": 29,
       "demand": "high",
-      "avg_price": 340,
+      "avg_price": 335,
       "min_price": 209,
       "max_price": 350,
       "last_price": 209,
@@ -215,7 +215,7 @@
         350,
         350,
         350,
-        350,
+        209,
         209,
         209
       ],
@@ -305,7 +305,7 @@
         26,
         28,
         28,
-        28
+        29
       ],
       "hourly": [
         1,
@@ -393,7 +393,7 @@
         0,
         2,
         0,
-        0
+        1
       ],
       "price_series": [
         350,
@@ -484,7 +484,7 @@
         209
       ],
       "first_at": "2026-06-01T22:20:43+03:00",
-      "last_at": "2026-08-23T17:06:46+03:00"
+      "last_at": "2026-08-25T10:17:10+03:00"
     },
     {
       "id": "ufc-3",
@@ -53128,6 +53128,12 @@
   ],
   "recent": [
     {
+      "title": "Marvel's Avengers Endgame Edition PS4/PS5",
+      "price": 209,
+      "price_string": "209 ₽",
+      "at": "2026-08-25T10:17:10+03:00"
+    },
+    {
       "title": "Everybody's Gone To The Rapture PS4",
       "price": 257,
       "price_string": "257 ₽",
@@ -53360,12 +53366,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-08-23T17:38:39+03:00"
-    },
-    {
-      "title": "Marvel's Avengers Endgame Edition PS4/PS5",
-      "price": 209,
-      "price_string": "209 ₽",
-      "at": "2026-08-23T17:06:46+03:00"
     }
   ]
 }
