@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-24T02:00:23Z",
-  "server_time_utc": "2026-08-24T02:00:23Z",
+  "updated_at": "2026-08-25T02:01:21Z",
+  "server_time_utc": "2026-08-25T02:01:21Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-25T02:00:00Z",
-  "expires_at": "2026-08-25T02:00:00Z",
+  "next_rotation_at": "2026-08-26T02:00:00Z",
+  "expires_at": "2026-08-26T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-25T02:00:00Z"
+    "next_rotation_at": "2026-08-26T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "darksiders-ii-deathinitive-edition-ps4-ps5",
+      "title": "Darksiders II Deathinitive Edition PS4/PS5",
+      "description": "Ошеломительная графика - теперь Darksiders II в 4K, с яркими тенями и живым освещением, как будто ты на месте.  \n\nЗагружается мгновенно - за счёт сверхбыстрого SSD, никаких ждущих экранов.  \n\nСтань самой грозной из четырёх всадников: уничтожай миры, ломай стены рая и ада, как в старину.  \n\nТы - не просто персонаж, ты создаёшь свою Смерть: выбор оружия, доспехов и навыков делает каждый проход уникальным. Перемещаешься на ловких трюках, как настоящий акробат в мире без границ.",
+      "image_url": "https://static.tildacdn.com/stor6338-6235-4663-b039-653138336439/24397673.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1714/a534b51b91666f0d080741bc41e46718a0bf46afed6e9ec0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1714/a38d8c56112f9654d02288f81864cdc73785d754e38de9fd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1714/8ec435ca76422be7efe22ffaaae3b29ca6ccfd0141b3d8fc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1714/56fc5af6bfeb4e45293fd0ff235796e180ae3e39039e830a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1714/e1b961d8d20daaa9b882505e6b09568f00713e2b2b1b5a1a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1714/05577ca7242e5f1c69dd7c998ddb29a758c87642a376d811.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1714/b400403e1919b2f3a348bbef7c0a13bc706638e2059419d0.jpg"
+      ],
+      "release_date": "15/10/2024",
+      "publisher": "THQ NORDIC GMBH",
+      "platforms": "PS4, PS5",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.38,
+      "store_url": "https://store.playstation.com/en-tr/concept/231670",
+      "tilda_uid": "244188140882",
+      "sku": "",
+      "external_id": "FTa2H7IJctB8OnX0mBr6",
+      "url": "http://arenapsgm.ru/tproduct/244188140882-darksiders-ii-deathinitive-edition-ps4ps",
+      "expires_at": "2026-08-26T02:00:00Z",
+      "published_at": "2026-08-25T02:01:21Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Darksiders II теперь в 4K - графика как будто ты на месте.  \nВыбирай оружие и навыки, каждый проход - свой. Ты - главный всадник, который ломает стены рая и ада."
+    }
+  ],
+  "history": [
     {
       "slug": "lego-marvel-avengers-ps4-ps5",
       "title": "LEGO Marvel Avengers PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "aecvCJha6oZt5hLY1DZO",
       "url": "http://arenapsgm.ru/tproduct/676934247022-lego-marvel-avengers-ps4ps5",
-      "expires_at": "2026-08-25T02:00:00Z",
       "published_at": "2026-08-24T02:00:23Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Мстители в LEGO - настоящие приключения, где ты не просто смотришь, а действуешь.  \nШау, Тор и другие бойцы спасают мир в живых, динамичных сценах - как в фильмах, но с чувством игры."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "nhl-2023-ps4-ps5",
       "title": "NHL 2023 PS4/PS5",
