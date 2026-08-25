@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-22T15:45:35+00:00",
+  "updated_at": "2026-08-25T09:44:37+00:00",
   "items": [
     {
       "id": "the-blood-of-dawnwalker",
@@ -100,6 +100,15 @@
       "platforms": "PS5",
       "release_date": "29/10/2026",
       "added_at": "2026-08-14T04:31:30+00:00"
+    },
+    {
+      "id": "the-king-is-watching",
+      "title": "The King is Watching",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0910/51075a8abe1a4a297a95ca9dab697f6af56c881733feb530.png",
+      "url": "https://arenapsgm.ru/newgame",
+      "platforms": "PS5",
+      "release_date": "29/7/2026",
+      "added_at": "2026-08-25T09:44:37+00:00"
     }
   ]
 }
