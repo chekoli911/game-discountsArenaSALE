@@ -1,0 +1,1802 @@
+<!-- ARENA PSGM — аренда игр (часть 2/2) -->
+<script>
+(function(){
+  const MOUNT_ID = 'arena-rent';
+  const THEME_KEY = 'arena-rent-theme';
+  const PLATFORM_COOKIE = 'arena_store_platform';
+  const TERMS = [1,7,14,21,28,56];
+  const PAGE_SIZE_OPTIONS = [24, 36, 56, 104];
+  const GRID_COLS_OPTIONS = [4, 6, 8];
+  const PAGE_SIZE_KEY = 'arena-rent-page-size';
+  const GRID_COLS_KEY = 'arena-rent-grid-cols';
+  const REC_INITIAL = 12;
+  const REC_BATCH = 12;
+  const REC_MAX = 60;
+  const REC_VSERENT_SHARE = 0.85;
+  const REC_NOVINKA_IN_VSERENT = 0.55;
+  const REC_PRIORITY_CACHE_KEY = 'arena-rent-recs-priority';
+  const REC_PRIORITY_TTL_MS = 24 * 3600 * 1000;
+  /** Окно «Недавно добавленные»: 7 суток по catalog_added_at (синк /newlisting). */
+  const RECENT_ADDED_MS = 7 * 24 * 3600 * 1000;
+  /** Массовый сид каталога (один timestamp) не считаем «недавним». */
+  const RECENT_BULK_SEED_PREFIX = '2026-08-24T15:3';
+  const CDN = 'https://raw.githubusercontent.com/chekoli911/game-discountsArenaSALE/main/';
+  const CDN_JSDELIVR = 'https://cdn.jsdelivr.net/gh/chekoli911/game-discountsArenaSALE@main/';
+  // jsDelivr первым: raw.githubusercontent.com отстаёт на часы после заливки чанков
+  const MANIFEST_URLS = [CDN_JSDELIVR+'rent_catalog_manifest.json', CDN+'rent_catalog_manifest.json', './rent_catalog_manifest.json'];
+  const SEARCH_INDEX_URLS = [CDN_JSDELIVR+'rent-catalog/rent_catalog_search.json', CDN+'rent-catalog/rent_catalog_search.json', './rent_catalog_search.json'];
+  const RECS_PRIORITY_URLS = [CDN_JSDELIVR+'rent-catalog/rent_recs_priority.json', CDN+'rent-catalog/rent_recs_priority.json', './rent_recs_priority.json'];
+  // novinki: raw GitHub первым — jsDelivr отстаёт на часы после обновления порядка
+  const NOVINKI_URLS = [CDN+'rent-catalog/rent_novinki.json', CDN_JSDELIVR+'rent-catalog/rent_novinki.json', './rent_novinki.json'];
+  const CHUNK_BASES = [CDN_JSDELIVR+'rent-catalog/', CDN+'rent-catalog/', './catalog/'];
+  const BUY_URL = 'https://t.me/m/NrVGWXJpOGNi';
+  const HOME_URL = 'https://arenapsgm.ru/';
+  const HASH_RE = /^#rent\/(.+)$/;
+  const IMG_PLACEHOLDER = 'data:image/svg+xml;utf8,' + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640"><rect width="100%" height="100%" fill="#0f172a"/><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#94a3b8" font-family="Arial" font-size="28">Нет изображения</text></svg>');
+
+  const $ = (s, r=document)=>r.querySelector(s);
+  const $$ = (s, r=document)=>Array.from(r.querySelectorAll(s));
+  const nf = v => isNaN(v) ? '' : (Math.round(v).toLocaleString('ru-RU') + ' ₽');
+  const esc = s => String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  const attr = s => esc(s).replace(/'/g,'&#39;');
+  const fix = u => { if(!u) return ''; return String(u).trim().replace(/\s/g,'%20'); };
+  const debounce = (fn,ms=180)=>{let t;return(...a)=>{clearTimeout(t);t=setTimeout(()=>fn(...a),ms)};};
+
+  const mount = document.getElementById(MOUNT_ID);
+  if(!mount){ console.warn('Rent: нет #' + MOUNT_ID); return; }
+
+  const state = {
+    items: [],
+    itemsBySlug: {},
+    filter: 'all',
+    query: '',
+    page: 0,
+    pageSize: (function(){
+      try{
+        let v=+localStorage.getItem(PAGE_SIZE_KEY);
+        if(v===52) v=56;
+        if(v===100) v=104;
+        if(PAGE_SIZE_OPTIONS.indexOf(v)>=0) return v;
+      }catch(e){}
+      return 36;
+    })(),
+    gridCols: (function(){
+      try{
+        const v=+localStorage.getItem(GRID_COLS_KEY);
+        if(GRID_COLS_OPTIONS.indexOf(v)>=0) return v;
+      }catch(e){}
+      return 4;
+    })(),
+    ensuringPage: false,
+    chunksLoaded: new Set(),
+    manifest: null,
+    open: false,
+    card: null,
+    days: 7,
+    mode: 'p2',
+    platform: 'PS5',
+    shotIdx: 0,
+    priceShown: null,
+    priceAnimId: null,
+    pendingCartOpen: false,
+    theme: (function(){ try{ return localStorage.getItem(THEME_KEY)||'light'; }catch(e){ return 'light'; } })(),
+    // Deep-link support when requested slug is not loaded yet (chunks load async)
+    pendingOpenSlug: null,
+    pendingOpenHistory: 'replace',
+    allChunksLoading: false,
+    // Recommendations lazy-load (inside opened card)
+    recsAll: null,
+    recsForSlug: '',
+    recsShown: 0,
+    recsScrollHandler: null,
+    searchIndex: null,
+    allChunksLoaded: false,
+    firstPageReady: false,
+    spotlightSlugs: null,
+    spotlightItemsCache: null,
+    homeListCache: null,
+    recsPriority: null,
+    recsPriorityLoadedAt: 0,
+    novinkiSlugs: null,
+    novinkiOrder: null,
+    novinkiLoadedAt: 0,
+    novinkiGeneratedAt: '',
+    novinkiLoading: false,
+    novinkiReady: false
+  };
+
+  function applyTheme(){ mount.classList.toggle('rt-theme-dark', state.theme==='dark'); }
+  applyTheme();
+  function pageSize(){ return state.pageSize||36; }
+  function applyGridCols(){
+    GRID_COLS_OPTIONS.forEach(n=>mount.classList.remove('rt-cols-'+n));
+    mount.classList.add('rt-cols-'+(state.gridCols||4));
+  }
+  applyGridCols();
+  function setPageSize(n){
+    const v=+n;
+    state.pageSize=PAGE_SIZE_OPTIONS.indexOf(v)>=0?v:36;
+    try{ localStorage.setItem(PAGE_SIZE_KEY, String(state.pageSize)); }catch(e){}
+    state.page=0;
+  }
+  function setGridCols(n){
+    const v=+n;
+    state.gridCols=GRID_COLS_OPTIONS.indexOf(v)>=0?v:4;
+    try{ localStorage.setItem(GRID_COLS_KEY, String(state.gridCols)); }catch(e){}
+    applyGridCols();
+  }
+
+  function parseReleaseDate(s){
+    const m=String(s||'').match(/(\d{1,2})[./](\d{1,2})[./](\d{4})/);
+    if(!m) return null;
+    return new Date(+m[3], +m[2]-1, +m[1]);
+  }
+  function startOfDay(d){ const x=new Date(d); x.setHours(0,0,0,0); return x; }
+  function isPreorderItem(item){
+    const d=parseReleaseDate(item.release_date);
+    if(!d) return !!item.is_preorder;
+    const today=startOfDay(new Date());
+    const yesterday=new Date(today); yesterday.setDate(yesterday.getDate()-1);
+    return startOfDay(d) > yesterday;
+  }
+  function isReleasedItem(item){
+    const d=parseReleaseDate(item.release_date);
+    if(!d) return !item.is_preorder;
+    return startOfDay(d) <= startOfDay(new Date());
+  }
+  function releaseSortKey(item){
+    const d=parseReleaseDate(item.release_date);
+    return d ? d.getTime() : 0;
+  }
+  function shuffleArray(arr){
+    for(let i=arr.length-1;i>0;i--){
+      const j=Math.floor(Math.random()*(i+1));
+      const t=arr[i]; arr[i]=arr[j]; arr[j]=t;
+    }
+    return arr;
+  }
+  function daySeed(){
+    const t=startOfDay(new Date());
+    return t.getFullYear()*10000+(t.getMonth()+1)*100+t.getDate();
+  }
+  function shuffleArraySeeded(arr, seed){
+    const a=arr.slice();
+    let s=(seed>>>0)||1;
+    for(let i=a.length-1;i>0;i--){
+      s=(Math.imul(s,1664525)+1013904223)>>>0;
+      const j=s%(i+1);
+      const t=a[i]; a[i]=a[j]; a[j]=t;
+    }
+    return a;
+  }
+  function isRecentWeekRelease(item){
+    const d=parseReleaseDate(item.release_date);
+    if(!d) return false;
+    const today=startOfDay(new Date());
+    const weekAgo=new Date(today); weekAgo.setDate(weekAgo.getDate()-7);
+    const sd=startOfDay(d);
+    return sd>=weekAgo && sd<=today;
+  }
+  function isUpcoming3Weeks(item){
+    const d=parseReleaseDate(item.release_date);
+    if(!d) return false;
+    const today=startOfDay(new Date());
+    const limit=new Date(today); limit.setDate(limit.getDate()+21);
+    const sd=startOfDay(d);
+    return sd>today && sd<=limit;
+  }
+  function buildSpotlightItems(){
+    const recent=[], upcoming=[];
+    for(const item of state.items){
+      if(!item||isHiddenRentItem(item)) continue;
+      if(isRecentWeekRelease(item)) recent.push(item);
+      else if(isUpcoming3Weeks(item)) upcoming.push(item);
+    }
+    shuffleArraySeeded(recent, daySeed());
+    shuffleArraySeeded(upcoming, daySeed()+1);
+    const mixed=[];
+    const n=Math.max(recent.length, upcoming.length);
+    for(let i=0;i<n;i++){
+      if(i<recent.length) mixed.push(recent[i]);
+      if(i<upcoming.length) mixed.push(upcoming[i]);
+    }
+    return mixed;
+  }
+  function getSpotlightItems(){
+    if(state.allChunksLoaded){
+      if(!state.spotlightSlugs){
+        const items=buildSpotlightItems();
+        state.spotlightItemsCache=items;
+        state.spotlightSlugs=new Set(items.map(x=>x.slug));
+        return items;
+      }
+      return state.spotlightItemsCache||[];
+    }
+    return buildSpotlightItems();
+  }
+  function invalidateSpotlight(){
+    state.spotlightSlugs=null;
+    state.spotlightItemsCache=null;
+    state.homeListCache=null;
+  }
+  function isActualRelease(item){
+    // «Актуальные»: недавние (7 дней) + ближайшие 3 недели
+    return isRecentWeekRelease(item) || isUpcoming3Weeks(item);
+  }
+  function buildHomeCatalogList(base){
+    // Стр. 1–2: будущие по дате релиза; если мало — добор актуальными. Дальше — остальные по дате.
+    const frontTarget=pageSize()*2;
+    const byDateDesc=(a,b)=>releaseSortKey(b)-releaseSortKey(a)||String(a.title||'').localeCompare(String(b.title||''),'en');
+    const future=base.filter(isPreorderItem).slice().sort(byDateDesc);
+    const used=new Set(future.map(x=>x.slug));
+    const front=future.slice();
+    if(front.length<frontTarget){
+      const actual=base.filter(x=>isActualRelease(x)&&!used.has(x.slug)).slice().sort(byDateDesc);
+      for(const item of actual){
+        if(front.length>=frontTarget) break;
+        front.push(item);
+        used.add(item.slug);
+      }
+    }
+    // На 1–2 страницы кладём ровно frontTarget (или меньше, если игр мало)
+    const head=front.slice(0, frontTarget);
+    head.forEach(x=>used.add(x.slug));
+    const rest=base.filter(x=>!used.has(x.slug)).slice().sort(byDateDesc);
+    return head.concat(rest);
+  }
+  function getHomeCatalogList(base){
+    if(state.allChunksLoaded){
+      if(!state.homeListCache) state.homeListCache=buildHomeCatalogList(base);
+      return state.homeListCache;
+    }
+    return buildHomeCatalogList(base);
+  }
+  function showSpotlight(){
+    // «Актуальные релизы» — с 3-й страницы (page index 2)
+    return state.allChunksLoaded && state.filter==='all' && !String(state.query||'').trim() && state.page===2;
+  }
+  function catalogTotalEstimate(){
+    const mCount=state.manifest && +state.manifest.count;
+    if(mCount>0) return mCount;
+    return state.items.filter(x=>x&&!isHiddenRentItem(x)).length;
+  }
+  function scrollCatalogToTop(){
+    const anchor=$('[data-filters]',mount)||$('[data-page-meta]',mount)||$('.rt-shell',mount)||mount;
+    const run=()=>{
+      try{
+        const topPad=16;
+        const rect=anchor.getBoundingClientRect();
+        const absY=(window.pageYOffset||document.documentElement.scrollTop||document.body.scrollTop||0)+rect.top-topPad;
+        window.scrollTo({top:Math.max(0, absY), behavior:'smooth'});
+        // На всякий случай — если скролл не у window (обёртки Tilda)
+        let node=anchor.parentElement;
+        while(node && node!==document.body){
+          const st=window.getComputedStyle(node);
+          const oy=st.overflowY;
+          if((oy==='auto'||oy==='scroll'||oy==='overlay') && node.scrollHeight>node.clientHeight+8){
+            const nRect=anchor.getBoundingClientRect();
+            const pRect=node.getBoundingClientRect();
+            node.scrollTo({top:node.scrollTop+(nRect.top-pRect.top)-topPad, behavior:'smooth'});
+          }
+          node=node.parentElement;
+        }
+      }catch(e){
+        try{ window.scrollTo(0,0); }catch(_e){}
+        try{ anchor.scrollIntoView({block:'start'}); }catch(_e2){}
+      }
+    };
+    // После renderGrid DOM/высота уже стабильны — скроллим на следующем кадре
+    requestAnimationFrame(()=>requestAnimationFrame(run));
+  }
+  let _gridRenderTimer=null;
+  function scheduleRenderGrid(immediate){
+    if(immediate){ clearTimeout(_gridRenderTimer); renderGrid(); return; }
+    clearTimeout(_gridRenderTimer);
+    _gridRenderTimer=setTimeout(renderGrid, 450);
+  }
+
+  function daysLabel(d){
+    if(d===1) return '1 день';
+    if(d===21) return '21 день';
+    return d + ' дней';
+  }
+  function price56(base28){ return Math.round((+base28||0)*2*0.9); }
+  function editionPriceMult(card){
+    const t=String((card&&card.title)||'').toLowerCase();
+    if(t.indexOf('premium')>=0) return 1.4;
+    if(t.indexOf('deluxe')>=0) return 1.3;
+    return 1;
+  }
+  function pricesFor(card){
+    const mult=editionPriceMult(card);
+    const p2=(card&&(card.prices&&card.prices.p2||card.prices_p2))||{};
+    const p3=(card&&(card.prices&&card.prices.p3||card.prices_p3))||{};
+    return TERMS.map(d=>{
+      const key=String(d);
+      let p2v=+(p2[d]||p2[key]||0);
+      let p3v=+(p3[d]||p3[key]||0);
+      if(d===56){
+        if(!p2v) p2v=price56(p2[28]||p2['28']);
+        if(!p3v) p3v=price56(p3[28]||p3['28']);
+      }
+      if(mult!==1){
+        if(p2v) p2v=Math.round(p2v*mult);
+        if(p3v) p3v=Math.round(p3v*mult);
+      }
+      return {days:d,p2:p2v,p3:p3v};
+    }).filter(x=>x.p2||x.p3);
+  }
+  function currentPrice(){
+    const row=pricesFor(state.card).find(x=>x.days===state.days)||pricesFor(state.card)[0];
+    if(!row) return 0;
+    return state.mode==='p3'?row.p3:row.p2;
+  }
+  function fromPrice(card){
+    const rows=pricesFor(card);
+    if(!rows.length) return +(card&&card.price_min)||0;
+    return Math.min.apply(null, rows.map(r=>Math.min(r.p2||Infinity,r.p3||Infinity)).filter(n=>isFinite(n)));
+  }
+  function starsHtml(rating){
+    const v=Math.max(0,Math.min(5,Number(rating)||0));
+    if(!v) return '';
+    let s='';
+    for(let i=1;i<=5;i++) s+=`<span class="${i<=Math.round(v)?'':'rt-star--empty'}">★</span>`;
+    return `<span class="rt-card__rating"><span>${s}</span> ${v.toFixed(1)}</span>`;
+  }
+  function coverUrl(item){
+    return fix(item&&item.image_url)||fix(((item&&item.screenshots)||[])[0])||'';
+  }
+  function shotsOf(card){
+    const urls=[coverUrl(card)].concat(card.screenshots||[]).filter(Boolean).map(fix);
+    const out=[], seen=new Set();
+    for(const u of urls){ if(seen.has(u)) continue; seen.add(u); out.push(u); }
+    // 1 главная + максимум 5 скриншотов
+    return out.slice(0,6);
+  }
+  const EN_TO_RU={'q':'й','w':'ц','e':'у','r':'к','t':'е','y':'н','u':'г','i':'ш','o':'щ','p':'з','[':'х',']':'ъ','a':'ф','s':'ы','d':'в','f':'а','g':'п','h':'р','j':'о','k':'л','l':'д',';':'ж','\'':'э','z':'я','x':'ч','c':'с','v':'м','b':'и','n':'т','m':'ь',',':'б','.':'ю','`':'ё'};
+  const RU_TO_EN={};
+  Object.keys(EN_TO_RU).forEach(k=>{ RU_TO_EN[EN_TO_RU[k]]=k; });
+  function layoutSwap(str, map){
+    return String(str||'').split('').map(ch=>{
+      const low=ch.toLowerCase();
+      const rep=map[low];
+      if(!rep) return ch;
+      return ch===low?rep:rep.toUpperCase();
+    }).join('');
+  }
+  function normalizeSearch(s){
+    return String(s||'').toLowerCase().replace(/ё/g,'е').replace(/[^a-z0-9а-я\s]+/gi,' ').replace(/\s+/g,' ').trim();
+  }
+  function searchNeedles(q){
+    const raw=String(q||'').trim();
+    if(!raw) return [];
+    const variants=new Set();
+    [raw, layoutSwap(raw, EN_TO_RU), layoutSwap(raw, RU_TO_EN)].forEach(v=>{
+      const n=normalizeSearch(v);
+      if(n) variants.add(n);
+      const compact=n.replace(/\s+/g,'');
+      if(compact) variants.add(compact);
+    });
+    return Array.from(variants);
+  }
+  function gameMatchesQuery(g, needles){
+    if(!needles.length) return false;
+    const hay=normalizeSearch([g.title,g.slug,g.genre].join(' '));
+    const compact=hay.replace(/\s+/g,'');
+    return needles.some(n=>hay.indexOf(n)>=0||compact.indexOf(n)>=0);
+  }
+  function catalogAddedKey(item){
+    const raw=String((item&&item.catalog_added_at)||'').trim();
+    if(!raw) return 0;
+    const t=Date.parse(raw);
+    return isNaN(t)?0:t;
+  }
+  function isRecentlyAddedItem(item){
+    // Call of Duty из vserent — не в «Недавно добавленные»
+    if(isCallOfDuty(item) || item.from_vserent_cod) return false;
+    const raw=String((item&&item.catalog_added_at)||'').trim();
+    // Исключаем массовый сид 24.08.2026 ~15:39Z (тысячи игр с одним timestamp)
+    if(raw.indexOf(RECENT_BULK_SEED_PREFIX)===0) return false;
+    const t=catalogAddedKey(item);
+    if(!t) return false;
+    return (Date.now() - t) <= RECENT_ADDED_MS;
+  }
+  function isNovinkiItem(item){
+    if(!item||!item.slug) return false;
+    const set=state.novinkiSlugs;
+    if(!state.novinkiReady || !set || !set.size) return false;
+    return set.has(item.slug);
+  }
+  function recencyKey(item){
+    const t=catalogAddedKey(item);
+    if(t) return t;
+    const idx=state.items.indexOf(item);
+    const n=state.items.length||1;
+    return Date.parse('2026-01-01T00:00:00Z')+(n-Math.max(idx,0))*1000;
+  }
+  function is007FirstLight(item){
+    const slug=String((item&&item.slug)||'').toLowerCase();
+    if(slug==='007-first-light'||slug.indexOf('007-first-light')===0) return true;
+    const t=normalizeSearch((item&&item.title)||'');
+    return t.indexOf('007')>=0 && t.indexOf('first light')>=0;
+  }
+  function alphaSortKey(item){
+    // A–Я: 007 First Light → латиница → кириллица → цифры/прочее
+    if(is007FirstLight(item)) return '0\t007 first light';
+    const raw=String((item&&item.title)||'').trim();
+    const t=raw.toLowerCase().replace(/ё/g,'е');
+    let ch='';
+    for(let i=0;i<t.length;i++){
+      const c=t.charAt(i);
+      if(/[a-zа-я0-9]/i.test(c)){ ch=c; break; }
+    }
+    if(!ch) ch=t.charAt(0)||'~';
+    const code=ch.charCodeAt(0);
+    let group=3;
+    if(code>=97&&code<=122) group=1;
+    else if(code>=1072&&code<=1103) group=2;
+    else group=3;
+    return group+'\t'+t;
+  }
+  function readPlatformCookie(){
+    try{
+      const m=document.cookie.match(new RegExp('(?:^|; )'+PLATFORM_COOKIE+'=([^;]*)'));
+      const v=m?decodeURIComponent(m[1]):'';
+      return v==='PS4'||v==='PS5'?v:'';
+    }catch(e){ return ''; }
+  }
+  function setPlatform(p, opts){
+    state.platform=p==='PS4'?'PS4':'PS5';
+    if(opts&&opts.persist){ try{ document.cookie=PLATFORM_COOKIE+'='+state.platform+';path=/;max-age=31536000'; }catch(e){} }
+  }
+
+  function registerItems(list){
+    for(const it of list||[]){
+      if(!it||!it.slug) continue;
+      state.itemsBySlug[it.slug]=it;
+    }
+  }
+  function mergeItems(list){
+    const map=new Map(state.items.map(x=>[x.slug,x]));
+    for(const it of list||[]){
+      if(it&&it.slug) map.set(it.slug,it);
+    }
+    state.items=Array.from(map.values());
+    registerItems(state.items);
+  }
+
+  async function fetchJson(urls){
+    let last=null;
+    for(const url of urls){
+      try{
+        const r=await fetch(url+(url.indexOf('?')>=0?'&':'?')+'t='+Date.now(),{cache:'no-store'});
+        if(!r.ok) throw new Error(r.statusText);
+        return await r.json();
+      }catch(e){ last=e; }
+    }
+    throw last||new Error('fetch failed');
+  }
+
+  async function loadManifest(){
+    return fetchJson(MANIFEST_URLS);
+  }
+  async function loadChunk(name, idx){
+    if(state.chunksLoaded.has(idx)) return [];
+    const urls=CHUNK_BASES.map(b=>b+name);
+    const data=await fetchJson(urls);
+    const items=Array.isArray(data)?data:(data.items||[]);
+    state.chunksLoaded.add(idx);
+    mergeItems(items);
+    if(state.pendingOpenSlug && !state.open){
+      const slug=state.pendingOpenSlug;
+      const pendingCard=state.itemsBySlug[slug]||state.items.find(x=>x.slug===slug);
+      if(pendingCard){
+        openDetailBySlug(slug,{updateHistory:false, history: state.pendingOpenHistory||'replace'});
+      }
+    }
+    return items;
+  }
+  async function loadChunkByIndex(idx){
+    const chunks=(state.manifest&&state.manifest.chunks)||[];
+    if(idx<0||idx>=chunks.length||state.chunksLoaded.has(idx)) return [];
+    return loadChunk(chunks[idx], idx);
+  }
+  async function prefetchSlugChunk(slug){
+    if(!slug||!Array.isArray(state.searchIndex)) return;
+    const hit=state.searchIndex.find(x=>x&&x.slug===slug);
+    if(!hit) return;
+    await loadChunkByIndex(+hit.chunk||0);
+  }
+  function searchIndexMatches(row, needles){
+    if(!row||!needles.length) return false;
+    const title=normalizeSearch(row.title||'');
+    const slug=normalizeSearch(String(row.slug||'').replace(/-/g,' '));
+    const slugRaw=String(row.slug||'').toLowerCase();
+    const compact=title.replace(/\s+/g,'');
+    return needles.some(n=>title.indexOf(n)>=0||compact.indexOf(n)>=0||slug.indexOf(n)>=0||slugRaw.indexOf(n.replace(/\s+/g,''))>=0||slugRaw.indexOf(n.replace(/\s+/g,'-'))>=0);
+  }
+  async function prefetchSearchChunks(query){
+    const needles=searchNeedles(query);
+    if(!needles.length||!Array.isArray(state.searchIndex)) return;
+    const want=new Set();
+    for(const row of state.searchIndex){
+      if(searchIndexMatches(row, needles)) want.add(+row.chunk||0);
+    }
+    if(!want.size) return;
+    const jobs=[];
+    for(const idx of want) jobs.push(loadChunkByIndex(idx).catch(()=>[]));
+    await Promise.all(jobs);
+  }
+  async function loadSearchIndex(){
+    try{
+      state.searchIndex=await fetchJson(SEARCH_INDEX_URLS);
+    }catch(e){
+      state.searchIndex=null;
+    }
+  }
+  function setCatalogLoadingStatus(done, total){
+    if(state.allChunksLoaded){
+      clearCatalogLoadingTip();
+      return;
+    }
+    const pct=total?Math.min(100, Math.round((done/total)*100)):0;
+    // Первая страница уже на экране — не затираем сетку, только тонкий прогресс
+    if(state.firstPageReady){
+      let tip=$('[data-catalog-loading]',mount);
+      if(!tip){
+        const filters=$('[data-filters]',mount);
+        tip=document.createElement('div');
+        tip.className='rt-catalog-loading';
+        tip.setAttribute('data-catalog-loading','');
+        if(filters&&filters.parentNode) filters.parentNode.insertBefore(tip, filters.nextSibling);
+        else return;
+      }
+      tip.textContent=`Догрузка каталога… ${pct}%`;
+      tip.hidden=false;
+      return;
+    }
+    const grid=$('[data-grid]',mount);
+    if(!grid) return;
+    grid.innerHTML=`<div class="rt-status">Загрузка каталога… ${pct}%</div>`;
+    grid.classList.remove('is-ready');
+  }
+  function clearCatalogLoadingTip(){
+    const tip=$('[data-catalog-loading]',mount);
+    if(tip) tip.remove();
+  }
+  async function ensureChunksForPage(page){
+    const chunks=(state.manifest&&state.manifest.chunks)||[];
+    if(!chunks.length) return false;
+    const chunkSize=Math.max(1, +(state.manifest&&state.manifest.chunk_size)||100);
+    const needItems=(page+1)*pageSize();
+    const needChunk=Math.min(chunks.length-1, Math.floor(Math.max(0, needItems-1)/chunkSize));
+    const jobs=[];
+    for(let i=0;i<=needChunk;i++){
+      if(!state.chunksLoaded.has(i)) jobs.push(loadChunkByIndex(i));
+    }
+    if(!jobs.length) return false;
+    await Promise.all(jobs.map(p=>p.catch(()=>{})));
+    return true;
+  }
+  async function loadAllChunksBackground(manifest, opts){
+    opts=opts||{};
+    const chunks=(manifest&&manifest.chunks)||[];
+    const batch=8;
+    const startIdx=opts.fromIdx!=null?opts.fromIdx:1;
+    for(let i=startIdx;i<chunks.length;i+=batch){
+      const jobs=[];
+      for(let j=i;j<Math.min(i+batch, chunks.length);j++){
+        jobs.push(loadChunk(chunks[j], j).catch(()=>{}));
+      }
+      await Promise.all(jobs);
+      setCatalogLoadingStatus(state.chunksLoaded.size, chunks.length);
+      // Не перерисовываем первую страницу при каждой догрузке — карточки не прыгают
+      if(state.page>0 || state.filter!=='all' || String(state.query||'').trim()){
+        if(!state.open) scheduleRenderGrid(false);
+      }
+      await new Promise(r=>setTimeout(r,10));
+    }
+    state.allChunksLoaded=true;
+    state.firstPageReady=true;
+    invalidateSpotlight();
+    clearCatalogLoadingTip();
+    $('[data-filters]',mount).innerHTML=filterChips();
+    if(!state.open) requestAnimationFrame(()=>renderGrid());
+  }
+
+  function openCart(){
+    for(const fn of ['tcart__openCart','tcart__showCart','tcart__showCartWidget']){
+      if(typeof window[fn]==='function'){ window[fn](); return; }
+    }
+    const el=document.querySelector('.t706__carticon,a[href="#opencart"]');
+    if(el) el.click();
+  }
+  function pushCart(payload, open){
+    if(typeof window.tcart__addProduct==='function'){
+      try{ window.tcart__addProduct(payload); if(open) openCart(); return true; }catch(e){}
+    }
+    window.open(BUY_URL,'_blank');
+    return false;
+  }
+  function tapFeedback(btn, opts){
+    if(!btn) return;
+    opts=opts||{};
+    const prev=btn.dataset.prevText||btn.innerHTML;
+    btn.dataset.prevText=prev;
+    btn.classList.add('is-ok','is-press');
+    if(opts.okText) btn.textContent=opts.okText;
+    setTimeout(()=>{ btn.classList.remove('is-ok','is-press'); btn.innerHTML=prev; btn.textContent=prev.replace(/<[^>]+>/g,'')||prev; }, opts.ms||1600);
+  }
+
+  function animatePriceTo(target, instant){
+    const el=$('[data-price]', mount);
+    if(!el){ state.priceShown=target; return; }
+    const to=Math.round(+target||0);
+    if(instant||state.priceShown==null){
+      if(state.priceAnimId) cancelAnimationFrame(state.priceAnimId);
+      state.priceShown=to; el.textContent=nf(to); return;
+    }
+    const from=Math.round(+state.priceShown||0);
+    if(from===to){ el.textContent=nf(to); state.priceShown=to; return; }
+    if(state.priceAnimId) cancelAnimationFrame(state.priceAnimId);
+    const start=performance.now(), dur=480;
+    const tick=now=>{
+      const t=Math.min(1,(now-start)/dur);
+      const eased=1-Math.pow(1-t,3);
+      const val=Math.round(from+(to-from)*eased);
+      el.textContent=nf(val);
+      if(t<1) state.priceAnimId=requestAnimationFrame(tick);
+      else{ state.priceShown=to; el.textContent=nf(to); }
+    };
+    state.priceAnimId=requestAnimationFrame(tick);
+  }
+  function refreshTermButtons(){
+    const box=$('.rt-term', mount);
+    if(!box) return;
+    const list=pricesFor(state.card);
+    box.querySelectorAll('[data-days]').forEach(btn=>{
+      const d=+btn.getAttribute('data-days');
+      const row=list.find(x=>x.days===d);
+      if(!row) return;
+      const small=btn.querySelector('small');
+      if(small) small.textContent=nf(state.mode==='p3'?row.p3:row.p2);
+      btn.classList.toggle('active', d===state.days);
+    });
+  }
+
+  function addToCart(open, opts){
+    opts=opts||{};
+    const c=state.card; if(!c) return false;
+    if(!state.platform) setPlatform('PS5',{persist:false});
+    if(opts.fromSite!==false && !opts.skipConfirm){ askPlatformConfirm(open); return false; }
+    const L=state.mode==='p3'?'П3 с личного аккаунта':'П2 с профиля аренды';
+    const ok=pushCart({
+      name:c.title+' — Аренда · '+state.platform+' · '+daysLabel(state.days),
+      price:currentPrice(),
+      sku:c.sku||('rent-'+c.slug),
+      quantity:1,
+      img:coverUrl(c)||'',
+      options:[
+        {option:'Платформа',variant:state.platform},
+        {option:'Срок аренды',variant:daysLabel(state.days)},
+        {option:'Тип аренды',variant:L}
+      ]
+    }, open);
+    if(ok){
+      $$('[data-buy],[data-sticky-buy]',mount).forEach(btn=>tapFeedback(btn,{okText:'Добавлено',ms:1600}));
+      if(open) $$('[data-cart],[data-sticky-cart]',mount).forEach(btn=>tapFeedback(btn,{okText:'Открыто',ms:1200}));
+    }
+    return ok;
+  }
+
+  function ensurePlatformModal(){
+    let modal=$('#rtPlat',mount);
+    if(modal) return modal;
+    modal=document.createElement('div');
+    modal.id='rtPlat'; modal.className='rt-plat';
+    modal.innerHTML=`<div class="rt-plat__card"><p class="rt-plat__title" data-plat-title></p><p class="rt-plat__sub">От этого зависит отображение в корзине.</p><div class="rt-plat__actions"><button type="button" class="rt-btn rt-btn-buy" data-plat-yes></button><button type="button" class="rt-btn rt-btn-sec" data-plat-alt></button></div></div>`;
+    mount.appendChild(modal);
+    modal.addEventListener('click',e=>{ if(e.target===modal) modal.classList.remove('is-on'); });
+    const finish=platform=>{ setPlatform(platform,{persist:true}); modal.classList.remove('is-on'); const open=!!state.pendingCartOpen; state.pendingCartOpen=false; addToCart(open,{skipConfirm:true,fromSite:true}); };
+    modal.querySelector('[data-plat-yes]').addEventListener('click',()=>finish(modal.getAttribute('data-current')==='PS4'?'PS4':'PS5'));
+    modal.querySelector('[data-plat-alt]').addEventListener('click',()=>finish(modal.getAttribute('data-current')==='PS4'?'PS5':'PS4'));
+    return modal;
+  }
+  function askPlatformConfirm(open){
+    state.pendingCartOpen=!!open;
+    const modal=ensurePlatformModal();
+    const current=state.platform==='PS4'?'PS4':'PS5';
+    const other=current==='PS5'?'PS4':'PS5';
+    modal.setAttribute('data-current',current);
+    modal.querySelector('[data-plat-title]').textContent='Ваша платформа точно '+current+'?';
+    modal.querySelector('[data-plat-yes]').textContent='Да, '+current;
+    modal.querySelector('[data-plat-alt]').textContent='У меня '+other;
+    modal.classList.add('is-on');
+  }
+
+  function isCallOfDuty(item){
+    return /call\s*of\s*duty/i.test(String((item&&item.title)||'')+' '+String((item&&item.slug)||''));
+  }
+  const TOPUP_SLUGS={'ps-store-30-tl':1,'ps-store-200-tl':1,'ps-store-400-tl':1,'ps-store-600-tl':1,'ps-store-1000-tl':1,'poland-70-zl':1};
+  function isTopUpCard(item){
+    const slug=String((item&&item.slug)||'').toLowerCase();
+    if(TOPUP_SLUGS[slug]) return true;
+    const t=String((item&&item.title)||'');
+    return /карт[аы]?\s+пополн|ps\s*store.*\b\d+\s*tl\b|poland.*\b\d+\s*zl\b/i.test(t);
+  }
+  function isUpgradeTitle(item){
+    return /\bupgrade\b/i.test(String((item&&item.title)||''))
+      || String((item&&item.slug)||'').toLowerCase().indexOf('upgrade')>=0;
+  }
+  function isHiddenRentItem(item){
+    // Call of Duty снова показываем (каталог из vserent); прячем только пополнение и upgrade
+    return isTopUpCard(item)||isUpgradeTitle(item);
+  }
+  function filteredItems(){
+    let list=state.items.filter(x=>x&&!isHiddenRentItem(x));
+    const needles=searchNeedles(state.query);
+    if(needles.length){
+      list=list.filter(g=>gameMatchesQuery(g,needles));
+    }
+    if(state.filter==='new'){
+      if(!state.novinkiReady){
+        return [];
+      }
+      // Список с PS Store «New games» (rent_novinki.json)
+      list=list.filter(isNovinkiItem);
+      const orderList=state.novinkiOrder;
+      if(orderList && orderList.length){
+        const order=new Map(orderList.map((s,i)=>[s,i]));
+        list=list.slice().sort((a,b)=>(order.get(a.slug)??9999)-(order.get(b.slug)??9999));
+      }
+    } else if(state.filter==='recent'){
+      // Только свежие карточки из синка discounts/vserent (catalog_added_at), не весь каталог
+      list=list.filter(isRecentlyAddedItem).sort((a,b)=>recencyKey(b)-recencyKey(a));
+    } else if(state.filter==='az'){
+      list=list.slice().sort((a,b)=>alphaSortKey(a).localeCompare(alphaSortKey(b),'en'));
+    } else if(!needles.length){
+      // ВСЕ без поиска: стр.1–2 = будущие (+актуальные), дальше остальные по дате
+      list=getHomeCatalogList(list);
+      // На 3-й странице дубли «Актуальных» убираем только из хвоста — 1–2 страницы не съезжают
+      if(showSpotlight() && state.allChunksLoaded){
+        const frontN=pageSize()*2;
+        const head=list.slice(0, frontN);
+        const skip=new Set(getSpotlightItems().map(x=>x.slug));
+        const tail=list.slice(frontN).filter(x=>!skip.has(x.slug));
+        list=head.concat(tail);
+      }
+    } else {
+      list=list.slice().sort((a,b)=>releaseSortKey(b)-releaseSortKey(a));
+    }
+    return list;
+  }
+
+  function patchCardEl(el, item){
+    const title=el.querySelector('.rt-card__title,.rt-rec__title');
+    if(title) title.textContent=item.title||'';
+    const from=el.querySelector('.rt-card__from');
+    if(from) from.textContent='от '+nf(fromPrice(item));
+    const media=el.querySelector('.rt-card__media,.rt-rec__media');
+    if(media){
+      let ribbon=media.querySelector('.rt-ribbon');
+      if(isPreorderItem(item)){
+        if(!ribbon){
+          ribbon=document.createElement('span');
+          ribbon.className='rt-ribbon';
+          ribbon.textContent='Предзаказ';
+          media.appendChild(ribbon);
+        }
+      }else if(ribbon) ribbon.remove();
+      const img=media.querySelector('img');
+      const src=coverUrl(item)||IMG_PLACEHOLDER;
+      if(img){
+        const cur=img.getAttribute('src')||'';
+        if(cur!==src) img.setAttribute('src', src);
+      }
+    }
+    const ratingWrap=el.querySelector('.rt-card__rating');
+    const ratingHtml=starsHtml(item.rating);
+    if(ratingHtml){
+      if(ratingWrap) ratingWrap.outerHTML=ratingHtml;
+      else{
+        const body=el.querySelector('.rt-card__body,.rt-rec__body');
+        const fromEl=el.querySelector('.rt-card__from');
+        if(body&&fromEl){
+          const tmp=document.createElement('div');
+          tmp.innerHTML=ratingHtml;
+          body.insertBefore(tmp.firstElementChild, fromEl);
+        }
+      }
+    }else if(ratingWrap) ratingWrap.remove();
+  }
+  function syncCardList(parent, items, opts){
+    opts=opts||{};
+    const extraClass=opts.extraClass||'';
+    const existing=new Map();
+    parent.querySelectorAll('[data-open-slug]').forEach(el=>{
+      const s=el.getAttribute('data-open-slug');
+      if(s) existing.set(s, el);
+    });
+    const want=new Set(items.map(x=>x.slug));
+    existing.forEach((el, slug)=>{ if(!want.has(slug)) el.remove(); });
+    let anchor=parent.querySelector('.rt-pager,.rt-empty,.rt-status,.rt-pager__info');
+    for(const item of items){
+      let el=existing.get(item.slug);
+      if(!el){
+        const wrap=document.createElement('div');
+        wrap.innerHTML=cardHTML(item, extraClass, 'replace', 'lazy');
+        el=wrap.firstElementChild;
+      }else patchCardEl(el, item);
+      if(anchor) parent.insertBefore(el, anchor);
+      else parent.appendChild(el);
+    }
+  }
+  function updatePager(parent, page, pages, onPage){
+    parent.querySelector('.rt-pager')?.remove();
+    parent.querySelector('.rt-pager__info')?.remove();
+    const html=pagerHTML(page, pages, onPage);
+    if(!html) return;
+    const wrap=document.createElement('div');
+    wrap.innerHTML=html;
+    while(wrap.firstChild) parent.appendChild(wrap.firstChild);
+  }
+  function countOnPage(gridCount){
+    let n=gridCount||0;
+    if(showSpotlight()) n+=getSpotlightItems().length;
+    return n;
+  }
+  function renderPageMeta(gridCount, pages){
+    const el=$('[data-page-meta]',mount);
+    if(!el) return;
+    if(!pages || pages<1){
+      el.textContent='';
+      el.hidden=true;
+      return;
+    }
+    el.hidden=false;
+    el.textContent=`Страница ${state.page+1} из ${pages}`;
+  }
+
+  function renderSpotlight(){
+    const box=$('[data-spotlight]',mount);
+    if(!box) return;
+    if(!showSpotlight()){
+      box.innerHTML='';
+      box.hidden=true;
+      return;
+    }
+    const items=getSpotlightItems();
+    if(!items.length){
+      box.innerHTML='';
+      box.hidden=true;
+      return;
+    }
+    box.hidden=false;
+    let title=box.querySelector('.rt-spotlight__title');
+    if(!title){
+      title=document.createElement('div');
+      title.className='rt-spotlight__title';
+      title.textContent='Актуальные релизы';
+      box.appendChild(title);
+    }
+    let grid=box.querySelector('.rt-spotlight-grid');
+    if(!grid){
+      grid=document.createElement('div');
+      grid.className='rt-spotlight-grid';
+      box.appendChild(grid);
+    }
+    syncCardList(grid, items, {extraClass:'rt-card'});
+    if(!box.classList.contains('is-ready')) box.classList.add('is-ready');
+  }
+
+  function renderGrid(){
+    const grid=$('[data-grid]',mount);
+    if(!grid) return;
+    // Ждём только первый чанк — страница 1 рисуется сразу, остальное догружается в фоне
+    if(!state.firstPageReady){
+      const total=((state.manifest&&state.manifest.chunks)||[]).length||0;
+      setCatalogLoadingStatus(state.chunksLoaded.size, total);
+      renderPageMeta(0, 0);
+      const spot=$('[data-spotlight]',mount);
+      if(spot){ spot.innerHTML=''; spot.hidden=true; }
+      return;
+    }
+    renderSpotlight();
+    if(state.filter==='new' && !state.novinkiReady){
+      grid.innerHTML='<div class="rt-status">'+(state.novinkiLoading?'Загрузка новинок…':'Новинки временно недоступны')+'</div>';
+      renderPageMeta(0, 0);
+      return;
+    }
+    const list=filteredItems();
+    if(!list.length && !showSpotlight()){
+      if(!state.allChunksLoaded && (state.filter!=='all' || String(state.query||'').trim())){
+        grid.innerHTML='<div class="rt-status">Загрузка каталога…</div>';
+        renderPageMeta(0, 0);
+        return;
+      }
+      grid.innerHTML='<div class="rt-empty">Ничего не найдено</div>';
+      renderPageMeta(0, 0);
+      grid.classList.add('is-ready');
+      return;
+    }
+    if(!list.length && showSpotlight() && getSpotlightItems().length){
+      grid.querySelectorAll('[data-open-slug],.rt-pager,.rt-pager__info,.rt-empty,.rt-status').forEach(el=>el.remove());
+      renderPageMeta(0, 1);
+      grid.classList.add('is-ready');
+      return;
+    }
+    const useManifestPages=state.filter==='all' && !String(state.query||'').trim();
+    const totalForPages=useManifestPages ? Math.max(list.length, catalogTotalEstimate()) : list.length;
+    const pages=Math.max(1, Math.ceil(totalForPages/pageSize()));
+    if(state.page>pages-1) state.page=pages-1;
+    if(state.page<0) state.page=0;
+    const needFrom=state.page*pageSize();
+    const needTo=needFrom+pageSize();
+    if(!state.allChunksLoaded && list.length < needTo){
+      const chunkSize=Math.max(1, +(state.manifest&&state.manifest.chunk_size)||100);
+      const chunks=(state.manifest&&state.manifest.chunks)||[];
+      const needChunk=chunks.length
+        ? Math.min(chunks.length-1, Math.floor(Math.max(0, needTo-1)/chunkSize))
+        : 0;
+      let missing=0;
+      for(let i=0;i<=needChunk;i++){
+        if(!state.chunksLoaded.has(i)) missing++;
+      }
+      if(missing && !state.ensuringPage){
+        grid.querySelector('.rt-empty')?.remove();
+        let st=grid.querySelector('.rt-status');
+        if(!st){
+          st=document.createElement('div');
+          st.className='rt-status';
+          grid.appendChild(st);
+        }
+        st.textContent='Загрузка страницы…';
+        state.ensuringPage=true;
+        ensureChunksForPage(state.page).finally(()=>{
+          state.ensuringPage=false;
+          if(!state.open) renderGrid();
+        });
+        updatePager(grid, state.page, pages, 0);
+        renderPageMeta(0, pages);
+        return;
+      }
+      // Чанки уже есть (или грузятся) — рисуем то, что успело, без бесконечного цикла
+    }
+    const slice=list.slice(needFrom, needTo);
+    grid.querySelector('.rt-empty,.rt-status')?.remove();
+    syncCardList(grid, slice, {extraClass:''});
+    updatePager(grid, state.page, pages, slice.length);
+    renderPageMeta(slice.length, pages);
+    grid.classList.add('is-ready');
+  }
+
+  function cardHTML(item, extraClass, openHistory, imgLoading){
+    const img=coverUrl(item)||IMG_PLACEHOLDER;
+    const ribbon=isPreorderItem(item)?'<span class="rt-ribbon">Предзаказ</span>':'';
+    const cls=extraClass||'rt-card';
+    const titleCls=extraClass==='rt-rec'?'rt-rec__title':'rt-card__title';
+    const bodyCls=extraClass==='rt-rec'?'rt-rec__body':'rt-card__body';
+    const mediaCls=extraClass==='rt-rec'?'rt-rec__media':'rt-card__media';
+    openHistory=openHistory||'replace';
+    imgLoading=imgLoading||'lazy';
+    return `<button type="button" class="${cls}" data-open-slug="${attr(item.slug)}" data-open-history="${attr(openHistory)}">
+      <span class="${mediaCls}">${ribbon}<img loading="${attr(imgLoading)}" decoding="async" src="${attr(img)}" alt="${attr(item.title)}" onerror="this.onerror=null;this.src='${attr(IMG_PLACEHOLDER)}';"></span>
+      <span class="${bodyCls}">
+        <span class="${titleCls}">${esc(item.title)}</span>
+        ${starsHtml(item.rating)}
+        <span class="rt-card__from">от ${esc(nf(fromPrice(item)))}</span>
+      </span>
+    </button>`;
+  }
+
+  function pagerHTML(page, pages, gridCount){
+    const cur=page+1;
+    const info=pages>1?`<div class="rt-pager__info">Страница ${cur} из ${pages}</div>`:'';
+    if(pages<=1) return info;
+    const nums=[];
+    const push=(n)=>nums.push(n);
+    if(pages<=12){
+      for(let i=1;i<=pages;i++) push(i);
+    }else{
+      push(1);
+      let start=Math.max(2, cur-2);
+      let end=Math.min(pages-1, cur+2);
+      if(cur<=4){ start=2; end=6; }
+      if(cur>=pages-3){ start=pages-5; end=pages-1; }
+      if(start>2) nums.push('…');
+      for(let i=start;i<=end;i++) push(i);
+      if(end<pages-1) nums.push('…');
+      push(pages);
+    }
+    const btns=nums.map(n=>{
+      if(n==='…') return `<span class="rt-pager__dots">…</span>`;
+      return `<button type="button" class="rt-pager__btn${n===cur?' is-on':''}" data-page="${n-1}">${n}</button>`;
+    }).join('');
+    return `<div class="rt-pager">
+      <button type="button" class="rt-pager__btn" data-page="${Math.max(0,page-1)}" ${page<=0?'disabled':''} aria-label="Назад">‹</button>
+      ${btns}
+      <button type="button" class="rt-pager__btn" data-page="${Math.min(pages-1,page+1)}" ${page>=pages-1?'disabled':''} aria-label="Вперёд">›</button>
+    </div>${info}`;
+  }
+
+  function countForFilter(filterId){
+    let list=state.items.filter(x=>x&&!isHiddenRentItem(x));
+    const needles=searchNeedles(state.query);
+    if(needles.length) list=list.filter(g=>gameMatchesQuery(g,needles));
+    if(filterId==='new') list=list.filter(isNovinkiItem);
+    if(filterId==='recent') list=list.filter(isRecentlyAddedItem);
+    return list.length;
+  }
+  function filterChips(){
+    const chips=[
+      {id:'all',label:'ВСЕ'},
+      {id:'new',label:'НОВИНКИ'},
+      {id:'recent',label:'Недавно добавленные'},
+      {id:'az',label:'A–Я'}
+    ].map(c=>`<button type="button" class="rt-chip${state.filter===c.id?' is-on':''}" data-filter="${attr(c.id)}">${esc(c.label)}</button>`).join('');
+    const gridIcon=(cols, cells)=>{
+      const size=16, pad=1.2, gap=1.4;
+      const colsN=cols, rows=2;
+      const cw=(size-pad*2-gap*(colsN-1))/colsN;
+      const rh=(size-pad*2-gap*(rows-1))/rows;
+      let rects='';
+      for(let r=0;r<rows;r++){
+        for(let c=0;c<colsN;c++){
+          const x=pad+c*(cw+gap), y=pad+r*(rh+gap);
+          rects+=`<rect x="${x.toFixed(2)}" y="${y.toFixed(2)}" width="${cw.toFixed(2)}" height="${rh.toFixed(2)}" rx="1"/>`;
+        }
+      }
+      return `<svg class="rt-grid-btn__icon" viewBox="0 0 ${size} ${size}" aria-hidden="true">${rects}</svg>`;
+    };
+    const gridBtns=[
+      {cols:4, iconCols:2, label:'4 в ряд'},
+      {cols:6, iconCols:3, label:'6 в ряд'},
+      {cols:8, iconCols:4, label:'8 в ряд'}
+    ].map(g=>`<button type="button" class="rt-grid-btn${state.gridCols===g.cols?' is-on':''}" data-grid-cols="${g.cols}" aria-label="${esc(g.label)}" title="${esc(g.label)}">${gridIcon(g.iconCols)}</button>`).join('');
+    const sizeOpts=PAGE_SIZE_OPTIONS.map(n=>`<option value="${n}"${state.pageSize===n?' selected':''}>${n}</option>`).join('');
+    const tools=`<span class="rt-filters__tools" data-filters-tools>
+      <span class="rt-grid-switch" role="group" aria-label="Сетка карточек">${gridBtns}</span>
+      <label class="rt-page-size" title="Карточек на странице"><span class="rt-page-size__label">На стр.</span><select data-page-size>${sizeOpts}</select></label>
+    </span>`;
+    const n=state.allChunksLoaded ? countForFilter(state.filter) : (state.filter==='all' ? catalogTotalEstimate() : countForFilter(state.filter));
+    const countHtml=(state.firstPageReady && n)
+      ? `<span class="rt-filters__count" data-filter-count>${n} ${gamesLabel(n)}</span>`
+      : `<span class="rt-filters__count" data-filter-count hidden></span>`;
+    return chips+tools+countHtml;
+  }
+
+  function recommendations(excludeSlug){
+    const hidden = (x)=>!x || !x.slug || x.slug===excludeSlug || isHiddenRentItem(x);
+    const need = REC_MAX;
+    const pri = state.recsPriority || {};
+    const priSlugs = Array.isArray(pri.slugs) ? pri.slugs : [];
+    const novSlugs = new Set(Array.isArray(pri.novinka_slugs) ? pri.novinka_slugs : []);
+    const priSet = new Set(priSlugs);
+
+    const isNovinkaItem = (x)=>{
+      if(!x) return false;
+      if(novSlugs.has(x.slug)) return true;
+      if(x.is_new || isPreorderItem(x)) return true;
+      const d=parseReleaseDate(x.release_date);
+      if(!d) return false;
+      const age=(Date.now()-d.getTime())/(24*3600*1000);
+      return age>=0 && age<=120;
+    };
+
+    const vserentPool = priSlugs.map(s=>state.itemsBySlug[s]).filter(x=>!hidden(x));
+    const novPool = shuffleArray(vserentPool.filter(isNovinkaItem));
+    const vserentOther = shuffleArray(vserentPool.filter(x=>!isNovinkaItem(x)));
+
+    const needVs = Math.max(0, Math.round(need * REC_VSERENT_SHARE));
+    const needNov = Math.max(0, Math.ceil(needVs * REC_NOVINKA_IN_VSERENT));
+
+    const picked=[];
+    const used=new Set();
+    const take=(pool, n)=>{
+      for(let i=0;i<pool.length && n>0 && picked.length<need;i++){
+        const it=pool[i];
+        if(used.has(it.slug)) continue;
+        used.add(it.slug);
+        picked.push(it);
+        n--;
+      }
+    };
+
+    take(novPool, needNov);
+    take(vserentOther, needVs - picked.length);
+    take(novPool, needVs - picked.length);
+
+    const otherPool = shuffleArray(
+      state.items.filter(x=>!hidden(x) && !used.has(x.slug) && !priSet.has(x.slug))
+    );
+    take(otherPool, need - picked.length);
+
+    if(picked.length < need){
+      const any = shuffleArray(state.items.filter(x=>!hidden(x) && !used.has(x.slug)));
+      take(any, need - picked.length);
+    }
+    return shuffleArray(picked);
+  }
+
+  async function ensureRecsPriority(){
+    const now=Date.now();
+    if(state.recsPriority && (now - (state.recsPriorityLoadedAt||0)) < REC_PRIORITY_TTL_MS){
+      return state.recsPriority;
+    }
+    try{
+      const cached=JSON.parse(localStorage.getItem(REC_PRIORITY_CACHE_KEY)||'null');
+      if(cached && cached.data && cached.ts && (now-cached.ts) < REC_PRIORITY_TTL_MS){
+        state.recsPriority=cached.data;
+        state.recsPriorityLoadedAt=cached.ts;
+        return state.recsPriority;
+      }
+    }catch(e){}
+    try{
+      const data=await fetchJson(RECS_PRIORITY_URLS);
+      if(data && Array.isArray(data.slugs)){
+        state.recsPriority=data;
+        state.recsPriorityLoadedAt=now;
+        try{ localStorage.setItem(REC_PRIORITY_CACHE_KEY, JSON.stringify({ts:now, data})); }catch(e){}
+      }
+    }catch(e){
+      console.warn('Rent: recs priority load failed', e);
+    }
+    return state.recsPriority;
+  }
+
+  async function fetchNovinkiDoc(){
+    let best=null;
+    let lastErr=null;
+    for(const url of NOVINKI_URLS){
+      try{
+        const r=await fetch(url+(url.indexOf('?')>=0?'&':'?')+'t='+Date.now(),{cache:'no-store'});
+        if(!r.ok) throw new Error(r.statusText);
+        const data=await r.json();
+        const gen=String(data&&data.generated_at||'');
+        if(!best || gen > String(best.generated_at||'')) best=data;
+      }catch(e){ lastErr=e; }
+    }
+    if(!best) throw lastErr||new Error('novinki fetch failed');
+    return best;
+  }
+
+  function applyNovinkiDoc(data, now){
+    const slugs=Array.isArray(data&&data.slugs)?data.slugs.filter(Boolean):[];
+    state.novinkiOrder=slugs;
+    state.novinkiSlugs=new Set(slugs);
+    state.novinkiGeneratedAt=String(data&&data.generated_at||'');
+    state.novinkiLoadedAt=now;
+    state.novinkiReady=!!slugs.length;
+  }
+
+  async function ensureNovinki(){
+    const now=Date.now();
+    if(state.novinkiReady && state.novinkiOrder && state.novinkiOrder.length && (now - (state.novinkiLoadedAt||0)) < REC_PRIORITY_TTL_MS){
+      return state.novinkiOrder;
+    }
+    if(state.novinkiLoading) return state.novinkiOrder;
+    state.novinkiLoading=true;
+    try{
+      const data=await fetchNovinkiDoc();
+      applyNovinkiDoc(data, now);
+    }catch(e){
+      console.warn('Rent: novinki load failed', e);
+      if(state.novinkiOrder && state.novinkiOrder.length){
+        state.novinkiReady=true;
+      }else{
+        state.novinkiOrder=[];
+        state.novinkiSlugs=new Set();
+      }
+    }finally{
+      state.novinkiLoading=false;
+    }
+    return state.novinkiOrder;
+  }
+
+  function renderDetail(opts){
+    opts=opts||{};
+    const c=state.card; if(!c) return;
+    const shots=shotsOf(c);
+    const shot=shots[state.shotIdx]||shots[0]||'';
+    const rows=pricesFor(c);
+    const termBtns=rows.map(r=>`<button type="button" class="rt-term-btn${state.days===r.days?' active':''}" data-days="${r.days}">${esc(daysLabel(r.days))}<small>${esc(nf(state.mode==='p3'?r.p3:r.p2))}</small></button>`).join('');
+    const specs=[
+      c.platform&&['Платформа',c.platform],
+      c.release_date&&['Релиз',c.release_date],
+      c.genre&&['Жанр',c.genre],
+      c.publisher&&['Издатель',c.publisher],
+      c.voice&&['Озвучка',c.voice],
+      c.text_translation&&['Текст',c.text_translation],
+      c.lang_label&&['Язык',c.lang_label]
+    ].filter(Boolean).map(([k,v])=>`<div class="rt-spec"><span class="rt-spec__k">${esc(k)}</span><span class="rt-spec__v">${esc(v)}</span></div>`).join('');
+    const desc=String(c.description||'').trim();
+    const descHtml=desc.split(/\n{2,}/).map(p=>`<p>${esc(p)}</p>`).join('')||'<p>Описание появится после обновления каталога.</p>';
+    const thumbs=shots.map((u,i)=>`<button type="button" class="rt-shot${i===state.shotIdx?' is-on':''}" data-shot="${i}"><img src="${attr(u)}" alt=""></button>`).join('');
+    // Recommendations in opened card: lazy-load by scroll (initial 12, then +12)
+    let recsAll=state.recsAll;
+    if(state.recsForSlug!==c.slug || !Array.isArray(recsAll)){
+      recsAll=recommendations(c.slug);
+      state.recsAll=recsAll;
+      state.recsForSlug=c.slug;
+      state.recsShown=Math.min(REC_INITIAL, recsAll.length);
+    }
+    const recs=(recsAll||[]).slice(0, state.recsShown);
+    const recsNeedsMore = state.recsShown < (recsAll ? recsAll.length : 0);
+    const recsMoreHtml = recsNeedsMore
+      ? `<div class="rt-recs-more" id="rtRecsMore">Прокрутите вниз — ещё рекомендации</div>`
+      : '';
+    const recsHtml=recsAll&&recsAll.length?`
+      <div class="rt-recs">
+        <div class="rt-recs__title">Вам также может понравиться</div>
+        <div class="rt-recs-grid" id="rtRecsGrid">${recs.map(r=>cardHTML(r,'rt-rec','push')).join('')}</div>
+        ${recsMoreHtml}
+      </div>
+    `:'';
+    const inner=$('#rtDetailInner',mount);
+    inner.innerHTML=`
+      <div class="rt-pd">
+        <div class="rt-media">
+          <div class="rt-hero">
+            <img src="${attr(shot)}" alt="${attr(c.title)}" data-open-gallery>
+            ${shots.length>1?`<button type="button" class="rt-gallery-nav rt-gallery-nav--prev" data-shot-prev>‹</button><button type="button" class="rt-gallery-nav rt-gallery-nav--next" data-shot-next>›</button><div class="rt-gallery-count">${state.shotIdx+1} / ${shots.length}</div>`:''}
+          </div>
+          <div class="rt-shots">${thumbs}</div>
+        </div>
+        <aside class="rt-side">
+          <h1>${esc(c.title)}</h1>
+          ${starsHtml(c.rating)}
+          <p class="sub">${esc(c.platform||'PS5')}${isPreorderItem(c)?' · Предзаказ':''}</p>
+          ${specs?`<div class="rt-specs">${specs}</div>`:''}
+          <div><div class="rt-label">Срок аренды</div><div class="rt-term">${termBtns}</div></div>
+          <div><div class="rt-label">Тип аренды</div>
+            <div class="rt-acc rt-acc--p2"><input type="checkbox" class="rt-acc__exp" id="rtAe2"><div class="rt-acc__top"><label class="rt-acc__pick"><input type="checkbox" class="rt-acc__input" data-mode="p2" ${state.mode==='p2'?'checked':''}><span class="rt-acc__mark"></span><span class="rt-acc__label">П2 — играть с профиля, который арендую</span></label><label for="rtAe2" class="rt-acc__more"></label></div><div class="rt-acc__bonus">Игра с арендованного профиля; достижения в нём. После входа сразу выключайте общий доступ</div></div>
+            <div class="rt-acc rt-acc--p3" style="margin-top:8px"><input type="checkbox" class="rt-acc__exp" id="rtAe3"><div class="rt-acc__top"><label class="rt-acc__pick"><input type="checkbox" class="rt-acc__input" data-mode="p3" ${state.mode==='p3'?'checked':''}><span class="rt-acc__mark"></span><span class="rt-acc__label">П3 — играть с личного аккаунта</span></label><label for="rtAe3" class="rt-acc__more"></label></div><div class="rt-acc__bonus">Игра на вашем основном аккаунте, трофеи остаются у вас</div></div>
+          </div>
+          <div class="rt-price"><span class="rt-price__label">К оплате</span><span class="rt-price__val" data-price>${esc(nf(currentPrice()))}</span></div>
+          <div class="rt-actions">
+            <button type="button" class="rt-btn rt-btn-buy" data-buy>Добавить в корзину</button>
+            <button type="button" class="rt-btn rt-btn-sec rt-btn-icon" data-cart aria-label="Корзина">🛒</button>
+            <button type="button" class="rt-btn rt-btn-sec rt-btn-icon rt-btn-share" data-share aria-label="Скопировать ссылку">↗</button>
+          </div>
+        </aside>
+        <div class="rt-desc"><h2>Об игре</h2>${descHtml}${recsHtml}</div>
+      </div>`;
+    bindDetail();
+    bindRecsInfinite();
+    if(opts.animatePrice) animatePriceTo(currentPrice(), false);
+    else{ state.priceShown=currentPrice(); animatePriceTo(currentPrice(), true); }
+  }
+
+  function bindDetail(){
+    const inner=$('#rtDetailInner',mount);
+    if(!inner) return;
+    $$('[data-days]',inner).forEach(btn=>{
+      btn.addEventListener('click',()=>{
+        state.days=+btn.getAttribute('data-days')||7;
+        refreshTermButtons();
+        animatePriceTo(currentPrice(), false);
+      });
+    });
+    $$('[data-mode]',inner).forEach(inp=>{
+      inp.addEventListener('change', ()=>{
+        const mode=inp.getAttribute('data-mode')==='p3'?'p3':'p2';
+        if(inp.checked) state.mode=mode;
+        else if(mode==='p3') state.mode='p2';
+        else state.mode='p3';
+        $$('[data-mode]',inner).forEach(x=>{ x.checked=x.getAttribute('data-mode')===state.mode; });
+        refreshTermButtons();
+        animatePriceTo(currentPrice(), false);
+      });
+    });
+    inner.querySelector('[data-buy]')?.addEventListener('click',()=>addToCart(false));
+    inner.querySelector('[data-cart]')?.addEventListener('click',()=>addToCart(true));
+    inner.querySelector('[data-share]')?.addEventListener('click', share);
+    inner.querySelector('[data-shot-prev]')?.addEventListener('click',()=>{ state.shotIdx=Math.max(0,state.shotIdx-1); renderDetail({animatePrice:true}); });
+    inner.querySelector('[data-shot-next]')?.addEventListener('click',()=>{ state.shotIdx=Math.min(shotsOf(state.card).length-1,state.shotIdx+1); renderDetail({animatePrice:true}); });
+    $$('[data-shot]',inner).forEach(b=>b.addEventListener('click',()=>{ state.shotIdx=+b.getAttribute('data-shot')||0; renderDetail({animatePrice:true}); }));
+    inner.querySelector('[data-open-gallery]')?.addEventListener('click', openGallery);
+    $$('[data-open-slug]',inner).forEach(btn=>btn.addEventListener('click',(ev)=>{
+      // Чтобы не срабатывал mount-level обработчик кликов и не создавались дубликаты history entries.
+      ev.stopPropagation();
+      const slug=btn.getAttribute('data-open-slug');
+      const hist=btn.getAttribute('data-open-history')||'replace';
+      openDetailBySlug(slug,{history:hist, updateHistory:true});
+    }));
+  }
+
+  function isMobileView(){
+    try{ return window.matchMedia('(max-width: 899px)').matches; }catch(e){ return (window.innerWidth||0) <= 899; }
+  }
+  function isMobileNav(){
+    try{ return window.matchMedia('(max-width:700px)').matches; }catch(e){ return (window.innerWidth||0) <= 700; }
+  }
+  function gamesLabel(n){
+    const m10=n%10,m100=n%100;
+    if(m100>=11&&m100<=14) return 'игр';
+    if(m10===1) return 'игра';
+    if(m10>=2&&m10<=4) return 'игры';
+    return 'игр';
+  }
+  function applyMobileGuard(){
+    if(!isMobileNav()) return;
+    mount.classList.add('rt-mobile-guard');
+    const blockIf=(e)=>{
+      if(e.target.closest('input,textarea,[contenteditable="true"]')) return;
+      if(mount.contains(e.target)) e.preventDefault();
+    };
+    mount.addEventListener('copy', blockIf);
+    mount.addEventListener('cut', blockIf);
+    mount.addEventListener('contextmenu', blockIf);
+    const vp=document.querySelector('meta[name=viewport]');
+    if(vp){
+      let c=(vp.getAttribute('content')||'width=device-width, initial-scale=1').trim();
+      if(!/user-scalable=no/i.test(c)){
+        c=c.replace(/,\s*maximum-scale=[^,]*/gi,'').replace(/,\s*user-scalable=[^,]*/gi,'');
+        vp.setAttribute('content', c+',maximum-scale=1,user-scalable=no');
+      }
+    }
+    mount.addEventListener('gesturestart', e=>e.preventDefault(), {passive:false});
+  }
+
+  function appendMoreRecs(){
+    if(!Array.isArray(state.recsAll) || !state.recsAll.length) return false;
+    if(state.recsShown>=state.recsAll.length) return false;
+    const grid=$('#rtRecsGrid',mount);
+    if(!grid) return false;
+    const next=Math.min(state.recsShown + REC_BATCH, state.recsAll.length);
+    if(next<=state.recsShown) return false;
+    const slice=state.recsAll.slice(state.recsShown, next);
+    if(!slice.length) return false;
+    const before=grid.querySelectorAll('[data-open-slug]').length;
+    grid.insertAdjacentHTML('beforeend', slice.map(r=>cardHTML(r,'rt-rec','push')).join(''));
+    const afterBtns=Array.from(grid.querySelectorAll('[data-open-slug]')).slice(before);
+    afterBtns.forEach(btn=>{
+      btn.addEventListener('click',(ev)=>{
+        ev.stopPropagation();
+        const slug=btn.getAttribute('data-open-slug');
+        const hist=btn.getAttribute('data-open-history')||'replace';
+        openDetailBySlug(slug,{history:hist, updateHistory:true});
+      });
+    });
+    state.recsShown=next;
+    return true;
+  }
+
+  function bindRecsInfinite(){
+    const sc=$('.rt-detail__scroll',mount);
+    if(!sc) return;
+    if(state.recsScrollHandler){
+      try{ sc.removeEventListener('scroll', state.recsScrollHandler); }catch(e){}
+    }
+    // Подгрузка рекомендаций по скроллу — и на мобильных, и на десктопе
+    state.recsScrollHandler=debounce(()=>{
+      if(!Array.isArray(state.recsAll) || !state.recsAll.length) return;
+      if(state.recsShown>=state.recsAll.length) return;
+      const grid=$('#rtRecsGrid',mount);
+      if(!grid) return;
+      const more=$('#rtRecsMore',mount);
+      const scBottom=sc.getBoundingClientRect().bottom;
+      const gridBottom=grid.getBoundingClientRect().bottom;
+      if(gridBottom <= scBottom + 220){
+        appendMoreRecs();
+        if(state.recsShown>=state.recsAll.length) more?.remove();
+      }
+    }, 140);
+    sc.addEventListener('scroll', state.recsScrollHandler);
+  }
+
+  function openDetailBySlug(slug, opts){
+    opts=opts||{};
+    const historyMode=opts.history||'replace'; // 'push'|'replace'
+    const updateHistory=opts.updateHistory!==false;
+
+    const newHash='#rent/'+slug;
+    if(updateHistory){
+      try{
+        if(historyMode==='push') history.pushState({rentCard:true,pushed:true,slug:slug},'',newHash);
+        else history.replaceState({rentCard:true,pushed:false,slug:slug},'',newHash);
+      }catch(e){}
+    }
+
+    const card=state.itemsBySlug[slug]||state.items.find(x=>x.slug===slug);
+    if(!card){
+      state.pendingOpenSlug=slug;
+      state.pendingOpenHistory=historyMode;
+      prefetchSlugChunk(slug);
+      if(state.manifest && (state.manifest.chunks||[]).length>1 && !state.allChunksLoading){
+        state.allChunksLoading=true;
+        loadAllChunksBackground(state.manifest);
+      }
+      return;
+    }
+
+    state.pendingOpenSlug=null;
+    state.card=card; state.days=7; state.mode='p2'; state.shotIdx=0; state.open=true;
+    state.platform=readPlatformCookie()||'PS5'; state.priceShown=null;
+    // Reset recs for new card slug (рекомендации перемешиваются только при смене игры)
+    state.recsForSlug='';
+    const paint=()=>{
+      if(!state.open || !state.card || state.card.slug!==slug) return;
+      renderDetail({animatePrice:false});
+    };
+    paint();
+    ensureRecsPriority().then(()=>{
+      if(state.open && state.card && state.card.slug===slug){
+        state.recsForSlug='';
+        paint();
+      }
+    });
+    $('#rtDetail',mount).classList.add('is-open');
+    document.documentElement.classList.add('rt-lock');
+    document.body.classList.add('rt-lock');
+    const sc=$('.rt-detail__scroll',mount); if(sc) sc.scrollTop=0;
+  }
+  function closeDetail(){
+    state.open=false; state.card=null; state.priceShown=null;
+    $('#rtDetail',mount)?.classList.remove('is-open');
+    document.documentElement.classList.remove('rt-lock');
+    document.body.classList.remove('rt-lock');
+    if(HASH_RE.test(location.hash||'')) history.replaceState({rentCard:false},'',location.pathname+location.search);
+  }
+  async function share(){
+    const base=(location.origin+location.pathname).replace(/\/$/,'');
+    const url=state.card&&state.card.slug?base+'#rent/'+state.card.slug:location.href;
+    const btns=$$('[data-share],[data-sticky-share]',mount);
+    try{
+      await navigator.clipboard.writeText(url);
+      btns.forEach(btn=>{
+        btn.classList.add('is-ok','copied','is-press');
+        const prev=btn.innerHTML;
+        btn.innerHTML='✓';
+        setTimeout(()=>{ btn.classList.remove('is-ok','copied','is-press'); btn.innerHTML=prev; },1800);
+      });
+    }catch(e){
+      btns.forEach(btn=>btn.classList.add('is-press'));
+      window.prompt('Скопируйте ссылку:', url);
+      setTimeout(()=>btns.forEach(btn=>btn.classList.remove('is-press')),400);
+    }
+  }
+  function openGallery(){
+    const shots=shotsOf(state.card); if(!shots.length) return;
+    refreshGalleryModal();
+    const modal=$('#rtGallery',mount);
+    modal?.classList.add('show');
+  }
+  function closeGallery(){
+    $('#rtGallery',mount)?.classList.remove('show');
+  }
+  function isGalleryOpen(){
+    return !!$('#rtGallery',mount)?.classList.contains('show');
+  }
+  function refreshGalleryModal(){
+    const modal=$('#rtGallery',mount);
+    if(!modal||!state.card) return;
+    const shots=shotsOf(state.card);
+    if(!shots.length) return;
+    if(state.shotIdx<0) state.shotIdx=0;
+    if(state.shotIdx>=shots.length) state.shotIdx=shots.length-1;
+    const img=$('img',modal);
+    if(img) img.src=shots[state.shotIdx]||shots[0];
+    const count=$('[data-gallery-count]',modal);
+    if(count) count.textContent=`${state.shotIdx+1} / ${shots.length}`;
+    const prev=$('[data-gallery-prev]',modal);
+    const next=$('[data-gallery-next]',modal);
+    const multi=shots.length>1;
+    if(prev) prev.hidden=!multi;
+    if(next) next.hidden=!multi;
+    if(count) count.hidden=!multi;
+  }
+  function stepShot(delta){
+    if(!state.open||!state.card) return false;
+    const shots=shotsOf(state.card);
+    if(shots.length<=1) return false;
+    const next=(state.shotIdx+delta+shots.length)%shots.length;
+    if(next===state.shotIdx) return false;
+    state.shotIdx=next;
+    if(isGalleryOpen()){
+      refreshGalleryModal();
+      const inner=$('#rtDetailInner',mount);
+      if(inner){
+        const hero=$('.rt-hero img',inner);
+        if(hero) hero.src=shots[state.shotIdx]||shots[0];
+        const count=$('.rt-gallery-count',inner);
+        if(count) count.textContent=`${state.shotIdx+1} / ${shots.length}`;
+        $$('[data-shot]',inner).forEach(b=>{
+          const i=+(b.getAttribute('data-shot')||0);
+          b.classList.toggle('is-on', i===state.shotIdx);
+        });
+      }
+    }else renderDetail({animatePrice:true});
+    return true;
+  }
+  function bindGallerySwipe(modal){
+    if(!modal||modal.dataset.swipeBound) return;
+    modal.dataset.swipeBound='1';
+    let x0=null,y0=null,active=false;
+    const start=(e)=>{
+      const t=e.changedTouches?e.changedTouches[0]:null;
+      if(!t) return;
+      x0=t.clientX; y0=t.clientY; active=true;
+    };
+    const end=(e)=>{
+      if(!active||x0==null) return;
+      const t=e.changedTouches?e.changedTouches[0]:null;
+      active=false;
+      if(!t) return;
+      const dx=t.clientX-x0, dy=t.clientY-y0;
+      x0=null; y0=null;
+      if(Math.abs(dx)<48 || Math.abs(dx)<Math.abs(dy)*1.2) return;
+      if(dx<0) stepShot(1);
+      else stepShot(-1);
+    };
+    modal.addEventListener('touchstart', start, {passive:true});
+    modal.addEventListener('touchend', end, {passive:true});
+    modal.addEventListener('touchcancel', ()=>{ active=false; x0=null; y0=null; }, {passive:true});
+  }
+
+  function shell(){
+    mount.innerHTML=`
+<div class="rt-shell">
+  <div class="rt-nav">
+    <a class="rt-home" href="${HOME_URL}" aria-label="На главную"><span class="rt-home__full">← На главную</span><span class="rt-home__short" aria-hidden="true">←</span></a>
+    <div class="rt-nav__search"><input type="search" placeholder="Поиск" data-top-search autocomplete="off" enterkeyhint="search"><button type="button" class="rt-search__clear" data-search-clear aria-label="Очистить"><span class="rt-search__clear-icon" aria-hidden="true"></span></button></div>
+    <div class="rt-logo" aria-hidden="true">Arena аренда</div>
+    <div class="rt-top__right"><button type="button" class="rt-theme" data-theme-toggle aria-label="Тема"><span class="rt-theme__glass"></span><span class="rt-theme__thumb"></span></button></div>
+  </div>
+  <div class="rt-intro"><h1>Аренда игр PlayStation</h1></div>
+  <div class="rt-filters" data-filters></div>
+  <div class="rt-spotlight" data-spotlight hidden></div>
+  <div class="rt-page-meta" data-page-meta hidden></div>
+  <div class="rt-grid" data-grid><div class="rt-status">Загрузка каталога…</div></div>
+</div>
+<div class="rt-detail" id="rtDetail"><div class="rt-detail__top"><div class="rt-nav"><button type="button" class="rt-home" data-close-detail aria-label="Назад"><span class="rt-home__full">← Назад</span><span class="rt-home__short" aria-hidden="true">←</span></button><div class="rt-nav__search"><input type="search" placeholder="Поиск" data-top-search autocomplete="off" enterkeyhint="search"><button type="button" class="rt-search__clear" data-search-clear aria-label="Очистить"><span class="rt-search__clear-icon" aria-hidden="true"></span></button></div><div class="rt-logo" aria-hidden="true">Arena аренда</div><div class="rt-top__right"><button type="button" class="rt-theme" data-theme-toggle aria-label="Тема"><span class="rt-theme__glass"></span><span class="rt-theme__thumb"></span></button></div></div></div><div class="rt-detail__scroll"><div class="rt-detail__inner" id="rtDetailInner"></div></div>
+  <div class="rt-sticky"><div class="rt-sticky__inner">
+    <button type="button" class="rt-btn rt-btn-buy" data-sticky-buy>Добавить в корзину</button>
+    <button type="button" class="rt-btn rt-btn-sec rt-btn-icon" data-sticky-cart aria-label="Корзина">🛒</button>
+    <button type="button" class="rt-btn rt-btn-sec rt-btn-icon rt-btn-share" data-sticky-share aria-label="Скопировать ссылку">↗</button>
+  </div></div>
+</div>
+<div class="rt-img-modal" id="rtGallery">
+  <button type="button" class="rt-img-modal__close" data-close-gallery aria-label="Закрыть">×</button>
+  <button type="button" class="rt-img-modal__nav rt-img-modal__nav--prev" data-gallery-prev aria-label="Предыдущий">‹</button>
+  <button type="button" class="rt-img-modal__nav rt-img-modal__nav--next" data-gallery-next aria-label="Следующий">›</button>
+  <div class="rt-img-modal__count" data-gallery-count hidden></div>
+  <img alt="">
+</div>
+<button type="button" class="rt-fab-up" data-fab-up aria-label="Наверх">↑</button>`;
+  }
+
+  function bindUI(){
+    mount.addEventListener('change', e=>{
+      const sel=e.target.closest('[data-page-size]');
+      if(!sel||!mount.contains(sel)) return;
+      setPageSize(sel.value);
+      $('[data-filters]',mount).innerHTML=filterChips();
+      renderGrid();
+      scrollCatalogToTop();
+    });
+    mount.addEventListener('click', e=>{
+      const t=e.target.closest('[data-open-slug],[data-filter],[data-theme-toggle],[data-close-detail],[data-sticky-buy],[data-sticky-cart],[data-sticky-share],[data-close-gallery],[data-gallery-prev],[data-gallery-next],[data-page],[data-fab-up],[data-search-clear],[data-grid-cols]');
+      if(!t||!mount.contains(t)) return;
+      if(t.hasAttribute('data-search-clear')){
+        state.query='';
+        state.page=0;
+        $$('[data-top-search]',mount).forEach(x=>{ x.value=''; });
+        syncSearchClear();
+        if(state.open) closeDetail();
+        $('[data-filters]',mount).innerHTML=filterChips();
+        renderGrid();
+        return;
+      }
+      if(t.hasAttribute('data-grid-cols')){
+        setGridCols(t.getAttribute('data-grid-cols'));
+        $('[data-filters]',mount).innerHTML=filterChips();
+        return;
+      }
+      if(t.hasAttribute('data-open-slug')){
+        openDetailBySlug(t.getAttribute('data-open-slug'), {history: t.getAttribute('data-open-history')||'replace', updateHistory:true});
+        return;
+      }
+      if(t.hasAttribute('data-filter')){
+        state.filter=t.getAttribute('data-filter')||'all';
+        state.page=0;
+        // «Недавно добавленные» / «Новинки» — нужны все чанки (игры часто в поздних)
+        if((state.filter==='recent'||state.filter==='new') && state.manifest && !state.allChunksLoaded && !state.allChunksLoading){
+          state.allChunksLoading=true;
+          const want=state.filter;
+          loadAllChunksBackground(state.manifest).then(()=>{
+            if(state.filter===want){
+              $('[data-filters]',mount).innerHTML=filterChips();
+              renderGrid();
+            }
+          });
+        }
+        if(state.filter==='new'){
+          ensureNovinki().then(()=>{
+            if(state.filter==='new'){
+              $('[data-filters]',mount).innerHTML=filterChips();
+              renderGrid();
+            }
+          });
+        }
+        $('[data-filters]',mount).innerHTML=filterChips();
+        renderGrid();
+        return;
+      }
+      if(t.hasAttribute('data-theme-toggle')){
+        state.theme=state.theme==='dark'?'light':'dark';
+        try{ localStorage.setItem(THEME_KEY,state.theme); }catch(e){}
+        applyTheme(); return;
+      }
+      if(t.hasAttribute('data-close-detail')){
+        // Кнопка "← Назад" внутри карточки:
+        // если карточка была открыта через рекомендацию (history.pushState),
+        // то возвращаемся в историю, иначе закрываем в главное.
+        try{
+          const hs=history && history.state ? history.state : {};
+          if(state.open && hs && hs.rentCard && hs.pushed){
+            history.back();
+            return;
+          }
+        }catch(e){}
+        closeDetail();
+        return;
+      }
+      if(t.hasAttribute('data-sticky-buy')){ addToCart(false); return; }
+      if(t.hasAttribute('data-sticky-cart')){ addToCart(true); return; }
+      if(t.hasAttribute('data-sticky-share')){ share(); return; }
+      if(t.hasAttribute('data-close-gallery')){ closeGallery(); return; }
+      if(t.hasAttribute('data-gallery-prev')){ stepShot(-1); return; }
+      if(t.hasAttribute('data-gallery-next')){ stepShot(1); return; }
+      if(t.hasAttribute('data-page')){
+        if(t.disabled) return;
+        const next=Math.max(0, +t.getAttribute('data-page')||0);
+        state.page=next;
+        renderGrid();
+        scrollCatalogToTop();
+        return;
+      }
+      if(t.hasAttribute('data-fab-up')){
+        if(state.open){
+          const sc=$('.rt-detail__scroll',mount);
+          sc?.scrollTo({top:0, behavior:'smooth'});
+        }else{
+          try{ window.scrollTo({top:0, behavior:'smooth'}); }catch(e){ window.scrollTo(0,0); }
+        }
+        return;
+      }
+    });
+    function syncSearchClear(){
+      const has=!!String(state.query||'').trim();
+      $$('[data-search-clear]',mount).forEach(btn=>{
+        btn.classList.toggle('is-on', has);
+      });
+    }
+    $$('[data-top-search]',mount).forEach(inp=>{
+      inp.addEventListener('input', debounce(()=>{
+        const q=inp.value||'';
+        state.query=q;
+        state.page=0;
+        $$('[data-top-search]',mount).forEach(x=>{ if(x!==inp) x.value=state.query; });
+        syncSearchClear();
+        if(state.open) closeDetail();
+        $('[data-filters]',mount).innerHTML=filterChips();
+        const grid=$('[data-grid]',mount);
+        if(grid && String(q).trim() && !filteredItems().length){
+          grid.innerHTML='<div class="rt-status">Поиск…</div>';
+        }
+        prefetchSearchChunks(q).finally(()=>{
+          if(state.query!==q) return;
+          renderGrid();
+        });
+      },160));
+    });
+    syncSearchClear();
+    document.addEventListener('keydown', e=>{
+      const tag=(e.target&&e.target.tagName||'').toLowerCase();
+      if(tag==='input'||tag==='textarea'||(e.target&&e.target.isContentEditable)) return;
+      if(e.key==='Escape'){
+        if(isGalleryOpen()){ closeGallery(); return; }
+        if(state.open) closeDetail();
+        return;
+      }
+      if(e.key==='ArrowLeft'||e.key==='ArrowRight'){
+        if(!state.open) return;
+        if(e.key==='ArrowLeft'){ if(stepShot(-1)) e.preventDefault(); }
+        else { if(stepShot(1)) e.preventDefault(); }
+      }
+    });
+    const galleryModal=$('#rtGallery',mount);
+    bindGallerySwipe(galleryModal);
+    galleryModal?.addEventListener('click', e=>{
+      if(e.target===galleryModal) closeGallery();
+    });
+    window.addEventListener('hashchange', ()=>{
+      const m=(location.hash||'').match(HASH_RE);
+      if(m) openDetailBySlug(decodeURIComponent(m[1]), {updateHistory:false});
+      else if(state.open) closeDetail();
+    });
+
+    // Floating "back to top" button (main page + inside opened card)
+    const fab=$('[data-fab-up]',mount);
+    if(fab){
+      const upd=debounce(()=>{
+        const y = state.open ? ($('.rt-detail__scroll',mount)?.scrollTop||0) : (window.scrollY||0);
+        if(y>700) fab.classList.add('is-show');
+        else fab.classList.remove('is-show');
+      }, 120);
+      window.addEventListener('scroll', upd, {passive:true});
+      const sc=$('.rt-detail__scroll',mount);
+      sc?.addEventListener('scroll', upd, {passive:true});
+      upd();
+    }
+  }
+
+  (async function init(){
+    shell();
+    bindUI();
+    applyMobileGuard();
+    $('[data-filters]',mount).innerHTML=filterChips();
+    try{
+      const manifest=await loadManifest();
+      state.manifest=manifest;
+      const novinkiPromise=ensureNovinki();
+      await loadSearchIndex();
+      ensureRecsPriority();
+      await novinkiPromise;
+      const chunks=(manifest.chunks||[]);
+      const hashSlug=((location.hash||'').match(HASH_RE)||[])[1];
+      const prioritySlug=hashSlug?decodeURIComponent(hashSlug):'';
+      let priorityIdx=null;
+      if(prioritySlug && state.searchIndex){
+        const hit=state.searchIndex.find(x=>x&&x.slug===prioritySlug);
+        if(hit) priorityIdx=hit.chunk;
+      }
+      if(chunks.length){
+        if(priorityIdx!=null && +priorityIdx>0){
+          await loadChunk(chunks[0],0);
+          await loadChunkByIndex(+priorityIdx);
+        }else{
+          await loadChunk(chunks[0],0);
+        }
+        // Первая страница (chunk_000) — сразу на экран
+        state.firstPageReady=true;
+        $('[data-filters]',mount).innerHTML=filterChips();
+        renderGrid();
+        // Если на странице больше одного чанка (104) — догрузим без зависания
+        if(pageSize()>((+manifest.chunk_size)||100)*0.9){
+          ensureChunksForPage(0).then(()=>{ if(!state.open) renderGrid(); });
+        }
+      } else if(manifest.items){
+        mergeItems(manifest.items);
+        state.firstPageReady=true;
+      }
+      // Deep-link сразу
+      const m=(location.hash||'').match(HASH_RE);
+      if(m) openDetailBySlug(decodeURIComponent(m[1]), {updateHistory:false});
+      if(chunks.length<=1){
+        state.allChunksLoaded=true;
+        state.firstPageReady=true;
+        clearCatalogLoadingTip();
+        $('[data-filters]',mount).innerHTML=filterChips();
+        renderGrid();
+      } else {
+        state.allChunksLoading=true;
+        setCatalogLoadingStatus(state.chunksLoaded.size, chunks.length);
+        loadAllChunksBackground(manifest, {fromIdx:1}); // остальное в фоне
+      }
+    }catch(err){
+      try{
+        const data=await fetchJson([CDN+'rent-catalog/rent_catalog.json', './catalog/rent_catalog.json']);
+        mergeItems(Array.isArray(data)?data:(data.items||[]));
+        state.allChunksLoaded=true;
+        state.firstPageReady=true;
+        invalidateSpotlight();
+        renderGrid();
+      }catch(e2){
+        $('[data-grid]',mount).innerHTML=`<div class="rt-status">Ошибка загрузки каталога: ${esc((err&&err.message)||err)}</div>`;
+      }
+    }
+  })();
+})();
+</script>
