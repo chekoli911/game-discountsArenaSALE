@@ -16,10 +16,8 @@
   const REC_NOVINKA_IN_VSERENT = 0.55;
   const REC_PRIORITY_CACHE_KEY = 'arena-rent-recs-priority';
   const REC_PRIORITY_TTL_MS = 24 * 3600 * 1000;
-  /** Окно «Недавно добавленные»: 7 суток по catalog_added_at (синк /newlisting). */
-  const RECENT_ADDED_MS = 7 * 24 * 3600 * 1000;
-  /** Массовый сид каталога (один timestamp) не считаем «недавним». */
-  const RECENT_BULK_SEED_PREFIX = '2026-08-24T15:3';
+  /** Окно «Недавно добавленные»: 60 суток по catalog_added_at. */
+  const RECENT_ADDED_MS = 60 * 24 * 3600 * 1000;
   const CDN = 'https://raw.githubusercontent.com/chekoli911/game-discountsArenaSALE/main/';
   const CDN_JSDELIVR = 'https://cdn.jsdelivr.net/gh/chekoli911/game-discountsArenaSALE@main/';
   // jsDelivr первым: raw.githubusercontent.com отстаёт на часы после заливки чанков
@@ -394,9 +392,6 @@
   function isRecentlyAddedItem(item){
     // Call of Duty из vserent — не в «Недавно добавленные»
     if(isCallOfDuty(item) || item.from_vserent_cod) return false;
-    const raw=String((item&&item.catalog_added_at)||'').trim();
-    // Исключаем массовый сид 24.08.2026 ~15:39Z (тысячи игр с одним timestamp)
-    if(raw.indexOf(RECENT_BULK_SEED_PREFIX)===0) return false;
     const t=catalogAddedKey(item);
     if(!t) return false;
     return (Date.now() - t) <= RECENT_ADDED_MS;
