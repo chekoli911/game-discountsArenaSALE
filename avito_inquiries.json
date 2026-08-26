@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-27T01:30:12+03:00",
-  "updated_at_msk": "27.08.2026 01:30",
+  "updated_at": "2026-08-27T02:30:23+03:00",
+  "updated_at_msk": "27.08.2026 02:30",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 345,
+  "total": 346,
   "unique_games": 205,
   "in_demand": 25,
   "one_off": 163,
@@ -1385,11 +1385,11 @@
     {
       "id": "nba-2k27-ultra-edition-ps5",
       "title": "NBA 2K27 Ultra Edition PS5",
-      "item_id": "8277357696",
-      "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nba_2k27_ultra_edition_ps5_8277357696",
-      "count": 8,
+      "item_id": "8276992073",
+      "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nba_2k27_ultra_edition_ps5_8276992073",
+      "count": 9,
       "demand": "high",
-      "avg_price": 372,
+      "avg_price": 359,
       "min_price": 257,
       "max_price": 697,
       "last_price": 257,
@@ -1397,6 +1397,7 @@
         497,
         497,
         697,
+        257,
         257,
         257,
         257,
@@ -1491,7 +1492,7 @@
         8,
         8,
         8,
-        8
+        9
       ],
       "hourly": [
         0,
@@ -1581,7 +1582,7 @@
         1,
         0,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -1674,7 +1675,7 @@
         257
       ],
       "first_at": "2026-08-20T13:33:54+03:00",
-      "last_at": "2026-08-24T18:57:30+03:00"
+      "last_at": "2026-08-27T02:03:37+03:00"
     },
     {
       "id": "fifa-22-ultimate-edition-ps4-ps5",
@@ -59157,6 +59158,12 @@
   ],
   "recent": [
     {
+      "title": "NBA 2K27 Ultra Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-08-27T02:03:37+03:00"
+    },
+    {
       "title": "EA sports FC 27 Ultimate Plus Edition PS4 & PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -59389,12 +59396,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-08-25T00:51:16+03:00"
-    },
-    {
-      "title": "SpongeBob SquarePants: The Patrick Star Game PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-08-24T23:40:30+03:00"
     }
   ]
 }
