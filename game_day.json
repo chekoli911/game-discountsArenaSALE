@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-25T02:01:21Z",
-  "server_time_utc": "2026-08-25T02:01:21Z",
+  "updated_at": "2026-08-26T02:00:26Z",
+  "server_time_utc": "2026-08-26T02:00:26Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-26T02:00:00Z",
-  "expires_at": "2026-08-26T02:00:00Z",
+  "next_rotation_at": "2026-08-27T02:00:00Z",
+  "expires_at": "2026-08-27T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-26T02:00:00Z"
+    "next_rotation_at": "2026-08-27T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "serious-sam-siberian-mayhem-ps5",
+      "title": "Serious Sam: Siberian Mayhem PS5",
+      "description": "Сэму Стоуну снова пришёл в голову - и он вновь выходит на бой!  \n\nSerious Sam: Siberian Mayhem - новая глава серии, где ты уходишь в глубины России, чтобы догнать предателя генерала Брэнда. Там, где морозы не жалеют и леса спрятали тайны - Сэм с битвой против Ментала.  \n\nПуть длинный, но увлекательный. Забытые сюжеты, неизведанные ландшафты, фирменные перестрелки - всё как всегда, только в новом кадре.  \n\nДля тех, кто любит шутеры с душой и бешеным атакующим стилем - это уже не просто игра, это приключение.",
+      "image_url": "https://static.tildacdn.com/stor3632-6232-4433-b064-343930666466/77114067.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202209/1916/7rirCD0yRm5FanT8A9BrseX5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202209/1916/jFrOfpWZ6r7C5fahYUVG84AJ.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202209/1916/A7JNaRqR4JEhC90roMdMDGW9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202209/1916/FRUoNsdR27q5l2l0xUEHWqej.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202209/1916/6A5zNnz4sbFJZ5b2QzWLgUcl.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202210/1019/Bv43YTdG3EMBcPkHgqySxXX3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202210/1019/8XYBGAAPNOSzDYmVfcXT1ZO4.jpg"
+      ],
+      "release_date": "6/10/2022",
+      "publisher": "Devolver Digital",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.01,
+      "store_url": "https://store.playstation.com/en-tr/concept/10004759",
+      "tilda_uid": "499342563512",
+      "sku": "",
+      "external_id": "TTdKRpbxhOB9OPVjPjbH",
+      "url": "http://arenapsgm.ru/tproduct/499342563512-serious-sam-siberian-mayhem-ps5",
+      "expires_at": "2026-08-27T02:00:00Z",
+      "published_at": "2026-08-26T02:00:26Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Сэму Стоуну снова пришёл в голову - и он вновь вступает в бой.  \n\nРоссия на морозе, леса спрятали тайны - Сэм сражается с Менталом. Бешеный стиль, душа шутера, всё как всегда - только в новом кадре."
+    }
+  ],
+  "history": [
     {
       "slug": "darksiders-ii-deathinitive-edition-ps4-ps5",
       "title": "Darksiders II Deathinitive Edition PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "FTa2H7IJctB8OnX0mBr6",
       "url": "http://arenapsgm.ru/tproduct/244188140882-darksiders-ii-deathinitive-edition-ps4ps",
-      "expires_at": "2026-08-26T02:00:00Z",
       "published_at": "2026-08-25T02:01:21Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Darksiders II теперь в 4K - графика как будто ты на месте.  \nВыбирай оружие и навыки, каждый проход - свой. Ты - главный всадник, который ломает стены рая и ада."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "lego-marvel-avengers-ps4-ps5",
       "title": "LEGO Marvel Avengers PS4/PS5",
