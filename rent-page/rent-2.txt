@@ -29,6 +29,13 @@
   const CHUNK_BASES = [CDN_JSDELIVR+'rent-catalog/', CDN+'rent-catalog/', './catalog/'];
   // Каталог П2/П3 покупки — подгружается отдельно; новые позиции сразу дают «Покупка навсегда»
   const P2P3_CATALOG_URLS = [CDN_JSDELIVR+'p2p3_catalog.json', CDN+'p2p3_catalog.json', './p2p3_catalog.json', '../P2P3/p2p3_catalog.json'];
+  /** Алиасы slug аренды → slug покупки (разные названия одной игры). */
+  const BUY_SLUG_ALIASES = {
+    'marvel-s-wolverine': 'marvel-wolverine',
+    'marvel-wolverine': 'marvel-s-wolverine'
+  };
+  const BUY_HINT_P2 = 'П2 - это когда игру качаете с нашего профиля и играете с него, если важно играть с личного профиля выбирай П3';
+  const BUY_HINT_P3 = 'П3 - играете в игру строго с личного аккаунта а с нашего только ставим на загрузку, трофеи остаются у вас';
   const BUY_URL = 'https://t.me/m/NrVGWXJpOGNi';
   const HOME_URL = 'https://arenapsgm.ru/';
   const HASH_RE = /^#rent\/(.+)$/;
@@ -321,6 +328,9 @@
     return String(t||'').toLowerCase()
       .replace(/ё/g,'е')
       .replace(/[™®©]/g,'')
+      .replace(/[''`′’]/g,'')
+      .replace(/\bmarvels\b/g,'marvel')
+      .replace(/\bросомаха\b/g,'')
       .replace(/\bps4\s*\/\s*ps5\b/g,'')
       .replace(/\bps[45]\b/g,'')
       .replace(/\bplaystation(?:\s*®?\s*[45])?\b/g,'')
@@ -328,6 +338,9 @@
       .replace(/[^a-z0-9а-я\s]+/gi,' ')
       .replace(/\s+/g,' ')
       .trim();
+  }
+  function buyHintText(mode){
+    return mode==='p3'?BUY_HINT_P3:BUY_HINT_P2;
   }
   function isPurchaseOnlyCard(card){
     return !!(card&&card.purchase_only);
@@ -341,6 +354,8 @@
     if(card.buy && (card.buy.price_p2||card.buy.price_p3)) return card.buy;
     const slug=String(card.slug||'');
     if(slug && state.p2p3BySlug[slug]) return state.p2p3BySlug[slug];
+    const alias=BUY_SLUG_ALIASES[slug];
+    if(alias && state.p2p3BySlug[alias]) return state.p2p3BySlug[alias];
     const titleKey=normalizeBuyTitle(card.title);
     const list=titleKey?state.p2p3ByTitle[titleKey]:null;
     if(list&&list.length) return list[0];
@@ -1453,7 +1468,7 @@
               <button type="button" class="rt-buy-tier-btn rt-buy-tier-btn--p2${state.mode==='p2'?' active':''}" data-buy-tier="p2">П2<small>${esc(nf(buyPriceOf(buy,'p2')))}</small></button>
               <button type="button" class="rt-buy-tier-btn rt-buy-tier-btn--p3${state.mode==='p3'?' active':''}" data-buy-tier="p3">П3<small>${esc(nf(buyPriceOf(buy,'p3')))}</small></button>
             </div>
-            <div class="rt-buy-hint">${state.mode==='p3'?'П3 — ваш основной аккаунт, трофеи остаются у вас':'П2 — наш профиль; играете с аккаунта покупки'}</div>
+            <div class="rt-buy-hint">${esc(buyHintText(state.mode))}</div>
           </div>`;
     const thumbs=shots.map((u,i)=>`<button type="button" class="rt-shot${i===state.shotIdx?' is-on':''}" data-shot="${i}"><img src="${attr(u)}" alt=""></button>`).join('');
     // Recommendations in opened card: lazy-load by scroll (initial 12, then +12)
@@ -1531,7 +1546,7 @@
           x.classList.toggle('active', x.getAttribute('data-buy-tier')===state.mode);
         });
         const hint=inner.querySelector('.rt-buy-hint');
-        if(hint) hint.textContent=state.mode==='p3'?'П3 — ваш основной аккаунт, трофеи остаются у вас':'П2 — наш профиль; играете с аккаунта покупки';
+        if(hint) hint.textContent=buyHintText(state.mode);
         animatePriceTo(currentPrice(), false);
       });
     });
