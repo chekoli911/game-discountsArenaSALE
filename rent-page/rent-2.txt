@@ -27,6 +27,8 @@
   // novinki: raw GitHub первым — jsDelivr отстаёт на часы после обновления порядка
   const NOVINKI_URLS = [CDN+'rent-catalog/rent_novinki.json', CDN_JSDELIVR+'rent-catalog/rent_novinki.json', './rent_novinki.json'];
   const CHUNK_BASES = [CDN_JSDELIVR+'rent-catalog/', CDN+'rent-catalog/', './catalog/'];
+  // Каталог П2/П3 покупки — подгружается отдельно; новые позиции сразу дают «Покупка навсегда»
+  const P2P3_CATALOG_URLS = [CDN_JSDELIVR+'p2p3_catalog.json', CDN+'p2p3_catalog.json', './p2p3_catalog.json', '../P2P3/p2p3_catalog.json'];
   const BUY_URL = 'https://t.me/m/NrVGWXJpOGNi';
   const HOME_URL = 'https://arenapsgm.ru/';
   const HASH_RE = /^#rent\/(.+)$/;
@@ -72,11 +74,16 @@
     card: null,
     days: 7,
     mode: 'p2',
+    offerKind: 'rent', // 'rent' | 'buy'
     platform: 'PS5',
     shotIdx: 0,
     priceShown: null,
     priceAnimId: null,
     pendingCartOpen: false,
+    p2p3BySlug: {},
+    p2p3ByTitle: {},
+    p2p3Items: [],
+    p2p3Ready: false,
     theme: (function(){ try{ return localStorage.getItem(THEME_KEY)||'light'; }catch(e){ return 'light'; } })(),
     // Deep-link support when requested slug is not loaded yet (chunks load async)
     pendingOpenSlug: null,
@@ -310,6 +317,135 @@
     const ct=card.custom_terms;
     return Array.isArray(ct) && ct.length>0;
   }
+  function normalizeBuyTitle(t){
+    return String(t||'').toLowerCase()
+      .replace(/ё/g,'е')
+      .replace(/[™®©]/g,'')
+      .replace(/\bps4\s*\/\s*ps5\b/g,'')
+      .replace(/\bps[45]\b/g,'')
+      .replace(/\bplaystation(?:\s*®?\s*[45])?\b/g,'')
+      .replace(/\b(аренда|покупка|навсегда)\b/g,'')
+      .replace(/[^a-z0-9а-я\s]+/gi,' ')
+      .replace(/\s+/g,' ')
+      .trim();
+  }
+  function isPurchaseOnlyCard(card){
+    return !!(card&&card.purchase_only);
+  }
+  function isGtaPurchaseInjectCandidate(item){
+    const hay=(String((item&&item.title)||'')+' '+String((item&&item.slug)||'')).toLowerCase();
+    return /grand\s*theft\s*auto|\bgta[\s_-]?v?i?\b/.test(hay);
+  }
+  function buyOfferFor(card){
+    if(!card) return null;
+    if(card.buy && (card.buy.price_p2||card.buy.price_p3)) return card.buy;
+    const slug=String(card.slug||'');
+    if(slug && state.p2p3BySlug[slug]) return state.p2p3BySlug[slug];
+    const titleKey=normalizeBuyTitle(card.title);
+    const list=titleKey?state.p2p3ByTitle[titleKey]:null;
+    if(list&&list.length) return list[0];
+    return null;
+  }
+  function hasBuyOffer(card){
+    return !!buyOfferFor(card);
+  }
+  function isBuyMode(card){
+    card=card||state.card;
+    if(isPurchaseOnlyCard(card)) return true;
+    return state.offerKind==='buy' && hasBuyOffer(card);
+  }
+  function buyPriceOf(offer, mode){
+    if(!offer) return 0;
+    return mode==='p3'?(+offer.price_p3||0):(+offer.price_p2||0);
+  }
+  function p2p3ToPurchaseCard(item){
+    const p2=+item.price_p2||0;
+    const p3=+item.price_p3||0;
+    const min=Math.min(p2||Infinity, p3||Infinity);
+    return {
+      id: item.id||item.slug,
+      slug: item.slug,
+      sku: item.sku||item.slug,
+      title: item.title,
+      platform: item.platform||'PS5',
+      purchase_only: true,
+      buy: {
+        price_p2: p2,
+        price_p3: p3,
+        sku: item.sku||item.slug,
+        slug: item.slug,
+        title: item.title,
+        image_url: item.image_url||''
+      },
+      price_min: isFinite(min)?min:(p2||p3||0),
+      genre: item.genre||'',
+      publisher: item.publisher||'',
+      release_date: item.release_date||'',
+      rating: item.rating||0,
+      image_url: item.image_url||'',
+      screenshots: item.screenshots||[],
+      description_html: item.description_html||'',
+      description: '',
+      is_preorder: !!item.is_preorder,
+      short_note: item.short_note||'',
+      catalog_added_at: item.catalog_added_at||'',
+      prices: {p2:{}, p3:{}},
+      prices_p2: {},
+      prices_p3: {}
+    };
+  }
+  function indexP2P3Catalog(items){
+    const bySlug={};
+    const byTitle={};
+    (items||[]).forEach(it=>{
+      if(!it||!it.slug) return;
+      if(!(+it.price_p2||+it.price_p3)) return;
+      bySlug[it.slug]=it;
+      const key=normalizeBuyTitle(it.title);
+      if(!key) return;
+      if(!byTitle[key]) byTitle[key]=[];
+      byTitle[key].push(it);
+    });
+    state.p2p3BySlug=bySlug;
+    state.p2p3ByTitle=byTitle;
+    state.p2p3Items=items||[];
+    state.p2p3Ready=true;
+  }
+  function injectPurchaseOnlyFromP2P3(){
+    const extras=[];
+    (state.p2p3Items||[]).forEach(it=>{
+      if(!isGtaPurchaseInjectCandidate(it)) return;
+      if(state.itemsBySlug[it.slug] && !state.itemsBySlug[it.slug].purchase_only) return;
+      extras.push(p2p3ToPurchaseCard(it));
+    });
+    if(extras.length) mergeItems(extras);
+    if(state.pendingOpenSlug && !state.open){
+      const slug=state.pendingOpenSlug;
+      if(state.itemsBySlug[slug]){
+        openDetailBySlug(slug,{updateHistory:false, history: state.pendingOpenHistory||'replace'});
+      }
+    }
+  }
+  async function loadP2P3Catalog(){
+    try{
+      const data=await fetchJson(P2P3_CATALOG_URLS);
+      const items=Array.isArray(data)?data:(data.items||[]);
+      indexP2P3Catalog(items);
+      injectPurchaseOnlyFromP2P3();
+      if(state.open && state.card){
+        if(isPurchaseOnlyCard(state.card) || hasBuyOffer(state.card)){
+          renderDetail({animatePrice:true});
+        }
+      }else if(!state.open){
+        scheduleRenderGrid(false);
+      }
+      return items;
+    }catch(e){
+      console.warn('Rent: p2p3_catalog.json не загрузился', e);
+      state.p2p3Ready=true;
+      return [];
+    }
+  }
   function editionPriceMult(card){
     if(isFlatHoursCard(card)) return 1;
     const t=String((card&&card.title)||'').toLowerCase();
@@ -352,15 +488,32 @@
     }).filter(x=>x.p2||x.p3);
   }
   function currentPrice(){
+    if(isBuyMode()){
+      return buyPriceOf(buyOfferFor(state.card), state.mode);
+    }
     const row=pricesFor(state.card).find(x=>x.days===state.days)||pricesFor(state.card)[0];
     if(!row) return 0;
     if(row.flat) return row.p2||row.p3||0;
     return state.mode==='p3'?row.p3:row.p2;
   }
   function fromPrice(card){
+    if(isPurchaseOnlyCard(card) || (card&&card.buy&&!pricesFor(card).length)){
+      const b=buyOfferFor(card);
+      if(b){
+        const vals=[+b.price_p2||0,+b.price_p3||0].filter(n=>n>0);
+        if(vals.length) return Math.min.apply(null, vals);
+      }
+    }
     const pm=+(card&&card.price_min)||0;
     const rows=pricesFor(card);
-    if(!rows.length) return pm;
+    if(!rows.length){
+      const b=buyOfferFor(card);
+      if(b){
+        const vals=[+b.price_p2||0,+b.price_p3||0].filter(n=>n>0);
+        if(vals.length) return Math.min.apply(null, vals);
+      }
+      return pm;
+    }
     const vals=rows.map(r=>{
       if(r.flat) return r.p2||r.p3||Infinity;
       return Math.min(r.p2||Infinity,r.p3||Infinity);
@@ -699,6 +852,26 @@
     const c=state.card; if(!c) return false;
     if(!state.platform) setPlatform('PS5',{persist:false});
     if(opts.fromSite!==false && !opts.skipConfirm){ askPlatformConfirm(open); return false; }
+    if(isBuyMode(c)){
+      const b=buyOfferFor(c)||{};
+      const label=state.mode==='p3'?'П3':'П2';
+      const okBuy=pushCart({
+        name:c.title+' — '+label+' НАВСЕГДА',
+        price:currentPrice(),
+        sku:b.sku||c.sku||c.slug,
+        quantity:1,
+        img:coverUrl(c)||'',
+        options:[
+          {option:'Платформа',variant:state.platform},
+          {option:'Покупка П2 или П3',variant:label+' НАВСЕГДА'}
+        ]
+      }, open);
+      if(okBuy){
+        $$('[data-buy],[data-sticky-buy]',mount).forEach(btn=>tapFeedback(btn,{okText:'Добавлено',ms:1600}));
+        if(open) $$('[data-cart],[data-sticky-cart]',mount).forEach(btn=>tapFeedback(btn,{okText:'Открыто',ms:1200}));
+      }
+      return okBuy;
+    }
     const flat=isFlatHoursCard(c);
     const L=flat?'Фиксированный тариф':(state.mode==='p3'?'П3 с личного аккаунта':'П2 с профиля аренды');
     const options=[
@@ -1005,19 +1178,22 @@
 
   function cardHTML(item, extraClass, openHistory, imgLoading){
     const img=coverUrl(item)||IMG_PLACEHOLDER;
-    const ribbon=isPreorderItem(item)?'<span class="rt-ribbon">Предзаказ</span>':'';
+    let ribbon='';
+    if(isPurchaseOnlyCard(item)) ribbon='<span class="rt-ribbon rt-ribbon--buy">Покупка</span>';
+    else if(isPreorderItem(item)) ribbon='<span class="rt-ribbon">Предзаказ</span>';
     const cls=extraClass||'rt-card';
     const titleCls=extraClass==='rt-rec'?'rt-rec__title':'rt-card__title';
     const bodyCls=extraClass==='rt-rec'?'rt-rec__body':'rt-card__body';
     const mediaCls=extraClass==='rt-rec'?'rt-rec__media':'rt-card__media';
     openHistory=openHistory||'replace';
     imgLoading=imgLoading||'lazy';
+    const fromLabel=isPurchaseOnlyCard(item)?'купить от':'от';
     return `<button type="button" class="${cls}" data-open-slug="${attr(item.slug)}" data-open-history="${attr(openHistory)}">
       <span class="${mediaCls}">${ribbon}<img loading="${attr(imgLoading)}" decoding="async" src="${attr(img)}" alt="${attr(item.title)}" onerror="this.onerror=null;this.src='${attr(IMG_PLACEHOLDER)}';"></span>
       <span class="${bodyCls}">
         <span class="${titleCls}">${esc(item.title)}</span>
         ${starsHtml(item.rating)}
-        <span class="rt-card__from">от ${esc(nf(fromPrice(item)))}</span>
+        <span class="rt-card__from">${esc(fromLabel)} ${esc(nf(fromPrice(item)))}</span>
       </span>
     </button>`;
   }
@@ -1231,6 +1407,12 @@
     const c=state.card; if(!c) return;
     const shots=shotsOf(c);
     const shot=shots[state.shotIdx]||shots[0]||'';
+    const buy=buyOfferFor(c);
+    const purchaseOnly=isPurchaseOnlyCard(c);
+    const canBuy=!!buy;
+    const buyMode=isBuyMode(c);
+    if(purchaseOnly) state.offerKind='buy';
+    else if(!canBuy) state.offerKind='rent';
     const rows=pricesFor(c);
     const flat=isFlatHoursCard(c);
     const termBtns=rows.map(r=>`<button type="button" class="rt-term-btn${state.days===r.days?' active':''}" data-days="${r.days}">${esc(daysLabel(r.days,c))}<small>${esc(nf(flat?r.p2:(state.mode==='p3'?r.p3:r.p2)))}</small></button>`).join('');
@@ -1251,10 +1433,27 @@
     }else{
       descHtml=desc.split(/\n{2,}/).map(p=>`<p>${esc(p)}</p>`).join('')||'<p>Описание появится после обновления каталога.</p>';
     }
-    const modeBlock=flat?'':`
+    const offerToggle=(!purchaseOnly && canBuy)?`
+          <div class="rt-offer-toggle" role="tablist" aria-label="Аренда или покупка">
+            <button type="button" class="rt-offer-btn${!buyMode?' active':''}" data-offer="rent">Аренда</button>
+            <button type="button" class="rt-offer-btn${buyMode?' active':''}" data-offer="buy">Покупка навсегда</button>
+          </div>`:'';
+    const rentModeBlock=(buyMode||flat)?'':`
           <div><div class="rt-label">Тип аренды</div>
             <div class="rt-acc rt-acc--p2"><input type="checkbox" class="rt-acc__exp" id="rtAe2"><div class="rt-acc__top"><label class="rt-acc__pick"><input type="checkbox" class="rt-acc__input" data-mode="p2" ${state.mode==='p2'?'checked':''}><span class="rt-acc__mark"></span><span class="rt-acc__label">П2 — играть с профиля, который арендую</span></label><label for="rtAe2" class="rt-acc__more"></label></div><div class="rt-acc__bonus">Игра с арендованного профиля; достижения в нём. После входа сразу выключайте общий доступ</div></div>
             <div class="rt-acc rt-acc--p3" style="margin-top:8px"><input type="checkbox" class="rt-acc__exp" id="rtAe3"><div class="rt-acc__top"><label class="rt-acc__pick"><input type="checkbox" class="rt-acc__input" data-mode="p3" ${state.mode==='p3'?'checked':''}><span class="rt-acc__mark"></span><span class="rt-acc__label">П3 — играть с личного аккаунта</span></label><label for="rtAe3" class="rt-acc__more"></label></div><div class="rt-acc__bonus">Игра на вашем основном аккаунте, трофеи остаются у вас</div></div>
+          </div>`;
+    const rentBlock=buyMode?'':`
+          <div><div class="rt-label">Срок аренды</div><div class="rt-term">${termBtns}</div></div>
+          ${rentModeBlock}`;
+    const buyBlock=!buyMode?'':`
+          <div>
+            <div class="rt-label">${purchaseOnly?'Покупка навсегда':'Тип покупки'}</div>
+            <div class="rt-buy-tier">
+              <button type="button" class="rt-buy-tier-btn rt-buy-tier-btn--p2${state.mode==='p2'?' active':''}" data-buy-tier="p2">П2<small>${esc(nf(buyPriceOf(buy,'p2')))}</small></button>
+              <button type="button" class="rt-buy-tier-btn rt-buy-tier-btn--p3${state.mode==='p3'?' active':''}" data-buy-tier="p3">П3<small>${esc(nf(buyPriceOf(buy,'p3')))}</small></button>
+            </div>
+            <div class="rt-buy-hint">${state.mode==='p3'?'П3 — ваш основной аккаунт, трофеи остаются у вас':'П2 — наш профиль; играете с аккаунта покупки'}</div>
           </div>`;
     const thumbs=shots.map((u,i)=>`<button type="button" class="rt-shot${i===state.shotIdx?' is-on':''}" data-shot="${i}"><img src="${attr(u)}" alt=""></button>`).join('');
     // Recommendations in opened card: lazy-load by scroll (initial 12, then +12)
@@ -1277,6 +1476,7 @@
         ${recsMoreHtml}
       </div>
     `:'';
+    const buyBtnLabel=buyMode?'Купить':'Добавить в корзину';
     const inner=$('#rtDetailInner',mount);
     inner.innerHTML=`
       <div class="rt-pd">
@@ -1290,19 +1490,22 @@
         <aside class="rt-side">
           <h1>${esc(c.title)}</h1>
           ${starsHtml(c.rating)}
-          <p class="sub">${esc(c.platform||'PS5')}${isPreorderItem(c)?' · Предзаказ':''}</p>
+          <p class="sub">${esc(c.platform||'PS5')}${isPreorderItem(c)?' · Предзаказ':''}${purchaseOnly?' · Покупка':''}</p>
           ${specs?`<div class="rt-specs">${specs}</div>`:''}
-          <div><div class="rt-label">Срок аренды</div><div class="rt-term">${termBtns}</div></div>
-          ${modeBlock}
+          ${offerToggle}
+          ${rentBlock}
+          ${buyBlock}
           <div class="rt-price"><span class="rt-price__label">К оплате</span><span class="rt-price__val" data-price>${esc(nf(currentPrice()))}</span></div>
           <div class="rt-actions">
-            <button type="button" class="rt-btn rt-btn-buy" data-buy>Добавить в корзину</button>
+            <button type="button" class="rt-btn rt-btn-buy" data-buy>${esc(buyBtnLabel)}</button>
             <button type="button" class="rt-btn rt-btn-sec rt-btn-icon" data-cart aria-label="Корзина">🛒</button>
             <button type="button" class="rt-btn rt-btn-sec rt-btn-icon rt-btn-share" data-share aria-label="Скопировать ссылку">↗</button>
           </div>
         </aside>
         <div class="rt-desc"><h2>Об игре</h2>${descHtml}${recsHtml}</div>
       </div>`;
+    const stickyBuy=$('[data-sticky-buy]',mount);
+    if(stickyBuy) stickyBuy.textContent=buyBtnLabel;
     bindDetail();
     bindRecsInfinite();
     if(opts.animatePrice) animatePriceTo(currentPrice(), false);
@@ -1312,6 +1515,26 @@
   function bindDetail(){
     const inner=$('#rtDetailInner',mount);
     if(!inner) return;
+    $$('[data-offer]',inner).forEach(btn=>{
+      btn.addEventListener('click',()=>{
+        const kind=btn.getAttribute('data-offer')==='buy'?'buy':'rent';
+        if(!hasBuyOffer(state.card) && kind==='buy') return;
+        state.offerKind=kind;
+        if(kind==='buy') state.mode='p2';
+        renderDetail({animatePrice:true});
+      });
+    });
+    $$('[data-buy-tier]',inner).forEach(btn=>{
+      btn.addEventListener('click',()=>{
+        state.mode=btn.getAttribute('data-buy-tier')==='p3'?'p3':'p2';
+        $$('[data-buy-tier]',inner).forEach(x=>{
+          x.classList.toggle('active', x.getAttribute('data-buy-tier')===state.mode);
+        });
+        const hint=inner.querySelector('.rt-buy-hint');
+        if(hint) hint.textContent=state.mode==='p3'?'П3 — ваш основной аккаунт, трофеи остаются у вас':'П2 — наш профиль; играете с аккаунта покупки';
+        animatePriceTo(currentPrice(), false);
+      });
+    });
     $$('[data-days]',inner).forEach(btn=>{
       btn.addEventListener('click',()=>{
         state.days=+btn.getAttribute('data-days')||7;
@@ -1454,6 +1677,7 @@
 
     state.pendingOpenSlug=null;
     state.card=card; state.mode='p2'; state.shotIdx=0; state.open=true;
+    state.offerKind=isPurchaseOnlyCard(card)?'buy':'rent';
     const flatRows=pricesFor(card);
     state.days=(flatRows[0]&&flatRows[0].days)||(isFlatHoursCard(card)?20:7);
     state.platform=readPlatformCookie()||'PS5'; state.priceShown=null;
@@ -1781,6 +2005,7 @@
     bindUI();
     applyMobileGuard();
     $('[data-filters]',mount).innerHTML=filterChips();
+    const p2p3Promise=loadP2P3Catalog();
     try{
       const manifest=await loadManifest();
       state.manifest=manifest;
@@ -1841,6 +2066,7 @@
         $('[data-grid]',mount).innerHTML=`<div class="rt-status">Ошибка загрузки каталога: ${esc((err&&err.message)||err)}</div>`;
       }
     }
+    try{ await p2p3Promise; }catch(e){}
   })();
 })();
 </script>
