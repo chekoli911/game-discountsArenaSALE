@@ -293,19 +293,39 @@
     _gridRenderTimer=setTimeout(renderGrid, 450);
   }
 
-  function daysLabel(d){
+  function daysLabel(d, card){
+    if(isFlatHoursCard(card)){
+      if(d===20) return '20 часов';
+      if(d===48) return '48 часов';
+      return d + ' ч';
+    }
     if(d===1) return '1 день';
     if(d===21) return '21 день';
     return d + ' дней';
   }
   function price56(base28){ return Math.round((+base28||0)*2*0.9); }
+  function isFlatHoursCard(card){
+    if(!card) return false;
+    if(card.price_mode==='flat_hours') return true;
+    const ct=card.custom_terms;
+    return Array.isArray(ct) && ct.length>0;
+  }
   function editionPriceMult(card){
+    if(isFlatHoursCard(card)) return 1;
     const t=String((card&&card.title)||'').toLowerCase();
     if(t.indexOf('premium')>=0) return 1.4;
     if(t.indexOf('deluxe')>=0) return 1.3;
     return 1;
   }
   function pricesFor(card){
+    if(isFlatHoursCard(card)){
+      const terms=Array.isArray(card.custom_terms)?card.custom_terms:[];
+      return terms.map(t=>{
+        const h=+(t.hours||t.term||t.days||0);
+        const p=+(t.price||0);
+        return {days:h,p2:p,p3:p,flat:true};
+      }).filter(x=>x.days>0&&x.p2>0);
+    }
     const mult=editionPriceMult(card);
     const p2=(card&&(card.prices&&card.prices.p2||card.prices_p2))||{};
     const p3=(card&&(card.prices&&card.prices.p3||card.prices_p3))||{};
@@ -334,13 +354,17 @@
   function currentPrice(){
     const row=pricesFor(state.card).find(x=>x.days===state.days)||pricesFor(state.card)[0];
     if(!row) return 0;
+    if(row.flat) return row.p2||row.p3||0;
     return state.mode==='p3'?row.p3:row.p2;
   }
   function fromPrice(card){
     const pm=+(card&&card.price_min)||0;
     const rows=pricesFor(card);
     if(!rows.length) return pm;
-    const vals=rows.map(r=>Math.min(r.p2||Infinity,r.p3||Infinity)).filter(n=>isFinite(n));
+    const vals=rows.map(r=>{
+      if(r.flat) return r.p2||r.p3||Infinity;
+      return Math.min(r.p2||Infinity,r.p3||Infinity);
+    }).filter(n=>isFinite(n));
     if(!vals.length) return pm;
     return Math.min.apply(null, vals);
   }
@@ -659,12 +683,13 @@
     const box=$('.rt-term', mount);
     if(!box) return;
     const list=pricesFor(state.card);
+    const flat=isFlatHoursCard(state.card);
     box.querySelectorAll('[data-days]').forEach(btn=>{
       const d=+btn.getAttribute('data-days');
       const row=list.find(x=>x.days===d);
       if(!row) return;
       const small=btn.querySelector('small');
-      if(small) small.textContent=nf(state.mode==='p3'?row.p3:row.p2);
+      if(small) small.textContent=nf(flat?row.p2:(state.mode==='p3'?row.p3:row.p2));
       btn.classList.toggle('active', d===state.days);
     });
   }
@@ -674,18 +699,21 @@
     const c=state.card; if(!c) return false;
     if(!state.platform) setPlatform('PS5',{persist:false});
     if(opts.fromSite!==false && !opts.skipConfirm){ askPlatformConfirm(open); return false; }
-    const L=state.mode==='p3'?'П3 с личного аккаунта':'П2 с профиля аренды';
+    const flat=isFlatHoursCard(c);
+    const L=flat?'Фиксированный тариф':(state.mode==='p3'?'П3 с личного аккаунта':'П2 с профиля аренды');
+    const options=[
+      {option:'Платформа',variant:state.platform},
+      {option:'Срок аренды',variant:daysLabel(state.days,c)},
+    ];
+    if(!flat) options.push({option:'Тип аренды',variant:L});
+    else options.push({option:'Тариф',variant:L});
     const ok=pushCart({
-      name:c.title+' — Аренда · '+state.platform+' · '+daysLabel(state.days),
+      name:c.title+' — Аренда · '+state.platform+' · '+daysLabel(state.days,c),
       price:currentPrice(),
       sku:c.sku||('rent-'+c.slug),
       quantity:1,
       img:coverUrl(c)||'',
-      options:[
-        {option:'Платформа',variant:state.platform},
-        {option:'Срок аренды',variant:daysLabel(state.days)},
-        {option:'Тип аренды',variant:L}
-      ]
+      options:options
     }, open);
     if(ok){
       $$('[data-buy],[data-sticky-buy]',mount).forEach(btn=>tapFeedback(btn,{okText:'Добавлено',ms:1600}));
@@ -1204,7 +1232,8 @@
     const shots=shotsOf(c);
     const shot=shots[state.shotIdx]||shots[0]||'';
     const rows=pricesFor(c);
-    const termBtns=rows.map(r=>`<button type="button" class="rt-term-btn${state.days===r.days?' active':''}" data-days="${r.days}">${esc(daysLabel(r.days))}<small>${esc(nf(state.mode==='p3'?r.p3:r.p2))}</small></button>`).join('');
+    const flat=isFlatHoursCard(c);
+    const termBtns=rows.map(r=>`<button type="button" class="rt-term-btn${state.days===r.days?' active':''}" data-days="${r.days}">${esc(daysLabel(r.days,c))}<small>${esc(nf(flat?r.p2:(state.mode==='p3'?r.p3:r.p2)))}</small></button>`).join('');
     const specs=[
       c.platform&&['Платформа',c.platform],
       c.release_date&&['Релиз',c.release_date],
@@ -1214,8 +1243,19 @@
       c.text_translation&&['Текст',c.text_translation],
       c.lang_label&&['Язык',c.lang_label]
     ].filter(Boolean).map(([k,v])=>`<div class="rt-spec"><span class="rt-spec__k">${esc(k)}</span><span class="rt-spec__v">${esc(v)}</span></div>`).join('');
+    const descHtmlRaw=String(c.description_html||'').trim();
     const desc=String(c.description||'').trim();
-    const descHtml=desc.split(/\n{2,}/).map(p=>`<p>${esc(p)}</p>`).join('')||'<p>Описание появится после обновления каталога.</p>';
+    let descHtml;
+    if(descHtmlRaw){
+      descHtml=`<div class="rt-desc-html">${descHtmlRaw}</div>`;
+    }else{
+      descHtml=desc.split(/\n{2,}/).map(p=>`<p>${esc(p)}</p>`).join('')||'<p>Описание появится после обновления каталога.</p>';
+    }
+    const modeBlock=flat?'':`
+          <div><div class="rt-label">Тип аренды</div>
+            <div class="rt-acc rt-acc--p2"><input type="checkbox" class="rt-acc__exp" id="rtAe2"><div class="rt-acc__top"><label class="rt-acc__pick"><input type="checkbox" class="rt-acc__input" data-mode="p2" ${state.mode==='p2'?'checked':''}><span class="rt-acc__mark"></span><span class="rt-acc__label">П2 — играть с профиля, который арендую</span></label><label for="rtAe2" class="rt-acc__more"></label></div><div class="rt-acc__bonus">Игра с арендованного профиля; достижения в нём. После входа сразу выключайте общий доступ</div></div>
+            <div class="rt-acc rt-acc--p3" style="margin-top:8px"><input type="checkbox" class="rt-acc__exp" id="rtAe3"><div class="rt-acc__top"><label class="rt-acc__pick"><input type="checkbox" class="rt-acc__input" data-mode="p3" ${state.mode==='p3'?'checked':''}><span class="rt-acc__mark"></span><span class="rt-acc__label">П3 — играть с личного аккаунта</span></label><label for="rtAe3" class="rt-acc__more"></label></div><div class="rt-acc__bonus">Игра на вашем основном аккаунте, трофеи остаются у вас</div></div>
+          </div>`;
     const thumbs=shots.map((u,i)=>`<button type="button" class="rt-shot${i===state.shotIdx?' is-on':''}" data-shot="${i}"><img src="${attr(u)}" alt=""></button>`).join('');
     // Recommendations in opened card: lazy-load by scroll (initial 12, then +12)
     let recsAll=state.recsAll;
@@ -1253,10 +1293,7 @@
           <p class="sub">${esc(c.platform||'PS5')}${isPreorderItem(c)?' · Предзаказ':''}</p>
           ${specs?`<div class="rt-specs">${specs}</div>`:''}
           <div><div class="rt-label">Срок аренды</div><div class="rt-term">${termBtns}</div></div>
-          <div><div class="rt-label">Тип аренды</div>
-            <div class="rt-acc rt-acc--p2"><input type="checkbox" class="rt-acc__exp" id="rtAe2"><div class="rt-acc__top"><label class="rt-acc__pick"><input type="checkbox" class="rt-acc__input" data-mode="p2" ${state.mode==='p2'?'checked':''}><span class="rt-acc__mark"></span><span class="rt-acc__label">П2 — играть с профиля, который арендую</span></label><label for="rtAe2" class="rt-acc__more"></label></div><div class="rt-acc__bonus">Игра с арендованного профиля; достижения в нём. После входа сразу выключайте общий доступ</div></div>
-            <div class="rt-acc rt-acc--p3" style="margin-top:8px"><input type="checkbox" class="rt-acc__exp" id="rtAe3"><div class="rt-acc__top"><label class="rt-acc__pick"><input type="checkbox" class="rt-acc__input" data-mode="p3" ${state.mode==='p3'?'checked':''}><span class="rt-acc__mark"></span><span class="rt-acc__label">П3 — играть с личного аккаунта</span></label><label for="rtAe3" class="rt-acc__more"></label></div><div class="rt-acc__bonus">Игра на вашем основном аккаунте, трофеи остаются у вас</div></div>
-          </div>
+          ${modeBlock}
           <div class="rt-price"><span class="rt-price__label">К оплате</span><span class="rt-price__val" data-price>${esc(nf(currentPrice()))}</span></div>
           <div class="rt-actions">
             <button type="button" class="rt-btn rt-btn-buy" data-buy>Добавить в корзину</button>
@@ -1416,7 +1453,9 @@
     }
 
     state.pendingOpenSlug=null;
-    state.card=card; state.days=7; state.mode='p2'; state.shotIdx=0; state.open=true;
+    state.card=card; state.mode='p2'; state.shotIdx=0; state.open=true;
+    const flatRows=pricesFor(card);
+    state.days=(flatRows[0]&&flatRows[0].days)||(isFlatHoursCard(card)?20:7);
     state.platform=readPlatformCookie()||'PS5'; state.priceShown=null;
     // Reset recs for new card slug (рекомендации перемешиваются только при смене игры)
     state.recsForSlug='';
