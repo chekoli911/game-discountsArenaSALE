@@ -330,9 +330,13 @@
     return state.mode==='p3'?row.p3:row.p2;
   }
   function fromPrice(card){
-    const rows=pricesFor(card);
-    if(!rows.length) return +(card&&card.price_min)||0;
-    return Math.min.apply(null, rows.map(r=>Math.min(r.p2||Infinity,r.p3||Infinity)).filter(n=>isFinite(n)));
+    // «от» — только сроки 7+ (как в vserent). «1 день» часто оценка и ломает цену.
+    const pm=+(card&&card.price_min)||0;
+    const rows=pricesFor(card).filter(r=>r.days!==1);
+    if(!rows.length) return pm;
+    const vals=rows.map(r=>Math.min(r.p2||Infinity,r.p3||Infinity)).filter(n=>isFinite(n));
+    if(!vals.length) return pm;
+    return Math.min.apply(null, vals);
   }
   function starsHtml(rating){
     const v=Math.max(0,Math.min(5,Number(rating)||0));
