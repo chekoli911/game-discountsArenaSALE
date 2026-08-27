@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-26T02:00:26Z",
-  "server_time_utc": "2026-08-26T02:00:26Z",
+  "updated_at": "2026-08-27T02:00:37Z",
+  "server_time_utc": "2026-08-27T02:00:37Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-27T02:00:00Z",
-  "expires_at": "2026-08-27T02:00:00Z",
+  "next_rotation_at": "2026-08-28T02:00:00Z",
+  "expires_at": "2026-08-28T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-27T02:00:00Z"
+    "next_rotation_at": "2026-08-28T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "ghostwire-tokyo-deluxe-ps5",
+      "title": "Ghostwire Tokyo Deluxe PS5",
+      "description": "Гhostwire Tokyo Deluxe на PS5 - это не просто приключение, а настоящий драйв в тенях Токио.  \n\nТеперь вы можете разобраться с призраком в средней школе и очистить проклятые фото в новых побочных заданиях. Дополнительные видеоролики раскрывают тайны мира игры - всё по-настоящему напряжённо и без воды.  \n\nВсё новое - в режиме «Паутинка». Более 120 уровней, случайный выбор из 30, загадочные татари на каждом этаже. Это не для слабонервных: нужно выучить навыки и синергию, собирать призраков и зарабатывать монеты кобан. Каждый уровень - это эмоции, фигурки или печати для фоторежима.  \n\nАкито теперь может блокировать и контратаковать, уклоняться и вкладывать силу в стихийные удары. Умения помогут справиться с монстрами - от подземного возмездия до невидимого наблюдателя и багряного танцора в небе.  \n\nИ да - теперь можно делать крутые фото, находить граффити и обменивать мэйки на фигурки в автоматах. Всё это делает игру ещё глубже и живее.",
+      "image_url": "https://static.tildacdn.com/stor6364-3163-4062-b936-356434316431/58247488.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202112/0318/2pK2DZ4hzc42pS2cux5mom9A.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202112/0318/KbFfaIxePBR61HN0cEgBAVNb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202112/0318/l0jlhVDMSKD5T4HZAKQMa5kG.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202112/0318/jx5ASN1dZJS7BQBKvoLB6AoG.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202112/0318/Wv0P6PZaGqKXtLrxdlusk5xS.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202112/0318/YG35AQ1w4XyCwzYEMnqllZf7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202112/0318/7ylO6FPJLG8rf6Ph78faKhjX.jpg"
+      ],
+      "release_date": "25/3/2022",
+      "publisher": "Bethesda",
+      "platforms": "PS5",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.95,
+      "store_url": "https://store.playstation.com/en-tr/concept/10000301",
+      "tilda_uid": "490090213172",
+      "sku": "",
+      "external_id": "6XJMnuTXnUBhPEuc8U74",
+      "url": "http://arenapsgm.ru/tproduct/490090213172-ghostwire-tokyo-deluxe-ps5",
+      "expires_at": "2026-08-28T02:00:00Z",
+      "published_at": "2026-08-27T02:00:37Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Ghostwire Tokyo Deluxe на PS5 - драйв в тенях Токио, где каждый уровень наполнен напряжением и сюрпризами.  \n\nНовые задания, режим «Паутинка» с 120 уровнями, умения Акито и фото-режим - всё это делает игру живой и насыщенной."
+    }
+  ],
+  "history": [
     {
       "slug": "serious-sam-siberian-mayhem-ps5",
       "title": "Serious Sam: Siberian Mayhem PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "TTdKRpbxhOB9OPVjPjbH",
       "url": "http://arenapsgm.ru/tproduct/499342563512-serious-sam-siberian-mayhem-ps5",
-      "expires_at": "2026-08-27T02:00:00Z",
       "published_at": "2026-08-26T02:00:26Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 0,
+          "14": 0,
+          "21": 0,
+          "28": 0
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 0,
+          "14": 0,
+          "21": 0,
+          "28": 0
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 0,
+        "14": 0,
+        "21": 0,
+        "28": 0
       },
-      "p3_extra": 100,
-      "is_game_day": true,
+      "p3_extra": 0,
+      "is_game_day": false,
       "short_description": "Сэму Стоуну снова пришёл в голову - и он вновь вступает в бой.  \n\nРоссия на морозе, леса спрятали тайны - Сэм сражается с Менталом. Бешеный стиль, душа шутера, всё как всегда - только в новом кадре."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "darksiders-ii-deathinitive-edition-ps4-ps5",
       "title": "Darksiders II Deathinitive Edition PS4/PS5",
