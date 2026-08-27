@@ -313,6 +313,11 @@
       const key=String(d);
       let p2v=+(p2[d]||p2[key]||0);
       let p3v=+(p3[d]||p3[key]||0);
+      // Нет «1 день» в каталоге → 7 дней минус 20%
+      if(d===1){
+        if(!p2v){ const b7=+(p2[7]||p2['7']||0); if(b7) p2v=Math.round(b7*0.8); }
+        if(!p3v){ const b7=+(p3[7]||p3['7']||0); if(b7) p3v=Math.round(b7*0.8); }
+      }
       if(d===56){
         if(!p2v) p2v=price56(p2[28]||p2['28']);
         if(!p3v) p3v=price56(p3[28]||p3['28']);
@@ -330,9 +335,8 @@
     return state.mode==='p3'?row.p3:row.p2;
   }
   function fromPrice(card){
-    // «от» — только сроки 7+ (как в vserent). «1 день» часто оценка и ломает цену.
     const pm=+(card&&card.price_min)||0;
-    const rows=pricesFor(card).filter(r=>r.days!==1);
+    const rows=pricesFor(card);
     if(!rows.length) return pm;
     const vals=rows.map(r=>Math.min(r.p2||Infinity,r.p3||Infinity)).filter(n=>isFinite(n));
     if(!vals.length) return pm;
