@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-27T02:00:37Z",
-  "server_time_utc": "2026-08-27T02:00:37Z",
+  "updated_at": "2026-08-28T02:00:20Z",
+  "server_time_utc": "2026-08-28T02:00:20Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-28T02:00:00Z",
-  "expires_at": "2026-08-28T02:00:00Z",
+  "next_rotation_at": "2026-08-29T02:00:00Z",
+  "expires_at": "2026-08-29T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-28T02:00:00Z"
+    "next_rotation_at": "2026-08-29T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "monster-hunter-wilds-ps5",
+      "title": "Monster Hunter Wilds PS5",
+      "description": "Монстры не спят, а бегут - и это всё меняется в одно мгновение.  \n\nВ Monster Hunter Wilds вы находитесь в мире, где природа не просто дышит - она живёт, переполняется, греет и сбивается с пути. Суровые засухи и ненастья превращаются в охотничьи сезоны, а монстры выходят стаями, как будто ответили на вызов.  \n\nКаждый бой - это не просто удача или хитрость. Вы строите доспехи из собственных охотных сокровищ, превращаете природу в арсенал и начинаете понимать: люди и монстры здесь - не противники, а части одного целого.  \n\nПросто включайте оружие и начинайте охотиться - мир подаст сигналы, но вы должны быть готовы к тому, что даже самое маленькое движение может изменить всё вокруг. 💥",
+      "image_url": "https://static.tildacdn.com/stor6164-3637-4266-b538-393065316163/68243453.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/6eca11bf1cbeda40d7fbff267f42565b2030b6ca10a4f4c2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/f653040b97ae0e2203bcc6291c2c904f72f08768d01ca125.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/e67705e75851d1423236257076fb113e9b278df1d7ee9235.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/f273cf7c1c38bcbfd334fb3abaaec6eb645f414a027f5d5e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/a0f54ab37ba91b505c4edb98d42d7852bf92b3f03b0c2a80.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/aff652e15d91796b46e9edc36dd468c24db35bb1b4d45be1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/c1480589e13dccb9ff6892163430802ee0258f8f64c78950.jpg"
+      ],
+      "release_date": "28/2/2025",
+      "publisher": "CE EUROPE LIMITED",
+      "platforms": "PS5",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.09,
+      "store_url": "https://store.playstation.com/en-tr/concept/10005176",
+      "tilda_uid": "790073278762",
+      "sku": "",
+      "external_id": "OxtxMIV7TkfXAdIyhDOx",
+      "url": "http://arenapsgm.ru/tproduct/790073278762-monster-hunter-wilds-ps5",
+      "expires_at": "2026-08-29T02:00:00Z",
+      "published_at": "2026-08-28T02:00:20Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Монстры не спят - они бегут.  \nВ Wilds природа живёт, монстры выходят стаями, а каждый бой - это не просто схватка, а взаимодействие с миром."
+    }
+  ],
+  "history": [
     {
       "slug": "ghostwire-tokyo-deluxe-ps5",
       "title": "Ghostwire Tokyo Deluxe PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "6XJMnuTXnUBhPEuc8U74",
       "url": "http://arenapsgm.ru/tproduct/490090213172-ghostwire-tokyo-deluxe-ps5",
-      "expires_at": "2026-08-28T02:00:00Z",
       "published_at": "2026-08-27T02:00:37Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 290,
+          "14": 400,
+          "21": 500,
+          "28": 600
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 390,
+          "14": 500,
+          "21": 600,
+          "28": 700
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 290,
+        "14": 400,
+        "21": 500,
+        "28": 600
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Ghostwire Tokyo Deluxe на PS5 - драйв в тенях Токио, где каждый уровень наполнен напряжением и сюрпризами.  \n\nНовые задания, режим «Паутинка» с 120 уровнями, умения Акито и фото-режим - всё это делает игру живой и насыщенной."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "serious-sam-siberian-mayhem-ps5",
       "title": "Serious Sam: Siberian Mayhem PS5",
