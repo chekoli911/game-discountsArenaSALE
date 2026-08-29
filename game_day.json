@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-28T02:00:20Z",
-  "server_time_utc": "2026-08-28T02:00:20Z",
+  "updated_at": "2026-08-29T02:01:10Z",
+  "server_time_utc": "2026-08-29T02:01:10Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-29T02:00:00Z",
-  "expires_at": "2026-08-29T02:00:00Z",
+  "next_rotation_at": "2026-08-30T02:00:00Z",
+  "expires_at": "2026-08-30T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-29T02:00:00Z"
+    "next_rotation_at": "2026-08-30T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "martha-is-dead-ps4-ps5",
+      "title": "Martha is Dead PS4/PS5",
+      "description": "Марты нет. Тело утонуло в 1944 году в Италии. А Джулия - её сестра-близнец - теперь одна на свете.  \n\nВот и начинается: мрачный триллер от первого лица, где реальность тает в суевериях и ужасах войны. Ты не знаешь, что видел, а только чувствуешь - как будто всё вокруг шепчет правду… или ложь.  \n\nИгра по-итальянски - с настоящей, непринуждённой озвучкой. Первая инди-игра, где язык включён с самого начала. Погружение - без фильтров, без шума.  \n\nПопробуй - и спроси себя: кто из нас умрёт дольше? 🕯️",
+      "image_url": "https://static.tildacdn.com/stor3432-3131-4839-a537-396534333536/67751990.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/img/rnd/202111/2413/A0DcMEEn2dpKzshSpcfRMomS.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202111/2413/BV5mWCr0DkyFgxuHiS9FG1O6.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202111/2413/y5Hctf3o4IoMZ706crHHIPem.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202111/2413/cP9A1IkOjqAtQPuMsAbQUbjH.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202111/2413/hHltDmrUlHyGql0L2J3qOldx.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202111/2413/r1sXpLmEwt5sc8PqLhSB4534.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202111/2413/MH6lSTaJdIG9ymmHXr3rjjvC.jpg"
+      ],
+      "release_date": "24/2/2022",
+      "publisher": "WIRED PRODUCTIONS LIMITED",
+      "platforms": "PS4, PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.01,
+      "store_url": "https://store.playstation.com/en-tr/concept/10001528",
+      "tilda_uid": "174217082362",
+      "sku": "",
+      "external_id": "2njtuZOzpmFDJ5OUgysn",
+      "url": "http://arenapsgm.ru/tproduct/174217082362-martha-is-dead-ps4ps5",
+      "expires_at": "2026-08-30T02:00:00Z",
+      "published_at": "2026-08-29T02:01:10Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Марты нет. Джулия - её близнец, теперь одна на свете.  \n\nТриллер от первого лица: реальность тает в войне и суевериях. Игра с настоящей озвучкой, без фильтров - ты чувствуешь, а не видишь."
+    }
+  ],
+  "history": [
     {
       "slug": "monster-hunter-wilds-ps5",
       "title": "Monster Hunter Wilds PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "OxtxMIV7TkfXAdIyhDOx",
       "url": "http://arenapsgm.ru/tproduct/790073278762-monster-hunter-wilds-ps5",
-      "expires_at": "2026-08-29T02:00:00Z",
       "published_at": "2026-08-28T02:00:20Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 350,
+          "14": 550,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 550,
+          "14": 750,
+          "21": 900,
+          "28": 1000
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 350,
+        "14": 550,
+        "21": 700,
+        "28": 800
       },
-      "p3_extra": 100,
-      "is_game_day": true,
+      "p3_extra": 200,
+      "is_game_day": false,
       "short_description": "Монстры не спят - они бегут.  \nВ Wilds природа живёт, монстры выходят стаями, а каждый бой - это не просто схватка, а взаимодействие с миром."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "ghostwire-tokyo-deluxe-ps5",
       "title": "Ghostwire Tokyo Deluxe PS5",
