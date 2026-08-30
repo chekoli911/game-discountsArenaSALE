@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-29T02:01:10Z",
-  "server_time_utc": "2026-08-29T02:01:10Z",
+  "updated_at": "2026-08-30T02:00:10Z",
+  "server_time_utc": "2026-08-30T02:00:10Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-30T02:00:00Z",
-  "expires_at": "2026-08-30T02:00:00Z",
+  "next_rotation_at": "2026-08-31T02:00:00Z",
+  "expires_at": "2026-08-31T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-30T02:00:00Z"
+    "next_rotation_at": "2026-08-31T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "devil-my-cry-4-ps4-ps5",
+      "title": "Devil my cry 4 PS4/PS5",
+      "description": "Долгожданное возвращение DMC4 - и теперь с новыми героями, новыми бойцами и ещё более жаркими боевыми сценами!  \n\nVergil снова в игре - мощный, мрачный и не терпящий уступок. А Trish? Она тоже включает жару своими комбо. И да - впервые можно играть за Lady!  \n\nПобеждайте орды в режиме Legendary Dark Knight, где каждый удар звучит как призыв к борьбе. Картинка на 1080p, 60 кадров в секунду - без сожалений.  \n\nАвтосохранение и другие улучшения делают игру ещё более погружённой и незабываемой.",
+      "image_url": "https://static.tildacdn.com/stor3439-3132-4365-b337-626532336437/37863692.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/FREE_CONTENTqgBZUB8vW2EcB3vboG39/PREVIEW_SCREENSHOT1_453897.jpg",
+        "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/FREE_CONTENTOKtXpluwW5x5PkHgzw55/PREVIEW_SCREENSHOT2_453897.jpg",
+        "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/FREE_CONTENT0KL9yW2p8aKHUr6rL7cx/PREVIEW_SCREENSHOT3_453897.jpg",
+        "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/FREE_CONTENTh2nIzvEdl2zwVREFi1Er/PREVIEW_SCREENSHOT4_453897.jpg",
+        "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/FREE_CONTENTM1icXXMfM16uHWZMCZfz/PREVIEW_SCREENSHOT5_453897.jpg",
+        "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/FREE_CONTENTN9ZzNMq5BY0sweYUn3DB/PREVIEW_SCREENSHOT6_453897.jpg",
+        "https://image.api.playstation.com/cdn/EP0102/CUSA01708_00/FREE_CONTENTFUATCzf5TvtwXh1B9u1y/PREVIEW_SCREENSHOT7_453897.jpg"
+      ],
+      "release_date": "24/6/2015",
+      "publisher": "CE EUROPE LIMITED",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.73,
+      "store_url": "https://store.playstation.com/en-tr/concept/200909",
+      "tilda_uid": "631666397712",
+      "sku": "",
+      "external_id": "7jB00SbT27IXdx5VBBHO",
+      "url": "http://arenapsgm.ru/tproduct/631666397712-devil-my-cry-4-ps4ps5",
+      "expires_at": "2026-08-31T02:00:00Z",
+      "published_at": "2026-08-30T02:00:10Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "DMC4 возвращается - теперь с Vergil, Trish и первым в игре героями Lady.  \n\nБои на 1080p, 60 кадров, жаркие сцены, автосохранение - всё как в бою."
+    }
+  ],
+  "history": [
     {
       "slug": "martha-is-dead-ps4-ps5",
       "title": "Martha is Dead PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "2njtuZOzpmFDJ5OUgysn",
       "url": "http://arenapsgm.ru/tproduct/174217082362-martha-is-dead-ps4ps5",
-      "expires_at": "2026-08-30T02:00:00Z",
       "published_at": "2026-08-29T02:01:10Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Марты нет. Джулия - её близнец, теперь одна на свете.  \n\nТриллер от первого лица: реальность тает в войне и суевериях. Игра с настоящей озвучкой, без фильтров - ты чувствуешь, а не видишь."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "monster-hunter-wilds-ps5",
       "title": "Monster Hunter Wilds PS5",
