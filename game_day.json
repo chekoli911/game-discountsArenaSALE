@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-30T02:00:10Z",
-  "server_time_utc": "2026-08-30T02:00:10Z",
+  "updated_at": "2026-08-31T02:00:14Z",
+  "server_time_utc": "2026-08-31T02:00:14Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-08-31T02:00:00Z",
-  "expires_at": "2026-08-31T02:00:00Z",
+  "next_rotation_at": "2026-09-01T02:00:00Z",
+  "expires_at": "2026-09-01T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,62 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-08-31T02:00:00Z"
+    "next_rotation_at": "2026-09-01T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "ratchet-amp-clank-ps4-ps5",
+      "title": "Ratchet &amp; Clank PS4/PS5",
+      "description": "Ломбакс и его робот-друг снова в космосе - и это уже не просто игра, а настоящий бодрый путь от дружбы до приключений.  \n\nВсё начинается с улыбающегося Рэтчета и его непредсказуемого друга - Ломбакса. Новый взгляд на их первую историю в космосе, полностью переработанный для PS4 и современных консолей.  \n\nГрафика как в анимационном фильме 2016 года, динамика - как в настоящем приключении, а процесс игры - чистый, живой и с большой дозой харизмы.  \n\nПриятно играть, когда всё просто, но насыщено. И да - это уже не просто серия, это история, которую хочется пережить снова и снова.",
+      "image_url": "https://static.tildacdn.com/stor6435-3362-4332-b632-373463313562/71690801.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP9000/CUSA01073_00/FREE_CONTENTy4sdfN5P5U85acEfDeqd/2_ratchetvista.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA01073_00/FREE_CONTENTrT0PSvqGd0Gv07kAhSgq/4_metro_train.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA01073_00/FREE_CONTENT7PC1BENjjFaoZ5MHVh3X/RCPS4_Clank_and_Victor.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA01073_00/FREE_CONTENTn96CkaWzD4Mqapim8QvO/RCPS4_Pokitaru_Predator.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA01073_00/FREE_CONTENTylm9hIgPvT5nN5MO7IvX/RCPS4_Pokitaru_Pyrociter.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA01073_00/FREE_CONTENT8XAEDbK9MlXrYD2Hefn9/RCPS4_Pokitaru_Vista.jpg"
+      ],
+      "release_date": "20/4/2016",
+      "publisher": "Sony Interactive Entertainment",
+      "platforms": "PS4",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.49,
+      "store_url": "https://store.playstation.com/en-tr/concept/214653",
+      "tilda_uid": "496243049982",
+      "sku": "",
+      "external_id": "CiKFSrrvbfJHH8MV7hov",
+      "url": "",
+      "expires_at": "2026-09-01T02:00:00Z",
+      "published_at": "2026-08-31T02:00:14Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Ломбакс и Рэтчет снова в космосе - дружба, приключения и харизма в каждом движении.  \nГрафика, динамика и простота игры делают её живой и приятной - как настоящий анимационный фильм."
+    }
+  ],
+  "history": [
     {
       "slug": "devil-my-cry-4-ps4-ps5",
       "title": "Devil my cry 4 PS4/PS5",
@@ -50,34 +102,31 @@
       "sku": "",
       "external_id": "7jB00SbT27IXdx5VBBHO",
       "url": "http://arenapsgm.ru/tproduct/631666397712-devil-my-cry-4-ps4ps5",
-      "expires_at": "2026-08-31T02:00:00Z",
       "published_at": "2026-08-30T02:00:10Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "DMC4 возвращается - теперь с Vergil, Trish и первым в игре героями Lady.  \n\nБои на 1080p, 60 кадров, жаркие сцены, автосохранение - всё как в бою."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "martha-is-dead-ps4-ps5",
       "title": "Martha is Dead PS4/PS5",
