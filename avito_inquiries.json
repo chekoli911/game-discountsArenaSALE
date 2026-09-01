@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-01T09:29:32+03:00",
-  "updated_at_msk": "01.09.2026 09:29",
+  "updated_at": "2026-09-01T10:29:37+03:00",
+  "updated_at_msk": "01.09.2026 10:29",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 488,
+  "total": 489,
   "unique_games": 267,
   "in_demand": 39,
   "one_off": 208,
@@ -526,9 +526,9 @@
       "title": "NBA 2K27 Ultra Edition PS5",
       "item_id": "8276992073",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nba_2k27_ultra_edition_ps5_8276992073",
-      "count": 13,
+      "count": 14,
       "demand": "high",
-      "avg_price": 328,
+      "avg_price": 323,
       "min_price": 257,
       "max_price": 697,
       "last_price": 257,
@@ -536,6 +536,7 @@
         497,
         497,
         697,
+        257,
         257,
         257,
         257,
@@ -640,7 +641,7 @@
         10,
         11,
         13,
-        13
+        14
       ],
       "hourly": [
         0,
@@ -735,7 +736,7 @@
         0,
         1,
         2,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -833,7 +834,7 @@
         257
       ],
       "first_at": "2026-08-20T13:33:54+03:00",
-      "last_at": "2026-08-31T19:44:27+03:00"
+      "last_at": "2026-09-01T10:04:36+03:00"
     },
     {
       "id": "resonance-a-plague-tale-legacy-ps5",
@@ -81045,6 +81046,12 @@
   ],
   "recent": [
     {
+      "title": "NBA 2K27 Ultra Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-01T10:04:36+03:00"
+    },
+    {
       "title": "Resonance: A Plague Tale Legacy PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -81277,12 +81284,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-08-30T18:05:44+03:00"
-    },
-    {
-      "title": "Avatar Legends: The Fighting Game PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-08-30T17:44:04+03:00"
     }
   ]
 }
