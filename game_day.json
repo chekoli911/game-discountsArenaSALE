@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-31T02:00:14Z",
-  "server_time_utc": "2026-08-31T02:00:14Z",
+  "updated_at": "2026-09-01T02:00:22Z",
+  "server_time_utc": "2026-09-01T02:00:22Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-01T02:00:00Z",
-  "expires_at": "2026-09-01T02:00:00Z",
+  "next_rotation_at": "2026-09-02T02:00:00Z",
+  "expires_at": "2026-09-02T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-01T02:00:00Z"
+    "next_rotation_at": "2026-09-02T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "jurassic-world-evolution-jurassic-park-edition-ps4-ps5",
+      "title": "Jurassic World Evolution: Jurassic Park Edition PS4/PS5",
+      "description": "Юрский период - не просто памятник прошлому, а живой мир, где динозавры могут мыслить и действовать. Постройте свой парк, включайте биоинженерию и смотрите, как всё вокруг начинает разрушаться - штормы, нарушения, шпионаж… а жизнь, как всегда, не терпит остановки.\n\nПовторяйте классический сценарий из 1993 года: вернитесь на остров, где началась история, и боритесь за контроль над парком. Аллан Грант, Элли Сэттлер и Иэн Малкольм - ваши спутники в этом хаотичном мире.\n\nВ комплекте: основная игра, эксклюзивные динозавры и дополнение «Возвращение в Парк Юрского периода» - всё для полного погружения.",
+      "image_url": "https://static.tildacdn.com/stor6139-3066-4235-b036-616233383465/78866911.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/img/rnd/202009/3019/DW5eHd2yp7dEwb8p1G0dKMMu.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202009/3019/RamxYsEIl4LDrnmMuKbveMhm.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202009/3019/mXBYo9UOlKbzsjom4Wuk0pYT.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202009/3019/k7N1am9w0Nk3QEZ4EouXucbe.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202009/3019/JU7MxK0CmjegrBtlPeFw0Dew.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202009/3019/EdVwK3cAsEoOBEVeQMLTnkxD.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202009/3019/OIZapScMUCR1F2rKvTYtwd2x.jpg"
+      ],
+      "release_date": "12/6/2018",
+      "publisher": "FRONTIER DEVELOPMENTS PLC",
+      "platforms": "PS4",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.57,
+      "store_url": "https://store.playstation.com/en-tr/concept/230379",
+      "tilda_uid": "838414031382",
+      "sku": "",
+      "external_id": "TRMAU9gXoURRfJIlL2VJ",
+      "url": "http://arenapsgm.ru/tproduct/838414031382-jurassic-world-evolution-jurassic-park-e",
+      "expires_at": "2026-09-02T02:00:00Z",
+      "published_at": "2026-09-01T02:00:22Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Юрский период - не просто прошлое, а живой хаос с динозаврами, которые думают и действуют.  \nВернитесь на остров, где началась история - боритесь за контроль, с Алланом Грантом, Элли Сэттлер и Иэн Малкольм. Основная игра + эксклюзивы + дополнение «Возвращение в Парк» - всё для полного погружения."
+    }
+  ],
+  "history": [
     {
       "slug": "ratchet-amp-clank-ps4-ps5",
       "title": "Ratchet &amp; Clank PS4/PS5",
@@ -49,34 +102,31 @@
       "sku": "",
       "external_id": "CiKFSrrvbfJHH8MV7hov",
       "url": "",
-      "expires_at": "2026-09-01T02:00:00Z",
       "published_at": "2026-08-31T02:00:14Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Ломбакс и Рэтчет снова в космосе - дружба, приключения и харизма в каждом движении.  \nГрафика, динамика и простота игры делают её живой и приятной - как настоящий анимационный фильм."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "devil-my-cry-4-ps4-ps5",
       "title": "Devil my cry 4 PS4/PS5",
