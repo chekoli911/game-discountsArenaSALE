@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-01T02:00:22Z",
-  "server_time_utc": "2026-09-01T02:00:22Z",
+  "updated_at": "2026-09-02T02:00:17Z",
+  "server_time_utc": "2026-09-02T02:00:17Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-02T02:00:00Z",
-  "expires_at": "2026-09-02T02:00:00Z",
+  "next_rotation_at": "2026-09-03T02:00:00Z",
+  "expires_at": "2026-09-03T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,62 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-02T02:00:00Z"
+    "next_rotation_at": "2026-09-03T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "evil-inside-ps4-ps5",
+      "title": "Evil Inside PS4/PS5",
+      "description": "Потерял маму, отец арестован - Марк теперь живёт в тишине и тревоге. И всё это начинается с доски духов…  \n\nОн пытается найти свою мать через её остатки - разбросанные по дому фрагменты, которые не просто лежат. Они «живут».  \n\nТы будешь за Марком - подростком, который на самом деле ничего не знает, но чувствует, что в доме что-то не так. Лампочки моргают, скрипит кухня, а музыка… ты уже слышал эту мелодию?  \n\nСобери доску, пройди через тень и найди Розу - чтобы выяснить, что случилось с родителями. Потому что правда не такая, как кажется.",
+      "image_url": "https://static.tildacdn.com/stor6138-3261-4237-a536-353135363331/40148544.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/PxjUPcnyl5tvJziTDn49gszF.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/EK6fVk1hneVVaZlqd1PpGSrJ.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/ZNFKK9ojrQlkzeDFnoUY7mpp.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/eOW0PvGfjpwwmVRzrcGaNd9k.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/CbHBkb6aKIEflZmcuU4qML4j.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/0flFYlFm96JLDqMgF5cfT0Iu.jpg"
+      ],
+      "release_date": "25/3/2021",
+      "publisher": "JANDUSOFT S.L.",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.26,
+      "store_url": "https://store.playstation.com/en-tr/concept/10002054",
+      "tilda_uid": "744126918102",
+      "sku": "",
+      "external_id": "eIuBSlRdzkx211V9SoGT",
+      "url": "http://arenapsgm.ru/tproduct/744126918102-evil-inside-ps4ps5",
+      "expires_at": "2026-09-03T02:00:00Z",
+      "published_at": "2026-09-02T02:00:17Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Марк живёт в тишине после потери мамы и ареста отца - всё начинается с доски духов.  \n\nЛампочки моргают, кухня скрипит, музыка приводит к воспоминаниям - нужно собрать доску и найти Розу, чтобы понять правду."
+    }
+  ],
+  "history": [
     {
       "slug": "jurassic-world-evolution-jurassic-park-edition-ps4-ps5",
       "title": "Jurassic World Evolution: Jurassic Park Edition PS4/PS5",
@@ -50,34 +102,31 @@
       "sku": "",
       "external_id": "TRMAU9gXoURRfJIlL2VJ",
       "url": "http://arenapsgm.ru/tproduct/838414031382-jurassic-world-evolution-jurassic-park-e",
-      "expires_at": "2026-09-02T02:00:00Z",
       "published_at": "2026-09-01T02:00:22Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Юрский период - не просто прошлое, а живой хаос с динозаврами, которые думают и действуют.  \nВернитесь на остров, где началась история - боритесь за контроль, с Алланом Грантом, Элли Сэттлер и Иэн Малкольм. Основная игра + эксклюзивы + дополнение «Возвращение в Парк» - всё для полного погружения."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "ratchet-amp-clank-ps4-ps5",
       "title": "Ratchet &amp; Clank PS4/PS5",
