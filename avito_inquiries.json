@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-02T21:54:54+03:00",
-  "updated_at_msk": "02.09.2026 21:54",
+  "updated_at": "2026-09-02T22:54:59+03:00",
+  "updated_at_msk": "02.09.2026 22:54",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 524,
+  "total": 525,
   "unique_games": 284,
   "in_demand": 41,
   "one_off": 221,
@@ -207,14 +207,13 @@
       "title": "Marvel's Avengers Endgame Edition PS4/PS5",
       "item_id": "3893870276",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/marvels_avengers_endgame_edition_ps4ps5_3893870276",
-      "count": 33,
+      "count": 34,
       "demand": "high",
-      "avg_price": 327,
+      "avg_price": 326,
       "min_price": 209,
       "max_price": 350,
-      "last_price": 209,
+      "last_price": 287,
       "prices": [
-        350,
         350,
         350,
         350,
@@ -233,7 +232,8 @@
         350,
         209,
         287,
-        209
+        209,
+        287
       ],
       "counts": [
         1,
@@ -329,7 +329,7 @@
         33,
         33,
         33,
-        33
+        34
       ],
       "hourly": [
         1,
@@ -425,7 +425,7 @@
         1,
         0,
         0,
-        0
+        1
       ],
       "price_series": [
         350,
@@ -521,10 +521,10 @@
         209,
         209,
         209,
-        209
+        287
       ],
       "first_at": "2026-06-01T22:20:43+03:00",
-      "last_at": "2026-08-30T14:43:06+03:00"
+      "last_at": "2026-09-02T22:00:08+03:00"
     },
     {
       "id": "nba-2k27-ultra-edition-ps5",
@@ -87052,6 +87052,12 @@
   ],
   "recent": [
     {
+      "title": "Marvel's Avengers Endgame Edition PS4/PS5",
+      "price": 287,
+      "price_string": "287 ₽",
+      "at": "2026-09-02T22:00:08+03:00"
+    },
+    {
       "title": "Cannibal Cuisine PS4/PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -87284,12 +87290,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-01T00:20:15+03:00"
-    },
-    {
-      "title": "Mxgp 26 - The Official Game PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-08-31T23:26:32+03:00"
     }
   ]
 }
