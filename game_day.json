@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-02T02:00:17Z",
-  "server_time_utc": "2026-09-02T02:00:17Z",
+  "updated_at": "2026-09-03T02:01:33Z",
+  "server_time_utc": "2026-09-03T02:01:33Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-03T02:00:00Z",
-  "expires_at": "2026-09-03T02:00:00Z",
+  "next_rotation_at": "2026-09-04T02:00:00Z",
+  "expires_at": "2026-09-04T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-03T02:00:00Z"
+    "next_rotation_at": "2026-09-04T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "rise-of-the-tomb-raider-ps4-ps5",
+      "title": "Rise of the Tomb Raider PS4/PS5",
+      "description": "Лары возвращается - и с новым визуальным бунтом, диким ходом и погружением в атмосферу древних тайн.  \n\nНовая глава «Узы крови» добавляет глубину сюжету, а поддержка PlayStation VR делает её ещё более тревожной и реалистичной - можно почувствовать каждый удар копья в темноте.  \n\nДля тех, кто любит нестандартные драйвы - новый режим «Кошмар Лары» с зомби, а также совместный режим «Выносливость» и уровень сложности «Экстремальное выживание» поднимают игру на новый уровень.  \n\nДополнены костюм и пистолет 20-летия - вместе с классическими обликов Лары, как в старых эпизодах. Всё ранее выпущенное уже включено - никаких пропусков.  \n\nПри подключении PS Camera к PS5 нужен адаптер (можно найти на сайте playstation.com/camera-adaptor), а для VR-игр рекомендуем беспроводной DUALSHOCK®4 - удобнее и стабильнее.",
+      "image_url": "https://static.tildacdn.com/stor6563-6265-4937-b065-386131383436/41489433.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP0082/CUSA05716_00/FREE_CONTENTV8MGuA54hzI1wu4ioNVj/TR_01.jpg",
+        "https://image.api.playstation.com/cdn/EP0082/CUSA05716_00/FREE_CONTENTZut2OcFO64HV1bilaSnm/TR_02.jpg",
+        "https://image.api.playstation.com/cdn/EP0082/CUSA05716_00/FREE_CONTENTXKmkIOHdkROfmZFPL2GF/TR_03.jpg",
+        "https://image.api.playstation.com/cdn/EP0082/CUSA05716_00/FREE_CONTENT0wjMsKRvAhKN2V4wFYCc/TR_04.jpg",
+        "https://static.tildacdn.com/stor6563-6265-4937-b065-386131383436/41489433.jpg"
+      ],
+      "release_date": "11/10/2016",
+      "publisher": "CRYSTAL DYNAMICS",
+      "platforms": "PS4",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.49,
+      "store_url": "https://store.playstation.com/en-tr/concept/221750",
+      "tilda_uid": "430570405282",
+      "sku": "",
+      "external_id": "LXn1RZT2jIhFRk4kdy60",
+      "url": "http://arenapsgm.ru/tproduct/430570405282-rise-of-the-tomb-raider-ps4ps5",
+      "expires_at": "2026-09-04T02:00:00Z",
+      "published_at": "2026-09-03T02:01:33Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Лары возвращается с диким бунтом - теперь ты чувствуешь каждый удар копья в темноте.  \nНовый режим «Кошмар Лары», «Выносливость» и уровень «Экстремальное выживание» - для тех, кто любит нестандартные драйвы. Костюмы и пистолет 20-летия включены. Для VR - лучше беспроводной DUALSHOCK®4."
+    }
+  ],
+  "history": [
     {
       "slug": "evil-inside-ps4-ps5",
       "title": "Evil Inside PS4/PS5",
@@ -49,34 +100,31 @@
       "sku": "",
       "external_id": "eIuBSlRdzkx211V9SoGT",
       "url": "http://arenapsgm.ru/tproduct/744126918102-evil-inside-ps4ps5",
-      "expires_at": "2026-09-03T02:00:00Z",
       "published_at": "2026-09-02T02:00:17Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Марк живёт в тишине после потери мамы и ареста отца - всё начинается с доски духов.  \n\nЛампочки моргают, кухня скрипит, музыка приводит к воспоминаниям - нужно собрать доску и найти Розу, чтобы понять правду."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "jurassic-world-evolution-jurassic-park-edition-ps4-ps5",
       "title": "Jurassic World Evolution: Jurassic Park Edition PS4/PS5",
