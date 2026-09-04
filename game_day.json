@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-03T02:01:33Z",
-  "server_time_utc": "2026-09-03T02:01:33Z",
+  "updated_at": "2026-09-04T02:00:28Z",
+  "server_time_utc": "2026-09-04T02:00:28Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-04T02:00:00Z",
-  "expires_at": "2026-09-04T02:00:00Z",
+  "next_rotation_at": "2026-09-05T02:00:00Z",
+  "expires_at": "2026-09-05T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-04T02:00:00Z"
+    "next_rotation_at": "2026-09-05T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "sherlock-holmes-the-devil-daughter-ps4-ps5",
+      "title": "Sherlock Holmes the devil daughter PS4/PS5",
+      "description": "Sherlock Holmes: The Devil’s Daughter - не просто детектив, а настоящий психо-головоломка. Всё начинается с одного вопроса: что если зло скрывается не в палатах, а в душе?  \n\nВы на месте Шерлока Холмса - разыскиваете интригу в тьме Лондона, проникаете в тайны и делаете шаги, которые могут изменить судьбу всей истории. Каждое ваше решение - не просто выбор, а поворот сюжета.  \n\nСледите за подозреваемыми, допрашивайте, бегите, проникаете - всё это в одном динамичном, насыщенном действии. Игра не похожа ни на одну другую.  \n\nПопробуйте сегодня - и почувствуйте, как близко к правде можно быть… 🕵️‍♂️",
+      "image_url": "https://static.tildacdn.com/stor3361-3963-4462-a662-333334383136/46502544.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/UvBWk1A5TiSZyWQY2GBaPagT.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/0DB3K9hrv5cQnhI97mjDBbMy.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/sOtqTpUPWuMrU1ZtFfRuX7JP.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/XHrSBJkAO7LgBq0YxVwbXbOp.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/xV3SoO272qNIz56eCExDEDSQ.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/2OeS4ka7Vgw5X0VdCuGM5vE2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/S8MtCz60RMqRqP0Ba306kZin.jpg"
+      ],
+      "release_date": "24/6/2021",
+      "publisher": "FROGWARES IRELAND LTD",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.07,
+      "store_url": "https://store.playstation.com/en-tr/concept/10002297",
+      "tilda_uid": "505235948912",
+      "sku": "",
+      "external_id": "grVmvuky8vFZVY7HiXC9",
+      "url": "http://arenapsgm.ru/tproduct/505235948912-sherlock-holmes-the-devil-daughter-ps4ps",
+      "expires_at": "2026-09-05T02:00:00Z",
+      "published_at": "2026-09-04T02:00:28Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Sherlock Holmes: The Devil’s Daughter - психо-головоломка, где зло живёт не в палатах, а в душе.  \n\nРешайте, бегайте, допрашивайте - каждый шаг меняет судьбу сюжета. Игра как ни в чём не бывало."
+    }
+  ],
+  "history": [
     {
       "slug": "rise-of-the-tomb-raider-ps4-ps5",
       "title": "Rise of the Tomb Raider PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "LXn1RZT2jIhFRk4kdy60",
       "url": "http://arenapsgm.ru/tproduct/430570405282-rise-of-the-tomb-raider-ps4ps5",
-      "expires_at": "2026-09-04T02:00:00Z",
       "published_at": "2026-09-03T02:01:33Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Лары возвращается с диким бунтом - теперь ты чувствуешь каждый удар копья в темноте.  \nНовый режим «Кошмар Лары», «Выносливость» и уровень «Экстремальное выживание» - для тех, кто любит нестандартные драйвы. Костюмы и пистолет 20-летия включены. Для VR - лучше беспроводной DUALSHOCK®4."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "evil-inside-ps4-ps5",
       "title": "Evil Inside PS4/PS5",
