@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-05T11:50:05+03:00",
-  "updated_at_msk": "05.09.2026 11:50",
+  "updated_at": "2026-09-05T12:50:10+03:00",
+  "updated_at_msk": "05.09.2026 12:50",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 607,
+  "total": 608,
   "unique_games": 311,
   "in_demand": 43,
   "one_off": 239,
@@ -1209,9 +1209,9 @@
       "title": "NBA 2K27 Deluxe Edition PS5",
       "item_id": "8277478359",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nba_2k27_deluxe_edition_ps5_8277478359",
-      "count": 12,
+      "count": 13,
       "demand": "high",
-      "avg_price": 334,
+      "avg_price": 328,
       "min_price": 257,
       "max_price": 697,
       "last_price": 257,
@@ -1219,6 +1219,7 @@
         497,
         497,
         697,
+        257,
         257,
         257,
         257,
@@ -1326,7 +1327,7 @@
         11,
         11,
         12,
-        12
+        13
       ],
       "hourly": [
         0,
@@ -1425,7 +1426,7 @@
         0,
         0,
         1,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -1527,7 +1528,7 @@
         257
       ],
       "first_at": "2026-08-21T08:01:42+03:00",
-      "last_at": "2026-09-04T01:27:34+03:00"
+      "last_at": "2026-09-05T12:30:33+03:00"
     },
     {
       "id": "onimusha-wots-deluxe-edition-ps5",
@@ -98145,6 +98146,12 @@
   ],
   "recent": [
     {
+      "title": "NBA 2K27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-05T12:30:33+03:00"
+    },
+    {
       "title": "Onimusha: WotS - Premium Deluxe Edition PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -98377,12 +98384,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-04T13:26:00+03:00"
-    },
-    {
-      "title": "NHL 27 Deluxe Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-04T12:45:34+03:00"
     }
   ]
 }
