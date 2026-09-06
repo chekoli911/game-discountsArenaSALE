@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-07T01:55:35+03:00",
-  "updated_at_msk": "07.09.2026 01:55",
+  "updated_at": "2026-09-07T02:55:39+03:00",
+  "updated_at_msk": "07.09.2026 02:55",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 685,
+  "total": 687,
   "unique_games": 324,
   "in_demand": 49,
   "one_off": 243,
@@ -556,7 +556,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_deluxe_edition_ps5_8277605536",
-      "count": 33,
+      "count": 34,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -683,7 +683,7 @@
         21,
         26,
         32,
-        33
+        34
       ],
       "hourly": [
         0,
@@ -784,7 +784,7 @@
         17,
         5,
         6,
-        1
+        2
       ],
       "price_series": [
         null,
@@ -888,7 +888,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-09-07T00:15:54+03:00"
+      "last_at": "2026-09-07T02:16:21+03:00"
     },
     {
       "id": "onimusha-wots-deluxe-edition-ps5",
@@ -1570,9 +1570,9 @@
       "title": "NBA 2K27 Deluxe Edition PS5",
       "item_id": "8277478359",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nba_2k27_deluxe_edition_ps5_8277478359",
-      "count": 15,
+      "count": 16,
       "demand": "high",
-      "avg_price": 318,
+      "avg_price": 314,
       "min_price": 257,
       "max_price": 697,
       "last_price": 257,
@@ -1580,6 +1580,7 @@
         497,
         497,
         697,
+        257,
         257,
         257,
         257,
@@ -1692,7 +1693,7 @@
         12,
         14,
         15,
-        15
+        16
       ],
       "hourly": [
         0,
@@ -1793,7 +1794,7 @@
         1,
         2,
         1,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -1897,7 +1898,7 @@
         257
       ],
       "first_at": "2026-08-21T08:01:42+03:00",
-      "last_at": "2026-09-06T17:48:08+03:00"
+      "last_at": "2026-09-07T02:36:06+03:00"
     },
     {
       "id": "the-blood-of-dawnwalker-eclipse-edition-ps5",
@@ -104229,6 +104230,18 @@
   ],
   "recent": [
     {
+      "title": "NBA 2K27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-07T02:36:06+03:00"
+    },
+    {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-07T02:16:21+03:00"
+    },
+    {
       "title": "EA sports FC 27 Ultimate Edition PS4 & PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -104455,18 +104468,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-06T03:45:25+03:00"
-    },
-    {
-      "title": "NHL 27 Deluxe Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-06T00:34:08+03:00"
-    },
-    {
-      "title": "Brain Show PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-05T23:59:35+03:00"
     }
   ]
 }
