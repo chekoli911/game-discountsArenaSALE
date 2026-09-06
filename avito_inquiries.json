@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-06T11:52:48+03:00",
-  "updated_at_msk": "06.09.2026 11:52",
+  "updated_at": "2026-09-06T12:52:53+03:00",
+  "updated_at_msk": "06.09.2026 12:52",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 656,
+  "total": 657,
   "unique_games": 317,
   "in_demand": 47,
   "one_off": 239,
@@ -551,7 +551,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_deluxe_edition_ps5_8277605536",
-      "count": 28,
+      "count": 29,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -677,7 +677,7 @@
         4,
         21,
         26,
-        28
+        29
       ],
       "hourly": [
         0,
@@ -777,7 +777,7 @@
         1,
         17,
         5,
-        2
+        3
       ],
       "price_series": [
         null,
@@ -880,7 +880,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-09-06T10:53:47+03:00"
+      "last_at": "2026-09-06T11:58:08+03:00"
     },
     {
       "id": "nba-2k27-ultra-edition-ps5",
@@ -101019,6 +101019,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-06T11:58:08+03:00"
+    },
+    {
       "title": "OpsCam - Body Cam Shooter PS4",
       "price": 257,
       "price_string": "257 ₽",
@@ -101251,12 +101257,6 @@
       "price": 591,
       "price_string": "591 ₽",
       "at": "2026-09-05T17:15:01+03:00"
-    },
-    {
-      "title": "Onimusha: Way of the Sword PS5",
-      "price": 591,
-      "price_string": "591 ₽",
-      "at": "2026-09-05T17:09:32+03:00"
     }
   ]
 }
