@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-06T20:53:50+03:00",
-  "updated_at_msk": "06.09.2026 20:53",
+  "updated_at": "2026-09-06T21:53:55+03:00",
+  "updated_at_msk": "06.09.2026 21:53",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 678,
+  "total": 679,
   "unique_games": 323,
   "in_demand": 48,
   "one_off": 242,
@@ -887,13 +887,14 @@
       "title": "Onimusha: WotS - Deluxe Edition PS5",
       "item_id": "8276871393",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/onimusha_wots_-_deluxe_edition_ps5_8276871393",
-      "count": 19,
+      "count": 20,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
       "max_price": 257,
       "last_price": 257,
       "prices": [
+        257,
         257,
         257,
         257,
@@ -1012,7 +1013,7 @@
         8,
         12,
         17,
-        19
+        20
       ],
       "hourly": [
         0,
@@ -1112,7 +1113,7 @@
         3,
         4,
         5,
-        2
+        3
       ],
       "price_series": [
         null,
@@ -1215,7 +1216,7 @@
         257
       ],
       "first_at": "2026-08-30T11:33:08+03:00",
-      "last_at": "2026-09-06T20:42:23+03:00"
+      "last_at": "2026-09-06T21:25:26+03:00"
     },
     {
       "id": "nba-2k27-ultra-edition-ps5",
@@ -102933,6 +102934,12 @@
   ],
   "recent": [
     {
+      "title": "Onimusha: WotS - Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-06T21:25:26+03:00"
+    },
+    {
       "title": "Halloween: The Game PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -103165,12 +103172,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-05T21:51:28+03:00"
-    },
-    {
-      "title": "PC Building Simulator 2 PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-05T21:28:22+03:00"
     }
   ]
 }
