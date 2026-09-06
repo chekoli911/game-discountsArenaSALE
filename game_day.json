@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-05T02:00:32Z",
-  "server_time_utc": "2026-09-05T02:00:32Z",
+  "updated_at": "2026-09-06T02:00:22Z",
+  "server_time_utc": "2026-09-06T02:00:22Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-06T02:00:00Z",
-  "expires_at": "2026-09-06T02:00:00Z",
+  "next_rotation_at": "2026-09-07T02:00:00Z",
+  "expires_at": "2026-09-07T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-06T02:00:00Z"
+    "next_rotation_at": "2026-09-07T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "assetto-corsa-competizione-ps4-ps5",
+      "title": "Assetto Corsa Competizione PS4/PS5",
+      "description": "Гонки на уровне настоящего чемпионата GT3 - в Assetto Corsa Competizione.  \nКаждый поворот, тормоз и ускорение моделируются с точностью, которой не было у консольных гоночных симуляторов.  \n\nСложные физические расчеты делают движение авто почти реальным - как в жизни, так и на трассе.  \n\nТеперь на PS5 - плавная графика и высокая частота кадров. Гоночный симулятор нового поколения, который захватывает дух с первого запуска.  \n\nДля аренды - пиши в чат 📩 @ArenaPSGMadmin",
+      "image_url": "https://static.tildacdn.com/stor3233-3333-4034-b536-346163393339/17738133.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/1ccbd433eba4e4022861590bd3be0ff94ba14dffe38a96a0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/452c8f2afeb6653dff5e78add4c247d73e67077d91fd8d81.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/af45a8c27669a16c59772a1182b2344b4d4c3f4994f93232.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/6c7df04bd8929910d50a443fc8720a422976fa9fe96059d3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/d4c5c22106532852735013a283c887abcc76297d6adfdbbd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/68866af72f54233e17ad9e57ea4fdad1690d736bdf5fe238.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0907/84ym7eYMeAWmn8w8bnIS1NfZ.jpg"
+      ],
+      "release_date": "22/2/2022",
+      "publisher": "505 GAMES S.R.L.",
+      "platforms": "PS4, PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.67,
+      "store_url": "https://store.playstation.com/en-tr/concept/234902",
+      "tilda_uid": "236077326402",
+      "sku": "",
+      "external_id": "tNVbaEfHlrv2eN7l1439",
+      "url": "http://arenapsgm.ru/tproduct/236077326402-assetto-corsa-competizione-ps4ps5",
+      "expires_at": "2026-09-07T02:00:00Z",
+      "published_at": "2026-09-06T02:00:22Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Гонки на уровне настоящего GT3 - теперь в Assetto Corsa Competizione.  \nТочная физика, плавная графика и рельеф трассы делают движение почти реальным - как в жизни, так и на гоночной трассе."
+    }
+  ],
+  "history": [
     {
       "slug": "disciples-liberation-ps4-ps5",
       "title": "Disciples: Liberation PS4/PS5",
@@ -49,34 +102,31 @@
       "sku": "",
       "external_id": "gfHKsB0i1yfYtAjeSJp6",
       "url": "http://arenapsgm.ru/gamescatalog/tproduct/666985504492-disciples-liberation-ps4ps5",
-      "expires_at": "2026-09-06T02:00:00Z",
       "published_at": "2026-09-05T02:00:32Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 390,
+          "14": 450,
+          "21": 590,
+          "28": 690
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 490,
+          "14": 550,
+          "21": 690,
+          "28": 790
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 390,
+        "14": 450,
+        "21": 590,
+        "28": 690
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Disciples: Liberation - тёмное фэнтези с глубокими последствиями и множеством концовок.  \nВыбираете класс, стиль боя и лидера - каждый шаг влияет на судьбу мира. Digital Deluxe добавляет броню, оружие и фрагменты персонажей."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "sherlock-holmes-the-devil-daughter-ps4-ps5",
       "title": "Sherlock Holmes the devil daughter PS4/PS5",
