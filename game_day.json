@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-06T02:00:22Z",
-  "server_time_utc": "2026-09-06T02:00:22Z",
+  "updated_at": "2026-09-07T02:00:32Z",
+  "server_time_utc": "2026-09-07T02:00:32Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-07T02:00:00Z",
-  "expires_at": "2026-09-07T02:00:00Z",
+  "next_rotation_at": "2026-09-08T02:00:00Z",
+  "expires_at": "2026-09-08T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-07T02:00:00Z"
+    "next_rotation_at": "2026-09-08T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "oxide-room-104-ps4-ps5",
+      "title": "Oxide Room 104 PS4/PS5",
+      "description": "Oxide Room 104 - боди-хоррор, который ведёт вас по тропам ужаса. Вы очнулись в ванне мотеля, раздуты, ранены и не помните, что случилось. Всё началось с ошибки - теперь нужно выжить.  \n\nВсё вокруг говорит о том, что вы на пике чего-то невообразимого. Ужасы ведут вас по следам, а ваши решения - к концам. Много вариантов, но только одна из них - настоящая победа.  \n\nПопробуйте не просто играть - живите в реальности игры. Ищите карты, оружие, улики. Каждое действие может сдвинуть реальность или привести к гибели.  \n\nИгра заканчивается? Нет. После каждой смерти вы снова возвращаетесь в ванну - и каждый раз, как будто из-за этого всё становится сложнее. Но если поступить правильно - герой может остаться живым.",
+      "image_url": "https://static.tildacdn.com/stor3537-3737-4635-a535-643336663233/19172606.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1609/BSWRElVKtjgQghY0Bmcrf7an.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1609/Rq7DH3oiqKYU8xR2v4HS4eHa.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1609/zhbdVrrLYqOk7zCjLbsa2sTR.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1609/evyYqcvdvkIYM0pU4TdyXlBl.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1609/NfLtLxbwnAHwbgnKM0vqnZMi.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202206/1410/pK7hdV8FSXZHATnfp0FBkTMq.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1609/AnpB11ijQsFfygPQflhhApsu.jpg"
+      ],
+      "release_date": "17/6/2022",
+      "publisher": "Wild Sphere S.L.",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.28,
+      "store_url": "https://store.playstation.com/en-tr/concept/10004255",
+      "tilda_uid": "105303137792",
+      "sku": "",
+      "external_id": "U7XLe7axBJJKdjeHV1Mg",
+      "url": "http://arenapsgm.ru/tproduct/105303137792-oxide-room-104-ps4ps5",
+      "expires_at": "2026-09-08T02:00:00Z",
+      "published_at": "2026-09-07T02:00:32Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Вы просыпаетесь в ванне мотеля - ранены, не помните ничего. Ошибочка стала началом ужаса.\n\nКаждое ваше решение - к гибели или спасению. После смерти вы снова возвращаетесь в ванну - и всё становится сложнее. Но если поступить правильно, герой может остаться живым."
+    }
+  ],
+  "history": [
     {
       "slug": "assetto-corsa-competizione-ps4-ps5",
       "title": "Assetto Corsa Competizione PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "tNVbaEfHlrv2eN7l1439",
       "url": "http://arenapsgm.ru/tproduct/236077326402-assetto-corsa-competizione-ps4ps5",
-      "expires_at": "2026-09-07T02:00:00Z",
       "published_at": "2026-09-06T02:00:22Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 0
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 0,
+          "14": 0,
+          "21": 0,
+          "28": 0
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 0
       },
-      "p3_extra": 100,
-      "is_game_day": true,
+      "p3_extra": 0,
+      "is_game_day": false,
       "short_description": "Гонки на уровне настоящего GT3 - теперь в Assetto Corsa Competizione.  \nТочная физика, плавная графика и рельеф трассы делают движение почти реальным - как в жизни, так и на гоночной трассе."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "disciples-liberation-ps4-ps5",
       "title": "Disciples: Liberation PS4/PS5",
