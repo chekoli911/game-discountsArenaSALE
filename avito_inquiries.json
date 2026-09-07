@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-07T09:56:19+03:00",
-  "updated_at_msk": "07.09.2026 09:56",
+  "updated_at": "2026-09-07T11:56:36+03:00",
+  "updated_at_msk": "07.09.2026 11:56",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 693,
+  "total": 695,
   "unique_games": 325,
   "in_demand": 50,
   "one_off": 244,
@@ -217,7 +217,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_deluxe_edition_ps5_8277605536",
-      "count": 36,
+      "count": 37,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -344,7 +344,7 @@
         21,
         26,
         32,
-        36
+        37
       ],
       "hourly": [
         0,
@@ -445,7 +445,7 @@
         17,
         5,
         6,
-        4
+        5
       ],
       "price_series": [
         null,
@@ -549,7 +549,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-09-07T07:46:29+03:00"
+      "last_at": "2026-09-07T10:24:57+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -1905,13 +1905,14 @@
       "title": "Onimusha: Way of the Sword PS5",
       "item_id": "8276885108",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/onimusha_way_of_the_sword_ps5_8276885108",
-      "count": 13,
+      "count": 14,
       "demand": "high",
       "avg_price": 591,
       "min_price": 591,
       "max_price": 591,
       "last_price": 591,
       "prices": [
+        591,
         591,
         591,
         591,
@@ -2025,7 +2026,7 @@
         4,
         10,
         12,
-        13
+        14
       ],
       "hourly": [
         0,
@@ -2126,7 +2127,7 @@
         4,
         6,
         2,
-        1
+        2
       ],
       "price_series": [
         null,
@@ -2230,7 +2231,7 @@
         591
       ],
       "first_at": "2026-09-04T05:44:42+03:00",
-      "last_at": "2026-09-07T06:55:34+03:00"
+      "last_at": "2026-09-07T11:17:54+03:00"
     },
     {
       "id": "the-blood-of-dawnwalker-eclipse-edition-ps5",
@@ -104553,6 +104554,18 @@
   ],
   "recent": [
     {
+      "title": "Onimusha: Way of the Sword PS5",
+      "price": 591,
+      "price_string": "591 ₽",
+      "at": "2026-09-07T11:17:54+03:00"
+    },
+    {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-07T10:24:57+03:00"
+    },
+    {
       "title": "NHL 27 Deluxe Edition PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -104779,18 +104792,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-06T11:47:11+03:00"
-    },
-    {
-      "title": "Nick Jr. Party Adventure PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-06T11:05:44+03:00"
-    },
-    {
-      "title": "NHL 27 Deluxe Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-06T10:53:47+03:00"
     }
   ]
 }
