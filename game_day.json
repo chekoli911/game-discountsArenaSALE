@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-07T02:00:32Z",
-  "server_time_utc": "2026-09-07T02:00:32Z",
+  "updated_at": "2026-09-08T02:00:30Z",
+  "server_time_utc": "2026-09-08T02:00:30Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-08T02:00:00Z",
-  "expires_at": "2026-09-08T02:00:00Z",
+  "next_rotation_at": "2026-09-09T02:00:00Z",
+  "expires_at": "2026-09-09T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-08T02:00:00Z"
+    "next_rotation_at": "2026-09-09T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "sniper-ghost-warrior-contracts-2-ps4-ps5",
+      "title": "Sniper Ghost Warrior Contracts 2 PS4/PS5",
+      "description": "Sniper Ghost Warrior Contracts 2 - самая жёсткая игра в серии. Да-да, на этом развороте вы будете стрелять не просто из пистолета, а с расстояния больше 1000 метров.  \n\nВаша миссия: уничтожить коварного преступного синдиката в зоне Ливана и Сирии - как будто вы наемный снайпер из фильма, а не просто игрок.  \n\nЭто не просто стрельба - это тактические батальи в глубине вражеской территории, где каждое движение, каждый выстрел - важен и умён.  \n\nЕсли хочешь испытать себя на прочность - попробуйте. Уже сейчас. 🎯",
+      "image_url": "https://static.tildacdn.com/stor3532-6330-4565-b231-326137666236/29727102.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/img/rnd/202107/2209/5ooocYcaiNfkukhZUW8J1Tnh.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202107/2209/QO6k6N8LUISTK3U25RWl6gSb.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202107/2209/RInhzxx44GTeEemmfe3g1EYe.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202107/2209/5ETsClsyJxfUsiiX92EJLoS8.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202107/2209/niubNKVra2tCDtG0WwKskYOD.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202107/2209/38EPouIxMb2bSS9kRtUGEnYk.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202107/2209/TZUCy0CQHh44fLRjKkxmlotA.jpg"
+      ],
+      "release_date": "4/6/2021",
+      "publisher": "CI GAMES S.A.",
+      "platforms": "PS4, PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.04,
+      "store_url": "https://store.playstation.com/en-tr/concept/10000888",
+      "tilda_uid": "365896871682",
+      "sku": "",
+      "external_id": "RzFhjrePLkg4bB0xHcyN",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/365896871682-sniper-ghost-warrior-contracts-2-ps4ps5",
+      "expires_at": "2026-09-09T02:00:00Z",
+      "published_at": "2026-09-08T02:00:30Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Sniper Ghost Warrior Contracts 2 - самая жёсткая игра в серии: стреляй с расстояния до 1000 метров, как настоящий наёмный снайпер.  \n\nТактические батальи в Ливане и Сирии, где каждый выстрел - это мысль, а не просто нажатие кнопки."
+    }
+  ],
+  "history": [
     {
       "slug": "oxide-room-104-ps4-ps5",
       "title": "Oxide Room 104 PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "U7XLe7axBJJKdjeHV1Mg",
       "url": "http://arenapsgm.ru/tproduct/105303137792-oxide-room-104-ps4ps5",
-      "expires_at": "2026-09-08T02:00:00Z",
       "published_at": "2026-09-07T02:00:32Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Вы просыпаетесь в ванне мотеля - ранены, не помните ничего. Ошибочка стала началом ужаса.\n\nКаждое ваше решение - к гибели или спасению. После смерти вы снова возвращаетесь в ванну - и всё становится сложнее. Но если поступить правильно, герой может остаться живым."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "assetto-corsa-competizione-ps4-ps5",
       "title": "Assetto Corsa Competizione PS4/PS5",
