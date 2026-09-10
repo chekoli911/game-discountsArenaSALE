@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-09T02:00:29Z",
-  "server_time_utc": "2026-09-09T02:00:29Z",
+  "updated_at": "2026-09-10T02:00:37Z",
+  "server_time_utc": "2026-09-10T02:00:37Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-10T02:00:00Z",
-  "expires_at": "2026-09-10T02:00:00Z",
+  "next_rotation_at": "2026-09-11T02:00:00Z",
+  "expires_at": "2026-09-11T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-10T02:00:00Z"
+    "next_rotation_at": "2026-09-11T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "slime-rancher-2-ps5",
+      "title": "Slime Rancher 2 PS5",
+      "description": "Slime Rancher 2 - продолжение любимой игры, в которую влюбились более 15 миллионов человек. Теперь вы на Радужном острове с Беатрикс Лебо, где всё зажигает: от дрожащих слаймов до неизведанных ресурсов и древних технологий.\n\nПостройте своё ранчо, разведите слаймы и наслаждайтесь фермерством в оранжерее - сверкающие стены открывают вид на призматический рай, который теперь стал домом Беатрикс.\n\nИсследуйте новый мир. Строите, растите, играете и разгадываете тайны острова вместе с Беатрикс.",
+      "image_url": "https://static.tildacdn.com/stor3165-3361-4336-b638-653661353364/41403782.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1322/900653ee6c9f933cb7308c91df5a8b112a5ab9bf03ebb5d3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1322/812f7192761d9da3e83d64a524057bfda75d7559e5aea0d6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202509/1122/41c72c57032c1d372e7dfba88aeb00b3900341202e544523.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202509/1122/fc7e11fbb99af1b969b033fc2ae7571b98ef518228e59da5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202404/0820/cd727fdae02fcded9b002c2f0a3c8b3a1e8f21691fa2c9d8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202412/0522/b184643a7362201f303a8c0c709c3a3bd62ae82a797b4455.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202404/0820/a46d564b566d52549514723c7105491d22937448ab055f99.jpg"
+      ],
+      "release_date": "7/6/2024",
+      "publisher": "Monomi Park, LLC",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.34,
+      "store_url": "https://store.playstation.com/en-tr/concept/10009803",
+      "tilda_uid": "340657682382",
+      "sku": "",
+      "external_id": "uDMNk6BPBzpbPeus4VL1",
+      "url": "http://arenapsgm.ru/tproduct/340657682382-slime-rancher-2-ps5",
+      "expires_at": "2026-09-11T02:00:00Z",
+      "published_at": "2026-09-10T02:00:37Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Slime Rancher 2 вышла - новая глава для любителей слаймов.  \nРадужный остров, дрожащие слаймы и древние технологии - всё в одном приключении."
+    }
+  ],
+  "history": [
     {
       "slug": "resident-0-ps4-ps5",
       "title": "Resident 0 PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "iu7fOo7CHONB0KTbsLdT",
       "url": "http://arenapsgm.ru/tproduct/746028010162-resident-0-ps4ps5",
-      "expires_at": "2026-09-10T02:00:00Z",
       "published_at": "2026-09-09T02:00:29Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Resident Evil 0 - первая игра серии, где всё начинается в тишине особняка.  \nТеперь с яркой графикой, мощным звуком и удобной настройкой - как в оригинале, но лучше."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "sniper-ghost-warrior-contracts-2-ps4-ps5",
       "title": "Sniper Ghost Warrior Contracts 2 PS4/PS5",
