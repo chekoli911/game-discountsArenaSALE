@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-10T20:14:39+03:00",
-  "updated_at_msk": "10.09.2026 20:14",
+  "updated_at": "2026-09-10T21:14:47+03:00",
+  "updated_at_msk": "10.09.2026 21:14",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 792,
+  "total": 794,
   "unique_games": 357,
   "in_demand": 54,
   "one_off": 268,
@@ -223,7 +223,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_deluxe_edition_ps5_8277605536",
-      "count": 48,
+      "count": 50,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -353,7 +353,7 @@
         38,
         42,
         47,
-        48
+        50
       ],
       "hourly": [
         0,
@@ -457,7 +457,7 @@
         6,
         4,
         5,
-        1
+        3
       ],
       "price_series": [
         null,
@@ -564,7 +564,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-09-10T16:04:44+03:00"
+      "last_at": "2026-09-10T20:48:03+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -118065,6 +118065,18 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-10T20:48:03+03:00"
+    },
+    {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-10T20:45:20+03:00"
+    },
+    {
       "title": "Aliens: Fireteam Elite 2 PS5",
       "price": 591,
       "price_string": "591 ₽",
@@ -118291,18 +118303,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-09T11:54:32+03:00"
-    },
-    {
-      "title": "Beach Invasion 1915 - Gallipoli PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-09T11:54:05+03:00"
-    },
-    {
-      "title": "NHL 27 Deluxe Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-09T11:47:08+03:00"
     }
   ]
 }
