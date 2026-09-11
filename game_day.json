@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-10T02:00:37Z",
-  "server_time_utc": "2026-09-10T02:00:37Z",
+  "updated_at": "2026-09-11T02:01:44Z",
+  "server_time_utc": "2026-09-11T02:01:44Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-11T02:00:00Z",
-  "expires_at": "2026-09-11T02:00:00Z",
+  "next_rotation_at": "2026-09-12T02:00:00Z",
+  "expires_at": "2026-09-12T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-11T02:00:00Z"
+    "next_rotation_at": "2026-09-12T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "back-4-blood-deluxe-edition-ps4-ps5",
+      "title": "Back 4 Blood: Deluxe Edition PS4/PS5",
+      "description": "Бэк 4 Блуд - шутер с душой, где вы и ваша команда становитесь чистильщиками в борьбе с одержимыми. Управляетесь как в бою, так и на фоне ужасной атмосферы - всё живёт, растёт и меняется.\n\nКооперативная кампания для 4 игроков - вы выбираете из 8 уникальных персонажей, даёте им оружие и предметы под свой стиль. Каждый бой - как новый сюжет: карточки тянутся вперёд, а мир приспосабливается к вашим действиям.\n\nОнлайн-режим дарит бойни с друзьями или противников - выбирайте роль чистильщика или одержимого. Система не скучает: каждый матч - как новая история, где враги становятся сильнее и опаснее.\n\nАрендуете - пишите нам. Игра будет ждать вас на PS4/PS5.",
+      "image_url": "https://static.tildacdn.com/stor6263-3339-4664-b239-653565623634/96973840.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202012/1523/HlQ6M1gaN9k4xaFWEdNR70Uc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202012/1523/pwcYWsKMOHm3awPnSprPxVWA.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202012/1523/zZMWtKDilHRyryLG79zGMjjW.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202012/1523/pFeARfDs5POTJKAQuijBYFd3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202012/1523/MuRJwVF7yEfFfWhh2aRcbZxJ.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202012/1523/jfSSIcP1d8oS2nPhHrmyCNT0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202208/1919/FMFp3waBvYoeuzCQOL8uygFd.jpg"
+      ],
+      "release_date": "12/10/2021",
+      "publisher": "WARNER BROS. INTERACTIVE",
+      "platforms": "PS4, PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.93,
+      "store_url": "https://store.playstation.com/en-tr/concept/233064",
+      "tilda_uid": "634525185162",
+      "sku": "",
+      "external_id": "rLkvJj7TExfalXOUOlmz",
+      "url": "http://arenapsgm.ru/tproduct/634525185162-back-4-blood-deluxe-edition-ps4ps5",
+      "expires_at": "2026-09-12T02:00:00Z",
+      "published_at": "2026-09-11T02:01:44Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Бэк 4 Блуд - шутер с душой, где вы и команда боретесь с одержимыми в живом, изменяющемся мире.  \n\nВыбираете персонажа, оружие, стиль - каждый бой как новая история. Играть можно онлайн или в кооперативе на PS4/PS5."
+    }
+  ],
+  "history": [
     {
       "slug": "slime-rancher-2-ps5",
       "title": "Slime Rancher 2 PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "uDMNk6BPBzpbPeus4VL1",
       "url": "http://arenapsgm.ru/tproduct/340657682382-slime-rancher-2-ps5",
-      "expires_at": "2026-09-11T02:00:00Z",
       "published_at": "2026-09-10T02:00:37Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 359,
+          "14": 499,
+          "21": 545,
+          "28": 645
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 459,
+          "14": 599,
+          "21": 645,
+          "28": 745
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 359,
+        "14": 499,
+        "21": 545,
+        "28": 645
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Slime Rancher 2 вышла - новая глава для любителей слаймов.  \nРадужный остров, дрожащие слаймы и древние технологии - всё в одном приключении."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "resident-0-ps4-ps5",
       "title": "Resident 0 PS4/PS5",
