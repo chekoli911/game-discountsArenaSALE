@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-12T00:10:00+00:00",
+  "updated_at": "2026-09-12T20:53:34+00:00",
   "items": [
     {
       "id": "marvel-s-wolverine",
@@ -91,6 +91,15 @@
       "platforms": "PS5",
       "release_date": "27/1/2027",
       "added_at": "2026-09-11T16:06:44+00:00"
+    },
+    {
+      "id": "007-first-light",
+      "title": "007 First Light",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0215/f98041a10ccc22d45fc2f6eded09eec50abd106d01547a5d.png",
+      "url": "https://arenapsgm.ru/gamescatalog/tproduct/282265630272-007-first-light-ps5",
+      "platforms": "PS5",
+      "release_date": "26/5/2026",
+      "added_at": "2026-09-12T20:53:34+00:00"
     }
   ]
 }
