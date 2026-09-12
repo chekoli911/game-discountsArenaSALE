@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-12T16:21:21+03:00",
-  "updated_at_msk": "12.09.2026 16:21",
+  "updated_at": "2026-09-12T17:21:29+03:00",
+  "updated_at_msk": "12.09.2026 17:21",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 850,
+  "total": 851,
   "unique_games": 375,
   "in_demand": 56,
   "one_off": 277,
@@ -227,7 +227,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_deluxe_edition_ps5_8277605536",
-      "count": 59,
+      "count": 60,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -359,7 +359,7 @@
         47,
         50,
         56,
-        59
+        60
       ],
       "hourly": [
         0,
@@ -465,7 +465,7 @@
         5,
         3,
         6,
-        3
+        4
       ],
       "price_series": [
         null,
@@ -574,7 +574,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-09-12T15:15:22+03:00"
+      "last_at": "2026-09-12T16:36:40+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -126270,6 +126270,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-12T16:36:40+03:00"
+    },
+    {
       "title": "House Flipper 2 PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -126502,12 +126508,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-11T14:04:03+03:00"
-    },
-    {
-      "title": "Super Bunny Man PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-11T13:12:58+03:00"
     }
   ]
 }
