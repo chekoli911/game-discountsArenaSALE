@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-11T02:01:44Z",
-  "server_time_utc": "2026-09-11T02:01:44Z",
+  "updated_at": "2026-09-12T02:00:45Z",
+  "server_time_utc": "2026-09-12T02:00:45Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-12T02:00:00Z",
-  "expires_at": "2026-09-12T02:00:00Z",
+  "next_rotation_at": "2026-09-13T02:00:00Z",
+  "expires_at": "2026-09-13T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,62 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-12T02:00:00Z"
+    "next_rotation_at": "2026-09-13T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "anime-girls-highschool-of-dead-ps5",
+      "title": "Аnime Girls: Highschool of Dead PS5",
+      "description": "Готова к битве? В «Anime Girls: Highschool of Dead» ты - школьница, которая в одиночку сражается с зомби и держит школу под контролем.  \n\nВыбирай свою девочку - каждый облик уникален: свой стиль, своё оружие, свои навыки. С течением времени открывай новые персонажи и строй идеального бойца.  \n\nВолны становятся всё жестче - противостоять зомби нужно не только храбрости, но и стратегии. Каждый тип врага даёт свою задачу: умение справляться с ними - ключ к выживанию.  \n\nНайти ресурсы - это просто. В каждом уголке школы спрятаны контейнеры, аптечки и оружие. А боссы? Они проверят твою ловкость и смекалку - не сдавайся.  \n\nВыживи, развивайся и преврати школьный коридор в убежище. Ты готова противостоять нежити и вернуть мир в класс? 🎮",
+      "image_url": "https://static.tildacdn.com/stor3534-3166-4261-b330-636634643166/37170628.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2614/e3d9aa3577f24223b3bd931a98cc99c041a7b47e1a8b1187.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2614/040f9c760b29b04329e173b50ba9f60e7acc1a67ac8bf682.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2614/590022105f16343df781a846b501bfd868336156b6e0712d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2614/c2222f262daaf807dbc322d71e5d303e722a2160a7ddd132.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2614/9bf164772e7c6540fd78d26ae0aa9e8ba3394e9efa091f71.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2614/9d7cf53aa4c0dbfdeaf23b9d6751623253ef637c05c4e4cc.jpg"
+      ],
+      "release_date": "27/6/2025",
+      "publisher": "Revolt Games SRL",
+      "platforms": "PS5",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 3.53,
+      "store_url": "https://store.playstation.com/en-tr/concept/10015585",
+      "tilda_uid": "299226724642",
+      "sku": "",
+      "external_id": "2nE6Uid6gViVRholhSjh",
+      "url": "http://arenapsgm.ru/tproduct/299226724642-anime-girls-highschool-of-dead-ps5",
+      "expires_at": "2026-09-13T02:00:00Z",
+      "published_at": "2026-09-12T02:00:45Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Готова к битве? В «Anime Girls: Highschool of Dead» ты - школьница, которая сражается с зомби и держит школу под контролем.  \n\nВыбирай персонажей, развиваешь их и строишь стратегию - каждый враг требует свой подход. Не сдавайся, мир в классе зависит от тебя."
+    }
+  ],
+  "history": [
     {
       "slug": "back-4-blood-deluxe-edition-ps4-ps5",
       "title": "Back 4 Blood: Deluxe Edition PS4/PS5",
@@ -50,34 +102,31 @@
       "sku": "",
       "external_id": "rLkvJj7TExfalXOUOlmz",
       "url": "http://arenapsgm.ru/tproduct/634525185162-back-4-blood-deluxe-edition-ps4ps5",
-      "expires_at": "2026-09-12T02:00:00Z",
       "published_at": "2026-09-11T02:01:44Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 0,
+          "14": 0,
+          "21": 0,
+          "28": 0
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 0,
+          "14": 0,
+          "21": 0,
+          "28": 0
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 0,
+        "14": 0,
+        "21": 0,
+        "28": 0
       },
-      "p3_extra": 100,
-      "is_game_day": true,
+      "p3_extra": 0,
+      "is_game_day": false,
       "short_description": "Бэк 4 Блуд - шутер с душой, где вы и команда боретесь с одержимыми в живом, изменяющемся мире.  \n\nВыбираете персонажа, оружие, стиль - каждый бой как новая история. Играть можно онлайн или в кооперативе на PS4/PS5."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "slime-rancher-2-ps5",
       "title": "Slime Rancher 2 PS5",
