@@ -1,7 +1,7 @@
 {
   "key": "all",
   "title": "Все игры",
-  "updated_at": "2026-09-11T14:00:00Z",
+  "updated_at": "2026-09-12T14:00:00Z",
   "games": [
     {
       "slug": "007-first-light-ps5",
@@ -1988,6 +1988,73 @@
       ]
     },
     {
+      "slug": "fear-the-timeloop-ps5",
+      "title": "Fear The Timeloop PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3839-3739-4662-b030-396638373831/dfb91cf0e0068223b069f1ac7c927429.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3839-3739-4662-b030-396638373831/dfb91cf0e0068223b069f1ac7c927429.jpg",
+        "https://static.tildacdn.com/stor6266-3732-4139-b833-653532333365/9f2e4f64dffcf4c2eaafa41226cf268a.jpg",
+        "https://static.tildacdn.com/stor3034-6564-4635-b266-633538373163/ac19d7154d994dfedc978f4dfd1b8fb2.jpg",
+        "https://static.tildacdn.com/stor6433-3539-4038-b533-313464386632/b873c7ccba1f22f4359489d664ddbd9f.jpg",
+        "https://static.tildacdn.com/stor3630-3363-4066-b037-343564646437/9bf008327c6e6a2453d7eaa90cf0fc3e.jpg",
+        "https://static.tildacdn.com/stor6137-6566-4730-a537-636263653434/a5329ec80da305c37136cc95add7ebb8.jpg",
+        "https://static.tildacdn.com/stor3833-3666-4563-a464-336338326634/468ae9879647c4ad3344a0a9b0d91bd7.jpg"
+      ],
+      "description": "Гонясь за неуловимым серийным убийцей, вы приходите в себя в больнице, которой никогда раньше не видели. Ваше тело имеет серьезное ранение, которое убьет вас через пятнадцать минут, если вы ничего не предпримете. И всё же, даже после смерти, вы восстаете вновь, сохраняя память обо всём, через что прошли.\nНабирайтесь опыта, адаптируйтесь и выживайте в петле времени в этом survival-horror от третьего лица - Fear the Timeloop.\nНесмотря на критическое состояние, Вам предстоит столкнуться с ещё большей угрозой: кровожадными монстрами. Больница окружена таинственными фигурами, готовыми убить любого, кто решится выйти наружу.\nЕдинственный человек, который может Вам помочь — помощница шерифа Роуз Уоттерс. Но ни она, ни Вы не знаете, какие ужасы скрываются в тёмных уголках больницы Saint Heritage — или какие воспоминания из прошлого могут вновь нахлынуть.\nКлючевые особенности игры:\n- Временная петля и механики, построенные вокруг неё.\n- Гибкая система способностей, которую можно адаптировать под свой стиль прохождения.\n- Диалоговая система, реагирующая на ранние решения игрока и выбранный путь во временной петле.\n- Элементы метроидвании, позволяющие возвращаться в ранее неисследованные места, чтобы получать новые способности и находить ценные предметы.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Шутеры",
+        "Боевики",
+        "Хоррор"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799
+        },
+        "p3": {
+          "1": 357,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899
+        }
+      },
+      "tilda_uid": "432822633243",
+      "sku": "",
+      "external_id": "l9_JWRYYQKUYFqya7Dsx",
+      "url": "http://arenapsgm.ru/tproduct/432822633243-fear-the-timeloop-ps5",
+      "seo_title": "Fear The Timeloop на PS5 аренда игры",
+      "seo_descr": "Аренда Fear The Timeloop на PS5. Гонясь за неуловимым серийным убийцей, вы приходите в себя в больнице, которой никогда раньше не видели. Быстрый доступ после оплаты.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
       "slug": "flatout-4-total-insanity-ps4",
       "title": "FlatOut 4: Total Insanity PS4",
       "mark": "NEW",
@@ -2913,6 +2980,70 @@
       "store_url": "https://store.playstation.com/en-tr/concept/10008296",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1114/2ab11b93f3b922d21a0c77af4baf962952e4e4d4ac775641.png",
       "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "knights-and-bikes-ps4",
+      "title": "Knights and Bikes PS4",
+      "mark": "NEW",
+      "price_from": 257,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3138-3766-4664-a439-366465383838/3e7b459f92bc76964c6d352a6ac8c27e.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3138-3766-4664-a439-366465383838/3e7b459f92bc76964c6d352a6ac8c27e.jpg",
+        "https://static.tildacdn.com/stor3135-3634-4732-a266-653465326530/71b62abffb150c6c1fe93c81bcf78a09.jpg",
+        "https://static.tildacdn.com/stor3962-3734-4438-b937-363639623738/524d94c3da858ecae90723856a2cf46a.jpg",
+        "https://static.tildacdn.com/stor6237-3762-4464-b764-346565323866/e50ea1075c7b0d42cc94603e84de2fb5.jpg",
+        "https://static.tildacdn.com/stor3937-3361-4530-b732-316163633133/8f6818d9c92bc3cf62407f6287e30ecc.jpg",
+        "https://static.tildacdn.com/stor6534-3738-4163-b836-323136323630/5aaf460ea5c326ac6c02f6990dd1f5f4.jpg",
+        "https://static.tildacdn.com/stor6166-3936-4335-a331-626635333234/9d62d841b6d77ade6868cdee377025fa.jpg",
+        "https://static.tildacdn.com/stor6135-6635-4466-b963-366466626339/02c54d48e579fca72c5be4210b8ced46.jpg"
+      ],
+      "description": "KNIGHTS AND BIKES — это приключение с нарисованной от руки графикой, действие которого разворачивается в 80-х годах.\nНесса и Демельция исследуют побережье острова и ищут сокровища.\nДве подружки вместе с питомцем-гусем и головой бессмертного рыцаря в банке отправляются навстречу приключениям. Они готовы справиться с любыми опасностями, используя летающие тарелки и другие подручные предметы.\nПо пути им предстоит собирать безделушки и обменивать их на улучшения для велосипедов.\nДанный продукт поддерживает следующие языки; Английский\nСетевая игра: 2-2 чел. Для доступа к онлайн мультиплееру в полной версии игры необходима подписка PlayStation®Plus\nDUALSHOCK®4 с функцией вибрации\nЗагрузка осуществляется в соответствии с Условиями обслуживания PlayStation Network, Условиями использования программ и любыми другими применимыми дополнительными документами. Если вы не согласны выполнять условия, не загружайте материалы. Дополнительная информация приведена в Условиях обслуживания.\nРазовая лицензионная плата за право загрузки на несколько систем PS4. Вход в PlayStation Network не требуется при использовании на вашей основной системе PS4, но необходим при использовании на других системах PS4.\nПеред использованием продукта ознакомьтесь с «Мерами предосторожности», важными для вашего здоровья.\nБиблиотечные программы ©Sony Interactive Entertainment Inc., эксклюзивно лицензированы Sony Interactive Entertainment Europe. Действуют Условия использования программ. Полный текст Условий использования см. на сайте ru.playstation.com/legal.\n© & ™ Foam Sword. Все права защищены.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Все игры",
+        "Спорт",
+        "Приключения"
+      ],
+      "platforms": "PS4",
+      "platform_ps4": true,
+      "platform_ps5": false,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799
+        },
+        "p3": {
+          "1": 357,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899
+        }
+      },
+      "tilda_uid": "336330616813",
+      "sku": "",
+      "external_id": "IqpICPOV-DqDq4ZJcHXw",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/336330616813-knights-and-bikes-ps4",
+      "seo_title": "Knights and Bikes на PS4 аренда игры",
+      "seo_descr": "Аренда Knights and Bikes на PS4. KNIGHTS AND BIKES — это приключение с нарисованной от руки графикой, действие которого разворачивается в 80-х годах. Быстрый доступ после оплаты.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        1,
         7,
         14,
         21,
@@ -5121,6 +5252,72 @@
       ]
     },
     {
+      "slug": "resident-evil-requiem-ps5",
+      "title": "Resident Evil Requiem PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor6531-6264-4239-b238-623030373365/2d7d0443e9c0908af5e8da2e5e1e1de4.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6531-6264-4239-b238-623030373365/2d7d0443e9c0908af5e8da2e5e1e1de4.jpg",
+        "https://static.tildacdn.com/stor3862-6561-4462-b832-636564613634/1aae002271475d06f756e3543f42f9bf.jpg",
+        "https://static.tildacdn.com/stor3838-3366-4838-a130-393365323561/ede29b7c856217673298c60b62cfac97.jpg",
+        "https://static.tildacdn.com/stor3635-3039-4531-b637-383231346534/e88776b509a8fe1e13d65edb93754578.jpg",
+        "https://static.tildacdn.com/stor6232-6233-4365-a534-313163363436/fc7bbed0c599dffba2463ca3ae6efa4e.jpg",
+        "https://static.tildacdn.com/stor6334-3163-4531-b632-613130323039/8773378ad611f0c988ae248ac0870c67.jpg",
+        "https://static.tildacdn.com/stor3265-3866-4336-a162-366530646436/d0410b2d8fc1d88588ac991112706171.jpg",
+        "https://static.tildacdn.com/stor3332-6434-4330-b435-376535363934/55cfc9dd519e66123f6ebc416231c8a8.jpg"
+      ],
+      "description": "Resident Evil Requiem, — новейшая и самая захватывающая часть культовой серии Resident Evil, — знаменует новую эпоху жанра survival horror. Пройдите сквозь пробирающий до дрожи ужас и сумейте выжить вместе с аналитиком ФБР Грейс Эшкрофт и легендарным агентом Леоном С. Кеннеди. Их истории и стили игры переплетаются, создавая душераздирающие, эмоциональные впечатления.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Шутеры",
+        "Хоррор"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799
+        },
+        "p3": {
+          "1": 357,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899
+        }
+      },
+      "tilda_uid": "645628323963",
+      "sku": "",
+      "external_id": "ui85OqnNsdgUFp1PjsCa",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/645628323963-resident-evil-requiem-ps5",
+      "seo_title": "Resident Evil Requiem на PS5 аренда игры",
+      "seo_descr": "Аренда Resident Evil Requiem на PS5. Resident Evil Requiem, — новейшая и самая захватывающая часть культовой серии Resident Evil, — знаменует новую эпоху жанра survival horror. Быстрый доступ после оплаты.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
       "slug": "resonance-a-plague-tale-legacy-ps5",
       "title": "Resonance: A Plague Tale Legacy PS5",
       "mark": "NEW",
@@ -7037,6 +7234,72 @@
       "store_url": "https://store.playstation.com/en-tr/concept/10009297",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2409/3c1a52a8c2497b76cbd89813c9f8f0abe5d224a23fbc29ad.png",
       "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "until-dawn-2-ps5",
+      "title": "Until Dawn 2 PS5",
+      "mark": "NEW",
+      "price_from": 697,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3530-6134-4637-b736-663438373962/e9d468f3ad8b43f4fdd5d7ede10a6759.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3530-6134-4637-b736-663438373962/e9d468f3ad8b43f4fdd5d7ede10a6759.jpg",
+        "https://static.tildacdn.com/stor6365-3534-4230-b330-326535323865/6945a4e0195919f7730580e2d0a49a5d.jpg",
+        "https://static.tildacdn.com/stor3538-3363-4438-b235-646365386634/4897bdbee251d1adcfb5e59389a004f3.jpg",
+        "https://static.tildacdn.com/stor3335-6135-4436-b566-393166303439/f52439c2953944f068387f622d5a331c.jpg",
+        "https://static.tildacdn.com/stor3236-6565-4237-b566-646238333934/fc9881520dbf041693b120a39bca5bf3.jpg",
+        "https://static.tildacdn.com/stor6262-3833-4534-b536-663064393136/f44d3825e872a0422706685a7a1f2d56.jpg",
+        "https://static.tildacdn.com/stor3432-6539-4863-a535-323833646233/4ebc6bda8e0221de8ec2f77fc97f1373.jpg"
+      ],
+      "description": "«Предзаказ - Требует немедленной оплаты»\nПодробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного соглашения Sony Entertainment Network. Автоматическая загрузка осуществляется, если на системе PS5™ включены настройки «Автоматический вход в систему» и «Автоматический вход в сеть».\nСделайте предзаказ любого издания «Дожить до рассвета 2» и получите эксклюзивные костюмы и внутриигровые коллекционные предметы для доктора Хилла, чтобы придать игре новый характер.\nВ числе бонусов за предзаказ¹:\n‎• Доктор Хилл – классический костюм «Дожить до рассвета» и игровая коллекционная фигурка с качающейся головой\n‎• Доктор Хилл – костюм с острова «Дожить до рассвета 2» и игровая коллекционная фигурка с качающейся головой\nКоманда скептиков – охотников за паранормальным заключает контракт с телевизионным каналом. Им приходится отправиться на заброшенный курорт на далеком острове, чтобы расследовать жуткую историю о демонах и необъяснимых событиях, которая может принести им настоящую славу на телевидении.\nИнтерактивная игра в жанре ужасов\nОтправляйтесь на остров и погрузитесь в загадочную историю, вдохновленную классическими и современными рассказами о трагедии, насилии и сверхъестественном возмездии. Сможет ли эта группа молодых инфлюенсеров пережить ночь? Их судьба в ваших руках...\nПройдите множеством способов эту жуткую историю, где каждый выбор может изменить ваш путь и привести персонажей к безопасности... или смерти. Внимательно выбирайте реплики в диалогах и будьте готовы быстро принимать решения и реагировать на неожиданности в истории, продвигающейся к той или иной драматичной концовке. Разнообразие вариантов выбора означает, что в различных прохождениях могут открываться такие повороты, которые приведут к совершенно разным исходам.\nПотрясающая достоверность\nНасладитесь великолепными видами тропического острова и исследуйте заброшенные объекты, воплощенные с невероятной детализацией благодаря мощности PlayStation®5. Исследуйте густые тени в поисках подсказок, анализируйте выражения лиц во время разговоров и изучайте тщательно сконструированные сцены, в которых повествование идет с помощью окружения.\nПрочувствуйте страх всем телом благодаря тактильной отдаче и адаптивным триггерам беспроводного контроллера DualSense®. Крутите в руках предметы и улики, ощущайте биение пульса в опасных ситуациях и боритесь с дрожью в пальцах, сталкиваясь со сверхъестественным.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Предзаказы",
+        "Все игры",
+        "Новинка главная шапка",
+        "Новинки",
+        "Только PS5",
+        "Хоррор"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078
+        },
+        "p3": {
+          "1": 497,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933
+        }
+      },
+      "tilda_uid": "554746988793",
+      "sku": "",
+      "external_id": "s_fPezMDMdrPHIPhgioy",
+      "url": "http://arenapsgm.ru/newgame/tproduct/554746988793-until-dawn-2-ps5",
+      "seo_title": "Until Dawn 2 на PS5 аренда игры",
+      "seo_descr": "Аренда Until Dawn 2 на PS5. «Предзаказ - Требует немедленной оплаты» Подробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного… Быстрый доступ после оплаты.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        1,
         7,
         14,
         21,
@@ -26690,65 +26953,6 @@
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10001269",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2212/wN4mS0adbyqFvKLTTgdBor67.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "nhl-2023-ps4-ps5",
-      "title": "NHL 2023 PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3232-6238-4839-b937-336436373738/89948739.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3232-6238-4839-b937-336436373738/89948739.jpg",
-        "https://static.tildacdn.com/stor6637-3336-4362-b335-346337376439/92263901.jpg",
-        "https://static.tildacdn.com/stor6261-3233-4461-b838-613763386461/71133405.jpg",
-        "https://static.tildacdn.com/stor3635-6437-4133-b364-333961316130/44584275.jpg",
-        "https://static.tildacdn.com/stor3936-3638-4562-b339-346137323961/73168697.jpg",
-        "https://static.tildacdn.com/stor3637-6262-4464-b431-636335393966/36343736.jpg"
-      ],
-      "description": "В игре #nbsp;EA SPORTS NHL #nbsp;23 вы сможете собрать в одной команде лучших игроков со всего мира, а в режиме Hockey Ultimate Team появятся как мужские, так и женские\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Спорт"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "tilda_uid": "141893671142",
-      "sku": "",
-      "external_id": "bdvZkkM9iOGoggFFDPma",
-      "url": "http://arenapsgm.ru/tproduct/141893671142-nhl-2023-ps4ps5",
-      "seo_title": "NHL 2023 PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда NHL 2023 PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры NHL 2023 PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
       "rent_days": [
         7,
         14,
