@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-12T13:21:04+03:00",
-  "updated_at_msk": "12.09.2026 13:21",
+  "updated_at": "2026-09-12T14:21:09+03:00",
+  "updated_at_msk": "12.09.2026 14:21",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 846,
+  "total": 847,
   "unique_games": 373,
   "in_demand": 56,
   "one_off": 275,
@@ -2349,13 +2349,14 @@
       "title": "Onimusha: Way of the Sword PS5",
       "item_id": "8276885108",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/onimusha_way_of_the_sword_ps5_8276885108",
-      "count": 16,
+      "count": 17,
       "demand": "high",
       "avg_price": 591,
       "min_price": 591,
       "max_price": 591,
       "last_price": 591,
       "prices": [
+        591,
         591,
         591,
         591,
@@ -2477,7 +2478,7 @@
         16,
         16,
         16,
-        16
+        17
       ],
       "hourly": [
         0,
@@ -2583,7 +2584,7 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -2692,7 +2693,7 @@
         591
       ],
       "first_at": "2026-09-04T05:44:42+03:00",
-      "last_at": "2026-09-08T23:07:25+03:00"
+      "last_at": "2026-09-12T14:08:13+03:00"
     },
     {
       "id": "ea-sports-fc-27-ultimate-plus-edition-ps4-ps5",
@@ -125599,6 +125600,12 @@
   ],
   "recent": [
     {
+      "title": "Onimusha: Way of the Sword PS5",
+      "price": 591,
+      "price_string": "591 ₽",
+      "at": "2026-09-12T14:08:13+03:00"
+    },
+    {
       "title": "NHL 27 PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -125831,12 +125838,6 @@
       "price": 497,
       "price_string": "497 ₽",
       "at": "2026-09-11T12:32:53+03:00"
-    },
-    {
-      "title": "NHL 27 PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-11T11:33:36+03:00"
     }
   ]
 }
