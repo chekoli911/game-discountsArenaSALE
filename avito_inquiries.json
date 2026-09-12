@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-12T06:20:22+03:00",
-  "updated_at_msk": "12.09.2026 06:20",
+  "updated_at": "2026-09-12T07:20:27+03:00",
+  "updated_at_msk": "12.09.2026 07:20",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 833,
+  "total": 834,
   "unique_games": 368,
   "in_demand": 56,
   "one_off": 272,
@@ -227,7 +227,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_deluxe_edition_ps5_8277605536",
-      "count": 57,
+      "count": 58,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -359,7 +359,7 @@
         47,
         50,
         56,
-        57
+        58
       ],
       "hourly": [
         0,
@@ -465,7 +465,7 @@
         5,
         3,
         6,
-        1
+        2
       ],
       "price_series": [
         null,
@@ -574,7 +574,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-09-12T03:54:44+03:00"
+      "last_at": "2026-09-12T07:07:58+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -123920,6 +123920,12 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "price": 257,
       "price_string": "257 ₽",
+      "at": "2026-09-12T07:07:58+03:00"
+    },
+    {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
       "at": "2026-09-12T03:54:44+03:00"
     },
     {
@@ -124149,12 +124155,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-10T21:51:44+03:00"
-    },
-    {
-      "title": "NHL 27 Deluxe Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-10T20:48:03+03:00"
     }
   ]
 }
