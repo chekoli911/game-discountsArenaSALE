@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T14:00:00Z",
+  "updated_at": "2026-09-12T14:00:00Z",
   "games": [
     {
       "slug": "007-first-light-ps5",
@@ -3311,6 +3311,23 @@
       "platforms": "PS4, PS5"
     },
     {
+      "slug": "fear-the-timeloop-ps5",
+      "title": "Fear The Timeloop PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor3839-3739-4662-b030-396638373831/dfb91cf0e0068223b069f1ac7c927429.jpg",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Шутеры",
+        "Боевики",
+        "Хоррор"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "fears-to-fathom-ironbark-lookout-ps5",
       "title": "Fears to Fathom - Ironbark Lookout PS5",
       "mark": "",
@@ -4710,6 +4727,19 @@
         "Игры на двоих"
       ],
       "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "knights-and-bikes-ps4",
+      "title": "Knights and Bikes PS4",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor3138-3766-4664-a439-366465383838/3e7b459f92bc76964c6d352a6ac8c27e.jpg",
+      "categories": [
+        "Все игры",
+        "Спорт",
+        "Приключения"
+      ],
+      "platforms": "PS4"
     },
     {
       "slug": "l-a-noire-ps4-ps5",
@@ -6175,19 +6205,6 @@
       "platforms": "PS5"
     },
     {
-      "slug": "nhl-2023-ps4-ps5",
-      "title": "NHL 2023 PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "image_url": "https://static.tildacdn.com/stor3232-6238-4839-b937-336436373738/89948739.jpg",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Спорт"
-      ],
-      "platforms": "PS4, PS5"
-    },
-    {
       "slug": "nhl-2024-ps4-ps5",
       "title": "NHL 2024 PS4/PS5",
       "mark": "",
@@ -7136,6 +7153,21 @@
         "Шутеры",
         "Приключения",
         "Все игры",
+        "Хоррор"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "resident-evil-requiem-ps5",
+      "title": "Resident Evil Requiem PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor6531-6264-4239-b238-623030373365/2d7d0443e9c0908af5e8da2e5e1e1de4.jpg",
+      "categories": [
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Шутеры",
         "Хоррор"
       ],
       "platforms": "PS5"
@@ -9601,6 +9633,22 @@
         "Игры на двоих"
       ],
       "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "until-dawn-2-ps5",
+      "title": "Until Dawn 2 PS5",
+      "mark": "NEW",
+      "price_from": 697,
+      "image_url": "https://static.tildacdn.com/stor3530-6134-4637-b736-663438373962/e9d468f3ad8b43f4fdd5d7ede10a6759.jpg",
+      "categories": [
+        "Предзаказы",
+        "Все игры",
+        "Новинка главная шапка",
+        "Новинки",
+        "Только PS5",
+        "Хоррор"
+      ],
+      "platforms": "PS5"
     },
     {
       "slug": "until-dawn-remake-ps5",
