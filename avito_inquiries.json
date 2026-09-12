@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-12T20:21:48+03:00",
-  "updated_at_msk": "12.09.2026 20:21",
+  "updated_at": "2026-09-12T21:21:53+03:00",
+  "updated_at_msk": "12.09.2026 21:21",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 857,
+  "total": 858,
   "unique_games": 378,
   "in_demand": 57,
   "one_off": 280,
@@ -227,7 +227,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_deluxe_edition_ps5_8277605536",
-      "count": 60,
+      "count": 61,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -359,7 +359,7 @@
         47,
         50,
         56,
-        60
+        61
       ],
       "hourly": [
         0,
@@ -465,7 +465,7 @@
         5,
         3,
         6,
-        4
+        5
       ],
       "price_series": [
         null,
@@ -574,7 +574,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-09-12T16:36:40+03:00"
+      "last_at": "2026-09-12T20:49:50+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -127277,6 +127277,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-12T20:49:50+03:00"
+    },
+    {
       "title": "Captain tsubasa 2: world fighters - Deluxe Edition PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -127509,12 +127515,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-11T18:56:15+03:00"
-    },
-    {
-      "title": "NHL 27 Deluxe Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-11T18:55:35+03:00"
     }
   ]
 }
