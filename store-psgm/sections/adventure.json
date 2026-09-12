@@ -1,7 +1,7 @@
 {
   "key": "adventure",
   "title": "Приключения",
-  "updated_at": "2026-09-11T14:00:00Z",
+  "updated_at": "2026-09-12T14:00:00Z",
   "games": [
     {
       "slug": "007-first-light-ps5",
@@ -1701,6 +1701,70 @@
       "store_url": "https://store.playstation.com/en-tr/concept/10000886",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/HO8vkO9pfXhwbHi5WHECQJdN.png",
       "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "knights-and-bikes-ps4",
+      "title": "Knights and Bikes PS4",
+      "mark": "NEW",
+      "price_from": 257,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3138-3766-4664-a439-366465383838/3e7b459f92bc76964c6d352a6ac8c27e.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3138-3766-4664-a439-366465383838/3e7b459f92bc76964c6d352a6ac8c27e.jpg",
+        "https://static.tildacdn.com/stor3135-3634-4732-a266-653465326530/71b62abffb150c6c1fe93c81bcf78a09.jpg",
+        "https://static.tildacdn.com/stor3962-3734-4438-b937-363639623738/524d94c3da858ecae90723856a2cf46a.jpg",
+        "https://static.tildacdn.com/stor6237-3762-4464-b764-346565323866/e50ea1075c7b0d42cc94603e84de2fb5.jpg",
+        "https://static.tildacdn.com/stor3937-3361-4530-b732-316163633133/8f6818d9c92bc3cf62407f6287e30ecc.jpg",
+        "https://static.tildacdn.com/stor6534-3738-4163-b836-323136323630/5aaf460ea5c326ac6c02f6990dd1f5f4.jpg",
+        "https://static.tildacdn.com/stor6166-3936-4335-a331-626635333234/9d62d841b6d77ade6868cdee377025fa.jpg",
+        "https://static.tildacdn.com/stor6135-6635-4466-b963-366466626339/02c54d48e579fca72c5be4210b8ced46.jpg"
+      ],
+      "description": "KNIGHTS AND BIKES — это приключение с нарисованной от руки графикой, действие которого разворачивается в 80-х годах.\nНесса и Демельция исследуют побережье острова и ищут сокровища.\nДве подружки вместе с питомцем-гусем и головой бессмертного рыцаря в банке отправляются навстречу приключениям. Они готовы справиться с любыми опасностями, используя летающие тарелки и другие подручные предметы.\nПо пути им предстоит собирать безделушки и обменивать их на улучшения для велосипедов.\nДанный продукт поддерживает следующие языки; Английский\nСетевая игра: 2-2 чел. Для доступа к онлайн мультиплееру в полной версии игры необходима подписка PlayStation®Plus\nDUALSHOCK®4 с функцией вибрации\nЗагрузка осуществляется в соответствии с Условиями обслуживания PlayStation Network, Условиями использования программ и любыми другими применимыми дополнительными документами. Если вы не согласны выполнять условия, не загружайте материалы. Дополнительная информация приведена в Условиях обслуживания.\nРазовая лицензионная плата за право загрузки на несколько систем PS4. Вход в PlayStation Network не требуется при использовании на вашей основной системе PS4, но необходим при использовании на других системах PS4.\nПеред использованием продукта ознакомьтесь с «Мерами предосторожности», важными для вашего здоровья.\nБиблиотечные программы ©Sony Interactive Entertainment Inc., эксклюзивно лицензированы Sony Interactive Entertainment Europe. Действуют Условия использования программ. Полный текст Условий использования см. на сайте ru.playstation.com/legal.\n© & ™ Foam Sword. Все права защищены.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Все игры",
+        "Спорт",
+        "Приключения"
+      ],
+      "platforms": "PS4",
+      "platform_ps4": true,
+      "platform_ps5": false,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799
+        },
+        "p3": {
+          "1": 357,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899
+        }
+      },
+      "tilda_uid": "336330616813",
+      "sku": "",
+      "external_id": "IqpICPOV-DqDq4ZJcHXw",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/336330616813-knights-and-bikes-ps4",
+      "seo_title": "Knights and Bikes на PS4 аренда игры",
+      "seo_descr": "Аренда Knights and Bikes на PS4. KNIGHTS AND BIKES — это приключение с нарисованной от руки графикой, действие которого разворачивается в 80-х годах. Быстрый доступ после оплаты.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        1,
         7,
         14,
         21,
