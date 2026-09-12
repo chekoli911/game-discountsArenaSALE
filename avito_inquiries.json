@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-12T14:21:09+03:00",
-  "updated_at_msk": "12.09.2026 14:21",
+  "updated_at": "2026-09-12T15:21:14+03:00",
+  "updated_at_msk": "12.09.2026 15:21",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 847,
+  "total": 848,
   "unique_games": 373,
   "in_demand": 56,
   "one_off": 275,
@@ -227,7 +227,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_deluxe_edition_ps5_8277605536",
-      "count": 58,
+      "count": 59,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -359,7 +359,7 @@
         47,
         50,
         56,
-        58
+        59
       ],
       "hourly": [
         0,
@@ -465,7 +465,7 @@
         5,
         3,
         6,
-        2
+        3
       ],
       "price_series": [
         null,
@@ -574,7 +574,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-09-12T07:07:58+03:00"
+      "last_at": "2026-09-12T15:15:22+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -125600,6 +125600,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-12T15:15:22+03:00"
+    },
+    {
       "title": "Onimusha: Way of the Sword PS5",
       "price": 591,
       "price_string": "591 ₽",
@@ -125832,12 +125838,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-11T12:50:50+03:00"
-    },
-    {
-      "title": "Marvel’s Wolverine PS5",
-      "price": 497,
-      "price_string": "497 ₽",
-      "at": "2026-09-11T12:32:53+03:00"
     }
   ]
 }
