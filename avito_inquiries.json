@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-12T03:20:07+03:00",
-  "updated_at_msk": "12.09.2026 03:20",
+  "updated_at": "2026-09-12T04:20:12+03:00",
+  "updated_at_msk": "12.09.2026 04:20",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 832,
+  "total": 833,
   "unique_games": 368,
   "in_demand": 56,
   "one_off": 272,
@@ -227,7 +227,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_deluxe_edition_ps5_8277605536",
-      "count": 56,
+      "count": 57,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -359,7 +359,7 @@
         47,
         50,
         56,
-        56
+        57
       ],
       "hourly": [
         0,
@@ -465,7 +465,7 @@
         5,
         3,
         6,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -574,7 +574,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-09-11T22:28:52+03:00"
+      "last_at": "2026-09-12T03:54:44+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -123917,6 +123917,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-12T03:54:44+03:00"
+    },
+    {
       "title": "Truck Simulator Euro Roads 2026 PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -124149,12 +124155,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-10T20:48:03+03:00"
-    },
-    {
-      "title": "NHL 27 Deluxe Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-10T20:45:20+03:00"
     }
   ]
 }
