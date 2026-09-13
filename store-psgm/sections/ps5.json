@@ -1,7 +1,7 @@
 {
   "key": "ps5",
   "title": "Только PS5",
-  "updated_at": "2026-09-12T14:00:00Z",
+  "updated_at": "2026-09-13T14:00:00Z",
   "games": [
     {
       "slug": "007-first-light-ps5",
@@ -2663,7 +2663,7 @@
       "slug": "marvel-s-wolverine-digital-deluxe-edition-ps5",
       "title": "Marvel’s Wolverine Digital Deluxe Edition PS5",
       "mark": "NEW",
-      "price_from": 891,
+      "price_from": 1112,
       "price_old": null,
       "image_url": "https://static.tildacdn.com/stor6663-6631-4137-a330-353631333838/3db268a7bb8eace8e658edc6c350747c.jpg",
       "screenshots": [
@@ -2684,18 +2684,18 @@
       "platforms_choice": false,
       "prices": {
         "p2": {
-          "1": 891,
+          "1": 1112,
+          "7": 1990,
+          "14": 2190,
+          "21": 2290,
+          "28": 2390
+        },
+        "p3": {
+          "1": 1208,
           "7": 1510,
           "14": 1630,
           "21": 1750,
           "28": 1870
-        },
-        "p3": {
-          "1": 591,
-          "7": 1390,
-          "14": 1490,
-          "21": 1590,
-          "28": 1690
         }
       },
       "tilda_uid": "189370195863",
@@ -2711,6 +2711,67 @@
       "text_translation": "",
       "store_url": "",
       "edition_banner": "",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "marvel-s-wolverine-ps5",
+      "title": "Marvel’s Wolverine PS5",
+      "mark": "NEW",
+      "price_from": 1112,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2215/a69481c5fa50fe19f42896d84fb7cbf37ab8646801a93322.png",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6130-3831-4333-b566-333637313862/873c9bf14292abedef6cf1ba0e2aa668.jpg"
+      ],
+      "description": "Marvel's Wolverine PS5 - захватывающий экшен от студии Insomniac Games, посвящённый одному из самых известных героев Marvel. Игрокам предстоит взять под контроль Росомаху, используя его адамантиевые когти, регенерацию и впечатляющие боевые навыки. Игра делает ставку на динамичные сражения, кинематографичную подачу и мрачную атмосферу. Проект создан эксклюзивно для PlayStation 5 с использованием возможностей консоли нового поколения. Это приключение подарит поклонникам супергеройских игр яркие эмоции и зрелищный игровой процесс.",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Приключения",
+        "Боевики",
+        "Предзаказы"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 1112,
+          "7": 1990,
+          "14": 2190,
+          "21": 2290,
+          "28": 2390
+        },
+        "p3": {
+          "1": 1208,
+          "7": 1510,
+          "14": 1630,
+          "21": 1750,
+          "28": 1870
+        }
+      },
+      "tilda_uid": "372092142103",
+      "sku": "",
+      "external_id": "TQDGtouXKNl5k65YldN1",
+      "url": "http://arenapsgm.ru/tproduct/372092142103-marvels-wolverine-ps5",
+      "seo_title": "Marvel’s Wolverine на PS5 аренда игры",
+      "seo_descr": "Аренда Marvel’s Wolverine на PS5. «Предзаказ - Требует немедленной оплаты» Подробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного… Быстрый доступ после оплаты.",
+      "rating": null,
+      "release_date": "14/9/2026",
+      "publisher": "Sony Interactive Entertainment",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/product/UP9000-PPSA03671_00-MARVELSWOLVERINE",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2215/a69481c5fa50fe19f42896d84fb7cbf37ab8646801a93322.png",
       "rent_days": [
         1,
         7,
