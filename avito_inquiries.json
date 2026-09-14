@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-15T01:29:40+03:00",
-  "updated_at_msk": "15.09.2026 01:29",
+  "updated_at": "2026-09-15T02:30:10+03:00",
+  "updated_at_msk": "15.09.2026 02:30",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 935,
+  "total": 936,
   "unique_games": 404,
   "in_demand": 59,
   "one_off": 302,
@@ -233,7 +233,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_deluxe_edition_ps5_8277605536",
-      "count": 62,
+      "count": 63,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -368,7 +368,7 @@
         61,
         62,
         62,
-        62
+        63
       ],
       "hourly": [
         0,
@@ -477,7 +477,7 @@
         5,
         1,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -589,7 +589,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-09-13T14:59:05+03:00"
+      "last_at": "2026-09-15T01:51:56+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -139670,6 +139670,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-15T01:51:56+03:00"
+    },
+    {
       "title": "Marvel’s Wolverine PS5",
       "price": 497,
       "price_string": "497 ₽",
@@ -139902,12 +139908,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-13T19:00:23+03:00"
-    },
-    {
-      "title": "Little Misfortune PS4",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-13T18:19:49+03:00"
     }
   ]
 }
