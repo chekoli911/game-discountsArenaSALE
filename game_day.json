@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-13T02:00:39Z",
-  "server_time_utc": "2026-09-13T02:00:39Z",
+  "updated_at": "2026-09-14T02:00:40Z",
+  "server_time_utc": "2026-09-14T02:00:40Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-14T02:00:00Z",
-  "expires_at": "2026-09-14T02:00:00Z",
+  "next_rotation_at": "2026-09-15T02:00:00Z",
+  "expires_at": "2026-09-15T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-14T02:00:00Z"
+    "next_rotation_at": "2026-09-15T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "tales-of-arise-ps4-ps5",
+      "title": "Tales of Arise PS4/PS5",
+      "description": "Новая серия Tales на PS4/PS5 - вот где сила, дружба и битвы переплетаются в одну живую историю.  \n\nДва человека из разных мирами встречаются - и понимают: их судьбы связаны с будущим планеты Дахна, где 300 лет назад Рена разграбила мир и уничтожила свободу.  \n\nВ Tales of Arise ты ведёшь бой не только на экране - ты выбираешь, кто будет героем, как погибает сюжет, какие линии раскрываются. Много персонажей, много выборов - и всё это в ярком, динамичном мире.  \n\nДля кого-то это просто адреналин. Для других - путь к новому миру. Игра ждёт тебя.",
+      "image_url": "https://static.tildacdn.com/stor6663-3434-4436-b436-346237323362/43236923.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/ef9044d93a0852c7634456e8007aff621cca53fb1fe85c7f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/961c09ce0c9eeda593f4fb70ed6f34edfcbfeca03de20456.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/09630e1129835daeff23242db337dfa40544662f9ae32ae2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/72f35c903aaf463eb620d9816377445cfef492606a7fb8dc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/50608c7e0a0483762492540cb733064cc2caa1721df92448.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/8124602a111d926fb03af99df94dcf233a31fd482a8a3f88.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/30814843c4a3affaa92b6b70c3e4320847cca4e045c6320e.jpg"
+      ],
+      "release_date": "20/9/2023",
+      "publisher": "BANDAI NAMCO ENTERTAINMENT EUROPE",
+      "platforms": "PS4, PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.56,
+      "store_url": "https://store.playstation.com/en-tr/concept/234823",
+      "tilda_uid": "195261828622",
+      "sku": "",
+      "external_id": "b813goRfRBSbSX0UGEIO",
+      "url": "http://arenapsgm.ru/tproduct/195261828622-tales-of-arise-ps4ps5",
+      "expires_at": "2026-09-15T02:00:00Z",
+      "published_at": "2026-09-14T02:00:40Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Новая серия Tales на PS4/PS5 - дружба, битвы и судьбы, переплетённые в живую историю.  \n\nТы выбираешь героя, как мир падает, кто умирает - всё зависит от твоих решений в ярком, динамичном мире."
+    }
+  ],
+  "history": [
     {
       "slug": "knack-knack-2-ps4-ps5",
       "title": "Knack + Knack 2 PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "AsZglxkYshNBki2XxiXC",
       "url": "http://arenapsgm.ru/tproduct/395440440632-knack-knack-2-ps4ps5",
-      "expires_at": "2026-09-14T02:00:00Z",
       "published_at": "2026-09-13T02:00:39Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 299,
+          "14": 499,
+          "21": 699,
+          "28": 799
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 399,
+          "14": 599,
+          "21": 799,
+          "28": 899
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 299,
+        "14": 499,
+        "21": 699,
+        "28": 799
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Нэк-робот спасёт мир - преврати его в бойцу, сражайся и разруши гоблинов.  \nГорода, пещеры, реликвии - всё под твоим контролем. Только на PS4 и PS5."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "anime-girls-highschool-of-dead-ps5",
       "title": "Аnime Girls: Highschool of Dead PS5",
