@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-15T18:10:03+03:00",
-  "updated_at_msk": "15.09.2026 18:10",
+  "updated_at": "2026-09-15T19:10:09+03:00",
+  "updated_at_msk": "15.09.2026 19:10",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 976,
+  "total": 977,
   "unique_games": 411,
   "in_demand": 59,
   "one_off": 308,
@@ -596,7 +596,7 @@
       "title": "Marvel’s Wolverine PS5",
       "item_id": "8277163053",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/marvels_wolverine_ps5_8277163053",
-      "count": 44,
+      "count": 45,
       "demand": "high",
       "avg_price": 497,
       "min_price": 497,
@@ -731,7 +731,7 @@
         3,
         6,
         17,
-        44
+        45
       ],
       "hourly": [
         0,
@@ -840,7 +840,7 @@
         0,
         3,
         11,
-        27
+        28
       ],
       "price_series": [
         null,
@@ -952,7 +952,7 @@
         497
       ],
       "first_at": "2026-08-30T11:24:33+03:00",
-      "last_at": "2026-09-15T18:02:21+03:00"
+      "last_at": "2026-09-15T19:01:20+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -142085,6 +142085,12 @@
       "title": "Marvel’s Wolverine PS5",
       "price": 497,
       "price_string": "497 ₽",
+      "at": "2026-09-15T19:01:20+03:00"
+    },
+    {
+      "title": "Marvel’s Wolverine PS5",
+      "price": 497,
+      "price_string": "497 ₽",
       "at": "2026-09-15T18:02:21+03:00"
     },
     {
@@ -142314,12 +142320,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-15T04:35:37+03:00"
-    },
-    {
-      "title": "Chained Climb Together PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-15T04:17:53+03:00"
     }
   ]
 }
