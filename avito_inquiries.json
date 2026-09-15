@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-15T13:09:15+03:00",
-  "updated_at_msk": "15.09.2026 13:09",
+  "updated_at": "2026-09-15T14:09:34+03:00",
+  "updated_at_msk": "15.09.2026 14:09",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 959,
+  "total": 960,
   "unique_games": 410,
   "in_demand": 59,
   "one_off": 307,
@@ -1322,7 +1322,7 @@
       "title": "NHL 27 PS5",
       "item_id": "8355713865",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_ps5_8355713865",
-      "count": 30,
+      "count": 31,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1457,7 +1457,7 @@
         20,
         25,
         29,
-        30
+        31
       ],
       "hourly": [
         0,
@@ -1566,7 +1566,7 @@
         5,
         5,
         4,
-        1
+        2
       ],
       "price_series": [
         null,
@@ -1678,7 +1678,7 @@
         257
       ],
       "first_at": "2026-09-05T21:51:28+03:00",
-      "last_at": "2026-09-15T04:35:37+03:00"
+      "last_at": "2026-09-15T13:11:58+03:00"
     },
     {
       "id": "onimusha-wots-deluxe-edition-ps5",
@@ -141738,6 +141738,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-15T13:11:58+03:00"
+    },
+    {
       "title": "Marvel’s Wolverine PS5",
       "price": 497,
       "price_string": "497 ₽",
@@ -141970,12 +141976,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-14T17:08:28+03:00"
-    },
-    {
-      "title": "OpsCam - Body Cam Shooter PS4",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-14T16:25:22+03:00"
     }
   ]
 }
