@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-15T17:09:57+03:00",
-  "updated_at_msk": "15.09.2026 17:09",
+  "updated_at": "2026-09-15T18:10:03+03:00",
+  "updated_at_msk": "15.09.2026 18:10",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 971,
+  "total": 976,
   "unique_games": 411,
   "in_demand": 59,
   "one_off": 308,
@@ -596,7 +596,7 @@
       "title": "Marvel’s Wolverine PS5",
       "item_id": "8277163053",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/marvels_wolverine_ps5_8277163053",
-      "count": 40,
+      "count": 44,
       "demand": "high",
       "avg_price": 497,
       "min_price": 497,
@@ -731,7 +731,7 @@
         3,
         6,
         17,
-        40
+        44
       ],
       "hourly": [
         0,
@@ -840,7 +840,7 @@
         0,
         3,
         11,
-        23
+        27
       ],
       "price_series": [
         null,
@@ -952,7 +952,7 @@
         497
       ],
       "first_at": "2026-08-30T11:24:33+03:00",
-      "last_at": "2026-09-15T16:54:31+03:00"
+      "last_at": "2026-09-15T18:02:21+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -1322,7 +1322,7 @@
       "title": "NHL 27 PS5",
       "item_id": "8355713865",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_ps5_8355713865",
-      "count": 31,
+      "count": 32,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1457,7 +1457,7 @@
         20,
         25,
         29,
-        31
+        32
       ],
       "hourly": [
         0,
@@ -1566,7 +1566,7 @@
         5,
         5,
         4,
-        2
+        3
       ],
       "price_series": [
         null,
@@ -1678,7 +1678,7 @@
         257
       ],
       "first_at": "2026-09-05T21:51:28+03:00",
-      "last_at": "2026-09-15T13:11:58+03:00"
+      "last_at": "2026-09-15T17:43:17+03:00"
     },
     {
       "id": "onimusha-wots-deluxe-edition-ps5",
@@ -142085,6 +142085,36 @@
       "title": "Marvel’s Wolverine PS5",
       "price": 497,
       "price_string": "497 ₽",
+      "at": "2026-09-15T18:02:21+03:00"
+    },
+    {
+      "title": "Marvel’s Wolverine PS5",
+      "price": 497,
+      "price_string": "497 ₽",
+      "at": "2026-09-15T17:58:25+03:00"
+    },
+    {
+      "title": "NHL 27 PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-15T17:43:17+03:00"
+    },
+    {
+      "title": "Marvel’s Wolverine PS5",
+      "price": 497,
+      "price_string": "497 ₽",
+      "at": "2026-09-15T17:13:16+03:00"
+    },
+    {
+      "title": "Marvel’s Wolverine PS5",
+      "price": 497,
+      "price_string": "497 ₽",
+      "at": "2026-09-15T17:12:15+03:00"
+    },
+    {
+      "title": "Marvel’s Wolverine PS5",
+      "price": 497,
+      "price_string": "497 ₽",
       "at": "2026-09-15T16:54:31+03:00"
     },
     {
@@ -142290,36 +142320,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-15T04:17:53+03:00"
-    },
-    {
-      "title": "NHL 27 Deluxe Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-15T01:51:56+03:00"
-    },
-    {
-      "title": "Marvel’s Wolverine PS5",
-      "price": 497,
-      "price_string": "497 ₽",
-      "at": "2026-09-15T00:06:14+03:00"
-    },
-    {
-      "title": "Marvel’s Wolverine PS5",
-      "price": 497,
-      "price_string": "497 ₽",
-      "at": "2026-09-14T22:27:40+03:00"
-    },
-    {
-      "title": "NHL 27 PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-14T21:59:09+03:00"
-    },
-    {
-      "title": "Marvel’s Wolverine PS5",
-      "price": 497,
-      "price_string": "497 ₽",
-      "at": "2026-09-14T21:19:02+03:00"
     }
   ]
 }
