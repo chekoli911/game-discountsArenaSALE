@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-14T02:00:40Z",
-  "server_time_utc": "2026-09-14T02:00:40Z",
+  "updated_at": "2026-09-15T02:00:46Z",
+  "server_time_utc": "2026-09-15T02:00:46Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-15T02:00:00Z",
-  "expires_at": "2026-09-15T02:00:00Z",
+  "next_rotation_at": "2026-09-16T02:00:00Z",
+  "expires_at": "2026-09-16T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-15T02:00:00Z"
+    "next_rotation_at": "2026-09-16T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "flatout-4-total-insanity-ps4",
+      "title": "FlatOut 4: Total Insanity PS4",
+      "description": "FlatOut 4: Total Insanity - когда безумие выходит за пределы экрана.  \n\nБегите, рушите, топайте по трассе с машинами, что разрушают всё вокруг - от дорог до барьеров. Уничижаемые машины, пугающие окружения и огонь в каждом повороте.  \n\nДо 8 игроков могут врезаться в топку вместе - гонки, драки, кайф без границ. Масл-кары, внедорожники, фургоны с мороженым - выбор за вами.  \n\nТурбина на нитроглицерине? Да. Пилоты с шутками и трюками? Всё вернулось - гольф, футбол, стакан-понг. Зарабатывайте очки без остановок.  \n\nСкачайте в аренду - и почувствуйте себя настоящим бунтарём на дороге.",
+      "image_url": "https://static.tildacdn.com/stor6137-6539-4430-b566-363665346434/35953956.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENT9YQg7BIe9K2zO1VmQTma/PREVIEW_SCREENSHOT9_151988.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTrBa0qAb414KWkE7qaqML/PREVIEW_SCREENSHOT8_151988.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTCJBHocpe5QcsaJkXNVwU/PREVIEW_SCREENSHOT7_146910.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTt5QkECunpLFAmEOvojXq/PREVIEW_SCREENSHOT6_146910.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTUfeLaqGqHzev8ZgQE9OP/PREVIEW_SCREENSHOT3_146910.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENT7Yzuqmpgs7A6y35rcNgp/PREVIEW_SCREENSHOT4_146910.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTOCT9v3LGTnCFJ8BrMeCN/PREVIEW_SCREENSHOT5_146910.jpg"
+      ],
+      "release_date": "17/3/2017",
+      "publisher": "SIDEWALK GAMES LLC",
+      "platforms": "PS4",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.35,
+      "store_url": "https://store.playstation.com/en-tr/concept/227117",
+      "tilda_uid": "115034162393",
+      "sku": "",
+      "external_id": "v0njUNABe25c3aeLPcZk",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/115034162393-flatout-4-total-insanity-ps4",
+      "expires_at": "2026-09-16T02:00:00Z",
+      "published_at": "2026-09-15T02:00:46Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "FlatOut 4: Total Insanity - когда безумие выходит за пределы экрана.  \n\nГонки, драки, кайф без границ. Машины рвут всё вокруг - от дорог до барьеров. Всё возвращается: гольф, футбол, стакан-понг. Скачайте и почувствуйте себя бунтарём."
+    }
+  ],
+  "history": [
     {
       "slug": "tales-of-arise-ps4-ps5",
       "title": "Tales of Arise PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "b813goRfRBSbSX0UGEIO",
       "url": "http://arenapsgm.ru/tproduct/195261828622-tales-of-arise-ps4ps5",
-      "expires_at": "2026-09-15T02:00:00Z",
       "published_at": "2026-09-14T02:00:40Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 280,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 380,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 280,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Новая серия Tales на PS4/PS5 - дружба, битвы и судьбы, переплетённые в живую историю.  \n\nТы выбираешь героя, как мир падает, кто умирает - всё зависит от твоих решений в ярком, динамичном мире."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "knack-knack-2-ps4-ps5",
       "title": "Knack + Knack 2 PS4/PS5",
@@ -2993,56 +3043,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Сэкбой: А Биг Адвенчуры - это не просто игра, а хаотичный приключенческий бред.  \n\nПрыгайте, трюки, битвы с Вексом - и ведите себя как настоящий дурак на свежем воздухе."
-    },
-    {
-      "slug": "flatout-4-total-insanity",
-      "title": "FlatOut 4 - Total Insanity",
-      "description": "FlatOut 4 – снова безумие на трассе! 🚘💥  \n\n10 жутких режимов: от бойни до арены - разрушайте всё, что попадётся. Машины и мир вокруг них - как в кино, только с фантастической силой.  \n\nДо 8 игроков в сети - поедай дикого пилота, пока не выиграешь! Соревнуйтесь, ломайте скорости и ставьте на высочайшее напряжение.  \n\n20 гонок, 27 машин - от масл-каров до фургонов с мороженым. Выбирайте стиль, который ведёт к бешенству.  \n\nИ да - возвращён классический режим трюков: гольф, футбол, стакан-понг… и ваш пилот зарабатывает очки на ходу! 🏎️🔥",
-      "image_url": "https://static.tildacdn.com/stor3165-3535-4233-b532-353232303532/73562273.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENT9YQg7BIe9K2zO1VmQTma/PREVIEW_SCREENSHOT9_151988.jpg",
-        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTrBa0qAb414KWkE7qaqML/PREVIEW_SCREENSHOT8_151988.jpg",
-        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTCJBHocpe5QcsaJkXNVwU/PREVIEW_SCREENSHOT7_146910.jpg",
-        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTt5QkECunpLFAmEOvojXq/PREVIEW_SCREENSHOT6_146910.jpg",
-        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTUfeLaqGqHzev8ZgQE9OP/PREVIEW_SCREENSHOT3_146910.jpg",
-        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENT7Yzuqmpgs7A6y35rcNgp/PREVIEW_SCREENSHOT4_146910.jpg",
-        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTOCT9v3LGTnCFJ8BrMeCN/PREVIEW_SCREENSHOT5_146910.jpg"
-      ],
-      "release_date": "17/3/2017",
-      "publisher": "SIDEWALK GAMES LLC",
-      "platforms": "PS4",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 3.35,
-      "store_url": "https://store.playstation.com/en-tr/concept/227117",
-      "tilda_uid": "232271701612",
-      "sku": "",
-      "external_id": "ux1js4sVVc5Cizp693ca",
-      "url": "http://arenapsgm.ru/tproduct/232271701612-flatout-4-total-insanity",
-      "published_at": "2026-07-24T01:46:42Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 699,
-          "28": 799
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 799,
-          "28": 899
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 699,
-        "28": 799
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "FlatOut 4 – безумие на трассе снова в полной силе.  \n\n8 игроков, 20 гонок, бойни, арены и трюковый режим – всё как в кино, только с ужасающей силой."
     }
   ]
 }
