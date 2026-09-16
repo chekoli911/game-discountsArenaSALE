@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-16T07:11:22+03:00",
-  "updated_at_msk": "16.09.2026 07:11",
+  "updated_at": "2026-09-16T08:11:28+03:00",
+  "updated_at_msk": "16.09.2026 08:11",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 990,
+  "total": 991,
   "unique_games": 414,
   "in_demand": 59,
   "one_off": 310,
@@ -601,7 +601,7 @@
       "title": "Marvel’s Wolverine PS5",
       "item_id": "8277163053",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/marvels_wolverine_ps5_8277163053",
-      "count": 52,
+      "count": 53,
       "demand": "high",
       "avg_price": 497,
       "min_price": 497,
@@ -737,7 +737,7 @@
         6,
         17,
         51,
-        52
+        53
       ],
       "hourly": [
         0,
@@ -847,7 +847,7 @@
         3,
         11,
         34,
-        1
+        2
       ],
       "price_series": [
         null,
@@ -960,7 +960,7 @@
         497
       ],
       "first_at": "2026-08-30T11:24:33+03:00",
-      "last_at": "2026-09-16T02:11:12+03:00"
+      "last_at": "2026-09-16T08:09:13+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -144363,6 +144363,12 @@
       "title": "Marvel’s Wolverine PS5",
       "price": 497,
       "price_string": "497 ₽",
+      "at": "2026-09-16T08:09:13+03:00"
+    },
+    {
+      "title": "Marvel’s Wolverine PS5",
+      "price": 497,
+      "price_string": "497 ₽",
       "at": "2026-09-16T02:11:12+03:00"
     },
     {
@@ -144592,12 +144598,6 @@
       "price": 497,
       "price_string": "497 ₽",
       "at": "2026-09-15T11:07:37+03:00"
-    },
-    {
-      "title": "The Binding of Isaac: Repentance PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-15T10:58:55+03:00"
     }
   ]
 }
