@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-16T21:13:10+03:00",
-  "updated_at_msk": "16.09.2026 21:13",
+  "updated_at": "2026-09-16T22:13:19+03:00",
+  "updated_at_msk": "16.09.2026 22:13",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1029,
+  "total": 1030,
   "unique_games": 425,
   "in_demand": 60,
   "one_off": 320,
@@ -235,7 +235,7 @@
       "title": "Marvel’s Wolverine PS5",
       "item_id": "8277163053",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/marvels_wolverine_ps5_8277163053",
-      "count": 69,
+      "count": 70,
       "demand": "high",
       "avg_price": 497,
       "min_price": 497,
@@ -371,7 +371,7 @@
         6,
         17,
         51,
-        69
+        70
       ],
       "hourly": [
         0,
@@ -481,7 +481,7 @@
         3,
         11,
         34,
-        18
+        19
       ],
       "price_series": [
         null,
@@ -594,7 +594,7 @@
         497
       ],
       "first_at": "2026-08-30T11:24:33+03:00",
-      "last_at": "2026-09-16T20:17:46+03:00"
+      "last_at": "2026-09-16T21:20:00+03:00"
     },
     {
       "id": "nhl-27-deluxe-edition-ps5",
@@ -148183,6 +148183,12 @@
   ],
   "recent": [
     {
+      "title": "Marvel’s Wolverine PS5",
+      "price": 497,
+      "price_string": "497 ₽",
+      "at": "2026-09-16T21:20:00+03:00"
+    },
+    {
       "title": "Little Strays PS4/PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -148415,12 +148421,6 @@
       "price": 497,
       "price_string": "497 ₽",
       "at": "2026-09-16T08:09:13+03:00"
-    },
-    {
-      "title": "Marvel’s Wolverine PS5",
-      "price": 497,
-      "price_string": "497 ₽",
-      "at": "2026-09-16T02:11:12+03:00"
     }
   ]
 }
