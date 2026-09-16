@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-15T02:00:46Z",
-  "server_time_utc": "2026-09-15T02:00:46Z",
+  "updated_at": "2026-09-16T02:00:56Z",
+  "server_time_utc": "2026-09-16T02:00:56Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-16T02:00:00Z",
-  "expires_at": "2026-09-16T02:00:00Z",
+  "next_rotation_at": "2026-09-17T02:00:00Z",
+  "expires_at": "2026-09-17T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-16T02:00:00Z"
+    "next_rotation_at": "2026-09-17T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "chernobylite-ps5",
+      "title": "Chernobylite PS5",
+      "description": "🔥 В Зоне отчуждения - не просто сражение, а душа в тьме.  \n\nChernobylite - это жутко реальная игра в жанре ужасов и выживания от The Farm 51. Вы играете за Игоря Химинюка - физика, который вернулся в Припять, чтобы найти свою невесту, исчезшую 30 лет назад.  \n\nТам нет лёгких путей: военные, сталкеры, чудовища и суровый мир ждут на каждом шаге. Выживание - это борьба за ресурсы, скрытность и выбор: вести войну или просто убегать.  \n\nКаждое прохождение - уникальное. Ваши решения - доверять кому-то, тратить на выживание или исследования - меняют ход истории. А ещё можно строить базы, делаться оружием и ловушками, как настоящий сталкер.  \n\nПопробуйте - удастся ли вам не только выжить, но и разгадать тайну? 🚀",
+      "image_url": "https://static.tildacdn.com/stor3832-6539-4333-a637-613465643866/14144223.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202106/1109/WJLfzTp8I82fUuxgEdgwbgDL.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202106/1109/Q3iRCi89xJ0NgS1YMvM04J3X.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202106/1109/MPTlmDpdtRJfG5aNYNF9IMct.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202106/1109/KYWNOlDFjE32iEmSxraOQokP.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202106/1109/z3qj61CQvH4priEMWQiBj6wi.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202106/1109/Nj9sQJGdsrDh4FcbYZ5oEa3e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202106/1109/1SuQLjGxPGftMuy9CJCJ7IY7.jpg"
+      ],
+      "release_date": "21/4/2022",
+      "publisher": "THE FARM 51 GROUP SA",
+      "platforms": "PS5",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.79,
+      "store_url": "https://store.playstation.com/en-tr/concept/10002921",
+      "tilda_uid": "361018471392",
+      "sku": "",
+      "external_id": "ZsDiuhBNAGZAU5T9doGd",
+      "url": "http://arenapsgm.ru/tproduct/361018471392-chernobylite-ps5",
+      "expires_at": "2026-09-17T02:00:00Z",
+      "published_at": "2026-09-16T02:00:56Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "В Зоне отчуждения - жутко реальная игра о поиске невесты в Припяти.  \nВыборы, борьба за ресурсы и неизвестность делают каждое прохождение уникальным."
+    }
+  ],
+  "history": [
     {
       "slug": "flatout-4-total-insanity-ps4",
       "title": "FlatOut 4: Total Insanity PS4",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "v0njUNABe25c3aeLPcZk",
       "url": "http://arenapsgm.ru/gamescatalog/tproduct/115034162393-flatout-4-total-insanity-ps4",
-      "expires_at": "2026-09-16T02:00:00Z",
       "published_at": "2026-09-15T02:00:46Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 699,
+          "28": 799
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 799,
+          "28": 899
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 699,
+        "28": 799
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "FlatOut 4: Total Insanity - когда безумие выходит за пределы экрана.  \n\nГонки, драки, кайф без границ. Машины рвут всё вокруг - от дорог до барьеров. Всё возвращается: гольф, футбол, стакан-понг. Скачайте и почувствуйте себя бунтарём."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "tales-of-arise-ps4-ps5",
       "title": "Tales of Arise PS4/PS5",
@@ -2994,55 +3044,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Войдите в «Звёздные Войны» - станьте героем на фронте.  \nВыбирайте пехотинца, пилота или спецназа - каждый ведёт бой по-своему."
-    },
-    {
-      "slug": "sackboy-a-big-adventure-ps4-ps5",
-      "title": "Sackboy: A Big Adventure PS4/PS5",
-      "description": "Sackboy: A Big Adventure - это не просто игра, а настоящий приключенческий хаос. Прыгайте с головой в мир, где каждый шаг может превратиться в дикий прыжок или битву с коварным Вексом и его устрашающим Хаосинатором.  \n\nВыбирайте одиночный путь - боритесь за спасение Мира творчества - или собирайтесь в команду из 2–4 игроков, чтобы вместе смеяться, сражаться и выполнять странные, но невероятно весёлые задания.  \n\nНовый Сэкбой - теперь с магическими способностями, трюками и необычными инструментами. Всё это вновь захватывает дух, делает приключения живыми и хочется снова прыгать по незнакомым ландшафтам.  \n\nИгра с душой. Игра с хохотом. Игра, которую можно запускать - и уже не выпускать.",
-      "image_url": "https://static.tildacdn.com/stor3964-6162-4332-b637-336639616561/32909786.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/1221/o866uzc8gGnkGAvuSNYnLZC4.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/1221/0xMQ4MUO7aJGI1wwjsa5Fty4.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/1221/HxonDO4Scu6usNRrq3oLNrQy.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/1221/g63hKPsKKbcCXHqIlhKlLv7b.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/1221/xEHEvZ8DSjmY8K4LH6XDnyit.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/1221/Oe8ukIIPIgBtygCZAICQGTKy.jpg"
-      ],
-      "release_date": "12/11/2020",
-      "publisher": "Sony Interactive Entertainment",
-      "platforms": "PS4, PS5",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.35,
-      "store_url": "https://store.playstation.com/en-tr/concept/10000177",
-      "tilda_uid": "366582947812",
-      "sku": "",
-      "external_id": "nUTHfGeNbdTZGHleLr7B",
-      "url": "http://arenapsgm.ru/tproduct/366582947812-sackboy-a-big-adventure-ps4ps5",
-      "published_at": "2026-07-24T02:46:14Z",
-      "prices": {
-        "p2": {
-          "7": 350,
-          "14": 490,
-          "21": 799,
-          "28": 899
-        },
-        "p3": {
-          "7": 450,
-          "14": 590,
-          "21": 899,
-          "28": 999
-        }
-      },
-      "prices_p2": {
-        "7": 350,
-        "14": 490,
-        "21": 799,
-        "28": 899
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Сэкбой: А Биг Адвенчуры - это не просто игра, а хаотичный приключенческий бред.  \n\nПрыгайте, трюки, битвы с Вексом - и ведите себя как настоящий дурак на свежем воздухе."
     }
   ]
 }
