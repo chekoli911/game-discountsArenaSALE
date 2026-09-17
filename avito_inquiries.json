@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-17T22:17:09+03:00",
-  "updated_at_msk": "17.09.2026 22:17",
+  "updated_at": "2026-09-17T23:17:14+03:00",
+  "updated_at_msk": "17.09.2026 23:17",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1051,
+  "total": 1052,
   "unique_games": 430,
   "in_demand": 61,
   "one_off": 322,
@@ -975,7 +975,7 @@
       "title": "NHL 27 PS5",
       "item_id": "8355713865",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_ps5_8355713865",
-      "count": 37,
+      "count": 38,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1112,7 +1112,7 @@
         29,
         32,
         33,
-        37
+        38
       ],
       "hourly": [
         0,
@@ -1223,7 +1223,7 @@
         4,
         3,
         1,
-        4
+        5
       ],
       "price_series": [
         null,
@@ -1337,7 +1337,7 @@
         257
       ],
       "first_at": "2026-09-05T21:51:28+03:00",
-      "last_at": "2026-09-17T20:16:00+03:00"
+      "last_at": "2026-09-17T22:58:19+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -151222,6 +151222,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-17T22:58:19+03:00"
+    },
+    {
       "title": "NHL 27 Standard Edition PS5",
       "price": 591,
       "price_string": "591 ₽",
@@ -151454,12 +151460,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-16T16:43:49+03:00"
-    },
-    {
-      "title": "Marvel’s Wolverine PS5",
-      "price": 497,
-      "price_string": "497 ₽",
-      "at": "2026-09-16T16:10:07+03:00"
     }
   ]
 }
