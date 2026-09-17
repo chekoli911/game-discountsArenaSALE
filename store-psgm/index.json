@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-15T14:00:00Z",
+  "updated_at": "2026-09-17T14:00:00Z",
   "page_url": "https://arenapsgm.ru/",
   "buy_url": "https://t.me/m/NrVGWXJpOGNi",
-  "total": 681,
+  "total": 683,
   "sections": [
     {
       "key": "preorders",
@@ -16,7 +16,7 @@
       "key": "header",
       "title": "Шапка",
       "file": "sections/header.json",
-      "count": 99,
+      "count": 101,
       "home": false,
       "banner": false
     },
@@ -24,7 +24,7 @@
       "key": "novinki",
       "title": "Новинки",
       "file": "sections/novinki.json",
-      "count": 142,
+      "count": 144,
       "home": true,
       "banner": false
     },
@@ -32,7 +32,7 @@
       "key": "action",
       "title": "Боевики",
       "file": "sections/action.json",
-      "count": 343,
+      "count": 345,
       "home": true,
       "banner": false
     },
@@ -40,7 +40,7 @@
       "key": "adventure",
       "title": "Приключения",
       "file": "sections/adventure.json",
-      "count": 333,
+      "count": 336,
       "home": true,
       "banner": false
     },
@@ -48,7 +48,7 @@
       "key": "shooters",
       "title": "Шутеры",
       "file": "sections/shooters.json",
-      "count": 135,
+      "count": 136,
       "home": true,
       "banner": false
     },
@@ -88,7 +88,7 @@
       "key": "coop",
       "title": "Игры на двоих",
       "file": "sections/coop.json",
-      "count": 80,
+      "count": 81,
       "home": true,
       "banner": false
     },
@@ -128,7 +128,7 @@
       "key": "ps5",
       "title": "Только PS5",
       "file": "sections/ps5.json",
-      "count": 169,
+      "count": 171,
       "home": true,
       "banner": false
     },
@@ -144,7 +144,7 @@
       "key": "all",
       "title": "Все игры",
       "file": "sections/all.json",
-      "count": 620,
+      "count": 622,
       "home": false,
       "banner": false
     }
@@ -158,22 +158,22 @@
     {
       "key": "novinki",
       "title": "Новинки",
-      "count": 142
+      "count": 144
     },
     {
       "key": "action",
       "title": "Боевики",
-      "count": 343
+      "count": 345
     },
     {
       "key": "adventure",
       "title": "Приключения",
-      "count": 333
+      "count": 336
     },
     {
       "key": "shooters",
       "title": "Шутеры",
-      "count": 135
+      "count": 136
     },
     {
       "key": "horror",
@@ -198,7 +198,7 @@
     {
       "key": "coop",
       "title": "Игры на двоих",
-      "count": 80
+      "count": 81
     },
     {
       "key": "strategy",
@@ -223,12 +223,12 @@
     {
       "key": "ps5",
       "title": "Только PS5",
-      "count": 169
+      "count": 171
     },
     {
       "key": "all",
       "title": "Все игры",
-      "count": 620
+      "count": 622
     }
   ],
   "home_order": [
