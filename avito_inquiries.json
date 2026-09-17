@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-17T15:16:07+03:00",
-  "updated_at_msk": "17.09.2026 15:16",
+  "updated_at": "2026-09-17T16:16:13+03:00",
+  "updated_at_msk": "17.09.2026 16:16",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1038,
+  "total": 1039,
   "unique_games": 428,
   "in_demand": 60,
   "one_off": 321,
@@ -1344,7 +1344,7 @@
       "title": "NHL 27 PS5",
       "item_id": "8355713865",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_ps5_8355713865",
-      "count": 34,
+      "count": 35,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1481,7 +1481,7 @@
         29,
         32,
         33,
-        34
+        35
       ],
       "hourly": [
         0,
@@ -1592,7 +1592,7 @@
         4,
         3,
         1,
-        1
+        2
       ],
       "price_series": [
         null,
@@ -1706,7 +1706,7 @@
         257
       ],
       "first_at": "2026-09-05T21:51:28+03:00",
-      "last_at": "2026-09-17T14:44:40+03:00"
+      "last_at": "2026-09-17T15:20:56+03:00"
     },
     {
       "id": "onimusha-wots-deluxe-edition-ps5",
@@ -150517,6 +150517,12 @@
       "title": "NHL 27 PS5",
       "price": 257,
       "price_string": "257 ₽",
+      "at": "2026-09-17T15:20:56+03:00"
+    },
+    {
+      "title": "NHL 27 PS5",
+      "price": 257,
+      "price_string": "257 ₽",
       "at": "2026-09-17T14:44:40+03:00"
     },
     {
@@ -150746,12 +150752,6 @@
       "price": 497,
       "price_string": "497 ₽",
       "at": "2026-09-16T13:40:43+03:00"
-    },
-    {
-      "title": "Onimusha: WotS - Deluxe Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-16T12:04:33+03:00"
     }
   ]
 }
