@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T14:00:00Z",
+  "updated_at": "2026-09-17T14:00:00Z",
   "games": [
     {
       "slug": "007-first-light-ps5",
@@ -7490,7 +7490,9 @@
         "Шутеры",
         "Лента на главной",
         "Только PS5",
-        "Боевики"
+        "Боевики",
+        "Новинки",
+        "Приключения"
       ],
       "platforms": "PS5"
     },
@@ -8996,6 +8998,39 @@
         "Приключения"
       ],
       "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "the-last-of-us-part-i-ps5",
+      "title": "The Last of Us Part I PS5",
+      "mark": "NEW",
+      "price_from": 390,
+      "image_url": "https://static.tildacdn.com/stor3633-6366-4564-b564-616538633730/86643068.jpg",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Только PS5",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "the-last-of-us-part-ii-ps5",
+      "title": "The Last of Us Part II PS5",
+      "mark": "NEW",
+      "price_from": 390,
+      "image_url": "https://static.tildacdn.com/stor3637-3866-4664-a362-633535303533/39350292.jpg",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Игры на двоих",
+        "Шутеры",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS5"
     },
     {
       "slug": "the-last-of-us-part-ii-remastered-ps4-ps5",
