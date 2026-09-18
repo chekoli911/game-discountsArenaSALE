@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-18T17:51:18+03:00",
-  "updated_at_msk": "18.09.2026 17:51",
+  "updated_at": "2026-09-18T18:51:32+03:00",
+  "updated_at_msk": "18.09.2026 18:51",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1061,
+  "total": 1062,
   "unique_games": 432,
   "in_demand": 61,
   "one_off": 323,
@@ -239,7 +239,7 @@
       "title": "Marvel’s Wolverine PS5",
       "item_id": "8277163053",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/marvels_wolverine_ps5_8277163053",
-      "count": 73,
+      "count": 74,
       "demand": "high",
       "avg_price": 497,
       "min_price": 497,
@@ -377,7 +377,7 @@
         51,
         70,
         70,
-        73
+        74
       ],
       "hourly": [
         0,
@@ -489,7 +489,7 @@
         34,
         19,
         0,
-        3
+        4
       ],
       "price_series": [
         null,
@@ -604,7 +604,7 @@
         497
       ],
       "first_at": "2026-08-30T11:24:33+03:00",
-      "last_at": "2026-09-18T16:52:38+03:00"
+      "last_at": "2026-09-18T18:33:25+03:00"
     },
     {
       "id": "nhl-27-deluxe-edition-ps5",
@@ -153224,6 +153224,12 @@
       "title": "Marvel’s Wolverine PS5",
       "price": 497,
       "price_string": "497 ₽",
+      "at": "2026-09-18T18:33:25+03:00"
+    },
+    {
+      "title": "Marvel’s Wolverine PS5",
+      "price": 497,
+      "price_string": "497 ₽",
       "at": "2026-09-18T16:52:38+03:00"
     },
     {
@@ -153453,12 +153459,6 @@
       "price": 497,
       "price_string": "497 ₽",
       "at": "2026-09-16T18:40:22+03:00"
-    },
-    {
-      "title": "Deconstruction Simulator PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-16T18:38:25+03:00"
     }
   ]
 }
