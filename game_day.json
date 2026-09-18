@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-17T02:00:57Z",
-  "server_time_utc": "2026-09-17T02:00:57Z",
+  "updated_at": "2026-09-18T02:00:51Z",
+  "server_time_utc": "2026-09-18T02:00:51Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-18T02:00:00Z",
-  "expires_at": "2026-09-18T02:00:00Z",
+  "next_rotation_at": "2026-09-19T02:00:00Z",
+  "expires_at": "2026-09-19T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-18T02:00:00Z"
+    "next_rotation_at": "2026-09-19T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "remnant-1-ps4-ps5",
+      "title": "Remnant 1 PS4/PS5",
+      "description": "Мир обрушился. Игра началась.  \n\nВ Remnant 1 вы сражаетесь с чудовищами из другого измерения в постапокалиптическом шутере от третьего лица - без манёвров, только бой и выживание.  \n\nГенерируемые мира меняются каждый раз: карты, враги, события - всё живёт и растёт. Постройте порталы, собирайте ресурсы, развивайте оружие, броню и моды, чтобы выжить.  \n\nСражайтесь одиночно или с двумя другами - против более чем 100 типов врагов от инопланетных солдат до гигантских чудовищ, способных снести всю команду.  \n\nИгра не спит. А вы - уже на стартовой линии.",
+      "image_url": "https://static.tildacdn.com/stor6164-3131-4039-b164-613735396632/65099229.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6164-3131-4039-b164-613735396632/65099229.jpg",
+        "https://static.tildacdn.com/stor3233-6434-4865-b835-643164633230/31439982.jpg",
+        "https://static.tildacdn.com/stor6331-3561-4331-b364-323964313538/95445649.jpg",
+        "https://static.tildacdn.com/stor6666-3862-4665-a536-373534363265/62451276.jpg",
+        "https://static.tildacdn.com/stor6634-6164-4130-a632-353637356265/42320026.jpg"
+      ],
+      "release_date": "",
+      "publisher": "",
+      "platforms": "",
+      "voice": "",
+      "text_translation": "",
+      "rating": null,
+      "store_url": "",
+      "tilda_uid": "890664187502",
+      "sku": "",
+      "external_id": "TNXpBKcefmAFy08phuOA",
+      "url": "http://arenapsgm.ru/tproduct/890664187502-remnant-1-ps4ps5",
+      "expires_at": "2026-09-19T02:00:00Z",
+      "published_at": "2026-09-18T02:00:51Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Мир обрушился. Игра началась.  \n\nБой и выживание - всё, что нужно в Remnant 1. Живые миры, растущие враги, порталы и оружие. Сражайтесь с чудовищами - один или с двумя друзьями. Игра не спит. Вы уже на стартовой линии."
+    }
+  ],
+  "history": [
     {
       "slug": "diablo-prime-evil-collection-ps4-ps5",
       "title": "Diablo Prime Evil Collection PS4/PS5",
@@ -48,34 +99,31 @@
       "sku": "",
       "external_id": "oviGgspPrhX0lMEhSdid",
       "url": "http://arenapsgm.ru/tproduct/304821485252-diablo-prime-evil-collection-ps4ps5",
-      "expires_at": "2026-09-18T02:00:00Z",
       "published_at": "2026-09-17T02:00:57Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Diablo Prime Evil Collection - настоящий бой за душу и землю, со всем, что ты любил в Diablo II.  \n\nСемь классов, супер-длека Диабла, битвы на пике Арреат - всё как в старой версии, но с новыми ощущениями. Потом ждёт Diablo III: Eternal Collection в Новом Тристраме - звезда пала, зло снова здесь."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "chernobylite-ps5",
       "title": "Chernobylite PS5",
@@ -2992,56 +3040,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Станьте героем - вступите в Спецотряд и спасайте город.  \nВашингтон живёт, а угрозы реальны. Всё зависит от вас."
-    },
-    {
-      "slug": "tomb-raider-i-iii-remastered-starring-lara-croft-ps4-ps5",
-      "title": "Tomb Raider I-III Remastered Starring Lara Croft PS4/PS5",
-      "description": "Лара Крофт снова на экране - и не просто в новом виде, а с душой оригинальных приключений.  \n\nПогрузись в мир, где каждый шаг - это борьба с мифами, опасностями и тайнами прошлого. Ты сам выбираешь: играть с классическими моделями или переключиться на яркую ремастеренную графику.  \n\nПриключение не останавливается - ты будешь следовать за Ларой по горам, лесам и подземельям, раскрывая тайны её исчезновения и уходя в глубины загадок.  \n\nДля аренды пиши сюда 📩 @ArenaPSGMadmin - игра уже ждёт!",
-      "image_url": "https://static.tildacdn.com/stor3432-3439-4332-a135-646662366532/26208416.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2600/06afa00a75787db1956fed45a53e2866267d31ee61a39845.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2600/c8b4462ae7ec35d1574d03f4562b3aef86f575cce612684d.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2600/8536db36a1e8ec1989391f6b16e1e8f5311bc96258d4c394.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202402/0822/f56db766f5eb898d436cfaaad5b111424159165f910691a0.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202402/0822/5e20a1f53d700a000be800db54f69cd7925752afd718729d.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202402/0822/f53b676e36792336612d070f998893bbcb8b1cff795cff68.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202402/0822/6e9397c9a56724cf4531300aa3eb5166066f16b985d26b5b.jpg"
-      ],
-      "release_date": "14/2/2024",
-      "publisher": "ASPYR MEDIA, INC",
-      "platforms": "PS4, PS5",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.38,
-      "store_url": "https://store.playstation.com/en-tr/concept/10008568",
-      "tilda_uid": "499020344942",
-      "sku": "",
-      "external_id": "ptrXgoIImHsdEoe9xP0c",
-      "url": "http://arenapsgm.ru/tproduct/499020344942-tomb-raider-i-iii-remastered-starring-la",
-      "published_at": "2026-07-24T07:17:34Z",
-      "prices": {
-        "p2": {
-          "7": 350,
-          "14": 400,
-          "21": 490,
-          "28": 650
-        },
-        "p3": {
-          "7": 450,
-          "14": 500,
-          "21": 590,
-          "28": 750
-        }
-      },
-      "prices_p2": {
-        "7": 350,
-        "14": 400,
-        "21": 490,
-        "28": 650
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Лара Крофт вернулась - с душой старых приключений и новым видом.  \nТы ведёшь за собой Лару сквозь горы, леса и подземелья - каждый шаг - борьба с тайнами прошлого."
     }
   ]
 }
