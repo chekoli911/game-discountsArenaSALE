@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-19T21:56:27+03:00",
-  "updated_at_msk": "19.09.2026 21:56",
+  "updated_at": "2026-09-19T22:56:41+03:00",
+  "updated_at_msk": "19.09.2026 22:56",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1084,
+  "total": 1085,
   "unique_games": 437,
   "in_demand": 62,
   "one_off": 324,
@@ -241,9 +241,9 @@
       "title": "Marvel’s Wolverine PS5",
       "item_id": "8277163053",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/marvels_wolverine_ps5_8277163053",
-      "count": 78,
+      "count": 79,
       "demand": "high",
-      "avg_price": 510,
+      "avg_price": 514,
       "min_price": 497,
       "max_price": 834,
       "last_price": 834,
@@ -264,7 +264,7 @@
         497,
         497,
         497,
-        497,
+        834,
         834,
         834,
         834
@@ -380,7 +380,7 @@
         70,
         70,
         75,
-        78
+        79
       ],
       "hourly": [
         0,
@@ -493,7 +493,7 @@
         19,
         0,
         5,
-        3
+        4
       ],
       "price_series": [
         null,
@@ -609,7 +609,7 @@
         834
       ],
       "first_at": "2026-08-30T11:24:33+03:00",
-      "last_at": "2026-09-19T21:39:49+03:00"
+      "last_at": "2026-09-19T22:06:13+03:00"
     },
     {
       "id": "nhl-27-deluxe-edition-ps5",
@@ -156313,6 +156313,12 @@
       "title": "Marvel’s Wolverine PS5",
       "price": 834,
       "price_string": "834 ₽",
+      "at": "2026-09-19T22:06:13+03:00"
+    },
+    {
+      "title": "Marvel’s Wolverine PS5",
+      "price": 834,
+      "price_string": "834 ₽",
       "at": "2026-09-19T21:39:49+03:00"
     },
     {
@@ -156542,12 +156548,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-17T19:09:09+03:00"
-    },
-    {
-      "title": "Fast Food Manager Simulator PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-17T18:44:40+03:00"
     }
   ]
 }
