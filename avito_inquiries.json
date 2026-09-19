@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-19T12:55:07+03:00",
-  "updated_at_msk": "19.09.2026 12:55",
+  "updated_at": "2026-09-19T13:55:24+03:00",
+  "updated_at_msk": "19.09.2026 13:55",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1075,
+  "total": 1076,
   "unique_games": 436,
   "in_demand": 62,
   "one_off": 324,
@@ -241,12 +241,12 @@
       "title": "Marvel’s Wolverine PS5",
       "item_id": "8277163053",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/marvels_wolverine_ps5_8277163053",
-      "count": 75,
+      "count": 76,
       "demand": "high",
-      "avg_price": 497,
+      "avg_price": 501,
       "min_price": 497,
-      "max_price": 497,
-      "last_price": 497,
+      "max_price": 834,
+      "last_price": 834,
       "prices": [
         497,
         497,
@@ -267,7 +267,7 @@
         497,
         497,
         497,
-        497
+        834
       ],
       "counts": [
         0,
@@ -380,7 +380,7 @@
         70,
         70,
         75,
-        75
+        76
       ],
       "hourly": [
         0,
@@ -493,7 +493,7 @@
         19,
         0,
         5,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -606,10 +606,10 @@
         497,
         497,
         497,
-        497
+        834
       ],
       "first_at": "2026-08-30T11:24:33+03:00",
-      "last_at": "2026-09-18T22:30:07+03:00"
+      "last_at": "2026-09-19T13:05:57+03:00"
     },
     {
       "id": "nhl-27-deluxe-edition-ps5",
@@ -155950,6 +155950,12 @@
   ],
   "recent": [
     {
+      "title": "Marvel’s Wolverine PS5",
+      "price": 834,
+      "price_string": "834 ₽",
+      "at": "2026-09-19T13:05:57+03:00"
+    },
+    {
       "title": "Active Matter PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -156182,12 +156188,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-17T11:31:15+03:00"
-    },
-    {
-      "title": "Angry Video Game Nerd 8-bit PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-17T09:13:16+03:00"
     }
   ]
 }
