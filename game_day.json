@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-18T02:00:51Z",
-  "server_time_utc": "2026-09-18T02:00:51Z",
+  "updated_at": "2026-09-19T02:02:42Z",
+  "server_time_utc": "2026-09-19T02:02:42Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-19T02:00:00Z",
-  "expires_at": "2026-09-19T02:00:00Z",
+  "next_rotation_at": "2026-09-20T02:00:00Z",
+  "expires_at": "2026-09-20T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-19T02:00:00Z"
+    "next_rotation_at": "2026-09-20T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "sonic-superstar-ps4-ps5",
+      "title": "Sonic Superstar PS4/PS5",
+      "description": "Соник, Тейлз, Наклз и Эми - снова в деле! 🚀  \nНовый платформер в духе классики: прыгайте, бегите, атакуйте и разрушайте всё, что мешает островам Северной Звезды.  \n\nИзумруды вновь включены - теперь вы можете управлять не просто силами, но и их комбинациями: двойники, замедление времени, тайны подземелья - всё это в вашем распоряжении!  \n\nСюжет пройдёт с друзьями в локальном режиме. А если хочется драться - бейте в сетевом режиме до 8 игроков. Потому что в этой игре каждый по-своему будет выглядеть как настоящий герой!  \n\nСоник уже не просто мигает - он прыгает, танцует и сражается по-настоящему. Настоящий классик, обновлённый до максимума. 🎮",
+      "image_url": "https://static.tildacdn.com/stor3634-3263-4338-b435-313231653464/44641614.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/ca7b3adb31c91d54c7911048db5d05673c28615f20d8480f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/66d34862acb309c7aeeb4a66165839fddf3c50d5cc35a581.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/ae80a12a4452926032e03702a444568a8c7734fa3a2271fa.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/9501ee910f86ae364fe2363f13036867f8e551e0ee0824b7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/231c7568333c879ac092b4e39b84d57e21e437d16e8eef7a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/f2c3d3e010f749f6956de426a4b25cc39094d22a8f62c545.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/207a53c626be6dfe1ae96c70afb4578edc3ae6683829a4a2.jpg"
+      ],
+      "release_date": "17/10/2023",
+      "publisher": "SEGA EUROPE LTD",
+      "platforms": "PS4, PS5",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 3.99,
+      "store_url": "https://store.playstation.com/en-tr/concept/10004658",
+      "tilda_uid": "549295240252",
+      "sku": "",
+      "external_id": "YIS1jv2J24kUjVrSbtKc",
+      "url": "http://arenapsgm.ru/tproduct/549295240252-sonic-superstar-ps4ps5",
+      "expires_at": "2026-09-20T02:00:00Z",
+      "published_at": "2026-09-19T02:02:42Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Соник, Тейлз и другие герои снова в деле - новый платформер в духе классики!  \n\nПрыгайте, бегите, используйте двойников, замедление и тайны - всё под контролем. Локальный или сетевой режим до 8 игроков. Соник теперь танцует и сражается на полную."
+    }
+  ],
+  "history": [
     {
       "slug": "remnant-1-ps4-ps5",
       "title": "Remnant 1 PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "TNXpBKcefmAFy08phuOA",
       "url": "http://arenapsgm.ru/tproduct/890664187502-remnant-1-ps4ps5",
-      "expires_at": "2026-09-19T02:00:00Z",
       "published_at": "2026-09-18T02:00:51Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Мир обрушился. Игра началась.  \n\nБой и выживание - всё, что нужно в Remnant 1. Живые миры, растущие враги, порталы и оружие. Сражайтесь с чудовищами - один или с двумя друзьями. Игра не спит. Вы уже на стартовой линии."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "diablo-prime-evil-collection-ps4-ps5",
       "title": "Diablo Prime Evil Collection PS4/PS5",
@@ -2991,55 +3041,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Крипто снова на борту - теперь с гениталиями и хиппи, которые не понимают, что коровы летают.  \nЛетайте, боритесь, смешивайте гуманоидов - КГБ взрывает ваш корабль. Играйте вдвоём, просто поделитесь экраном."
-    },
-    {
-      "slug": "the-division-2-ps4-ps5",
-      "title": "The Division 2 PS4/PS5",
-      "description": "У вас есть шанс стать настоящим героем - вступите в Спецотряд и спасайте город от хаоса.  \n\nВашингтон в игре - не просто сцена, а живой, бьющийся мир с опасными угрозами и реальными вызовами.  \n\nЭлитные агенты из обычного населения - ваша новая команда. Всё зависит от вас.  \n\nПопробуйте прямо сейчас - включайте свою амбициозность и бойцовский дух. 🚀",
-      "image_url": "https://static.tildacdn.com/stor6361-3730-4135-b637-393438356466/32023986.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2319/c58ca1ac880278f09ae87e1916e95bd84720f13e666b1ff1.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2319/e2f15167c102694ca4f98c0894395066bdc0f36f5f93bcac.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2319/425c38eab25833dec4a47f3590dcf4f91edc2c8c7df23f89.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2319/d167a8de6a00b5b80fc071d6a2709ef207f90c2f1861acd3.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2319/19fb0ef6b875002e4a2897a83c3c06e139a5682f54cc4623.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/2319/8d97e4746b7db2894a44650e252713b181d387ee17cae65f.jpg"
-      ],
-      "release_date": "15/3/2019",
-      "publisher": "Ubisoft",
-      "platforms": "PS4",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.29,
-      "store_url": "https://store.playstation.com/en-tr/concept/232391",
-      "tilda_uid": "353673262392",
-      "sku": "",
-      "external_id": "CazB7zK0CfuyBEmkc5Bz",
-      "url": "http://arenapsgm.ru/tproduct/353673262392-the-division-2-ps4ps5",
-      "published_at": "2026-07-24T12:10:57Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Станьте героем - вступите в Спецотряд и спасайте город.  \nВашингтон живёт, а угрозы реальны. Всё зависит от вас."
     }
   ]
 }
