@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-19T02:02:42Z",
-  "server_time_utc": "2026-09-19T02:02:42Z",
+  "updated_at": "2026-09-20T02:01:03Z",
+  "server_time_utc": "2026-09-20T02:01:03Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-20T02:00:00Z",
-  "expires_at": "2026-09-20T02:00:00Z",
+  "next_rotation_at": "2026-09-21T02:00:00Z",
+  "expires_at": "2026-09-21T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-20T02:00:00Z"
+    "next_rotation_at": "2026-09-21T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "sifu-ps4-ps5",
+      "title": "SIFU PS4/PS5",
+      "description": "Кунг-фу на высшем уровне - в Sifu.  \nПуть к мастерству не похож на простое упражнение: здесь каждый удар - риск, каждый шаг - борьба с тенью врага.  \n\nВы одни против всех. Ни поддержки, ни союзников. Только мистический амулет - ваш последний шанс вернуться к жизни. Но его использование стоит большой ценой: старение и урон для вашего героя (или героини).  \n\nУчиться в бою - значит учиться на ошибках. Разблокируйте техники стиля Бак Мэй, парируйте атаки, проникая сквозь тёмные клубы, офисы и галереи, как ручей, бегущий по дебрям.  \n\nПозиция - ваша сила. Используйте окна, подручные предметы, метательные орудия. Но враги не ждут - они приходят внезапно. Следите за каждым шагом.  \n\nОбучение идёт до конца. Только через бой вы научитесь настоящему кунг-фу.",
+      "image_url": "https://static.tildacdn.com/stor6366-3565-4534-b933-373136646366/16076356.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202202/2313/p9WHv0VlQtTSor208ncQN1av.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202303/2211/e3ac28d9bce68e8e6a2f64e9e701a5db5517a4350e1cc20a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202303/2211/312ded8c8ab0162367416e116d410522d96dafc3d350519d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202202/2313/H8YJXbTxqULhwdDI6MVlHiTL.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202202/2314/bm8k9id6a0NLSve2scM9igSq.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202303/2211/289a98a4a9be85c4426a57af7e355078e8caa105adaddbb5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202309/0709/ef6244a51ca64e92cb99a47268fc01c486d4cd68e72cd6d1.jpg"
+      ],
+      "release_date": "6/2/2022",
+      "publisher": "SLOCLAP S.A.S",
+      "platforms": "PS4, PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.22,
+      "store_url": "https://store.playstation.com/en-tr/concept/10001973",
+      "tilda_uid": "339426990332",
+      "sku": "",
+      "external_id": "U6xcAjGjbO5FIVNiguAf",
+      "url": "http://arenapsgm.ru/tproduct/339426990332-sifu-ps4ps5",
+      "expires_at": "2026-09-21T02:00:00Z",
+      "published_at": "2026-09-20T02:01:03Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Кунг-фу на высшем уровне - в Sifu.  \nКаждый удар - риск, каждый шаг - борьба с тенью. Учиться значит учиться на ошибках. Враги не ждут - вы одни против всех."
+    }
+  ],
+  "history": [
     {
       "slug": "sonic-superstar-ps4-ps5",
       "title": "Sonic Superstar PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "YIS1jv2J24kUjVrSbtKc",
       "url": "http://arenapsgm.ru/tproduct/549295240252-sonic-superstar-ps4ps5",
-      "expires_at": "2026-09-20T02:00:00Z",
       "published_at": "2026-09-19T02:02:42Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 390,
+          "14": 712,
+          "21": 792,
+          "28": 952
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 490,
+          "14": 812,
+          "21": 892,
+          "28": 1052
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 390,
+        "14": 712,
+        "21": 792,
+        "28": 952
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Соник, Тейлз и другие герои снова в деле - новый платформер в духе классики!  \n\nПрыгайте, бегите, используйте двойников, замедление и тайны - всё под контролем. Локальный или сетевой режим до 8 игроков. Соник теперь танцует и сражается на полную."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "remnant-1-ps4-ps5",
       "title": "Remnant 1 PS4/PS5",
@@ -2991,56 +3041,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Новая часть серии Virtua Fighter – яркие бои в 3D, как в оригинале, но с современной техникой.  \nСражайся в аркадном или рейтинговом режиме, создавай лиги и бойцов – всё на высоте, без фильтров."
-    },
-    {
-      "slug": "destroy-all-humans-2-reprobed-ps5",
-      "title": "Destroy All Humans! 2 - Reprobed PS5",
-      "description": "Крипто снова на борту - и теперь с гениталиями. Злой пришелец стал ещё хуже, а вы - уже в шестидесятых, с пачкой марихуаны и тяжёлым настроением.  \n\nПогрузитесь в атмосферу 60-х: летайте на тарелке, боритесь с хиппи, которые не понимают, что коровы летают не только в фильмах.  \n\nСобирайте гуманоидов из разных стран, смешивайте их ДНК и прокачивайте свои навыки - всё это на фоне ужасных сцен, где КГБ взрывает ваш корабль.  \n\nИграйте вдвоём - просто позвоните другу и поделитесь экраном. У вас есть классические пушки и что-то крутое - например, Метеоритный дождь.",
-      "image_url": "https://static.tildacdn.com/stor6361-3364-4132-a365-316635383231/15196416.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202206/0719/tsxZrj9S6CA741zyaiaTnUzK.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202206/0719/nzOw6MShKPsHjMQlzWbDeobf.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202206/0719/e8yeRtlsd2emVNFMcwYKyVQT.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202206/0719/60k5nOhZUHd9PyG9kgUang2C.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202206/0719/zfe0mqsZLKfzKUpTXy8t05f3.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202206/0719/Sy4kArDLlkY1xHC7c3xHg82i.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202206/0719/JNZ8xe0dP29QNgR08mHI2t4b.jpg"
-      ],
-      "release_date": "30/8/2022",
-      "publisher": "THQ NORDIC GMBH",
-      "platforms": "PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.14,
-      "store_url": "https://store.playstation.com/en-tr/concept/10003868",
-      "tilda_uid": "730031723942",
-      "sku": "",
-      "external_id": "tSzcBdZyIRcHSSBlVL5t",
-      "url": "http://arenapsgm.ru/tproduct/730031723942-destroy-all-humans-2-reprobed-ps5",
-      "published_at": "2026-07-25T03:47:30Z",
-      "prices": {
-        "p2": {
-          "7": 280,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 380,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 280,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Крипто снова на борту - теперь с гениталиями и хиппи, которые не понимают, что коровы летают.  \nЛетайте, боритесь, смешивайте гуманоидов - КГБ взрывает ваш корабль. Играйте вдвоём, просто поделитесь экраном."
     }
   ]
 }
