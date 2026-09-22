@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T02:00:55Z",
-  "server_time_utc": "2026-09-21T02:00:55Z",
+  "updated_at": "2026-09-22T05:46:47Z",
+  "server_time_utc": "2026-09-22T05:46:47Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-22T02:00:00Z",
-  "expires_at": "2026-09-22T02:00:00Z",
+  "next_rotation_at": "2026-09-23T02:00:00Z",
+  "expires_at": "2026-09-23T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,112 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-22T02:00:00Z"
+    "next_rotation_at": "2026-09-23T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "psychonauts-2-ps4-ps5",
+      "title": "Psychonauts 2 PS4/PS5",
+      "description": "Раз «Раз» Аквато - талантливый юный экстрасенс и акробат - вступил в шпионскую организацию «Психонавты», теперь он должен выяснить, что произошло с лидером команды. Оказалось: он спасён - но теперь совсем не тот человек. А ещё кто-то из штаба может быть предателем.\n\nВ Psychonauts 2 вы проникаете в разумы друзей и врагов, боритесь со своими внутренними демонами и помогаете людям справиться с эмоциональными тяготами. Умение «включать» людей - это не просто магия, а настоящий инструмент для выживания.\n\nРаз играет на треках, канатах и трапециях - прыгает, качается, ломает правила физики. А в бой выходят мощные парапсихические способности: взрывы разума, замедление времени, левитация объектов - всё это на фоне шуточной и напряжённой сюжетной драмы от Тима Шафера.\n\nГотовы к бегу по мозгам? Потому что в этом мире каждый шаг - в разуме, а не на земле.",
+      "image_url": "https://static.tildacdn.com/stor6433-6238-4664-a230-363232376530/54414205.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/zq7fjI6QoeZAJMsuUprl42BQ.JPG",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/kkvziwpdZolMXgnk42gybfpp.JPG",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/0FIrwR3amri3Vxt0EVgGdEVk.JPG",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/EMLei2C5OGwBZhietCCRNXaB.JPG",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/UWkWrnrShv10ar0nIZh6eIir.JPG",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/0hzp3vosYmqCYvyjSjZLkKNJ.JPG",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/dkmyfZBkNSObAIgihAMpUPxd.JPG"
+      ],
+      "release_date": "25/8/2021",
+      "publisher": "Microsoft Corporation",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.36,
+      "store_url": "https://store.playstation.com/en-tr/concept/10002422",
+      "tilda_uid": "507871266182",
+      "sku": "",
+      "external_id": "5LaNa6dyIIyUc3B12NMd",
+      "url": "http://arenapsgm.ru/tproduct/507871266182-psychonauts-2-ps4ps5",
+      "expires_at": "2026-09-23T02:00:00Z",
+      "published_at": "2026-09-22T05:46:47Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Раз - талантливый юный экстрасенс, теперь шпион в «Психонавтах». Лидер спасён - но он изменился. Кто-то из команды может быть предателем.\n\nВ Psychonauts 2 ты ведёшь бой не на земле, а внутри мозгов. Прыгаешь по трекам, ломаешь физику - и сражаешься с демонами души. Шутливо, напряжённо - от Тима Шафера."
+    }
+  ],
+  "history": [
+    {
+      "slug": "bum-simulator-ps4-ps5",
+      "title": "Bum Simulator PS4/PS5",
+      "description": "Бомжам не хватает хаоса - а у нас он в каждой строчке.  \n\nBum Simulator - это не просто выживание, это сюрреализм на PS4 и PS5. Швырьте голубей в людей, прикрепите к ним взрывчатку - и посмотри, как мир рушится. А потом ещё больше разогрейте смеси из алкоголя и найденных вещей. Пьёте? Смелее! Бросайте во врагов - эффект будет бешеный.  \n\nКарл - ваша магазинная тележка, который не только хранит всё, но и смеётся, как настоящий друг. А персонажи? От клоуна с крюком до скучающего богача, кто призывает вас бить всех на улице - каждый живёт своей нелепой жизнью.  \n\nИ да, у игры есть сюжет. Безумный, неожиданный и вдруг очень трогательный. Постройте базу из картонки, кастомизируйте её, обновите голубятню - или просто посоветуйтесь с бомжами-роботами. Всё это - с озвучкой, где каждый диалог звучит как настоящая эмоция.  \n\nА ещё можно просто укрыться и подремать. Потому что выживание - это не всегда спасение, иногда это просто шанс на смех.",
+      "image_url": "https://static.tildacdn.com/stor3833-3362-4166-a135-663735303065/25041339.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/1310/1a12ee99ab91f684f1a9015344ab772610faa77f8bf7a518.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/1310/c5889c0f49a78bc1d6beb237f2dcb100a01974b521eda0d9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/1310/ae4b41599d853812a58de75aaf9782977ff1ab4db6e1263d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/1310/dddf1c5c84d6fc58896f15fec40683a3a4e92c73d41b59e9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/1310/cadecff1d5ca31c84ce35e85bafa669388758be09415ec65.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/1310/a4555a11680e7b1ea695c2a5ccf403d5f5de1eda14cca296.jpg"
+      ],
+      "release_date": "24/6/2024",
+      "publisher": "PlayWay plc",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.0,
+      "store_url": "https://store.playstation.com/en-tr/concept/10009607",
+      "tilda_uid": "146841317692",
+      "sku": "",
+      "external_id": "R8z7Pf1L9fAGMgBNgxnu",
+      "url": "http://arenapsgm.ru/tproduct/146841317692-bum-simulator-ps4ps5",
+      "published_at": "2026-09-22T02:01:09Z",
+      "prices": {
+        "p2": {
+          "7": 289,
+          "14": 399,
+          "21": 545,
+          "28": 645
+        },
+        "p3": {
+          "7": 389,
+          "14": 499,
+          "21": 645,
+          "28": 745
+        }
+      },
+      "prices_p2": {
+        "7": 289,
+        "14": 399,
+        "21": 545,
+        "28": 645
+      },
+      "p3_extra": 100,
+      "is_game_day": false,
+      "short_description": "Бомжам не хватает хаоса - а у нас он в каждой строчке.  \n\nШвыряем голубей с взрывчаткой, пьём алкоголь и бьёмся в нелепых ритуалах. Карл смеётся, персонажи живут странно, а сюжет - безумный и трогательный. Всё с озвучкой, где каждый момент - настоящий смех."
+    },
     {
       "slug": "battlefront-1-ps4-ps5",
       "title": "Battlefront 1 PS4/PS5",
@@ -48,34 +150,31 @@
       "sku": "",
       "external_id": "D54Xy5JY3HH1nOMfthnp",
       "url": "http://arenapsgm.ru/tproduct/881613135482-battlefront-1-ps4ps5",
-      "expires_at": "2026-09-22T02:00:00Z",
       "published_at": "2026-09-21T02:00:55Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Battlefield 1 - настоящий рассвет мировых войн.  \nВ Star Wars Battlefront вы не просто смотрите - вы вступаете в бой, как герой."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "sifu-ps4-ps5",
       "title": "SIFU PS4/PS5",
@@ -2941,105 +3040,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Ясна - астробиолог, которая вместо отчёта оказывается на планете Регис III.  \n\nВыборы сказывают больше, чем слова: 11 концовок про предубеждения и эволюцию. Космический атомпанк в стиле «будущее, которое не спешит»."
-    },
-    {
-      "slug": "maid-of-sker-ps4-ps5",
-      "title": "Maid of Sker PS4/PS5",
-      "description": "Ночь в отеле без света - и ты сама не знаешь, что случилось.  \nСкерская дева - жуткая игра-выживание в стиле «ужастик», где всё начинается с одного звукового устройства. Ты в отеле на краю мира, заброшенном, с кровавой историей из уэльского фольклора.  \n\nТам живут не просто монстры - это культы ИИ, которые слышат твои шаги. Нужно быть тихим, осторожным, и использовать стелс, чтобы не попасть в ловушку.  \n\nВ 1898 году всё было под контролем… пока не начали просыпаться древние тайны, пираты, рабство и проклятия. Игра как будто вытягивает тебя в эпоху мрачных сказок - с дрожью в груди и холодом в крови.  \n\nСлушай звук, не шевелись - и надейся, что ты выживешь.",
-      "image_url": "https://static.tildacdn.com/stor6331-6431-4066-b064-663438333762/86308655.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0914/lk6rnk8pBOSDURH8lNR0J8sx.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0914/cGeaOuEARO8hb5PpMuU5dmgT.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0914/0atHEVr8tqEBoE2Nln9fT0iS.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0914/79bFjgW95wuLRL5fUSdgTkU7.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0914/fGYUExSHheX4vrITAyvm3iAK.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0914/Gla4gNGezSVP0mwXOzrVC2T0.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0914/Dd36ucItaXEDmAFuE61WMGXW.jpg"
-      ],
-      "release_date": "26/5/2021",
-      "publisher": "Wales Interactive Limited",
-      "platforms": "PS4, PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.1,
-      "store_url": "https://store.playstation.com/en-tr/concept/233393",
-      "tilda_uid": "795319817942",
-      "sku": "",
-      "external_id": "IurZIGVSOhFu988gehTb",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/795319817942-maid-of-sker-ps4ps5",
-      "published_at": "2026-07-26T12:12:31Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Ночь в отеле без света - и ты уже не знаешь, что случилось.  \nТы в заброшенном отеле с кровавой историей: культы ИИ слушают твои шаги. Слушай звук, будь тихим - и надеяйся, что выживешь."
-    },
-    {
-      "slug": "a-quiet-place-the-road-ahead-ps5",
-      "title": "A Quiet Place: The Road Ahead PS5",
-      "description": "Где тишина - ключ к выживанию.  \nВ A Quiet Place: The Road Ahead ты ведёшь себя как женщина, которая в апокалипсисе сталкивается не только с ужасающими существами, но и со своими страхами. Семейные споры, тайны - всё это вплетено в напряжённый хоррор.  \n\nТонкая игра, где каждый шаг требует внимания, а молчание - твоё главное оружие.  \nНастоящая драма под маской страха.  \n\nИгра на PS5 - только для тех, кто любит напряжённые моменты и реальные посты в тишине.",
-      "image_url": "https://static.tildacdn.com/stor3063-3063-4335-b166-313036333833/85392725.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0613/33b8cfd9a94707fb05a9470c2a6ba1d5bbf169c9ec4feeb2.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0613/b16ca701285f0dd16f70d024222f77a89c6c6963418628ea.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0613/1d79cc6a9f7c453d6f22bb9638513f8c01785b2f58e054be.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0613/c877456af24b79c56d8434daa61c227786d8712b700d6732.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0613/30fb8aaa1c241abf9f68add725652421f1ed337be03c2cb6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0613/dc3e414c894a9a077afce2fc128c940b66c4c9bd94bac045.jpg"
-      ],
-      "release_date": "17/10/2024",
-      "publisher": "Saber Interactive, Inc",
-      "platforms": "PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 3.85,
-      "store_url": "https://store.playstation.com/en-tr/concept/10009366",
-      "tilda_uid": "448577777652",
-      "sku": "",
-      "external_id": "TEflF7BXR78vfaCIC4YE",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/448577777652-a-quiet-place-the-road-ahead-ps5",
-      "published_at": "2026-07-25T12:32:21Z",
-      "prices": {
-        "p2": {
-          "7": 390,
-          "14": 490,
-          "21": 790,
-          "28": 90
-        },
-        "p3": {
-          "7": 490,
-          "14": 590,
-          "21": 890,
-          "28": 990
-        }
-      },
-      "prices_p2": {
-        "7": 390,
-        "14": 490,
-        "21": 790,
-        "28": 90
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "В A Quiet Place: The Road Ahead ты живёшь в тишине - молчание становится твоим оружием.  \nКаждый шаг - как драма, где страх и тайны борются внутри тебя. Только для тех, кто не боится молчать."
     }
   ]
 }
