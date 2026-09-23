@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T07:24:23+03:00",
-  "updated_at_msk": "23.09.2026 07:24",
+  "updated_at": "2026-09-23T08:24:26+03:00",
+  "updated_at_msk": "23.09.2026 08:24",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1120,
+  "total": 1121,
   "unique_games": 446,
   "in_demand": 63,
   "one_off": 323,
@@ -1023,7 +1023,7 @@
       "title": "NHL 27 PS5",
       "item_id": "8355713865",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_ps5_8355713865",
-      "count": 48,
+      "count": 49,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1166,7 +1166,7 @@
         45,
         48,
         48,
-        48
+        49
       ],
       "hourly": [
         0,
@@ -1283,7 +1283,7 @@
         2,
         3,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -1403,7 +1403,7 @@
         257
       ],
       "first_at": "2026-09-05T21:51:28+03:00",
-      "last_at": "2026-09-21T22:32:27+03:00"
+      "last_at": "2026-09-23T08:09:47+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -164893,6 +164893,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-23T08:09:47+03:00"
+    },
+    {
       "title": "Lumines Arise PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -165125,12 +165131,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-19T19:29:07+03:00"
-    },
-    {
-      "title": "Flamecraft PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-19T19:25:35+03:00"
     }
   ]
 }
