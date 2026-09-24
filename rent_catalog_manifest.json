@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "catalog_id": "2026-09-24T01:03:20Z",
-  "generated_at": "2026-09-24T01:08:56Z",
-  "count": 11100,
+  "catalog_id": "2026-09-24T01:26:37Z",
+  "generated_at": "2026-09-24T01:31:13Z",
+  "count": 11101,
   "chunk_size": 100,
-  "chunk_count": 111,
+  "chunk_count": 112,
   "chunks": [
     "rent_catalog_chunk_000.json",
     "rent_catalog_chunk_001.json",
@@ -116,7 +116,8 @@
     "rent_catalog_chunk_107.json",
     "rent_catalog_chunk_108.json",
     "rent_catalog_chunk_109.json",
-    "rent_catalog_chunk_110.json"
+    "rent_catalog_chunk_110.json",
+    "rent_catalog_chunk_111.json"
   ],
   "full_catalog": "catalog/rent_catalog.json",
   "search_index": "rent_catalog_search.json"
