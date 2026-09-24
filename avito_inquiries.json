@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T20:30:32+03:00",
-  "updated_at_msk": "24.09.2026 20:30",
+  "updated_at": "2026-09-24T21:30:44+03:00",
+  "updated_at_msk": "24.09.2026 21:30",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1152,
+  "total": 1156,
   "unique_games": 452,
   "in_demand": 65,
   "one_off": 328,
@@ -2201,7 +2201,7 @@
       "title": "EA sports fctm 27 PS4/PS5",
       "item_id": "8314561277",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/ea_sports_fctm_27_ps4ps5_8314561277",
-      "count": 20,
+      "count": 24,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -2345,7 +2345,7 @@
         1,
         1,
         2,
-        20
+        24
       ],
       "hourly": [
         0,
@@ -2463,7 +2463,7 @@
         0,
         0,
         1,
-        18
+        22
       ],
       "price_series": [
         null,
@@ -2584,7 +2584,7 @@
         257
       ],
       "first_at": "2026-09-20T15:39:04+03:00",
-      "last_at": "2026-09-24T20:26:07+03:00"
+      "last_at": "2026-09-24T21:24:37+03:00"
     },
     {
       "id": "nba-2k27-deluxe-edition-ps5",
@@ -168485,6 +168485,30 @@
       "title": "EA sports fctm 27 PS4/PS5",
       "price": 257,
       "price_string": "257 ₽",
+      "at": "2026-09-24T21:24:37+03:00"
+    },
+    {
+      "title": "EA sports fctm 27 PS4/PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-24T21:19:54+03:00"
+    },
+    {
+      "title": "EA sports fctm 27 PS4/PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-24T21:08:35+03:00"
+    },
+    {
+      "title": "EA sports fctm 27 PS4/PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-24T20:47:18+03:00"
+    },
+    {
+      "title": "EA sports fctm 27 PS4/PS5",
+      "price": 257,
+      "price_string": "257 ₽",
       "at": "2026-09-24T20:26:07+03:00"
     },
     {
@@ -168696,30 +168720,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-22T20:16:44+03:00"
-    },
-    {
-      "title": "ScooterFlow PS5",
-      "price": 286,
-      "price_string": "286 ₽",
-      "at": "2026-09-22T18:51:32+03:00"
-    },
-    {
-      "title": "Chernobylite",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-22T18:20:54+03:00"
-    },
-    {
-      "title": "Arma Reforger PS5",
-      "price": 431,
-      "price_string": "431 ₽",
-      "at": "2026-09-22T17:42:07+03:00"
-    },
-    {
-      "title": "Path of Exile 2 PS5",
-      "price": 287,
-      "price_string": "287 ₽",
-      "at": "2026-09-22T16:38:48+03:00"
     }
   ]
 }
