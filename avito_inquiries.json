@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T21:35:17+03:00",
-  "updated_at_msk": "25.09.2026 21:35",
+  "updated_at": "2026-09-25T22:35:55+03:00",
+  "updated_at_msk": "25.09.2026 22:35",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1187,
+  "total": 1189,
   "unique_games": 453,
   "in_demand": 65,
   "one_off": 327,
@@ -1039,7 +1039,7 @@
       "title": "EA sports fctm 27 PS4/PS5",
       "item_id": "8314561277",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/ea_sports_fctm_27_ps4ps5_8314561277",
-      "count": 51,
+      "count": 52,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1184,7 +1184,7 @@
         1,
         2,
         26,
-        51
+        52
       ],
       "hourly": [
         0,
@@ -1303,7 +1303,7 @@
         0,
         1,
         24,
-        25
+        26
       ],
       "price_series": [
         null,
@@ -1425,14 +1425,14 @@
         257
       ],
       "first_at": "2026-09-20T15:39:04+03:00",
-      "last_at": "2026-09-25T21:12:06+03:00"
+      "last_at": "2026-09-25T21:54:05+03:00"
     },
     {
       "id": "nhl-27-ps5",
       "title": "NHL 27 PS5",
       "item_id": "8355713865",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_ps5_8355713865",
-      "count": 51,
+      "count": 52,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1577,7 +1577,7 @@
         48,
         51,
         51,
-        51
+        52
       ],
       "hourly": [
         0,
@@ -1696,7 +1696,7 @@
         0,
         3,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -1818,7 +1818,7 @@
         257
       ],
       "first_at": "2026-09-05T21:51:28+03:00",
-      "last_at": "2026-09-23T12:18:59+03:00"
+      "last_at": "2026-09-25T22:07:52+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -170217,6 +170217,18 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-25T22:07:52+03:00"
+    },
+    {
+      "title": "EA sports fctm 27 PS4/PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-25T21:54:05+03:00"
+    },
+    {
       "title": "EA sports fctm 27 PS4/PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -170443,18 +170455,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-24T18:40:26+03:00"
-    },
-    {
-      "title": "Madison PS4/PS5",
-      "price": 200,
-      "price_string": "200 ₽",
-      "at": "2026-09-24T18:13:36+03:00"
-    },
-    {
-      "title": "Battlefield 1 PS4/PS5",
-      "price": 200,
-      "price_string": "200 ₽",
-      "at": "2026-09-24T17:13:25+03:00"
     }
   ]
 }
