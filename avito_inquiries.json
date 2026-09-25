@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T14:33:18+03:00",
-  "updated_at_msk": "25.09.2026 14:33",
+  "updated_at": "2026-09-25T15:33:50+03:00",
+  "updated_at_msk": "25.09.2026 15:33",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1173,
+  "total": 1174,
   "unique_games": 453,
   "in_demand": 65,
   "one_off": 327,
@@ -1432,7 +1432,7 @@
       "title": "EA sports fctm 27 PS4/PS5",
       "item_id": "8314561277",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/ea_sports_fctm_27_ps4ps5_8314561277",
-      "count": 38,
+      "count": 39,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1577,7 +1577,7 @@
         1,
         2,
         26,
-        38
+        39
       ],
       "hourly": [
         0,
@@ -1696,7 +1696,7 @@
         0,
         1,
         24,
-        12
+        13
       ],
       "price_series": [
         null,
@@ -1818,7 +1818,7 @@
         257
       ],
       "first_at": "2026-09-20T15:39:04+03:00",
-      "last_at": "2026-09-25T14:22:06+03:00"
+      "last_at": "2026-09-25T14:45:28+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -170219,6 +170219,12 @@
       "title": "EA sports fctm 27 PS4/PS5",
       "price": 257,
       "price_string": "257 ₽",
+      "at": "2026-09-25T14:45:28+03:00"
+    },
+    {
+      "title": "EA sports fctm 27 PS4/PS5",
+      "price": 257,
+      "price_string": "257 ₽",
       "at": "2026-09-25T14:22:06+03:00"
     },
     {
@@ -170448,12 +170454,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-24T10:39:25+03:00"
-    },
-    {
-      "title": "EA sports fctm 27 PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-24T10:22:24+03:00"
     }
   ]
 }
