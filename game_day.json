@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T02:01:16Z",
-  "server_time_utc": "2026-09-24T02:01:16Z",
+  "updated_at": "2026-09-25T02:01:05Z",
+  "server_time_utc": "2026-09-25T02:01:05Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-25T02:00:00Z",
-  "expires_at": "2026-09-25T02:00:00Z",
+  "next_rotation_at": "2026-09-26T02:00:00Z",
+  "expires_at": "2026-09-26T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-25T02:00:00Z"
+    "next_rotation_at": "2026-09-26T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "amnesia-collection-ps4-ps5",
+      "title": "Amnesia: Collection PS4/PS5",
+      "description": "Замок. Тьма. Воспоминания, которые не хотят умирать.  \nВ Amnesia: The Dark Descent вы просыпаетесь в пустом замке - и понимаете, что тут ждёт не просто страх, а что-то живое.  \n\nАдская машина. Дети на грани. Снова проснётся человек, который уже боялся сна.  \nВ Amnesia: A Machine For Pigs Освальд должен спасти своих детей - даже если это означает вступить в безумие.  \n\nА в Justine - вы сами становитесь жертвой разума, который не хочет вас оставить.  \nРискнете ли вы за других? Или просто пойдёте на убытие? 🤯  \n\nСмотрите, как игра сжигает мозг - и в то же время дарит глубокие ощущения.  \nАрендовать можно - пишите в чат 👇",
+      "image_url": "https://static.tildacdn.com/stor3061-3330-4066-b832-643739313534/79368395.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP1188/CUSA05457_00/FREE_CONTENTHwgrZ8GniZry0hxAYwaV/1.jpg",
+        "https://image.api.playstation.com/cdn/EP1188/CUSA05457_00/FREE_CONTENTBnDxaaZFfWqg1PnzhM1Y/2.jpg",
+        "https://image.api.playstation.com/cdn/EP1188/CUSA05457_00/FREE_CONTENTOuWFtAWX6aSFEBY88p2j/3.jpg",
+        "https://image.api.playstation.com/cdn/EP1188/CUSA05457_00/FREE_CONTENTNWGWGPMOXJTcnuzBMPQu/4.jpg",
+        "https://image.api.playstation.com/cdn/EP1188/CUSA05457_00/FREE_CONTENTV5HWhViKW5HIMj5xM0wk/5.jpg",
+        "https://image.api.playstation.com/cdn/EP1188/CUSA05457_00/FREE_CONTENTXhN9xrV9BimKuqFAQGjv/6.jpg",
+        "https://image.api.playstation.com/cdn/EP1188/CUSA05457_00/FREE_CONTENTHYQMjxjutTyw3FUwIoCB/7.jpg"
+      ],
+      "release_date": "22/11/2016",
+      "publisher": "FRICTIONAL GAMES AB",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.31,
+      "store_url": "https://store.playstation.com/en-tr/concept/221671",
+      "tilda_uid": "357783095222",
+      "sku": "",
+      "external_id": "uZp4ItbCRkjUdtMcRv5B",
+      "url": "http://arenapsgm.ru/tproduct/357783095222-amnesia-collection-ps4ps5",
+      "expires_at": "2026-09-26T02:00:00Z",
+      "published_at": "2026-09-25T02:01:05Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Замок, тьма, что-то живое - Amnesia: The Dark Descent.  \n\nОдна игра - и вы уже не разберёте, кто вас спасает или убил."
+    }
+  ],
+  "history": [
     {
       "slug": "topspin-2k25-ps4-ps5",
       "title": "Topspin 2к25 PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "rhdAv8h0SGDTBM7SaNHI",
       "url": "http://arenapsgm.ru/tproduct/486936473782-topspin-2k25-ps4ps5",
-      "expires_at": "2026-09-25T02:00:00Z",
       "published_at": "2026-09-24T02:01:16Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 490,
+          "14": 680,
+          "21": 970,
+          "28": 1260
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 590,
+          "14": 780,
+          "21": 1070,
+          "28": 1360
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 490,
+        "14": 680,
+        "21": 970,
+        "28": 1260
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "TopSpin 2k25 - теннис, который чувствуется на каждом ударе.  \n\nПодачи, физика, корти и локальные соревнования - всё как у реального тенниса. Сражайтесь с легендами или просто поиграйте с друзьями."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "immortal-fenix-ps4-ps5",
       "title": "Immortal Fenix PS4/PS5",
@@ -2988,56 +3038,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Звёздный Лорд - герой, который тянет на бой своих кумов и выжигает из них силу.  \n\nБоевик с юмором и драйвом от Marvel - настоящий галактический адреналин без лишних слов."
-    },
-    {
-      "slug": "dishonored-2-ps4-ps5",
-      "title": "Dishonored 2 PS4/PS5",
-      "description": "Джеймс снова - ассасин с божественными способностями. В Dishonored 2 вы вновь погружаетесь в мир, где каждый шаг может превратиться в молчаливую угрозу или внезапный удар по сердцу.  \n\nИгра получила ревизию от мировых критиков: IGN - «удивительная», Eurogamer - «шедевр», Game Informer - «одна из лучших историй о мести в жанре».  \n\nЭто не просто продолжение, это полноценный боевой сериал с душой, напряжением и хитрыми сюжетными поворотами. Просто наслаждайтесь - не пропустите. 💥",
-      "image_url": "https://static.tildacdn.com/stor6234-3034-4439-b737-386639356438/59439882.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/cdn/UP1003/CUSA03642_00/FREE_CONTENTm5uDLMNeYfZ9GU3DEKcj/PREVIEW_SCREENSHOT10_117182.jpg",
-        "https://image.api.playstation.com/cdn/UP1003/CUSA03642_00/FREE_CONTENTSyKCjdDjjRDxg98WfF2I/PREVIEW_SCREENSHOT9_117182.jpg",
-        "https://image.api.playstation.com/cdn/UP1003/CUSA03642_00/FREE_CONTENTG5IrLFJhYPZxqh2QejMD/PREVIEW_SCREENSHOT8_117182.jpg",
-        "https://image.api.playstation.com/cdn/UP1003/CUSA03642_00/FREE_CONTENTvENMVGS2D17K99r04SFW/PREVIEW_SCREENSHOT7_117182.jpg",
-        "https://image.api.playstation.com/cdn/UP1003/CUSA03642_00/FREE_CONTENTkCUYiaidGjr4XMwogmQ9/PREVIEW_SCREENSHOT6_117182.jpg",
-        "https://image.api.playstation.com/cdn/UP1003/CUSA03642_00/FREE_CONTENT6BzKrbD0rogIn8w1kER6/PREVIEW_SCREENSHOT5_117182.jpg",
-        "https://image.api.playstation.com/cdn/UP1003/CUSA03642_00/FREE_CONTENTo4oQN90PtNAw981pRbNy/PREVIEW_SCREENSHOT4_117182.jpg"
-      ],
-      "release_date": "11/11/2016",
-      "publisher": "Bethesda",
-      "platforms": "PS4",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.46,
-      "store_url": "https://store.playstation.com/en-tr/concept/201017",
-      "tilda_uid": "599186053002",
-      "sku": "",
-      "external_id": "IuMPHdyezNvdMSTPtdEo",
-      "url": "http://arenapsgm.ru/tproduct/599186053002-dishonored-2-ps4ps5",
-      "published_at": "2026-07-29T12:14:25Z",
-      "prices": {
-        "p2": {
-          "7": 290,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 390,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 290,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Джеймс снова - ассасин с божественной силой.  \n\nIGN, Eurogamer и Game Informer назвали игру «удивительной», «шедевром» и одной из лучших историй о мести."
     }
   ]
 }
