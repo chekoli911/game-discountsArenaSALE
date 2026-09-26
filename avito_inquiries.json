@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-26T09:37:13+03:00",
-  "updated_at_msk": "26.09.2026 09:37",
+  "updated_at": "2026-09-26T11:38:58+03:00",
+  "updated_at_msk": "26.09.2026 11:38",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1191,
+  "total": 1193,
   "unique_games": 453,
   "in_demand": 65,
   "one_off": 327,
@@ -1047,7 +1047,7 @@
       "title": "EA sports fctm 27 PS4/PS5",
       "item_id": "8314561277",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/ea_sports_fctm_27_ps4ps5_8314561277",
-      "count": 54,
+      "count": 56,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1193,7 +1193,7 @@
         2,
         26,
         53,
-        54
+        56
       ],
       "hourly": [
         0,
@@ -1313,7 +1313,7 @@
         1,
         24,
         27,
-        1
+        3
       ],
       "price_series": [
         null,
@@ -1436,7 +1436,7 @@
         257
       ],
       "first_at": "2026-09-20T15:39:04+03:00",
-      "last_at": "2026-09-26T07:07:10+03:00"
+      "last_at": "2026-09-26T10:33:09+03:00"
     },
     {
       "id": "nhl-27-ps5",
@@ -171581,6 +171581,18 @@
       "title": "EA sports fctm 27 PS4/PS5",
       "price": 257,
       "price_string": "257 ₽",
+      "at": "2026-09-26T10:33:09+03:00"
+    },
+    {
+      "title": "EA sports fctm 27 PS4/PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-26T10:00:56+03:00"
+    },
+    {
+      "title": "EA sports fctm 27 PS4/PS5",
+      "price": 257,
+      "price_string": "257 ₽",
       "at": "2026-09-26T07:07:10+03:00"
     },
     {
@@ -171804,18 +171816,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-24T20:47:18+03:00"
-    },
-    {
-      "title": "EA sports fctm 27 PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-24T20:26:07+03:00"
-    },
-    {
-      "title": "EA sports fctm 27 PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-24T19:21:37+03:00"
     }
   ]
 }
