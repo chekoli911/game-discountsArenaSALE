@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-26T11:38:58+03:00",
-  "updated_at_msk": "26.09.2026 11:38",
+  "updated_at": "2026-09-26T12:39:03+03:00",
+  "updated_at_msk": "26.09.2026 12:39",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1193,
+  "total": 1194,
   "unique_games": 453,
   "in_demand": 65,
   "one_off": 327,
@@ -1047,7 +1047,7 @@
       "title": "EA sports fctm 27 PS4/PS5",
       "item_id": "8314561277",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/ea_sports_fctm_27_ps4ps5_8314561277",
-      "count": 56,
+      "count": 57,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1193,7 +1193,7 @@
         2,
         26,
         53,
-        56
+        57
       ],
       "hourly": [
         0,
@@ -1313,7 +1313,7 @@
         1,
         24,
         27,
-        3
+        4
       ],
       "price_series": [
         null,
@@ -1436,7 +1436,7 @@
         257
       ],
       "first_at": "2026-09-20T15:39:04+03:00",
-      "last_at": "2026-09-26T10:33:09+03:00"
+      "last_at": "2026-09-26T12:33:14+03:00"
     },
     {
       "id": "nhl-27-ps5",
@@ -171581,6 +171581,12 @@
       "title": "EA sports fctm 27 PS4/PS5",
       "price": 257,
       "price_string": "257 ₽",
+      "at": "2026-09-26T12:33:14+03:00"
+    },
+    {
+      "title": "EA sports fctm 27 PS4/PS5",
+      "price": 257,
+      "price_string": "257 ₽",
       "at": "2026-09-26T10:33:09+03:00"
     },
     {
@@ -171810,12 +171816,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-24T21:08:35+03:00"
-    },
-    {
-      "title": "EA sports fctm 27 PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-24T20:47:18+03:00"
     }
   ]
 }
