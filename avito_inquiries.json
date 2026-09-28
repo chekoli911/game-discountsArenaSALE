@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-29T01:50:26+03:00",
-  "updated_at_msk": "29.09.2026 01:50",
+  "updated_at": "2026-09-29T02:50:33+03:00",
+  "updated_at_msk": "29.09.2026 02:50",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1301,
+  "total": 1302,
   "unique_games": 486,
   "in_demand": 69,
   "one_off": 346,
@@ -4709,13 +4709,14 @@
       "title": "The Blood of Dawnwalker - Eclipse Edition PS5",
       "item_id": "8277143946",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/the_blood_of_dawnwalker_-_eclipse_edition_ps5_8277143946",
-      "count": 16,
+      "count": 17,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
       "max_price": 257,
       "last_price": 257,
       "prices": [
+        257,
         257,
         257,
         257,
@@ -4854,7 +4855,7 @@
         15,
         16,
         16,
-        16
+        17
       ],
       "hourly": [
         0,
@@ -4977,7 +4978,7 @@
         0,
         1,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -5103,7 +5104,7 @@
         257
       ],
       "first_at": "2026-09-02T16:14:48+03:00",
-      "last_at": "2026-09-27T21:02:58+03:00"
+      "last_at": "2026-09-29T02:17:21+03:00"
     },
     {
       "id": "aliens-fireteam-elite-2-ps5",
@@ -188442,6 +188443,12 @@
   ],
   "recent": [
     {
+      "title": "The Blood of Dawnwalker - Eclipse Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-29T02:17:21+03:00"
+    },
+    {
       "title": "Unholy PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -188674,12 +188681,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-27T21:02:58+03:00"
-    },
-    {
-      "title": "EA sports fctm 27 PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-27T20:42:18+03:00"
     }
   ]
 }
