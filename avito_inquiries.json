@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-28T03:46:26+03:00",
-  "updated_at_msk": "28.09.2026 03:46",
+  "updated_at": "2026-09-28T04:46:33+03:00",
+  "updated_at_msk": "28.09.2026 04:46",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1270,
+  "total": 1271,
   "unique_games": 479,
   "in_demand": 69,
   "one_off": 343,
@@ -2671,16 +2671,16 @@
       "title": "NBA 2K27 Deluxe Edition PS5",
       "item_id": "8277478359",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nba_2k27_deluxe_edition_ps5_8277478359",
-      "count": 20,
+      "count": 21,
       "demand": "high",
-      "avg_price": 303,
+      "avg_price": 301,
       "min_price": 257,
       "max_price": 697,
       "last_price": 257,
       "prices": [
         497,
-        497,
         697,
+        257,
         257,
         257,
         257,
@@ -2819,7 +2819,7 @@
         20,
         20,
         20,
-        20
+        21
       ],
       "hourly": [
         0,
@@ -2941,7 +2941,7 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -3066,7 +3066,7 @@
         257
       ],
       "first_at": "2026-08-21T08:01:42+03:00",
-      "last_at": "2026-09-10T21:58:47+03:00"
+      "last_at": "2026-09-28T04:25:02+03:00"
     },
     {
       "id": "ea-sports-fc-27-ultimate-plus-edition-ps4-ps5",
@@ -184285,6 +184285,12 @@
   ],
   "recent": [
     {
+      "title": "NBA 2K27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-28T04:25:02+03:00"
+    },
+    {
       "title": "Microsoft Flight Simulator 2024 PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -184517,12 +184523,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-27T12:09:35+03:00"
-    },
-    {
-      "title": "EA sports fctm 27 PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-27T11:48:56+03:00"
     }
   ]
 }
