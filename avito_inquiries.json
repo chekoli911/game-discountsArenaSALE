@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-28T15:48:27+03:00",
-  "updated_at_msk": "28.09.2026 15:48",
+  "updated_at": "2026-09-28T16:48:40+03:00",
+  "updated_at_msk": "28.09.2026 16:48",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1285,
+  "total": 1286,
   "unique_games": 480,
   "in_demand": 69,
   "one_off": 342,
@@ -661,7 +661,7 @@
       "title": "EA sports fctm 27 PS4/PS5",
       "item_id": "8314561277",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/ea_sports_fctm_27_ps4ps5_8314561277",
-      "count": 76,
+      "count": 77,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -809,7 +809,7 @@
         53,
         63,
         74,
-        76
+        77
       ],
       "hourly": [
         0,
@@ -931,7 +931,7 @@
         27,
         10,
         11,
-        2
+        3
       ],
       "price_series": [
         null,
@@ -1056,7 +1056,7 @@
         257
       ],
       "first_at": "2026-09-20T15:39:04+03:00",
-      "last_at": "2026-09-28T13:31:48+03:00"
+      "last_at": "2026-09-28T16:00:58+03:00"
     },
     {
       "id": "nhl-27-deluxe-edition-ps5",
@@ -184677,6 +184677,12 @@
   ],
   "recent": [
     {
+      "title": "EA sports fctm 27 PS4/PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-28T16:00:58+03:00"
+    },
+    {
       "title": "OpsCam - Body Cam Shooter PS4",
       "price": 257,
       "price_string": "257 ₽",
@@ -184909,12 +184915,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-27T15:45:06+03:00"
-    },
-    {
-      "title": "Total Chaos PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-27T15:41:31+03:00"
     }
   ]
 }
