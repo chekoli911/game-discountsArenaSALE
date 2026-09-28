@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-27T02:01:37Z",
-  "server_time_utc": "2026-09-27T02:01:37Z",
+  "updated_at": "2026-09-28T02:01:04Z",
+  "server_time_utc": "2026-09-28T02:01:04Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-28T02:00:00Z",
-  "expires_at": "2026-09-28T02:00:00Z",
+  "next_rotation_at": "2026-09-29T02:00:00Z",
+  "expires_at": "2026-09-29T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,62 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-28T02:00:00Z"
+    "next_rotation_at": "2026-09-29T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "virtua-fighter-5-ultimate-showdown-ps4-ps5",
+      "title": "Virtua Fighter 5: Ultimate Showdown PS4/PS5",
+      "description": "🔥 Новинка от легендарной серии Virtua Fighter - Virtua Fighter 5: Ultimate Showdown!  \n\nГотовы к битве? Теперь с гиперреалистичной графикой, свежими механиками и всеми темами, которые делали оригинал незабываемым. Бросайте вызов лучшим бойцам в аркадном или рейтинговом режиме - и даже с друзьями до 16 человек!  \n\nСоздавайте свои турниры, участвуйте в лигах, наблюдайте за боем как эксперт - и отточите мастерство в рамках пятого мирового турнира.  \n\nВсё это - без потерь, с бешеным драйвом и настоящим духом файтинга.",
+      "image_url": "https://static.tildacdn.com/stor3732-6138-4331-b366-316137316232/53195496.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/ZzLRQtL4BLR9B9odvYoSZ2Cv.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/iimvJR5FaYW6ksYAuaqRQHHJ.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/3kFKSuslqy3XraDyGUe64bXM.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/fhwSvindCBsTWkQp6ImImAs9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/8Pzn6FnkZR6CEKbBxpmz78a3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/ph1LDWtGjsGloJWIt9sXat7V.jpg"
+      ],
+      "release_date": "1/6/2021",
+      "publisher": "SEGA EUROPE LTD",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 3.97,
+      "store_url": "https://store.playstation.com/en-tr/concept/10000743",
+      "tilda_uid": "655591817152",
+      "sku": "",
+      "external_id": "xkOfsU3TuSpboBZ6P9Ju",
+      "url": "http://arenapsgm.ru/tproduct/655591817152-virtua-fighter-5-ultimate-showdown-ps4ps",
+      "expires_at": "2026-09-29T02:00:00Z",
+      "published_at": "2026-09-28T02:01:04Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Virtua Fighter 5: Ultimate Showdown - новая эпоха файтинга с гиперреалистичной графикой и мощными механиками.  \nБои до 16 игроков, турниры, лиги - всё в одном движке, без потерь и с настоящим драйвом."
+    }
+  ],
+  "history": [
     {
       "slug": "crash-bandicoot-4-it-s-about-time-ps4-ps5",
       "title": "Crash Bandicoot 4: It’s About Time PS4/PS5",
@@ -50,34 +102,31 @@
       "sku": "",
       "external_id": "DSHdLv9RokJU0KlmR6Kc",
       "url": "http://arenapsgm.ru/tproduct/972416470462-crash-bandicoot-4-its-about-time-ps4ps5",
-      "expires_at": "2026-09-28T02:00:00Z",
       "published_at": "2026-09-27T02:01:37Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Крэш и Коко сражаются не за мир, а за всю мультивселенную.  \n\nНовые маски, боссы с улыбкой, джорты из другой вселенной - всё как в классике, но мощнее."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "nba23-ps4-ps5",
       "title": "NBA23 PS4/PS5",
@@ -2988,56 +3037,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "В Empire of the Ants вы - глава колонии муравьев, где каждый шаг - битва.  \nЖарко, хитро и реально: стройте города, боритесь с кланами и живите в лесу без выхода."
-    },
-    {
-      "slug": "skull-and-bones-ps5",
-      "title": "SKULL AND BONES PS5",
-      "description": "Пиратская буря уже начинается. 🏴‍☠️  \n\nSKULL AND BONES - это не просто морской экшн, а настоящий пиратский флот под твоим управлением: строй корабли, настрой пушки и веди битвы с грозным оружием. Каждое сражение - как в бою за власть на море.  \n\nТы не один - можно продержаться вместе с дружными пиратами, делиться заданиями и шарить по миру, где штормы, чудища и тёмные силы ждут каждого.  \n\nОткрой мир, полный опасностей и приключений. Играй 6 часов бесплатно - всё прогресс сохранится, если решится купить полную версию.  \n\nАрендуем по запросу - пиши сюда 📩 @ArenaPSGMadmin",
-      "image_url": "https://static.tildacdn.com/stor3661-3436-4334-a136-393831653036/74903491.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/4219e8703682e26a0e4ce99c24cc61524b95074872ecf8fa.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/dc61d21a35e3d62d001c923547d87c1aa672a2ccf436b0ae.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/8dc4cc2b07306d92d284b08f1b0880690e8ce6f439264b5a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/74b381b7d97111898055e3269af9c62c33d93ab8899a5606.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/9ff16f5c6dc443e0db7af792771ebc8ac31eab9c2ddc263b.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/f252b40eba3cd7432f15d3a11077b1d156a7b43907133342.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/a1784ca3b9e8bd143294e55393ab56096e516fd7ea26769c.jpg"
-      ],
-      "release_date": "16/2/2024",
-      "publisher": "Ubisoft",
-      "platforms": "PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 2.85,
-      "store_url": "https://store.playstation.com/en-tr/concept/225700",
-      "tilda_uid": "472770564572",
-      "sku": "",
-      "external_id": "CG5o0V42Pz9HzmSyMCNR",
-      "url": "http://arenapsgm.ru/tproduct/472770564572-skull-and-bones-ps5",
-      "published_at": "2026-08-01T04:25:13Z",
-      "prices": {
-        "p2": {
-          "7": 349,
-          "14": 549,
-          "21": 645,
-          "28": 745
-        },
-        "p3": {
-          "7": 449,
-          "14": 649,
-          "21": 745,
-          "28": 845
-        }
-      },
-      "prices_p2": {
-        "7": 349,
-        "14": 549,
-        "21": 645,
-        "28": 745
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Пиратская буря уже наступила - в SKULL AND BONES ты командуешь флотом и ведёшь бои на море.  \n\nСражайся, объединяйся с пиратами и проникай в мир штормов, чудищ и тёмной силы - всё бесплатно, прогресс сохранится."
     }
   ]
 }
