@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-28T02:01:04Z",
-  "server_time_utc": "2026-09-28T02:01:04Z",
+  "updated_at": "2026-09-29T02:01:21Z",
+  "server_time_utc": "2026-09-29T02:01:21Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-29T02:00:00Z",
-  "expires_at": "2026-09-29T02:00:00Z",
+  "next_rotation_at": "2026-09-30T02:00:00Z",
+  "expires_at": "2026-09-30T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-29T02:00:00Z"
+    "next_rotation_at": "2026-09-30T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "banishers-ghosts-of-new-eden-ps5",
+      "title": "Banishers: Ghosts of New Eden PS5",
+      "description": "Нью-Иден, 1695 год. Антея и Ред - охотники на призраков, влюбленные изгнатели, которые пообещали защитить живых от ненавистных теней. Но когда Антея погибает и превращается в призрака, их мир рушится. Теперь они ищут способ вернуть её - на фоне глубокой нежити и загадочных тайн.\n\nИгра кипит эмоциями: любовь, жертвы, моральные дилеммы. Вы выберете, как вести себя - за Антеей или Редом, с колдовством, оружием или просто решением нести ответственность. Каждое действие влияет на судьбу мира и персонажей: живых и мёртвых.\n\nСекреты Нью-Идена - в каждом шаге. Раскрываете древние тайны, уничтожаете призраков, а иногда - и сами нарушаёте правила охотников. Всё это - как в классических играх DON’T NOD: сильные выборы, глубокие персонажи и мир, где мёртвые не просто пропадают - они живут.\n\nГотовы нарушить клятву ради любви? Всё зависит от вас.",
+      "image_url": "https://static.tildacdn.com/stor3634-6533-4234-b331-306331313034/38526126.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/62ff4cf508ffbf813b98bf16d00a985ada34d70749fbbce0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/4c57d56a87f9e00729443a1f0b0b9ebf9bae97390e8376a7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/8b2b9e9e1b30fd13e6e26e72c5b75a72398256ee5eb641d0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/380cabd326f49f8d96f16f49aa663b832a78e823d6d255f7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/82357eb59d2bab6641230c4873ba4643cb88f5ffea5a193c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/6a1efae75c0bffd750124bb5e2f1f7ba9ceb39afe19d6f8e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/5a08f8d3ae2b4256890ec6541092c0bae291f68ee75db48b.jpg"
+      ],
+      "release_date": "13/2/2024",
+      "publisher": "Focus Entertainment",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.28,
+      "store_url": "https://store.playstation.com/en-tr/concept/10006098",
+      "tilda_uid": "813677535532",
+      "sku": "",
+      "external_id": "PDfujhnRJlub2JczT1f6",
+      "url": "http://arenapsgm.ru/tproduct/813677535532-banishers-ghosts-of-new-eden-ps5",
+      "expires_at": "2026-09-30T02:00:00Z",
+      "published_at": "2026-09-29T02:01:21Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Нью-Иден 1695 года: Антея погибает, превращается в призрака - теперь Ред ищет способы вернуть её.  \n\nЛюбовь, жертвы, выборы - вы решаете, за кем стоять, как бороться и нарушать правила. Мир живёт и мёртвый - всё зависит от вас."
+    }
+  ],
+  "history": [
     {
       "slug": "virtua-fighter-5-ultimate-showdown-ps4-ps5",
       "title": "Virtua Fighter 5: Ultimate Showdown PS4/PS5",
@@ -49,34 +102,31 @@
       "sku": "",
       "external_id": "xkOfsU3TuSpboBZ6P9Ju",
       "url": "http://arenapsgm.ru/tproduct/655591817152-virtua-fighter-5-ultimate-showdown-ps4ps",
-      "expires_at": "2026-09-29T02:00:00Z",
       "published_at": "2026-09-28T02:01:04Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Virtua Fighter 5: Ultimate Showdown - новая эпоха файтинга с гиперреалистичной графикой и мощными механиками.  \nБои до 16 игроков, турниры, лиги - всё в одном движке, без потерь и с настоящим драйвом."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "crash-bandicoot-4-it-s-about-time-ps4-ps5",
       "title": "Crash Bandicoot 4: It’s About Time PS4/PS5",
@@ -2987,56 +3037,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Крестоносец в плаще улетает в космос с дружбой и битвами – ты тоже можешь стать его союзником.  \n\nСобери Сияющие кольца, пролети по мирам и останови Брейниака перед тем, как он разрушит Землю."
-    },
-    {
-      "slug": "empire-of-the-ants-ps5",
-      "title": "Empire Of The Ants PS5",
-      "description": "Почему-то у вас в доме живёт целый лес из муравьев.  \nНо не просто лес - это бурный, жестокий и невероятно хитрый мир, где каждый муравей - сила, а каждая тропа - шанс на выживание.  \n\nВ Empire of the Ants вы не просто наблюдаете за природой - вы входите в её сердце. Управляете колонией, строите города, разбиваете линии и боретесь с другими кланами.  \n\nГотовы к засадам, стратегиям и жестоким победам? Это не просто игра - это жара в голове.",
-      "image_url": "https://static.tildacdn.com/stor3138-6636-4539-b137-663237356430/29724351.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/154427439e656732aef4cbddfe4e3f9fa15fdc44d8bdf412.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/091978a477c875f15627bf6db4cb9288d00590e2844c9db0.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/c11dcec03028d5e712eea36b9be3fa8fb1290f7a95de78b2.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/769d1eb9151e1b7c8921f6ccf4afbb9c1f8016b560b2040f.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/cceaa74d6b4e4996cff2944c7ed280aae8e3a2ac0c4ee90c.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/3525897ee8cb2c515ab716785fb355c6e209a0b73f06e685.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/cf4688ab91a0f4ffb86e848d17b6a247e985d63d6bf21000.jpg"
-      ],
-      "release_date": "4/11/2024",
-      "publisher": "Microids",
-      "platforms": "PS5",
-      "voice": "",
-      "text_translation": "Русский, Английский",
-      "rating": 4.12,
-      "store_url": "https://store.playstation.com/en-tr/concept/10007652",
-      "tilda_uid": "436287275002",
-      "sku": "",
-      "external_id": "sSloSUdBvreiJT6F20cD",
-      "url": "http://arenapsgm.ru/tproduct/436287275002-empire-of-the-ants-ps5",
-      "published_at": "2026-08-01T12:16:28Z",
-      "prices": {
-        "p2": {
-          "7": 280,
-          "14": 412,
-          "21": 692,
-          "28": 752
-        },
-        "p3": {
-          "7": 380,
-          "14": 512,
-          "21": 792,
-          "28": 852
-        }
-      },
-      "prices_p2": {
-        "7": 280,
-        "14": 412,
-        "21": 692,
-        "28": 752
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "В Empire of the Ants вы - глава колонии муравьев, где каждый шаг - битва.  \nЖарко, хитро и реально: стройте города, боритесь с кланами и живите в лесу без выхода."
     }
   ]
 }
