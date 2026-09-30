@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-30T09:27:20+03:00",
-  "updated_at_msk": "30.09.2026 09:27",
+  "updated_at": "2026-09-30T10:27:26+03:00",
+  "updated_at_msk": "30.09.2026 10:27",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1339,
+  "total": 1340,
   "unique_games": 498,
   "in_demand": 72,
   "one_off": 356,
@@ -3527,13 +3527,14 @@
       "title": "EA sports FC 27 Ultimate Edition PS4 & PS5",
       "item_id": "8276915748",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/ea_sports_fc_27_ultimate_edition_ps4_ps5_8276915748",
-      "count": 19,
+      "count": 20,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
       "max_price": 257,
       "last_price": 257,
       "prices": [
+        257,
         257,
         257,
         257,
@@ -3676,7 +3677,7 @@
         14,
         17,
         19,
-        19
+        20
       ],
       "hourly": [
         0,
@@ -3800,7 +3801,7 @@
         1,
         3,
         2,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -3927,7 +3928,7 @@
         257
       ],
       "first_at": "2026-08-28T10:12:25+03:00",
-      "last_at": "2026-09-29T13:40:28+03:00"
+      "last_at": "2026-09-30T09:47:05+03:00"
     },
     {
       "id": "nba-2k27-ultra-edition-ps5",
@@ -194590,6 +194591,12 @@
   ],
   "recent": [
     {
+      "title": "EA sports FC 27 Ultimate Edition PS4 & PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-09-30T09:47:05+03:00"
+    },
+    {
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -194822,12 +194829,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-28T23:10:54+03:00"
-    },
-    {
-      "title": "Dead Nation: Apocalypse Edition PS4",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-09-28T23:03:56+03:00"
     }
   ]
 }
