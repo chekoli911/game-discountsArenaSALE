@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-29T02:01:21Z",
-  "server_time_utc": "2026-09-29T02:01:21Z",
+  "updated_at": "2026-09-30T02:01:10Z",
+  "server_time_utc": "2026-09-30T02:01:10Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-09-30T02:00:00Z",
-  "expires_at": "2026-09-30T02:00:00Z",
+  "next_rotation_at": "2026-10-01T02:00:00Z",
+  "expires_at": "2026-10-01T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-09-30T02:00:00Z"
+    "next_rotation_at": "2026-10-01T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "job-simulator-ps4-amp-ps5",
+      "title": "Job Simulator PS4 &amp; PS5",
+      "description": "Черви снова на бattle! 🐛🔥  \n\nВот он - новый апдейт в Worms W.M.D: 30 уровней, новое оружие и машины, здания для строительства. Война с максимум 5 противниками - и каждый может взять на себя команду из 8 червей.  \n\nБетонный осел, святая ручная граната, вертолёты, танки - у вас есть 80 способов уничтожить врага. Погрузитесь в хаос и салютируйте каждому нажатию на мышь!  \n\nИгра подходит для тех, кто любит весело и безумно браться за штык - будь то локально или онлайн.",
+      "image_url": "https://static.tildacdn.com/stor3136-3363-4736-b035-663331646664/35519275.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/UP0503/CUSA05818_00/FREE_CONTENTrtNLnsTV4SD1RDmWT6qL/get_image2.jpg",
+        "https://image.api.playstation.com/cdn/UP0503/CUSA05818_00/FREE_CONTENT8WecExxAnsjXuTs6DbTd/PREVIEW_SCREENSHOT9_118543.jpg",
+        "https://image.api.playstation.com/cdn/UP0503/CUSA05818_00/FREE_CONTENTccJ7l0T1oUCzHTmKszCY/PREVIEW_SCREENSHOT10_118543.jpg",
+        "https://image.api.playstation.com/cdn/UP0503/CUSA05818_00/FREE_CONTENT8WA9yyt7r25Azmva8Cg0/PREVIEW_SCREENSHOT8_118543.jpg",
+        "https://image.api.playstation.com/cdn/UP0503/CUSA05818_00/FREE_CONTENThw08unXUY4WkmSwevchY/PREVIEW_SCREENSHOT7_118543.jpg",
+        "https://image.api.playstation.com/cdn/UP0503/CUSA05818_00/FREE_CONTENTW5aXIAseLNkRctyMJaFc/PREVIEW_SCREENSHOT6_118543.jpg",
+        "https://image.api.playstation.com/cdn/UP0503/CUSA05818_00/FREE_CONTENTyxvG7arTN1MYhVUQ03vX/PREVIEW_SCREENSHOT5_118543.jpg"
+      ],
+      "release_date": "22/2/2023",
+      "publisher": "OWLCHEMY LABS LLC.",
+      "platforms": "PS4, PS5",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.06,
+      "store_url": "https://store.playstation.com/en-tr/concept/221911",
+      "tilda_uid": "830239316762",
+      "sku": "",
+      "external_id": "rLllycTxbL1N1lZ5YHgp",
+      "url": "http://arenapsgm.ru/tproduct/830239316762-job-simulator-ps4-amp-ps5",
+      "expires_at": "2026-10-01T02:00:00Z",
+      "published_at": "2026-09-30T02:01:10Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Черви вновь в бою - апдейт с 30 уровнями, новыми оружиями и машинами!  \n\nТанки, вертолёты, гранаты - 80 способов уничтожить врага. Хаос для тех, кто любит браться за штык."
+    }
+  ],
+  "history": [
     {
       "slug": "banishers-ghosts-of-new-eden-ps5",
       "title": "Banishers: Ghosts of New Eden PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "PDfujhnRJlub2JczT1f6",
       "url": "http://arenapsgm.ru/tproduct/813677535532-banishers-ghosts-of-new-eden-ps5",
-      "expires_at": "2026-09-30T02:00:00Z",
       "published_at": "2026-09-29T02:01:21Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 359,
+          "14": 499,
+          "21": 545,
+          "28": 645
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 459,
+          "14": 599,
+          "21": 645,
+          "28": 745
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 359,
+        "14": 499,
+        "21": 545,
+        "28": 645
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Нью-Иден 1695 года: Антея погибает, превращается в призрака - теперь Ред ищет способы вернуть её.  \n\nЛюбовь, жертвы, выборы - вы решаете, за кем стоять, как бороться и нарушать правила. Мир живёт и мёртвый - всё зависит от вас."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "virtua-fighter-5-ultimate-showdown-ps4-ps5",
       "title": "Virtua Fighter 5: Ultimate Showdown PS4/PS5",
@@ -2989,54 +3039,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Новая игра дня - в твои руки!  \nДоступно через приватную группу и чат канала. Оставь отзыв после игры."
-    },
-    {
-      "slug": "lego-batman-3-pokidaya-gotem-ps4-ps5",
-      "title": "LEGO Batman 3: Покидая Готэм PS4/PS5",
-      "description": "Крестоносец в плаще - на космических вылазках, с дружбой и битвами. Всё, что нужно - это объединиться со супергероями DC и улететь в космос.  \n\nБрейниак собирает Сияющие кольца, чтобы уничтожить Землю. А ты - главный герой, который должен остановить его, пока не поздно.  \n\nСобери кольца, пролети по всем мирам и выиграешь битву с самым опасным злодеем вселенной.  \n\nИгра вдохновляет на дружбу, смелость и командную работу - как в самом настоящем DC-мультсериале.",
-      "image_url": "https://static.tildacdn.com/stor6564-3063-4033-b766-663532396362/1a2274e3f5fe17687e920c628a2dfd22.webp",
-      "screenshots": [
-        "https://static.tildacdn.com/stor6564-3063-4033-b766-663532396362/1a2274e3f5fe17687e920c628a2dfd22.webp",
-        "https://static.tildacdn.com/stor3863-3031-4635-b065-316335353738/21aa7615e82828b2ac72fb9783290161.jpg",
-        "https://static.tildacdn.com/stor3764-3664-4338-b336-306439383331/90033148b93930579464448df875b826.jpg",
-        "https://static.tildacdn.com/stor3262-3330-4662-b566-323466626235/7fd15d89ee9b0f21152f12031751d579.jpg",
-        "https://static.tildacdn.com/stor6263-6265-4337-a636-643837366662/0c405a5105fed90c997cc7457acd17e0.jpg"
-      ],
-      "release_date": "",
-      "publisher": "",
-      "platforms": "",
-      "voice": "",
-      "text_translation": "",
-      "rating": null,
-      "store_url": "",
-      "tilda_uid": "956334717592",
-      "sku": "",
-      "external_id": "4DKVBxJR3G4Nem28Tydb",
-      "url": "http://arenapsgm.ru/tproduct/956334717592-lego-batman-3-pokidaya-gotem-ps4ps5",
-      "published_at": "2026-08-02T12:17:12Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Крестоносец в плаще улетает в космос с дружбой и битвами – ты тоже можешь стать его союзником.  \n\nСобери Сияющие кольца, пролети по мирам и останови Брейниака перед тем, как он разрушит Землю."
     }
   ]
 }
