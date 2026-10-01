@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-30T02:01:10Z",
-  "server_time_utc": "2026-09-30T02:01:10Z",
+  "updated_at": "2026-10-01T07:33:04Z",
+  "server_time_utc": "2026-10-01T07:33:04Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-01T02:00:00Z",
-  "expires_at": "2026-10-01T02:00:00Z",
+  "next_rotation_at": "2026-10-02T02:00:00Z",
+  "expires_at": "2026-10-02T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,62 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-01T02:00:00Z"
+    "next_rotation_at": "2026-10-02T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "dirt-rally-ps4-ps5",
+      "title": "Dirt Rally PS4/PS5",
+      "description": "ДиРт Ралли 2.0 - это не просто гонка, а настоящий ралли-тур по землям с разрушительной природой и волшебными поворотами. Пробегай по миру: от джунглей до пустынь - всё под рукой.\n\nТы будешь управлять самыми мощными внедорожниками, что только могли представить инженеры. Но если не держишь руль в руках - лёд и грязь быстро съедят твой прогресс.\n\nГонки требуют острого зрения, реакции и чуть-чуть боязни ошибиться. Потому что один шаг назад - и этап заканчивается. А это не просто конец, а полная катастрофа на трассе.  \n\nМожешь попробовать - без лишних слов, только в деле.",
+      "image_url": "https://static.tildacdn.com/stor3362-6638-4139-b462-626531306161/88470211.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP4001/CUSA12747_00/FREE_CONTENTQiT7jo7gF2o1ETBrDVKi/DR2.0_01.jpg",
+        "https://image.api.playstation.com/cdn/EP4001/CUSA12747_00/FREE_CONTENTsAku60szXwmERmms1WKU/DR2.0_02.jpg",
+        "https://image.api.playstation.com/cdn/EP4001/CUSA12747_00/FREE_CONTENTBXMZyFCt19UnRXPiyAo3/DR2.0_03.jpg",
+        "https://image.api.playstation.com/cdn/EP4001/CUSA12747_00/FREE_CONTENTT8m2cD9JrZcj6dm5UvK2/DR2.0_04.jpg",
+        "https://image.api.playstation.com/cdn/EP4001/CUSA12747_00/FREE_CONTENT8z2kye26rZFRQTr7CX8J/DR2.0_05.jpg",
+        "https://image.api.playstation.com/cdn/EP4001/CUSA12747_00/FREE_CONTENTlcD7yuFi7Vb6oMEZ2PQR/DR2.0_06.jpg"
+      ],
+      "release_date": "26/2/2019",
+      "publisher": "ELECTRONIC ARTS",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.0,
+      "store_url": "https://store.playstation.com/en-tr/concept/232437",
+      "tilda_uid": "397756498812",
+      "sku": "",
+      "external_id": "UFdkBZEvuuy4lVZ7xjmz",
+      "url": "http://arenapsgm.ru/tproduct/397756498812-dirt-rally-ps4ps5",
+      "expires_at": "2026-10-02T02:00:00Z",
+      "published_at": "2026-10-01T07:33:04Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "ДиРт Ралли 2.0 - ралли в мире, где лёд, грязь и повороты не просто задают тон, а разрушают всё, что не держится на руле.  \nОдин шаг назад - и гонка закончена. Всё. Только действуй - без слов, только в деле."
+    }
+  ],
+  "history": [
     {
       "slug": "job-simulator-ps4-amp-ps5",
       "title": "Job Simulator PS4 &amp; PS5",
@@ -50,34 +102,31 @@
       "sku": "",
       "external_id": "rLllycTxbL1N1lZ5YHgp",
       "url": "http://arenapsgm.ru/tproduct/830239316762-job-simulator-ps4-amp-ps5",
-      "expires_at": "2026-10-01T02:00:00Z",
       "published_at": "2026-09-30T02:01:10Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 350,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 450,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 350,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Черви вновь в бою - апдейт с 30 уровнями, новыми оружиями и машинами!  \n\nТанки, вертолёты, гранаты - 80 способов уничтожить врага. Хаос для тех, кто любит браться за штык."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "banishers-ghosts-of-new-eden-ps5",
       "title": "Banishers: Ghosts of New Eden PS5",
@@ -2989,56 +3038,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Payday 3 - не просто продолжение, а новый уровень драйва и напряжения.  \n\nКоманда снова в деле: выявляют тех, кто мешает выйти на пенсию, а бдительность законов и зависть коллег – как всегда, не дают покоя."
-    },
-    {
-      "slug": "hunt-call-of-the-wild-ps4-ps5",
-      "title": "Hunt Call of the wild PS4/PS5",
-      "description": "Вступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "image_url": "https://static.tildacdn.com/stor3436-3464-4238-b961-633832333830/4c31c39c08f97f56cb51c8a24ab6b09f.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/2014/cfef223ea369b50c391a6cbc6ac3e2d310daad1ad6675404.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/2014/bebcfa43ec46fd2d5796743ae1ad36682f15c46d22b523bb.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/2014/560fe7ffdaa7e186fc4f0dd979ff3d3eac298dd450234938.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/2014/57524f0d18e8c1be1e70658d9805619689762c14ddda81bf.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/2014/75f173abd605f7842fefc1658a6fa71d0db4b0c4a62eea58.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/2014/f982964ebc302fce21aad95a0859b163d3c561a7b01019e6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/2014/3af3e0d15965880ff7b3ca33999723db553f4ab437f5a145.jpg"
-      ],
-      "release_date": "2/10/2017",
-      "publisher": "Avalanche Studios Group AB",
-      "platforms": "PS4",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "rating": 4.3,
-      "store_url": "https://store.playstation.com/en-tr/concept/228868",
-      "tilda_uid": "434696440152",
-      "sku": "",
-      "external_id": "a4NiHBKG5fFELKENzxNv",
-      "url": "http://arenapsgm.ru/tproduct/434696440152-hunt-call-of-the-wild-ps4ps5",
-      "published_at": "2026-08-03T12:17:45Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Новая игра дня - в твои руки!  \nДоступно через приватную группу и чат канала. Оставь отзыв после игры."
     }
   ]
 }
