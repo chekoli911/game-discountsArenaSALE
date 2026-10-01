@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-17T14:00:00Z",
+  "updated_at": "2026-10-01T14:00:00Z",
   "page_url": "https://arenapsgm.ru/",
   "buy_url": "https://t.me/m/NrVGWXJpOGNi",
-  "total": 683,
+  "total": 699,
   "sections": [
     {
       "key": "preorders",
       "title": "Предзаказы",
       "file": "sections/preorders.json",
-      "count": 16,
+      "count": 17,
       "home": true,
       "banner": true
     },
@@ -16,7 +16,7 @@
       "key": "header",
       "title": "Шапка",
       "file": "sections/header.json",
-      "count": 101,
+      "count": 112,
       "home": false,
       "banner": false
     },
@@ -24,7 +24,7 @@
       "key": "novinki",
       "title": "Новинки",
       "file": "sections/novinki.json",
-      "count": 144,
+      "count": 158,
       "home": true,
       "banner": false
     },
@@ -32,7 +32,7 @@
       "key": "action",
       "title": "Боевики",
       "file": "sections/action.json",
-      "count": 345,
+      "count": 355,
       "home": true,
       "banner": false
     },
@@ -40,7 +40,7 @@
       "key": "adventure",
       "title": "Приключения",
       "file": "sections/adventure.json",
-      "count": 336,
+      "count": 353,
       "home": true,
       "banner": false
     },
@@ -48,7 +48,7 @@
       "key": "shooters",
       "title": "Шутеры",
       "file": "sections/shooters.json",
-      "count": 136,
+      "count": 143,
       "home": true,
       "banner": false
     },
@@ -56,7 +56,7 @@
       "key": "horror",
       "title": "Хоррор",
       "file": "sections/horror.json",
-      "count": 97,
+      "count": 101,
       "home": true,
       "banner": false
     },
@@ -64,7 +64,7 @@
       "key": "rpg",
       "title": "РПГ",
       "file": "sections/rpg.json",
-      "count": 75,
+      "count": 78,
       "home": true,
       "banner": false
     },
@@ -72,7 +72,7 @@
       "key": "sport",
       "title": "Спорт",
       "file": "sections/sport.json",
-      "count": 51,
+      "count": 52,
       "home": true,
       "banner": false
     },
@@ -88,7 +88,7 @@
       "key": "coop",
       "title": "Игры на двоих",
       "file": "sections/coop.json",
-      "count": 81,
+      "count": 86,
       "home": true,
       "banner": false
     },
@@ -96,7 +96,7 @@
       "key": "strategy",
       "title": "Стратегии и симуляторы",
       "file": "sections/strategy.json",
-      "count": 40,
+      "count": 47,
       "home": true,
       "banner": false
     },
@@ -104,7 +104,7 @@
       "key": "platformers",
       "title": "Платформеры",
       "file": "sections/platformers.json",
-      "count": 39,
+      "count": 44,
       "home": true,
       "banner": false
     },
@@ -128,7 +128,7 @@
       "key": "ps5",
       "title": "Только PS5",
       "file": "sections/ps5.json",
-      "count": 171,
+      "count": 185,
       "home": true,
       "banner": false
     },
@@ -136,7 +136,7 @@
       "key": "fortnite",
       "title": "Fortnite",
       "file": "sections/fortnite.json",
-      "count": 14,
+      "count": 15,
       "home": false,
       "banner": false
     },
@@ -144,7 +144,7 @@
       "key": "all",
       "title": "Все игры",
       "file": "sections/all.json",
-      "count": 622,
+      "count": 640,
       "home": false,
       "banner": false
     }
@@ -153,42 +153,42 @@
     {
       "key": "preorders",
       "title": "Предзаказы",
-      "count": 16
+      "count": 17
     },
     {
       "key": "novinki",
       "title": "Новинки",
-      "count": 144
+      "count": 158
     },
     {
       "key": "action",
       "title": "Боевики",
-      "count": 345
+      "count": 355
     },
     {
       "key": "adventure",
       "title": "Приключения",
-      "count": 336
+      "count": 353
     },
     {
       "key": "shooters",
       "title": "Шутеры",
-      "count": 136
+      "count": 143
     },
     {
       "key": "horror",
       "title": "Хоррор",
-      "count": 97
+      "count": 101
     },
     {
       "key": "rpg",
       "title": "РПГ",
-      "count": 75
+      "count": 78
     },
     {
       "key": "sport",
       "title": "Спорт",
-      "count": 51
+      "count": 52
     },
     {
       "key": "racing",
@@ -198,17 +198,17 @@
     {
       "key": "coop",
       "title": "Игры на двоих",
-      "count": 81
+      "count": 86
     },
     {
       "key": "strategy",
       "title": "Стратегии и симуляторы",
-      "count": 40
+      "count": 47
     },
     {
       "key": "platformers",
       "title": "Платформеры",
-      "count": 39
+      "count": 44
     },
     {
       "key": "cinema",
@@ -223,12 +223,12 @@
     {
       "key": "ps5",
       "title": "Только PS5",
-      "count": 171
+      "count": 185
     },
     {
       "key": "all",
       "title": "Все игры",
-      "count": 622
+      "count": 640
     }
   ],
   "home_order": [
