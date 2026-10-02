@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-02T08:39:12+03:00",
-  "updated_at_msk": "02.10.2026 08:39",
+  "updated_at": "2026-10-02T09:39:17+03:00",
+  "updated_at_msk": "02.10.2026 09:39",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1392,
+  "total": 1393,
   "unique_games": 511,
   "in_demand": 78,
   "one_off": 363,
@@ -1095,7 +1095,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nhl_27_deluxe_edition_ps5_8277605536",
-      "count": 72,
+      "count": 73,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1247,7 +1247,7 @@
         68,
         71,
         71,
-        72
+        73
       ],
       "hourly": [
         0,
@@ -1373,7 +1373,7 @@
         0,
         3,
         0,
-        1
+        2
       ],
       "price_series": [
         null,
@@ -1502,7 +1502,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-10-02T07:56:52+03:00"
+      "last_at": "2026-10-02T08:52:34+03:00"
     },
     {
       "id": "nhl-27-ps5",
@@ -202748,6 +202748,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-02T08:52:34+03:00"
+    },
+    {
       "title": "Daymare 1998 PS4",
       "price": 200,
       "price_string": "200 ₽",
@@ -202980,12 +202986,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-09-30T18:08:10+03:00"
-    },
-    {
-      "title": "The Jackbox Party Starter PS4/PS5",
-      "price": 286,
-      "price_string": "286 ₽",
-      "at": "2026-09-30T18:02:42+03:00"
     }
   ]
 }
