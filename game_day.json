@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-01T07:33:04Z",
-  "server_time_utc": "2026-10-01T07:33:04Z",
+  "updated_at": "2026-10-02T02:01:16Z",
+  "server_time_utc": "2026-10-02T02:01:16Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-02T02:00:00Z",
-  "expires_at": "2026-10-02T02:00:00Z",
+  "next_rotation_at": "2026-10-03T02:00:00Z",
+  "expires_at": "2026-10-03T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-02T02:00:00Z"
+    "next_rotation_at": "2026-10-03T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "nba-2k20-ps4-ps5",
+      "title": "NBA 2K20 PS4/PS5",
+      "description": "NBA 2K20 на PS4 и PS5 - не просто симуляция, а настоящий баскетбольный фан-эксперимент. Улучшенные режимы, плавное управление и реалистичная графика делают каждую игру по-настоящему вовлекающей.\n\nТеперь ты можешь выбирать не только команды, но и стиль игры - от тайм-менеджмента до драматических финалов. Сильный геймплей, который поднимает уровень заинтересованности на новый уровень.\n\nХочешь почувствовать адреналин перед выходом в баскетбольные соревнования? NBA 2K20 - твой выбор.",
+      "image_url": "https://static.tildacdn.com/stor6261-3134-4431-a634-623362303631/47289692.png",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6261-3134-4431-a634-623362303631/47289692.png",
+        "https://static.tildacdn.com/stor6131-3439-4763-a564-383834613537/24377794.jpg",
+        "https://static.tildacdn.com/stor6636-3163-4363-b464-303062396435/23774964.jpg",
+        "https://static.tildacdn.com/stor6638-3062-4237-b763-393865336261/52378735.jpg",
+        "https://static.tildacdn.com/stor3636-6239-4638-b464-306237356662/87933764.jpg"
+      ],
+      "release_date": "",
+      "publisher": "",
+      "platforms": "",
+      "voice": "",
+      "text_translation": "",
+      "rating": null,
+      "store_url": "",
+      "tilda_uid": "321360990392",
+      "sku": "",
+      "external_id": "8NvkTlcj8T6uUt0cjEVg",
+      "url": "http://arenapsgm.ru/tproduct/321360990392-nba-2k20-ps4ps5",
+      "expires_at": "2026-10-03T02:00:00Z",
+      "published_at": "2026-10-02T02:01:16Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "NBA 2K20 - не просто игра, а настоящий фан-эксперимент в мире баскетбола.  \n\nТы выбираешь стиль игры, управление и драматичные сцены - всё как в реальной лиге."
+    }
+  ],
+  "history": [
     {
       "slug": "dirt-rally-ps4-ps5",
       "title": "Dirt Rally PS4/PS5",
@@ -49,34 +100,31 @@
       "sku": "",
       "external_id": "UFdkBZEvuuy4lVZ7xjmz",
       "url": "http://arenapsgm.ru/tproduct/397756498812-dirt-rally-ps4ps5",
-      "expires_at": "2026-10-02T02:00:00Z",
       "published_at": "2026-10-01T07:33:04Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 0,
+          "14": 0,
+          "21": 0,
+          "28": 0
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 0,
+          "14": 0,
+          "21": 0,
+          "28": 0
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 0,
+        "14": 0,
+        "21": 0,
+        "28": 0
       },
-      "p3_extra": 100,
-      "is_game_day": true,
+      "p3_extra": 0,
+      "is_game_day": false,
       "short_description": "ДиРт Ралли 2.0 - ралли в мире, где лёд, грязь и повороты не просто задают тон, а разрушают всё, что не держится на руле.  \nОдин шаг назад - и гонка закончена. Всё. Только действуй - без слов, только в деле."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "job-simulator-ps4-amp-ps5",
       "title": "Job Simulator PS4 &amp; PS5",
@@ -2988,56 +3036,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Железный Человек, Паук, Халк - и даже Росомаха! В «LEGO Marvel Super Heroes» ты вперёд с топ-героями Марвел - борись с Локи и спасай мир.  \nБоевая атмосфера как в фильме, но на шарах и вращающихся машинах - просто, весело, без лишнего. Только на PS4 и PS5."
-    },
-    {
-      "slug": "payday-3-ps5",
-      "title": "Payday 3 PS5",
-      "description": "Payday 3 - сиквел, который не просто продолжает серию, а вносит новую дозу драйва и напряжения. Уже давно игроки знают: когда в команде все на месте - ограбление становится настоящим шоу.\n\nТеперь банда снова в деле. Их задача - найти тех, кто мешает им выйти на пенсию раньше срока. А бдительность законов и зависть коллег по цеху - как всегда, не дают покоя.\n\nСнова ритм, стратегия, взрывной драйв - всё, что делало PAYDAY великим, но теперь в новом формате. Игра для тех, кто любит действовать на ходу и смотреть, как команда выходит из кризиса - вместе.\n\nАренду можно оформить напрямую - пиши @ArenaPSGMadmin",
-      "image_url": "https://static.tildacdn.com/stor3737-6265-4465-b361-313430376663/92682172.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2410/cfa2e3ad0a57419b13c8a1fd44a6b955a5e1d1a87ff90c7c.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2410/58860d5d5a870b87a7387f280b4ed72bd1852cc677586337.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2410/8d89d6cd31c2d2e902cbf36b5f2928eabb448da6cf1632df.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2410/a7dada86052985c619552875c733e41098b0eb462a0cbed6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2410/6dc84cdd20ce0f7d0cc8a47391dc39389cc3ff428b99e853.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2410/52eb11b6796b0918b587fa58bf5651162ce995f765080e56.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2410/47d616b34c3e2eb33fc626cfd2c48ad53ad3120487496091.jpg"
-      ],
-      "release_date": "21/9/2023",
-      "publisher": "Starbreeze Publishing AB",
-      "platforms": "PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 3.0,
-      "store_url": "https://store.playstation.com/en-tr/concept/10007263",
-      "tilda_uid": "341484630922",
-      "sku": "",
-      "external_id": "2ONKBjn7AUrOxN9oB22X",
-      "url": "http://arenapsgm.ru/tproduct/341484630922-payday-3-ps5",
-      "published_at": "2026-08-04T12:18:36Z",
-      "prices": {
-        "p2": {
-          "7": 325,
-          "14": 595,
-          "21": 845,
-          "28": 995
-        },
-        "p3": {
-          "7": 425,
-          "14": 695,
-          "21": 945,
-          "28": 1195
-        }
-      },
-      "prices_p2": {
-        "7": 325,
-        "14": 595,
-        "21": 845,
-        "28": 995
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Payday 3 - не просто продолжение, а новый уровень драйва и напряжения.  \n\nКоманда снова в деле: выявляют тех, кто мешает выйти на пенсию, а бдительность законов и зависть коллег – как всегда, не дают покоя."
     }
   ]
 }
