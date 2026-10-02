@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-02T21:41:26+03:00",
-  "updated_at_msk": "02.10.2026 21:41",
+  "updated_at": "2026-10-02T22:41:32+03:00",
+  "updated_at_msk": "02.10.2026 22:41",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1422,
+  "total": 1423,
   "unique_games": 515,
   "in_demand": 79,
   "one_off": 361,
@@ -6048,13 +6048,14 @@
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
       "item_id": "8309116747",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/call_of_duty_modern_warfare_4_-_vault_edition_ps5_8309116747",
-      "count": 14,
+      "count": 15,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
       "max_price": 257,
       "last_price": 257,
       "prices": [
+        257,
         257,
         257,
         257,
@@ -6194,7 +6195,7 @@
         10,
         12,
         12,
-        14
+        15
       ],
       "hourly": [
         0,
@@ -6320,7 +6321,7 @@
         1,
         2,
         0,
-        2
+        3
       ],
       "price_series": [
         null,
@@ -6449,7 +6450,7 @@
         257
       ],
       "first_at": "2026-09-20T11:40:52+03:00",
-      "last_at": "2026-10-02T20:55:17+03:00"
+      "last_at": "2026-10-02T22:31:29+03:00"
     },
     {
       "id": "the-binding-of-isaac-repentance-ps5",
@@ -204350,6 +204351,12 @@
   ],
   "recent": [
     {
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-02T22:31:29+03:00"
+    },
+    {
       "title": "NHL 27 Deluxe Edition PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -204582,12 +204589,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-10-01T20:32:23+03:00"
-    },
-    {
-      "title": "The Binding of Isaac: Repentance PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-01T20:01:34+03:00"
     }
   ]
 }
