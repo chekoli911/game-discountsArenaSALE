@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-04T02:01:23Z",
-  "server_time_utc": "2026-10-04T02:01:23Z",
+  "updated_at": "2026-10-05T02:01:25Z",
+  "server_time_utc": "2026-10-05T02:01:25Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-05T02:00:00Z",
-  "expires_at": "2026-10-05T02:00:00Z",
+  "next_rotation_at": "2026-10-06T02:00:00Z",
+  "expires_at": "2026-10-06T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-05T02:00:00Z"
+    "next_rotation_at": "2026-10-06T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "lego-marvel-super-heroes-2-ps4-ps5",
+      "title": "LEGO Marvel Super Heroes 2 PS4/PS5",
+      "description": "Время действий! В LEGO® Marvel Super Heroes 2 вы - не просто игрок, а супергерой в своём праве.  \n\nПогружайтесь в космическую битву в Хронополисе и летайте во времени: от Древнего Египта до Нью-Йорка 2099 года - всё на одном экране!  \n\nСражайтесь с Кангом Завоевателем, перемещайтесь по эпохам и переносите героев и предметы сквозь века. А друзьям - просто включать и драться в тематических боях!  \n\nИграйте вместе - везде, где волшебство встречается с штурмом. 🚀",
+      "image_url": "https://static.tildacdn.com/stor3935-3537-4835-a366-303063373936/85632254.png",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP1018/CUSA08476_00/FREE_CONTENTXKVSmyWXeOX01qSekFFM/LM2_01.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA08476_00/FREE_CONTENTkNFMIYTDZpa10RGAmLDW/LM2_02.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA08476_00/FREE_CONTENTGg0E2JMdsyXuopvR4kry/LM2_03.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA08476_00/FREE_CONTENTwtU8PrUpn05sg4NMowur/LM2_04.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA08476_00/FREE_CONTENT6gp1wmXfo8a6Sg9eIbOO/LM2_05.jpg"
+      ],
+      "release_date": "17/11/2017",
+      "publisher": "WARNER BROS. INTERACTIVE",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.28,
+      "store_url": "https://store.playstation.com/en-tr/concept/228783",
+      "tilda_uid": "654040771342",
+      "sku": "",
+      "external_id": "4NFjKb8n8HZGEz7bU2XL",
+      "url": "http://arenapsgm.ru/tproduct/654040771342-lego-marvel-super-heroes-2-ps4ps5",
+      "expires_at": "2026-10-06T02:00:00Z",
+      "published_at": "2026-10-05T02:01:25Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "В LEGO® Marvel Super Heroes 2 вы - настоящий супергерой, который летает во времени и сражается на разных эпохах.  \nКанг, древний Египет и будущее Нью-Йорка - всё в одной игре. Драться можно с друзьями, просто включив. 🚀"
+    }
+  ],
+  "history": [
     {
       "slug": "dead-space-ps5",
       "title": "DEAD SPACE PS5",
@@ -48,34 +99,31 @@
       "sku": "",
       "external_id": "KnoK7ER8nl9CeecUeV4P",
       "url": "http://arenapsgm.ru/tproduct/266065528582-dead-space-ps5",
-      "expires_at": "2026-10-05T02:00:00Z",
       "published_at": "2026-10-04T02:01:23Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Dead Space на PS5 - мрачная драма в космосе: инженер Айзек Кларк оказывается один на борту корабля, где исчезли все и его любимая Николь.  \n\nТревожный ход с некроморфами, каждый шаг - в тьму и тайну. Просто поиграй."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "a-quiet-place-the-road-ahead-ps5",
       "title": "A Quiet Place: The Road Ahead PS5",
@@ -2985,56 +3033,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Бэтмен снова в Аркхеме - и теперь бой с Пингвином, Двуликим и Харли Квинн становится настоящим.  \nНовый бэтмобиль как из Rocksteady - реалистичный, динамичный, чувствительный до мелочей."
-    },
-    {
-      "slug": "the-crew-2-gold-edition-ps4-ps5",
-      "title": "The Crew 2 Gold Edition PS4/PS5",
-      "description": "🚗 В The Crew 2 Gold Edition - не просто гонки, а настоящий кросс-континентальный поезд. Погружайтесь в США, где каждый маршрут - как сюжет из фильма: от пустынь до гор и морей.\n\n🔥 Сезонный проход даёт доступ к новым трассам, транспорту и событиям - каждая весна приносит что-то новое. А в арсенале сотни моделей авто для выбора: от классики до гиперкаров.\n\n👥 Участвуйте в динамичных соревнованиях, пройдитесь по всей Америке и пригласите до 7 друзей - вместе можно выиграть больше, чем в одиночку.\n\nПопробуйте прямо сейчас - без лишних слов.",
-      "image_url": "https://static.tildacdn.com/stor3639-3639-4534-b561-646337323965/93568558.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTDgOYAjg0pogPdpoITAq0/PREVIEW_SCREENSHOT1_155407.jpg",
-        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTGOhl9eClJENnqdT9uDjh/PREVIEW_SCREENSHOT2_155407.jpg",
-        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTolN8uYY8c0bepstedNrf/PREVIEW_SCREENSHOT3_155407.jpg",
-        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTN9Q2tQTeHzlkgUD3pjIq/PREVIEW_SCREENSHOT4_155407.jpg",
-        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTImsd9VptO6YcxtfqnLEt/PREVIEW_SCREENSHOT5_155407.jpg",
-        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTAfX18CR7V9Vi470w2Zfr/PREVIEW_SCREENSHOT6_155407.jpg",
-        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTDSBjKL8WR5peAfD2SCDG/PREVIEW_SCREENSHOT7_155407.jpg"
-      ],
-      "release_date": "29/6/2018",
-      "publisher": "Ubisoft",
-      "platforms": "PS4",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.14,
-      "store_url": "https://store.playstation.com/en-tr/concept/227552",
-      "tilda_uid": "689345727522",
-      "sku": "",
-      "external_id": "H6i62V9udy6LjvuhOI3F",
-      "url": "http://arenapsgm.ru/tproduct/689345727522-the-crew-2-gold-edition-ps4ps5",
-      "published_at": "2026-08-07T12:20:43Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "В The Crew 2 Gold Edition - гонки по всей Америке, как в фильме: от пустынь до морей.  \n\nНовые трассы, авто и события каждый сезон - сотни моделей, динамичные соревнования и приглашение до 7 друзей для командной игры."
     }
   ]
 }
