@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-05T22:58:56+03:00",
-  "updated_at_msk": "05.10.2026 22:58",
+  "updated_at": "2026-10-05T23:59:02+03:00",
+  "updated_at_msk": "05.10.2026 23:59",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1545,
+  "total": 1547,
   "unique_games": 555,
   "in_demand": 82,
   "one_off": 388,
@@ -4503,7 +4503,7 @@
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
       "item_id": "8309116747",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/call_of_duty_modern_warfare_4_-_vault_edition_ps5_8309116747",
-      "count": 21,
+      "count": 23,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -4658,7 +4658,7 @@
         15,
         16,
         18,
-        21
+        23
       ],
       "hourly": [
         0,
@@ -4787,7 +4787,7 @@
         3,
         1,
         2,
-        3
+        5
       ],
       "price_series": [
         null,
@@ -4919,7 +4919,7 @@
         257
       ],
       "first_at": "2026-09-20T11:40:52+03:00",
-      "last_at": "2026-10-05T10:58:44+03:00"
+      "last_at": "2026-10-05T23:46:07+03:00"
     },
     {
       "id": "nba-2k27-ultra-edition-ps5",
@@ -225213,6 +225213,18 @@
   ],
   "recent": [
     {
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-05T23:46:07+03:00"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-05T23:01:21+03:00"
+    },
+    {
       "title": "Pathologic 2 PS4",
       "price": 257,
       "price_string": "257 ₽",
@@ -225439,18 +225451,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-10-05T00:02:04+03:00"
-    },
-    {
-      "title": "Lost in Random PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-04T22:28:10+03:00"
-    },
-    {
-      "title": "OpsCam - Body Cam Shooter PS4",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-04T21:41:25+03:00"
     }
   ]
 }
