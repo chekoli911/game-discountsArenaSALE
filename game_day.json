@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-05T02:01:25Z",
-  "server_time_utc": "2026-10-05T02:01:25Z",
+  "updated_at": "2026-10-06T02:01:26Z",
+  "server_time_utc": "2026-10-06T02:01:26Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-06T02:00:00Z",
-  "expires_at": "2026-10-06T02:00:00Z",
+  "next_rotation_at": "2026-10-07T02:00:00Z",
+  "expires_at": "2026-10-07T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-06T02:00:00Z"
+    "next_rotation_at": "2026-10-07T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "frostpunk-complete-collection-ps4-ps5",
+      "title": "Frostpunk: Complete Collection PS4/PS5",
+      "description": "Фrostpunk - город, где каждый выбор дороже, чем кажется. Там нет тепла - и без него ни один человек не выживёт. Вы строите паровые машины, управляете людьми и ведёте их через ледяной холод.  \n\nМожно оптимизировать ресурсы - или построить честный мир, где люди ценят друг друга. Город живёт, но каждый шаг требует жертв. И в какой момент вы уже не просто глава государства - а человек, который сам выбирает, на что пойдёт.  \n\nЧто будет с обществом, если дойти до предела? Кем вы станете, когда всё идёт по краю? Всё зависит от ваших решений.  \n\nИгра в коллекции - для тех, кто любит сложные, живые и тяжёлые сценарии.",
+      "image_url": "https://static.tildacdn.com/stor3539-6530-4335-b534-646138306666/89091728.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/img/cfn/113076Crz_8sHSX9IPqLCdNjNQglKfsBFha_u4DXwt2u_phgP6wmRkC5Sk2iiriGRFl846W4vN2Dch4nWDM9lgyYT8YmLDVh.jpg",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307sgE9AbULPIs9TbhufE-Z40ZDfTWh3HWT4zGp_YOGesgC21occ1dTQ_ozJrZlMlDaDKPZd7sOrJ0jVs_nDky8R80Al-U.jpg",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307BHBknJrijthxk3SUrlQDp4USwxDZk8QBufgfMgmyyu4O32NBh0I4xqhS3ILSbUi149ixsN_Br-fAivbw2St38UyoyEB.jpg",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307N44DQT1UmAZhqB7jANTWvUasevE4Fa_f-tQhj5wvHP0N-9SJz2KjdVwilrZgY17mg3UD9OxxTqgT6iFw6IDYloVPDlS.jpg",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307HF8UUOvb92J4isu4T1jEXLSrHQ_gAdYsVja5sNHtYHcZeD81vtFeIytkUb1BqgMvi3aDulsPbiR-q4OS5qS3m0o8AEO.jpg",
+        "https://image.api.playstation.com/vulcan/img/cfn/113077NxBEJi5G1miVkcEhoS2QXpD5X5uO3VWtwYN-hrHJJ0nPyeItO4bxXOIMJufuVyJSKqRtjXzzyy924FSd18a0I1OAXT.jpg",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307AVFgGFWKeUENudwMUOMzTzWeVGeSGTl7PKucz-0fRRQXM6d7dv15XdKflvidtOkFg49kwB2Lv96Lp4mZVJ2BCEitsht.jpg"
+      ],
+      "release_date": "11/10/2019",
+      "publisher": "11 Bit Studios S.A.",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.59,
+      "store_url": "https://store.playstation.com/en-tr/concept/233993",
+      "tilda_uid": "815311564072",
+      "sku": "",
+      "external_id": "M5zgRkPCNMy79yZPl8ss",
+      "url": "http://arenapsgm.ru/tproduct/815311564072-frostpunk-complete-collection-ps4ps5",
+      "expires_at": "2026-10-07T02:00:00Z",
+      "published_at": "2026-10-06T02:01:26Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Фrostpunk - город без тепла, где каждый выбор стоит жизни.  \nВы не просто строите город - вы выбираете, кем будете сами, когда всё идёт по краю."
+    }
+  ],
+  "history": [
     {
       "slug": "lego-marvel-super-heroes-2-ps4-ps5",
       "title": "LEGO Marvel Super Heroes 2 PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "4NFjKb8n8HZGEz7bU2XL",
       "url": "http://arenapsgm.ru/tproduct/654040771342-lego-marvel-super-heroes-2-ps4ps5",
-      "expires_at": "2026-10-06T02:00:00Z",
       "published_at": "2026-10-05T02:01:25Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "В LEGO® Marvel Super Heroes 2 вы - настоящий супергерой, который летает во времени и сражается на разных эпохах.  \nКанг, древний Египет и будущее Нью-Йорка - всё в одной игре. Драться можно с друзьями, просто включив. 🚀"
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "dead-space-ps5",
       "title": "DEAD SPACE PS5",
@@ -2985,54 +3035,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Судьба мира - в ваших руках. Выживайте, боритесь и стройте - мир ждёт вас.\n\nТеррария обновлена: свобода творчества, 5000 предметов и 400 врагов - всё это в одном мире."
-    },
-    {
-      "slug": "batman-rytsar-arkhema-ps4-ps5",
-      "title": "Batman: Рыцарь Аркхема PS4/PS5",
-      "description": "Бэтмен снова в Аркхеме - и это уже не просто приключение, а настоящий бой с самыми жуткими злодеями. Пугало вернулся, и теперь он собирает самых грозных врагов: Пингвина, Двуликого и Харли Квинн.  \n\nВот где всё становится настоящим - новый бэтмобиль в стиле Rocksteady, который настолько реалистичен, что ты будешь чувствовать каждый рывок, каждый поворот.  \n\nТы не просто смотришь - ты участвуешь в финале серии, где каждый ход важен, а эмоции - на максимуме.",
-      "image_url": "https://static.tildacdn.com/stor3538-3432-4331-b364-343837356239/48921692.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3538-3432-4331-b364-343837356239/48921692.jpg",
-        "https://static.tildacdn.com/stor6530-3434-4666-b733-656161633566/23908107.jpg",
-        "https://static.tildacdn.com/stor3066-3436-4638-a137-613736343635/94621614.jpg",
-        "https://static.tildacdn.com/stor6435-6361-4566-b334-373230613732/10210822.jpg",
-        "https://static.tildacdn.com/stor6566-3335-4866-b130-336635353362/44299402.jpg"
-      ],
-      "release_date": "",
-      "publisher": "",
-      "platforms": "",
-      "voice": "",
-      "text_translation": "",
-      "rating": null,
-      "store_url": "",
-      "tilda_uid": "927565750322",
-      "sku": "",
-      "external_id": "AH6OioNXxvOv5iNFa41A",
-      "url": "http://arenapsgm.ru/tproduct/927565750322-batman-ritsar-arkhema-ps4ps5",
-      "published_at": "2026-08-08T12:21:23Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Бэтмен снова в Аркхеме - и теперь бой с Пингвином, Двуликим и Харли Квинн становится настоящим.  \nНовый бэтмобиль как из Rocksteady - реалистичный, динамичный, чувствительный до мелочей."
     }
   ]
 }
