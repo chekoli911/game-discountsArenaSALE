@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-07T17:08:08+03:00",
-  "updated_at_msk": "07.10.2026 17:08",
+  "updated_at": "2026-10-07T19:08:23+03:00",
+  "updated_at_msk": "07.10.2026 19:08",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1589,
+  "total": 1591,
   "unique_games": 572,
   "in_demand": 84,
   "one_off": 402,
@@ -3280,7 +3280,7 @@
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
       "item_id": "8309116747",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/call_of_duty_modern_warfare_4_-_vault_edition_ps5_8309116747",
-      "count": 26,
+      "count": 27,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -3437,7 +3437,7 @@
         18,
         23,
         25,
-        26
+        27
       ],
       "hourly": [
         0,
@@ -3568,7 +3568,7 @@
         2,
         5,
         2,
-        1
+        2
       ],
       "price_series": [
         null,
@@ -3702,7 +3702,7 @@
         257
       ],
       "first_at": "2026-09-20T11:40:52+03:00",
-      "last_at": "2026-10-07T12:16:07+03:00"
+      "last_at": "2026-10-07T18:30:39+03:00"
     },
     {
       "id": "onimusha-wots-deluxe-edition-ps5",
@@ -6278,13 +6278,14 @@
       "title": "ACE combat 8: wings OF theve Deluxe Edition PS5",
       "item_id": "8309285014",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/ace_combat_8_wings_of_theve_deluxe_edition_ps5_8309285014",
-      "count": 15,
+      "count": 16,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
       "max_price": 257,
       "last_price": 257,
       "prices": [
+        257,
         257,
         257,
         257,
@@ -6430,7 +6431,7 @@
         12,
         14,
         14,
-        15
+        16
       ],
       "hourly": [
         0,
@@ -6561,7 +6562,7 @@
         3,
         2,
         0,
-        1
+        2
       ],
       "price_series": [
         null,
@@ -6695,7 +6696,7 @@
         257
       ],
       "first_at": "2026-09-19T11:05:13+03:00",
-      "last_at": "2026-10-07T09:11:16+03:00"
+      "last_at": "2026-10-07T18:08:03+03:00"
     },
     {
       "id": "aliens-fireteam-elite-2-ps5",
@@ -235531,6 +235532,18 @@
   ],
   "recent": [
     {
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-07T18:30:39+03:00"
+    },
+    {
+      "title": "ACE combat 8: wings OF theve Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-07T18:08:03+03:00"
+    },
+    {
       "title": "The Entropy Centre PS4/PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -235757,18 +235770,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-10-06T07:53:48+03:00"
-    },
-    {
-      "title": "End of Abyss PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-06T07:37:46+03:00"
-    },
-    {
-      "title": "NBA 2K27 Ultra Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-06T06:57:07+03:00"
     }
   ]
 }
