@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T14:00:00Z",
+  "updated_at": "2026-10-07T14:00:00Z",
   "games": [
     {
       "slug": "007-first-light-ps5",
@@ -3064,9 +3064,9 @@
         "Новинка главная шапка",
         "Все игры",
         "Новинки",
-        "Только PS5",
+        "Игры на двоих",
         "Спорт",
-        "Игры на двоих"
+        "Только PS5"
       ],
       "platforms": "PS5"
     },
@@ -3864,6 +3864,36 @@
       "platforms": "PS5"
     },
     {
+      "slug": "ghost-of-yoteitm-complete-edition-upgrade-ps5",
+      "title": "Ghost of YoteiTM Complete Edition Upgrade PS5",
+      "mark": "NEW",
+      "price_from": 890,
+      "image_url": "https://static.tildacdn.com/stor6536-3036-4564-a264-336238666539/fcccf8a75e82dba9dc84ab48acd8ac7e.jpg",
+      "categories": [
+        "Новинки",
+        "Все игры",
+        "Новинка главная шапка",
+        "Только PS5",
+        "Приключения"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "ghost-of-y-tei-ps5",
+      "title": "Ghost of Yōtei PS5",
+      "mark": "NEW",
+      "price_from": 890,
+      "image_url": "https://static.tildacdn.com/stor3166-6166-4138-b933-323933306636/53273140.jpg",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Приключения"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "ghostrunner-ps4-ps5",
       "title": "Ghostrunner PS4/PS5",
       "mark": "",
@@ -3989,6 +4019,19 @@
         "Боевики"
       ],
       "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "gone-home-ps4",
+      "title": "Gone Home PS4",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor6465-3237-4330-a230-393231316462/e7d670ab1064d5e9a712394060a5c856.jpg",
+      "categories": [
+        "Все игры",
+        "Приключения",
+        "Платформеры"
+      ],
+      "platforms": "PS4"
     },
     {
       "slug": "gotham-knights-ps5",
@@ -6175,6 +6218,22 @@
         "Игры на двоих"
       ],
       "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "mxgp-26-the-official-game-ps5",
+      "title": "MXGP 26 - The Official Game PS5",
+      "mark": "NEW",
+      "price_from": 697,
+      "image_url": "https://static.tildacdn.com/stor3664-3164-4138-b162-393764363738/ab59b8981e68231018fa30eb716c1037.jpg",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Спорт",
+        "Гонки"
+      ],
+      "platforms": "PS5"
     },
     {
       "slug": "naruto-storm-2-ps4-ps5",
@@ -8407,6 +8466,22 @@
         "Шутеры"
       ],
       "platforms": "PS4"
+    },
+    {
+      "slug": "star-wars-galactic-racer-ps5",
+      "title": "STAR WARS: Galactic Racer PS5",
+      "mark": "NEW",
+      "price_from": 697,
+      "image_url": "https://static.tildacdn.com/stor3333-3739-4939-a531-323762623135/aa16fe177615438f5d2cd76307bee1ba.jpg",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Игры на двоих",
+        "Гонки"
+      ],
+      "platforms": "PS5"
     },
     {
       "slug": "star-wars-squadrons-ps4-ps5",
