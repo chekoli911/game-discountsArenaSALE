@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-07T02:01:37Z",
-  "server_time_utc": "2026-10-07T02:01:37Z",
+  "updated_at": "2026-10-08T02:01:33Z",
+  "server_time_utc": "2026-10-08T02:01:33Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-08T02:00:00Z",
-  "expires_at": "2026-10-08T02:00:00Z",
+  "next_rotation_at": "2026-10-09T02:00:00Z",
+  "expires_at": "2026-10-09T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,62 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-08T02:00:00Z"
+    "next_rotation_at": "2026-10-09T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "marathon-standard-edition-ps5",
+      "title": "Marathon Standard Edition PS5",
+      "description": "Мрачный научно-фантастический мир, где бегут не просто по земле - а по космической колонии. Тау Кита IV - заброшенная территория, полна тайн и враждебных сил. С Бегунами, которые гоняются друг за другом, и охраной ОКСЗ, которая не терпит беспокойства.\n\nИграется как соло или в отряде: ты ищешь сокровища, а потом - вдруг - оказываешься в молниеносных бою. Каждый патрон важен. Выживает только тот, кто готов к боям.\n\nПовышай силу, зарабатываешь экипировку и улучшаешь билды из добычи. Потом снова влезаешь на карту - и снова пытаешься выиграть что-то ценное.  \n\nСмотрите в приватную группу → [ссылка]  \nЧат канала → [ссылка]",
+      "image_url": "https://static.tildacdn.com/stor3664-3366-4366-b064-363266376566/df12bb434ff94359a24bb41ff71d78e0.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/2923/4b20a430a88d929037c030f704cabb7a6ec7a4a924b793b1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/2923/b8dd35fe8413c0e8de86dc003cadf5736a22f09d4b634c8f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/2923/195d9c67dc2eeb659872bd7b98199e2657afd9f0a2767ac0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/2923/d0cad4d6ed7c3b8ea118831e1ee0dc164cc0ccc6b3d43326.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/2923/41267d8311ee650eb87a009578c73d9f09566de706676e8d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/2923/50bf06303eb24c53bc0c9b7366e0e06fb9ed882af02ebf0f.jpg"
+      ],
+      "release_date": "5/3/2026",
+      "publisher": "BUNGIE INC.",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.54,
+      "store_url": "https://store.playstation.com/en-tr/concept/10008864",
+      "tilda_uid": "284203284232",
+      "sku": "",
+      "external_id": "kDdnOgtG8BtcZiecte7e",
+      "url": "http://arenapsgm.ru/tproduct/284203284232-marathon-standard-edition-ps5",
+      "expires_at": "2026-10-09T02:00:00Z",
+      "published_at": "2026-10-08T02:01:33Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Бегай по заброшенной колонии, где каждый патрон - это жизнь. Бой, добыча, бег - и снова бой. Смотри в приватную группу → [ссылка]"
+    }
+  ],
+  "history": [
     {
       "slug": "hot-wheels-unleashed-ps4-ps5",
       "title": "HOT WHEELS UNLEASHED PS4/PS5",
@@ -50,34 +102,31 @@
       "sku": "",
       "external_id": "BhNdea0LUUE4mz0UoiPr",
       "url": "http://arenapsgm.ru/tproduct/778936837902-hot-wheels-unleashed-ps4ps5",
-      "expires_at": "2026-10-08T02:00:00Z",
       "published_at": "2026-10-07T02:01:37Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Гонки, дрифт и безумие - всё в одной игре с Hot Wheels™.  \n\nСобирай машины, строй трассы по-своему и соревnuйся до 12 игроков. Победа - когда ты чувствуешь себя настоящим гонщиком."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "frostpunk-complete-collection-ps4-ps5",
       "title": "Frostpunk: Complete Collection PS4/PS5",
@@ -2985,56 +3034,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Devil May Cry возвращается - с Вергилием, братом Данте и новыми уровнями хаоса.  \nБольше скорости, драмы и огня - режимы «Турбо» и «Легендарный темный рыцарь», глянцевая графика и мощь PS5."
-    },
-    {
-      "slug": "forspoken-ps5",
-      "title": "Forspoken PS5",
-      "description": "Фрей - новая жительница Атии. Нью-йоркская девушка, которая вдруг оказывается в прекрасном, но жестоком мире. Её путь домой - через бурные леса, горы и бездны, где каждый поворот диктует новый вызов.\n\nАтия - это не просто мир. Это бескрайние пейзажи, мистические тайны и чудовища, которые появляются в самый неподходящий момент. Ты здесь, чтобы исследовать всё подряд - от горных трасс до таинственных лесов.\n\nФрей не просто бежит - она магически прыгает, скакает по стенам и справляется с опасностями через свой арсенал заклинаний. У тебя есть выбор: динамичный стиль или строгий контроль - всё зависит от твоего настроя.\n\nАренда игры Forspoken - в чате, если хочешь попробовать сам. 📩 @ArenaPSGMadmin",
-      "image_url": "https://static.tildacdn.com/stor3162-6135-4434-a636-663866376263/16157834.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0903/ZvBlzsz0cHpGbq4TTz6a7mSe.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0903/80Kkx63Pph9huqXAMMeih7u0.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0903/9qBJMtGQHo4Tz0c9COj4x9gb.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0903/NFTIkgrzody78uEmUDu2VJxG.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0903/hZHixb62Lf4JqHkQlk9XlyfA.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0903/J27MZQsBzWsCyYu1AziHcl0o.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0903/GZNDADGTtdSZR4CNrpeTseoC.jpg"
-      ],
-      "release_date": "24/1/2023",
-      "publisher": "Square Enix LTD",
-      "platforms": "PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 3.44,
-      "store_url": "https://store.playstation.com/en-tr/concept/10000846",
-      "tilda_uid": "969151632492",
-      "sku": "",
-      "external_id": "DJUZs0ZHaGXnNm0oseSD",
-      "url": "http://arenapsgm.ru/tproduct/969151632492-forspoken-ps5",
-      "published_at": "2026-08-10T12:22:49Z",
-      "prices": {
-        "p2": {
-          "7": 280,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 380,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 280,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Фрей - новая жительница Атии, которая бежит через леса, горы и бездны, чтобы добраться домой.  \n\nМистические пейзажи, чудовища и магия - всё в игре. Выбираешь: прыжки или контроль - твой стиль определяет весь путь."
     }
   ]
 }
