@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-08T02:01:33Z",
-  "server_time_utc": "2026-10-08T02:01:33Z",
+  "updated_at": "2026-10-09T02:01:45Z",
+  "server_time_utc": "2026-10-09T02:01:45Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-09T02:00:00Z",
-  "expires_at": "2026-10-09T02:00:00Z",
+  "next_rotation_at": "2026-10-10T02:00:00Z",
+  "expires_at": "2026-10-10T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-09T02:00:00Z"
+    "next_rotation_at": "2026-10-10T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "forspoken-ps5",
+      "title": "Forspoken PS5",
+      "description": "Фрей - нью-йоркская девушка, которая вдруг оказывается в жестоком и прекрасном мире Атии. Чтобы вернуться домой, она должна проникнуть в безбрежные пейзажи и сражаться с чудовищами.  \n\nАтей - это не просто мир, а настоящий шедевр: бескрайние леса, горы, мрачные джунгли и здания, вдохновлённые технологиями. Там всё живёт, как будто из сна.  \n\nФрей обладает мощным арсеналом заклинаний - от быстрых ударов до тонких, почти мистических эффектов. Выбирайте стиль боя: динамичный или стратегический - всё под вашим контролем.  \n\nИнтуитивная система паркура позволяет летать, прыгать с высот и скользить по стенам. Магия делает перемещение лёгким - как в фильме, но реальным.  \n\nСмотрите, как игра тянется к сердцу. Аренда доступна - пишите сюда 📩 @ArenaPSGMadmin",
+      "image_url": "https://static.tildacdn.com/stor3162-6135-4434-a636-663866376263/16157834.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0903/ZvBlzsz0cHpGbq4TTz6a7mSe.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0903/80Kkx63Pph9huqXAMMeih7u0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0903/9qBJMtGQHo4Tz0c9COj4x9gb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0903/NFTIkgrzody78uEmUDu2VJxG.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0903/hZHixb62Lf4JqHkQlk9XlyfA.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0903/J27MZQsBzWsCyYu1AziHcl0o.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0903/GZNDADGTtdSZR4CNrpeTseoC.jpg"
+      ],
+      "release_date": "24/1/2023",
+      "publisher": "Square Enix LTD",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.44,
+      "store_url": "https://store.playstation.com/en-tr/concept/10000846",
+      "tilda_uid": "969151632492",
+      "sku": "",
+      "external_id": "DJUZs0ZHaGXnNm0oseSD",
+      "url": "http://arenapsgm.ru/tproduct/969151632492-forspoken-ps5",
+      "expires_at": "2026-10-10T02:00:00Z",
+      "published_at": "2026-10-09T02:01:45Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Фрей - нью-йоркская девушка, которая внезапно попала в жестокий и прекрасный мир Атии и должна вернуться домой, бросаясь в пейзажи и сражаясь с чудовищами.  \n\nБескрайние леса, горы и мрачные джунгли - всё живёт, как из сна. Магия + паркур = свобода движения, как в фильме, но реальная."
+    }
+  ],
+  "history": [
     {
       "slug": "marathon-standard-edition-ps5",
       "title": "Marathon Standard Edition PS5",
@@ -49,34 +102,31 @@
       "sku": "",
       "external_id": "kDdnOgtG8BtcZiecte7e",
       "url": "http://arenapsgm.ru/tproduct/284203284232-marathon-standard-edition-ps5",
-      "expires_at": "2026-10-09T02:00:00Z",
       "published_at": "2026-10-08T02:01:33Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 449,
+          "14": 499,
+          "21": 749,
+          "28": 999
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 549,
+          "14": 599,
+          "21": 849,
+          "28": 1099
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 449,
+        "14": 499,
+        "21": 749,
+        "28": 999
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Бегай по заброшенной колонии, где каждый патрон - это жизнь. Бой, добыча, бег - и снова бой. Смотри в приватную группу → [ссылка]"
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "hot-wheels-unleashed-ps4-ps5",
       "title": "HOT WHEELS UNLEASHED PS4/PS5",
@@ -2984,56 +3034,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Стань Безумным Максом - волком в мире, где машины остаются, а всё сжигается.  \n\nБегай, драться, ремонтируй - на колёсах и на руках. Путь к покое в «Безмолвной Равнине» начинается с первого шага."
-    },
-    {
-      "slug": "devil-may-cry-5-special-edition-ps4-ps5",
-      "title": "Devil May Cry 5 Special Edition PS4/PS5",
-      "description": "Devil May Cry возвращается - и с силой!  \nПредставляем Вергилия, брата Данте и его заклятого врага. Добавляет новый уровень адреналина и драматики в каждый бой.\n\nНовый режим «Легендарный темный рыцарь» - сражайся с ордами врагов, как в пике хитрости и ужаса.  \nА «Турбо-режим» поднимает скорость игры в 1,2 раза - идеально для тех, кто не хочет ждать.  \n\nГрафика рвётся на новый уровень: трассировка лучей и повышенная частота кадров делают мир DMC5 ещё более реальным и живым.  \nВсё это - благодаря мощи PS5.  \n\nПримечание: некоторые трофеи недоступны при игре за Вергилия.",
-      "image_url": "https://static.tildacdn.com/stor3030-3530-4666-b732-326361633838/57248760.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/1mvGQmDQ1p6k5X7LWiVxuoe0.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/8oopBIEtJbymMaExE7d2gPN9.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/Z3QwI65T0jUHkwoBQNRIJyIK.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/Jkg12v5kirjIagAxC7QJal4k.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/MriX5c1cc575IOsitnBnWkb8.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/NpQjQA6vmUZnNY3dlrFwFg5v.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1304/C1uCUulanEG7LTPP45Ac11ql.jpg"
-      ],
-      "release_date": "12/11/2020",
-      "publisher": "CE EUROPE LIMITED",
-      "platforms": "PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.77,
-      "store_url": "https://store.playstation.com/en-tr/concept/227315",
-      "tilda_uid": "972215926052",
-      "sku": "",
-      "external_id": "ZCAAi1YdMlTdzFbrtr0h",
-      "url": "http://arenapsgm.ru/tproduct/972215926052-devil-may-cry-5-special-edition-ps4ps5",
-      "published_at": "2026-08-11T12:23:28Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Devil May Cry возвращается - с Вергилием, братом Данте и новыми уровнями хаоса.  \nБольше скорости, драмы и огня - режимы «Турбо» и «Легендарный темный рыцарь», глянцевая графика и мощь PS5."
     }
   ]
 }
