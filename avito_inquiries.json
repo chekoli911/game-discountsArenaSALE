@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-10T12:11:51+03:00",
-  "updated_at_msk": "10.10.2026 12:11",
+  "updated_at": "2026-10-10T13:12:02+03:00",
+  "updated_at_msk": "10.10.2026 13:12",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1653,
+  "total": 1654,
   "unique_games": 597,
   "in_demand": 92,
   "one_off": 418,
@@ -6847,13 +6847,14 @@
       "title": "UFC 6 Ultimate Edition PS5",
       "item_id": "8277145222",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/ufc_6_ultimate_edition_ps5_8277145222",
-      "count": 16,
+      "count": 17,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
       "max_price": 257,
       "last_price": 257,
       "prices": [
+        257,
         257,
         257,
         257,
@@ -7003,7 +7004,7 @@
         15,
         16,
         16,
-        16
+        17
       ],
       "hourly": [
         0,
@@ -7137,7 +7138,7 @@
         0,
         1,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -7274,7 +7275,7 @@
         257
       ],
       "first_at": "2026-08-18T10:07:46+03:00",
-      "last_at": "2026-10-08T23:12:07+03:00"
+      "last_at": "2026-10-10T12:14:17+03:00"
     },
     {
       "id": "aliens-fireteam-elite-2-ps5",
@@ -251192,6 +251193,12 @@
   ],
   "recent": [
     {
+      "title": "UFC 6 Ultimate Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-10T12:14:17+03:00"
+    },
+    {
       "title": "Barbie Horse Trails PS4/PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -251424,12 +251431,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-10-08T21:47:10+03:00"
-    },
-    {
-      "title": "Winter Games 2023 PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-08T19:52:31+03:00"
     }
   ]
 }
