@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-10T02:01:47Z",
-  "server_time_utc": "2026-10-10T02:01:47Z",
+  "updated_at": "2026-10-11T02:01:38Z",
+  "server_time_utc": "2026-10-11T02:01:38Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-11T02:00:00Z",
-  "expires_at": "2026-10-11T02:00:00Z",
+  "next_rotation_at": "2026-10-12T02:00:00Z",
+  "expires_at": "2026-10-12T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-11T02:00:00Z"
+    "next_rotation_at": "2026-10-12T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "need-for-speed-rivals-ps4-ps5",
+      "title": "Need for Speed Rivals PS4/PS5",
+      "description": "Гонки без выхода из игры - в округе Редвью. Право на дорогу борется с правом на скорость. Полиция и гонщики - каждый выбирает свою сторону, свои машины, свои стратегии.  \n\nВсё на высоких ставках: тонкие маневры, атаки, улучшения - всё в реальном времени. Смешной конфликт с хардкором на каждом повороте.  \n\nТы - либо охраняешь порядок, либо бежишь от полицейских в тёмных ветрах. Выбор за тобой.",
+      "image_url": "https://static.tildacdn.com/stor6632-3037-4261-a130-376133383761/35581210.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/FREE_CONTENTgU7qSLnJwJb0UXat5Pfs/NFS%20RIVALS_01.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/FREE_CONTENTgU7qSLnJwJb0UXat5Pfs/NFS RIVALS_01.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/FREE_CONTENTH1TsRCHTvQnT3P5XacmP/NFS%20RIVALS_02.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/FREE_CONTENTH1TsRCHTvQnT3P5XacmP/NFS RIVALS_02.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/FREE_CONTENTSbzUYrwIabwHgyXpYHNP/NFS%20RIVALS_03.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/FREE_CONTENTSbzUYrwIabwHgyXpYHNP/NFS RIVALS_03.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/FREE_CONTENTLnajyVxXvUH1lqM0Kpk2/NFS%20RIVALS_04.jpg"
+      ],
+      "release_date": "22/10/2014",
+      "publisher": "EA Swiss Sarl",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.12,
+      "store_url": "https://store.playstation.com/en-tr/concept/203064",
+      "tilda_uid": "796321275772",
+      "sku": "",
+      "external_id": "IZhnBLSkhfIJaVOXUZDX",
+      "url": "http://arenapsgm.ru/tproduct/796321275772-need-for-speed-rivals-ps4ps5",
+      "expires_at": "2026-10-12T02:00:00Z",
+      "published_at": "2026-10-11T02:01:38Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Гонки без выхода - где полиция соперничает с гонщиками на каждом повороте.  \nТы или защищаешь порядок, или бегу по темным дорогам - выбор в твоих руках."
+    }
+  ],
+  "history": [
     {
       "slug": "the-invincible-ps5",
       "title": "The Invincible PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "oC3PXziahfke09faSlOO",
       "url": "http://arenapsgm.ru/tproduct/663970434592-the-invincible-ps5",
-      "expires_at": "2026-10-11T02:00:00Z",
       "published_at": "2026-10-10T02:01:47Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 350,
+          "14": 390,
+          "21": 590,
+          "28": 790
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 450,
+          "14": 490,
+          "21": 690,
+          "28": 890
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 350,
+        "14": 390,
+        "21": 590,
+        "28": 790
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Ясна - астробиолог, которая оказалась на странной планете, где экипаж исчез и её выборы могут спасти или уничтожить всё.\n\nКаждое решение - как философский вопрос: с кем говорить? С роботами или живыми дикими существами? Природа кажется почти живой, а технологии работают - просто так."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "forspoken-ps5",
       "title": "Forspoken PS5",
@@ -2984,54 +3034,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Сэм Стоун с дробовиками и пушкой возвращается - бьёт инопланетников от Египта до Южной Америки.  \n\nОдиночные или командные бои, 16 игроков онлайн или локально - кампании, выживание и бонусы включены."
-    },
-    {
-      "slug": "dragon-age-na-strazhe-zavesy-ps5",
-      "title": "Dragon Age: На страже Завесы PS5",
-      "description": "Город, леса, тайны - и два древних бога, которые не хотят жить в покое.  \n\nВам нужно стать Руком - героем, который выбирает свою судьбу. Пусть это будет кем угодно: бойцом, магом или лидером.  \n\nСобирайте команду из семи соратников - каждый со своей историей и целью. Вместе вы станете Стражей Завесы и начнёте сопротивляться разрушению мира.  \n\nВ «Dragon Age: На страже Завесы» - не просто игра, а настоящая ролевая история, где каждый шаг влияет на мир и людей вокруг.  \n\nАрендуем? Напиши в чат 📩 @ArenaPSGMadmin",
-      "image_url": "https://static.tildacdn.com/stor3139-6131-4037-a131-356536623131/67575235.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3139-6131-4037-a131-356536623131/67575235.jpg",
-        "https://static.tildacdn.com/stor6334-6264-4165-b139-356633393432/16498465.jpg",
-        "https://static.tildacdn.com/stor3734-3037-4837-b161-666533653332/64643583.jpg",
-        "https://static.tildacdn.com/stor3566-3834-4234-b234-353832616438/98238716.jpg",
-        "https://static.tildacdn.com/stor6634-6664-4637-b662-336233366230/93918795.jpg"
-      ],
-      "release_date": "",
-      "publisher": "",
-      "platforms": "",
-      "voice": "",
-      "text_translation": "",
-      "rating": null,
-      "store_url": "",
-      "tilda_uid": "407741917022",
-      "sku": "",
-      "external_id": "dRmsDElAlT4KN547xHn0",
-      "url": "http://arenapsgm.ru/newgame/tproduct/407741917022-dragon-age-na-strazhe-zavesi-ps5",
-      "published_at": "2026-08-13T12:24:50Z",
-      "prices": {
-        "p2": {
-          "7": 350,
-          "14": 400,
-          "21": 590,
-          "28": 695
-        },
-        "p3": {
-          "7": 450,
-          "14": 500,
-          "21": 690,
-          "28": 795
-        }
-      },
-      "prices_p2": {
-        "7": 350,
-        "14": 400,
-        "21": 590,
-        "28": 695
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Город, леса, тайны - и два бога, которые не спят.  \nСтань Руком: выбери свою роль, собери семерку, защити мир."
     }
   ]
 }
