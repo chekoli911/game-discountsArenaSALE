@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-11T02:01:38Z",
-  "server_time_utc": "2026-10-11T02:01:38Z",
+  "updated_at": "2026-10-12T02:01:33Z",
+  "server_time_utc": "2026-10-12T02:01:33Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-12T02:00:00Z",
-  "expires_at": "2026-10-12T02:00:00Z",
+  "next_rotation_at": "2026-10-13T02:00:00Z",
+  "expires_at": "2026-10-13T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-12T02:00:00Z"
+    "next_rotation_at": "2026-10-13T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "mad-max-ps4-ps5",
+      "title": "Mad Max PS4/PS5",
+      "description": "Стань Безумным Максом - одиночным воякой в мире, где всё сгорело и только машины остаются.  \n\nТы будешь бороться - на руках, за рулём, в битвах с бандами и безжалостными диктаторами пустошей.  \n\nМакс несгибаемый. Он хочет оставить безумие позади и найти покой в таинственной «Безмолвной Равнине».  \n\nПрогуливайся по пустыне, ищи ресурсы, строй машину - всё это будет реальностью.",
+      "image_url": "https://static.tildacdn.com/stor3962-3362-4965-b861-333837343839/84044297.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00054_00/FREE_CONTENTygQPeBAHPBEUFCKdkOjH/Mad_Max_01.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00054_00/FREE_CONTENT3YLvadN34caxtrnSD6cy/Mad_Max_02.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00054_00/FREE_CONTENTQXAzFvErJOonVONJ6cT6/Mad_Max_03.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00054_00/FREE_CONTENTZvl7ZfY9imxNjmTO4Ikd/Mad_Max_04.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00054_00/FREE_CONTENTI2hBRteo7njtdobaV1Q3/Mad_Max_05.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00054_00/FREE_CONTENTm4Q2GwYUyjGR2kEAVMgc/Mad_Max_06.jpg",
+        "https://image.api.playstation.com/cdn/EP1018/CUSA00054_00/FREE_CONTENT8IlkvIntjqOMrMphZcmD/Mad_Max_07.jpg"
+      ],
+      "release_date": "1/9/2015",
+      "publisher": "WARNER BROS. INTERACTIVE",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.47,
+      "store_url": "https://store.playstation.com/en-tr/concept/202765",
+      "tilda_uid": "437217874432",
+      "sku": "",
+      "external_id": "PBXe0r1UPaen0lfJPnxr",
+      "url": "http://arenapsgm.ru/tproduct/437217874432-mad-max-ps4ps5",
+      "expires_at": "2026-10-13T02:00:00Z",
+      "published_at": "2026-10-12T02:01:33Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Стань Безумным Максом - одиночным воякой в мире, где сгорело всё и остаются только машины.  \nПрогуливайся по пустыне, ищи ресурсы, строй машину - всё это будет реальностью."
+    }
+  ],
+  "history": [
     {
       "slug": "need-for-speed-rivals-ps4-ps5",
       "title": "Need for Speed Rivals PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "IZhnBLSkhfIJaVOXUZDX",
       "url": "http://arenapsgm.ru/tproduct/796321275772-need-for-speed-rivals-ps4ps5",
-      "expires_at": "2026-10-12T02:00:00Z",
       "published_at": "2026-10-11T02:01:38Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Гонки без выхода - где полиция соперничает с гонщиками на каждом повороте.  \nТы или защищаешь порядок, или бегу по темным дорогам - выбор в твоих руках."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "the-invincible-ps5",
       "title": "The Invincible PS5",
@@ -2984,56 +3034,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Новая игра дня - супер-драйв на PS5, без лишних слов.  \nГотовы к битве? В чате всё в режиме реального времени - ссылки, отзывы, обновления."
-    },
-    {
-      "slug": "serious-sam-collection-ps4-ps5",
-      "title": "Serious Sam Collection PS4/PS5",
-      "description": "Герой экшена «Крутого» Сэма Стоуна возвращается - с дробовиками, лазерами и пушкой, чтобы уничтожить инопланетных врагов в самых бешеных сценах: от руин Египта до арен Южной Америки.  \n\nСражайтесь как в фильме - одиночно или в команде. До 16 игроков онлайн, или вместе с друзьями локально. Всё это - в кампаниях и режимах выживания.  \n\nИгра включает в себя три главных издания Serious Sam HD и Serious Sam 3, в том числе бонусы The Legend of the Beast и Jewel of the Nile.  \n\nГотовы к взрывам? Взять в аренду - просто и без лишних слов.",
-      "image_url": "https://static.tildacdn.com/stor6361-6261-4134-a237-376161636638/35936347.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202011/0423/BAzVYpuTHTrnLHoOgP7ish1K.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202011/0423/CZEkRIMCJ0dgf13ETCTDbad6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202011/0423/Or4yD2drYMem62HzfwfK8F32.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202011/0423/ur5WspdXWYhq643F0B7kals4.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202011/0423/FGPq3NygYReDyHtp1sMCP1ov.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202011/0423/HWMHUohuh2Hmj6lIKkV58iRQ.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202011/0423/TmcvE2Is0YQUKJI43OToK1k8.jpg"
-      ],
-      "release_date": "17/11/2020",
-      "publisher": "Devolver Digital",
-      "platforms": "PS4",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.4,
-      "store_url": "https://store.playstation.com/en-tr/concept/204506",
-      "tilda_uid": "727101110352",
-      "sku": "",
-      "external_id": "UGJpei37TxRx0147FnbB",
-      "url": "http://arenapsgm.ru/tproduct/727101110352-serious-sam-collection-ps4ps5",
-      "published_at": "2026-08-14T12:25:35Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Сэм Стоун с дробовиками и пушкой возвращается - бьёт инопланетников от Египта до Южной Америки.  \n\nОдиночные или командные бои, 16 игроков онлайн или локально - кампании, выживание и бонусы включены."
     }
   ]
 }
