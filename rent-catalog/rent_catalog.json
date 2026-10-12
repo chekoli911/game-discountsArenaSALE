@@ -1,7 +1,7 @@
 {
   "version": 1,
   "catalog_id": "2026-09-30T08:11:38Z",
-  "generated_at": "2026-10-09T11:56:12Z",
+  "generated_at": "2026-10-12T10:04:12Z",
   "count": 11131,
   "items": [
     {
@@ -943,7 +943,7 @@
       "seo_title": "Forza Horizon 6 на PS5 аренда игры",
       "seo_descr": "Аренда Forza Horizon 6 на PS5. «Предзаказ - Требует немедленной оплаты» Подробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного… Быстрый доступ после оплаты.",
       "external_id": "kESFA3nEIWKbirU4ATEM",
-      "catalog_added_at": "2026-10-09T11:56:09Z"
+      "catalog_added_at": "2026-10-09T12:29:06Z"
     },
     {
       "id": "a-o-t-3",
@@ -3918,49 +3918,56 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799,
+          "56": 1438
         },
         "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
+          "1": 357,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899,
+          "56": 1618
         }
       },
       "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
+        "1": 257,
+        "7": 357,
+        "14": 490,
+        "21": 699,
+        "28": 799,
+        "56": 1438
       },
       "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
+        "1": 357,
+        "7": 459,
+        "14": 590,
+        "21": 799,
+        "28": 899,
+        "56": 1618
       },
-      "price_min": 697,
+      "price_min": 257,
       "lang_label": "",
       "genre": "Ролевая игра, Экшен",
-      "categories": [],
+      "categories": [
+        "Новинки",
+        "Все игры",
+        "Новинка главная шапка",
+        "Только PS5",
+        "Приключения",
+        "Платформеры"
+      ],
       "publisher": "SQUARE ENIX CO. LTD.",
       "voice": "",
       "text_translation": "",
       "rating": 0.0,
       "release_date": "05.10.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/8e755595ecec9c09fff8ca25f5e53cfdc645d6e2f3a91037.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/1eee097b9b21acdfa69f442481ca98f013a4948471fff3fe.jpg",
@@ -3973,11 +3980,11 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/8d04d5d783094585d79e14e76670f2767986344119ecb15c.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/product/UP0082-PPSA35901_00-KHCOLLECTION00EN",
-      "description": "Кингдом Хартиз - три души в одной коробке.  \nТы получишь всё: от классических сборок до самого нового KINGDOM HEARTS III с бонусным DLC.  \n\nСердце, меч и путь через миры - теперь в одном формате.  \nВсё это включает эксклюзивную копию ключа Blade «Midnight Blue» - как в самом сне.  \n\nПредзаказ начинается 7 октября 2026 года, и первые 48 часов - уже на твоём экране.",
-      "seo_title": "KINGDOM HEARTS Collection [I～III] PS5 аренда игры",
-      "seo_descr": "Аренда KINGDOM HEARTS Collection [I～III] PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:18Z"
+      "description": "Кинг-Хардс на PS5 - возвращение Соры, Дональда и Гоффи к битве с тёмными силами Организации XIII.  \n\nИгра умножает дружбу и свет: вместе они спасают мир Disney и Pixar от глубокой тьмы.  \n\nВсё в одном - от классических глав до заключительного эпизода Re Mind, где Сора проникает в ключевое поместье и находит настоящие ответы.  \n\nИзменение не только в мире - но и в сердце. 🌟",
+      "seo_title": "KINGDOM HEARTS Collection [I～III] на PS5 аренда игры",
+      "seo_descr": "Аренда KINGDOM HEARTS Collection [I～III] на PS5. *This product is also included in other bundle sets. Please ensure you do not purchase the same content more than once. Быстрый доступ после оплаты.",
+      "external_id": "JHdh_7cDxqa5lOO3W3uf",
+      "catalog_added_at": "2026-10-12T10:04:10Z"
     },
     {
       "id": "gear-club-unlimited-3-deluxe-edition",
@@ -175259,49 +175266,54 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799,
+          "56": 1438
         },
         "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
+          "1": 357,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899,
+          "56": 1618
         }
       },
       "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
+        "1": 257,
+        "7": 357,
+        "14": 490,
+        "21": 699,
+        "28": 799,
+        "56": 1438
       },
       "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
+        "1": 357,
+        "7": 459,
+        "14": 590,
+        "21": 799,
+        "28": 899,
+        "56": 1618
       },
-      "price_min": 697,
+      "price_min": 257,
       "lang_label": "На русском языке!",
       "genre": "Экшен, Приключение",
-      "categories": [],
+      "categories": [
+        "Все игры",
+        "Только PS5",
+        "Шутеры",
+        "Приключения"
+      ],
       "publisher": "2K",
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "rating": 4.03,
       "release_date": "08.08.2025",
       "is_preorder": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/06f677b905f8794395b855a0de3e9fcb42b567e78c50aaed.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/ce687bad837b4ec325c5e3dccf5272c45db72cdddb5a2ac1.jpg",
@@ -175315,10 +175327,10 @@
       ],
       "store_url": "https://store.playstation.com/en-tr/concept/10007134",
       "description": "Мafia: The Old Country - вы на Сицилии 1900-х, в мире, где каждый шаг - риск.  \n\nВы играете за Энцо Фавару - молодого бывшего моряка, который хочет войти в мафию и доказать себе ценность.  \n\nВсё вокруг - стилеты, обрезы Лупары, кровная месть. Правда здесь жестока - и каждый выбор приведёт к последствиям.  \n\nАтмосфера плотная, как кино. Игра не просто про борьбу - она о выживании в мире без правды.",
-      "seo_title": "Mafia: The Old Country PS5 аренда игры",
-      "seo_descr": "Аренда Mafia: The Old Country PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:38:45Z"
+      "seo_title": "Mafia: The Old Country на PS5 аренда игры",
+      "seo_descr": "Аренда Mafia: The Old Country на PS5. Раскройте истоки организованной преступности в Mafia: The Old Country, суровой мафиозной истории, действие которой разворачивается в жестоком преступном мире Сицилии… Быстрый доступ после оплаты.",
+      "external_id": "0khlLPStz-RKbHZ0JVKv",
+      "catalog_added_at": "2026-10-09T20:16:16Z"
     },
     {
       "id": "knowledge-or-know-lady",
