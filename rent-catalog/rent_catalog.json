@@ -1,8 +1,8 @@
 {
   "version": 1,
   "catalog_id": "2026-09-30T08:11:38Z",
-  "generated_at": "2026-10-12T23:48:48Z",
-  "count": 11131,
+  "generated_at": "2026-10-13T08:50:32Z",
+  "count": 11132,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -675,6 +675,77 @@
       "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
+      "id": "god-of-war-laufeytm",
+      "slug": "god-of-war-laufeytm",
+      "sku": "rent-god-of-war-laufeytm",
+      "title": "God of War LaufeyTM PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 497,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 497,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 497,
+      "lang_label": "",
+      "genre": "Экшен",
+      "categories": [
+        "Предзаказы"
+      ],
+      "publisher": "Sony Interactive Entertainment",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "15.02.2027",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/e1e187126032636435888915f17e26c3645661746a38362d.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/23e5c798d6a5301267a4288c92763a0189c16af5ea3149ad.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/5abb64413f423b320b9a3ee2c592a5390d35e05b0aa41589.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/b0dff26a75f137aa61e30946eeef75142a87a66020896d1d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/ddad5a8cb56db9f72ef2264759fdbc39a00cf5520321716b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/ebb50aba267715399cf90ec9e20af8fad16da2c2e606fd1e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/97b371b10c3120c051a177ed451ae63097fe030a72b32f20.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0121/618501f5614e0080f8dac35713a074a0f2b536630bff3d31.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1800/c49e13372d02cf489c65fdd87a9e6ce8333e2182421338e1.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/UP9000-PPSA19249_00-LAUFEY0000000000",
+      "description": "Последняя воля Фэй - новая глава легендарной саги God of War.  \n\nВоительница Лафей пробуждается в посмертном царстве, где божества из разных пантеонов борются за власть. Её цель - спасти Кратоса и Атрею. Сила воли, скорость и точность помогут ей сокрушить самых свирепых врагов.  \n\nПосмертное царство раскрывается в жутком великолепии: 4K-разрешение, глубокие детали, неземные звуки - от лая мифических существ до боевых кличей богов. Благодаря объемному звучанию вы слышите каждый шаг и каждый гул магии.  \n\nСверхскоростной SSD делает загрузку моментальной - не ждите, Фэй уже в деле. А контроллер DualSense подаёт ощущение каждого удара: от магии до волшебного клинка.",
+      "seo_title": "God of War LaufeyTM на PS5 аренда игры",
+      "seo_descr": "Аренда God of War LaufeyTM на PS5. «Предзаказ - Требует немедленной оплаты» Подробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного… Быстрый доступ после оплаты.",
+      "external_id": "6JkywC9nXkWOkenyvL2V",
+      "catalog_added_at": "2026-10-13T08:50:30Z"
+    },
+    {
       "id": "tomb-raider-legacy-of-atlantis",
       "slug": "tomb-raider-legacy-of-atlantis",
       "sku": "rent-tomb-raider-legacy-of-atlantis",
@@ -939,7 +1010,7 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202609/0221/c82d84a42945993e848b678a5f910e187ff6908eb472853f.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/product/UP6312-PPSA32152_00-0081086881064115",
-      "description": "Forza Horizon 6 - сияет японским светом и горами.  \n\nНа твоём рулевом колесе - более 550 реальных машин, включая эксклюзивную Ferrari J50 с тюнингом. Повороты живые, руль вращается - как на настоящем авто.  \n\nПогрузись в Японию: от пригородов до доков, промзон и улиц Токио - всё под контролем. Собери участок, купи роскошные дома с гаражами по своему вкусу.  \n\nГоняй с друзьями, создавай заезды в EventLab, участвуй в слетах и коллаборациях - твоё имя может стать частью легенд Horizon.",
+      "description": "Forza Horizon 6 - твой вход в японский пейзаж, где горы встречаются с мегаполисами и каждый поворот - как живое дыхание культуры.  \n\nПочувствуй атмосферу Японии под хитовый саундтрек: от тихих пригородов до шумных доков Токио, где можно пролететь над промзонами и почувствовать ритм города.  \n\nРулите 550 реальных машин - с вращением руля, улучшайте их кузовными комплектами и цветами. Собирайте коллекцию, стройте роскошные дома и настраивайте гаражи под себя.  \n\nГоняйтесь с друзьями, участвуйте в слетах, создавайте креативные заезды - всё это внутри одной самой большой карты Horizon.",
       "seo_title": "Forza Horizon 6 на PS5 аренда игры",
       "seo_descr": "Аренда Forza Horizon 6 на PS5. «Предзаказ - Требует немедленной оплаты» Подробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного… Быстрый доступ после оплаты.",
       "external_id": "kESFA3nEIWKbirU4ATEM",
