@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-12T02:01:33Z",
-  "server_time_utc": "2026-10-12T02:01:33Z",
+  "updated_at": "2026-10-13T02:01:56Z",
+  "server_time_utc": "2026-10-13T02:01:56Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-13T02:00:00Z",
-  "expires_at": "2026-10-13T02:00:00Z",
+  "next_rotation_at": "2026-10-14T02:00:00Z",
+  "expires_at": "2026-10-14T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-13T02:00:00Z"
+    "next_rotation_at": "2026-10-14T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "beyond-good-amp-evil-20th-anniversary-edition-ps4-ps5",
+      "title": "Beyond Good &amp; Evil 20th Anniversary Edition PS4/PS5",
+      "description": "Год назад Джейд с посохом дай-дзе и камерой проникла в мир Хиллии – теперь вы тоже можете быть её репортером.  \n\nВперёд - за сокровища, противниками и головоломками, где каждый шаг может привести к неожиданным открытиям. Сражайтесь, скрывайтесь, бегите на воздушной подушке и дропайте в мини-игры с Пей’Джем и Аш-Двом - всё это в одном потрясающем мире.  \n\nИгра пережила 20 лет - теперь она выглядит лучше, работает плавнее (до 4К и 60 FPS), а звук - как всегда в тонусе. Улучшены настройки, автосохранение, кроссплатформенные сохранения - всё для того, чтобы играть без перерывов и с лёгкостью.  \n\nПогружайтесь в историю, видите, как игра была создана - и открытое сердце Джейд вновь тревожит вас.",
+      "image_url": "https://static.tildacdn.com/stor6535-3361-4530-a234-326632383463/16871713.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202310/2717/c44b1bfedf476d14b0a3ffccd3ab599b58dd4fee59bca1d5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202310/2717/de34ce06efe50fdf2b99cef126f945a4e0780db6a2fdeb6a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202310/2717/5131ae6de8a168776803dfed755e760f00fc19cf19b2fb32.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202310/2717/fa6f3b6ea8f7b829ad30f13511229d950738163cec4c78e5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202310/2717/dde2872a9c0e5e262c4392a7d4c709a4d310f530a8875cf8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202310/2717/9c5eaaf421ce70a68b445f050d707a234d949cda303cb945.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202310/2717/194d8312d91fc52c372df9ac85eb0d81c93c3b69c8caf789.jpg"
+      ],
+      "release_date": "25/6/2024",
+      "publisher": "Ubisoft",
+      "platforms": "PS4, PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.76,
+      "store_url": "https://store.playstation.com/en-tr/concept/10004727",
+      "tilda_uid": "587550306422",
+      "sku": "",
+      "external_id": "odZ5JAIRtefdzu7a7GHo",
+      "url": "http://arenapsgm.ru/tproduct/587550306422-beyond-good-amp-evil-20th-anniversary-ed",
+      "expires_at": "2026-10-14T02:00:00Z",
+      "published_at": "2026-10-13T02:01:56Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Год назад Джейд проникла в мир Хиллии – теперь ты тоже можешь быть её репортером.  \n\nСражайтесь, скрывайтесь, бегите и сражайтесь с головоломками – всё это в одном живом мире. Игра выглядит лучше, работает плавнее и теперь поддерживает 4К и 60 FPS."
+    }
+  ],
+  "history": [
     {
       "slug": "mad-max-ps4-ps5",
       "title": "Mad Max PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "PBXe0r1UPaen0lfJPnxr",
       "url": "http://arenapsgm.ru/tproduct/437217874432-mad-max-ps4ps5",
-      "expires_at": "2026-10-13T02:00:00Z",
       "published_at": "2026-10-12T02:01:33Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Стань Безумным Максом - одиночным воякой в мире, где сгорело всё и остаются только машины.  \nПрогуливайся по пустыне, ищи ресурсы, строй машину - всё это будет реальностью."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "need-for-speed-rivals-ps4-ps5",
       "title": "Need for Speed Rivals PS4/PS5",
@@ -2986,54 +3036,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Готовы к жестокости и мрачному вдохновению? The Last Faith - битва с самим собой в пиксельном готическом мире.  \n\nБои безжалостны, выборы - не просто в сюжете, а в каждом движении. Уходящее время и ускользающие мысли - главный сюжет."
-    },
-    {
-      "slug": "saints-row-ps4-ps5",
-      "title": "Saints Row PS4/PS5",
-      "description": "Вступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "image_url": "https://static.tildacdn.com/stor3764-3865-4438-b132-643763666336/60857364.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/img/rnd/202109/0609/3P5y1MOvlTJzVC39Ga8O4Bsn.jpg",
-        "https://image.api.playstation.com/vulcan/img/rnd/202109/0609/nTpAmY1T11xggfIEaY9cB0uD.jpg",
-        "https://image.api.playstation.com/vulcan/img/rnd/202109/0609/sXFcxF3cFeTLzT6CMx2vEIO2.jpg",
-        "https://image.api.playstation.com/vulcan/img/rnd/202109/0609/uNwTNHcsiFbTBmOLyBJlV4yd.jpg",
-        "https://image.api.playstation.com/vulcan/img/rnd/202109/0609/oBkKJavcyJiJRVnUFhcz3NJc.jpg"
-      ],
-      "release_date": "23/8/2022",
-      "publisher": "Deep Silver",
-      "platforms": "PS4, PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 3.06,
-      "store_url": "https://store.playstation.com/en-tr/concept/10002042",
-      "tilda_uid": "955070526152",
-      "sku": "",
-      "external_id": "G1bdrZXlk7zBazob9dRN",
-      "url": "http://arenapsgm.ru/tproduct/955070526152-saints-row-ps4ps5",
-      "published_at": "2026-08-15T12:30:41Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Новая игра дня - супер-драйв на PS5, без лишних слов.  \nГотовы к битве? В чате всё в режиме реального времени - ссылки, отзывы, обновления."
     }
   ]
 }
