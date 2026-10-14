@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-14T03:26:47+03:00",
-  "updated_at_msk": "14.10.2026 03:26",
+  "updated_at": "2026-10-14T04:26:54+03:00",
+  "updated_at_msk": "14.10.2026 04:26",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1739,
+  "total": 1740,
   "unique_games": 633,
   "in_demand": 97,
   "one_off": 443,
@@ -2541,7 +2541,7 @@
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
       "item_id": "8309116747",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/call_of_duty_modern_warfare_4_-_vault_edition_ps5_8309116747",
-      "count": 36,
+      "count": 37,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -2705,7 +2705,7 @@
         33,
         34,
         36,
-        36
+        37
       ],
       "hourly": [
         0,
@@ -2843,7 +2843,7 @@
         2,
         1,
         2,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -2984,7 +2984,7 @@
         257
       ],
       "first_at": "2026-09-20T11:40:52+03:00",
-      "last_at": "2026-10-13T19:29:10+03:00"
+      "last_at": "2026-10-14T03:52:18+03:00"
     },
     {
       "id": "bodycamera-shooter-ps5",
@@ -273919,6 +273919,12 @@
   ],
   "recent": [
     {
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-14T03:52:18+03:00"
+    },
+    {
       "title": "Parkour simulator VR PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -274151,12 +274157,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-10-12T03:44:29+03:00"
-    },
-    {
-      "title": "Company of Heroes 3 PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-12T02:57:27+03:00"
     }
   ]
 }
