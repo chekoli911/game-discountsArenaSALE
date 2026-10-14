@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-13T02:01:56Z",
-  "server_time_utc": "2026-10-13T02:01:56Z",
+  "updated_at": "2026-10-14T02:01:53Z",
+  "server_time_utc": "2026-10-14T02:01:53Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-14T02:00:00Z",
-  "expires_at": "2026-10-14T02:00:00Z",
+  "next_rotation_at": "2026-10-15T02:00:00Z",
+  "expires_at": "2026-10-15T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-14T02:00:00Z"
+    "next_rotation_at": "2026-10-15T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "terraria-ps4-ps5",
+      "title": "Terraria PS4/PS5",
+      "description": "Судьба мира - в твоих руках. Выживай, борись, строй города или ищи сокровища под землёй. В Terraria ты не просто играешь - ты создаёшь всё самому.  \n\nНовинка 1.4.4 «Любовь к работе» придаёт игре ещё больше глубины. Теперь можно не только строить, но и вести дружелюбный диалог с миром - в каждом предмете, враге и персонаже - есть своё место.  \n\nБолее 5000 предметов, 25 неигровых персонажей и почти 400 врагов - всё это внутри одной игры, где каждый шаг может привести к чему-то непредсказуемому.  \n\nПопробуй - и почувствуешь, как мир начинает жить под твоим контролем 🌍✨",
+      "image_url": "https://static.tildacdn.com/stor6466-3531-4436-b164-643766333966/21873286.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202601/1914/74f7a8e7dbcc43a37650f244a74c132dedb6ffd97a3ffe2d.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202601/1914/d287b7caf455a69e7181b369613e3ebf5901d476bd0ac4bc.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202601/1914/c50b6ae11c60e4011ea7e847ad7a00f8738e13056d902d2b.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202601/1914/a7c544102fd3393681286e5485265d39a5e15401f6802f53.jpeg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2014/nByY3U3qGpSYqy7U5LiyhwW0.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2014/rC6IMh2WiJwBe8S2qGjEoRwX.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2014/o92E0g4kjP39bMBzaA5kyQRD.jpg"
+      ],
+      "release_date": "12/11/2014",
+      "publisher": "505 GAMES S.R.L.",
+      "platforms": "PS4",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.51,
+      "store_url": "https://store.playstation.com/en-tr/concept/205080",
+      "tilda_uid": "499878361602",
+      "sku": "",
+      "external_id": "DnIYS5fVmYuaRx7ytuhN",
+      "url": "http://arenapsgm.ru/tproduct/499878361602-terraria-ps4ps5",
+      "expires_at": "2026-10-15T02:00:00Z",
+      "published_at": "2026-10-14T02:01:53Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Судьба мира в твоих руках - строй города или ищи сокровища, всё создаёшь сам.  \n\nНовая версия 1.4.4 добавляет дружелюбные диалоги даже с врагами и предметами - мир начинает реагировать на тебя."
+    }
+  ],
+  "history": [
     {
       "slug": "beyond-good-amp-evil-20th-anniversary-edition-ps4-ps5",
       "title": "Beyond Good &amp; Evil 20th Anniversary Edition PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "odZ5JAIRtefdzu7a7GHo",
       "url": "http://arenapsgm.ru/tproduct/587550306422-beyond-good-amp-evil-20th-anniversary-ed",
-      "expires_at": "2026-10-14T02:00:00Z",
       "published_at": "2026-10-13T02:01:56Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 290,
+          "14": 390,
+          "21": 590,
+          "28": 690
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 390,
+          "14": 490,
+          "21": 690,
+          "28": 790
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 290,
+        "14": 390,
+        "21": 590,
+        "28": 690
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Год назад Джейд проникла в мир Хиллии – теперь ты тоже можешь быть её репортером.  \n\nСражайтесь, скрывайтесь, бегите и сражайтесь с головоломками – всё это в одном живом мире. Игра выглядит лучше, работает плавнее и теперь поддерживает 4К и 60 FPS."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "mad-max-ps4-ps5",
       "title": "Mad Max PS4/PS5",
@@ -2986,56 +3036,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Бэтмен мёртв. Готэм погружён в хаос - и теперь только семья Бэтмена борется с тьмой.  \nПатрулируй улицы, разгадывай загадки и защищай город - всё это в открытом мире. Игра начинается уже сегодня."
-    },
-    {
-      "slug": "the-last-faith-ps4-ps5",
-      "title": "The last faith PS4/PS5",
-      "description": "Готовы к жестокости и мрачному вдохновению? The Last Faith - это не просто игра, а битва с самим собой.  \n\nВ ней смешались метроидвания и soulslike: безжалостные бои, точность на каждый шанс, сотни способов убивать - и всё это в пиксельном готическом мире, где горы покрыты снегом, а замки светятся под луной.  \n\nЭрик просыпается в разрушенной реальности, не помня ничего о себе. Он понимает: у него есть только время - и всё больше начинает уходить из его головы. Путь вперёд пролегает через древние религии, божеств и жестокие испытания.  \n\nВсё это - без сюжета, как вы думали? Нет. Тут каждый шаг - выбор, каждый удар - ответ на внутренний вопрос.",
-      "image_url": "https://static.tildacdn.com/stor3534-3331-4466-b037-626365323631/92174606.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202306/0901/8e7c417668095f45d0e30f07a98dc8b51c46bff94018ab57.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202306/0901/8a8191121aa5834252251f20f2296daeb4d3ee10913ffa97.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202306/0901/47fe519aec2436d892f001c9437e22aa705570a99c78a957.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202306/0901/bbddabb6dea3ffc7f891808838dc378f7548632a9a9b17f9.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202306/0901/52bfb28b4728a7c00d965ae3322d83e433a24b3b1aa99dc1.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202310/0415/ae38e69c89c420f3e274d12ebd52c534f0e07e643048a70f.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202306/0901/ea29cb74b6af7f5d7202617c73ee2c93a1f1ffcfc5b5b2e6.jpg"
-      ],
-      "release_date": "15/11/2023",
-      "publisher": "PLAYSTACK LIMITED",
-      "platforms": "PS4, PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.45,
-      "store_url": "https://store.playstation.com/en-tr/concept/10005554",
-      "tilda_uid": "846579826332",
-      "sku": "",
-      "external_id": "YdZTASYYELRPYp3KXzVk",
-      "url": "http://arenapsgm.ru/tproduct/846579826332-the-last-faith-ps4ps5",
-      "published_at": "2026-08-16T11:59:18Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Готовы к жестокости и мрачному вдохновению? The Last Faith - битва с самим собой в пиксельном готическом мире.  \n\nБои безжалостны, выборы - не просто в сюжете, а в каждом движении. Уходящее время и ускользающие мысли - главный сюжет."
     }
   ]
 }
