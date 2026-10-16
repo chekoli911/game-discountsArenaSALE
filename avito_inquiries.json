@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-16T05:36:10+03:00",
-  "updated_at_msk": "16.10.2026 05:36",
+  "updated_at": "2026-10-16T06:36:15+03:00",
+  "updated_at_msk": "16.10.2026 06:36",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1765,
+  "total": 1766,
   "unique_games": 644,
   "in_demand": 98,
   "one_off": 452,
@@ -2575,7 +2575,7 @@
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
       "item_id": "8309116747",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/call_of_duty_modern_warfare_4_-_vault_edition_ps5_8309116747",
-      "count": 38,
+      "count": 39,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -2741,7 +2741,7 @@
         36,
         37,
         38,
-        38
+        39
       ],
       "hourly": [
         0,
@@ -2881,7 +2881,7 @@
         2,
         1,
         1,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -3024,7 +3024,7 @@
         257
       ],
       "first_at": "2026-09-20T11:40:52+03:00",
-      "last_at": "2026-10-15T07:42:55+03:00"
+      "last_at": "2026-10-16T06:29:26+03:00"
     },
     {
       "id": "bodycamera-shooter-ps5",
@@ -282538,6 +282538,12 @@
   ],
   "recent": [
     {
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-16T06:29:26+03:00"
+    },
+    {
       "title": "The Binding of Isaac: Repentance PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -282770,12 +282776,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-10-13T14:11:06+03:00"
-    },
-    {
-      "title": "Star wars: Galactic Racer Deluxe Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-13T14:01:28+03:00"
     }
   ]
 }
