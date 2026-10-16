@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-15T02:01:54Z",
-  "server_time_utc": "2026-10-15T02:01:54Z",
+  "updated_at": "2026-10-16T02:01:54Z",
+  "server_time_utc": "2026-10-16T02:01:54Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-16T02:00:00Z",
-  "expires_at": "2026-10-16T02:00:00Z",
+  "next_rotation_at": "2026-10-17T02:00:00Z",
+  "expires_at": "2026-10-17T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-16T02:00:00Z"
+    "next_rotation_at": "2026-10-17T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "shadow-of-the-colossus-ps4-ps5",
+      "title": "Shadow of the Colossus PS4/PS5",
+      "description": "Шедевр возвращается - Shadow of the Colossus на PS4/PS5.  \nПоследний удар в мире, где каждый шаг - как в снах.  \n\n16 гигантских существ ждут тебя в живой, красивой и динамичной реальности.  \nЛазай по их телам, находи уязвимые точки - и держи меч в руках, чтобы разорвать их с одного удара.  \n\nТакую игру ты уже не видел - теперь на консоли нового поколения.  \n\nАренда в нашем канале - просто клик.",
+      "image_url": "https://static.tildacdn.com/stor6632-3138-4863-b537-326531396532/80829676.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP9000/CUSA08809_00/FREE_CONTENThcUzVJS4BMnwucksb9FL/SHADOW%20OF%20THE%20COLOSSUS_01.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA08809_00/FREE_CONTENThcUzVJS4BMnwucksb9FL/SHADOW OF THE COLOSSUS_01.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA08809_00/FREE_CONTENTRqOufaIUhjFe6kroxi97/SHADOW%20OF%20THE%20COLOSSUS_02.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA08809_00/FREE_CONTENTRqOufaIUhjFe6kroxi97/SHADOW OF THE COLOSSUS_02.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA08809_00/FREE_CONTENTESh9Mve6hRbWk4jcWBvx/SHADOW%20OF%20THE%20COLOSSUS_03.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA08809_00/FREE_CONTENTESh9Mve6hRbWk4jcWBvx/SHADOW OF THE COLOSSUS_03.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA08809_00/FREE_CONTENTxP2QbD3I3yYMKenmF6j9/SHADOW%20OF%20THE%20COLOSSUS_04.jpg"
+      ],
+      "release_date": "7/2/2018",
+      "publisher": "Sony Interactive Entertainment",
+      "platforms": "PS4",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.38,
+      "store_url": "https://store.playstation.com/en-tr/concept/225857",
+      "tilda_uid": "219460845092",
+      "sku": "",
+      "external_id": "a1GYBTgE6KmkgbXvzotp",
+      "url": "http://arenapsgm.ru/tproduct/219460845092-shadow-of-the-colossus-ps4ps5",
+      "expires_at": "2026-10-17T02:00:00Z",
+      "published_at": "2026-10-16T02:01:54Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Shadow of the Colossus возвращается - каждый шаг как сон, каждый удар - как финал.  \n16 гигантов, лазь по телам и режь один раз - на PS4/PS5."
+    }
+  ],
+  "history": [
     {
       "slug": "diablo-4-vessel-of-hatred-ps4-ps5",
       "title": "Diablo 4 + Vessel of Hatred PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "ZxU8DuZ0TJ2fl2lV9C5V",
       "url": "http://arenapsgm.ru/gamescatalog/tproduct/374428121232-diablo-4-vessel-of-hatred-ps4ps5",
-      "expires_at": "2026-10-16T02:00:00Z",
       "published_at": "2026-10-15T02:01:54Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 899,
+          "14": 1690,
+          "21": 1990,
+          "28": 2390
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 999,
+          "14": 1790,
+          "21": 2090,
+          "28": 2490
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 899,
+        "14": 1690,
+        "21": 1990,
+        "28": 2390
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Диаболо 4 дарит новую тьму – класс наследника духов растёт с каждым боем.  \nНовые подземелья, враги и усилённые герои - мир становится опаснее и глубже."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "terraria-ps4-ps5",
       "title": "Terraria PS4/PS5",
@@ -2986,54 +3036,6 @@
       "p3_extra": 110,
       "is_game_day": false,
       "short_description": "РобоКоп вернулся - теперь вы его на деле.  \nВыбираете, что считать правдой, сражаетесь в Детройте и растёт ваша мощь - всё это живёт и развивается.  \n#RoboCopRogueCity"
-    },
-    {
-      "slug": "cat-quest-3-ps4-ps5",
-      "title": "Cat Quest 3 PS4/PS5",
-      "description": "Вступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "image_url": "https://static.tildacdn.com/stor6362-3335-4332-b733-303032393062/52272620.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/cdn/UP4293/CUSA10215_00/FREE_CONTENT0MWRYTjyzdypbmIXMtHp/PREVIEW_SCREENSHOT7_157749.jpg",
-        "https://image.api.playstation.com/cdn/UP4293/CUSA10215_00/FREE_CONTENTp1fH7YbSvGDJE3tSZVGe/PREVIEW_SCREENSHOT5_157749.jpg",
-        "https://image.api.playstation.com/cdn/UP4293/CUSA10215_00/FREE_CONTENTp6ysAIwqZ1jfetDL6X6G/PREVIEW_SCREENSHOT4_157749.jpg",
-        "https://image.api.playstation.com/cdn/UP4293/CUSA10215_00/FREE_CONTENTzsWDEVmdTjnTl1ACbu8i/PREVIEW_SCREENSHOT3_157749.jpg",
-        "https://image.api.playstation.com/cdn/UP4293/CUSA10215_00/FREE_CONTENTtUhoVV6awkoIGtC3lv8w/PREVIEW_SCREENSHOT2_157749.jpg"
-      ],
-      "release_date": "10/11/2017",
-      "publisher": "Kepler Interactive Limited",
-      "platforms": "PS4",
-      "voice": "",
-      "text_translation": "Английский",
-      "rating": 4.57,
-      "store_url": "https://store.playstation.com/en-tr/concept/229453",
-      "tilda_uid": "313129830802",
-      "sku": "",
-      "external_id": "OPx5KbIZLnKJ8HkYfgKJ",
-      "url": "http://arenapsgm.ru/tproduct/313129830802-cat-quest-3-ps4ps5",
-      "published_at": "2026-08-18T12:05:01Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 699,
-          "28": 799
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 799,
-          "28": 899
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 699,
-        "28": 799
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Новая игра дня - супер-акция в приватной группе!  \nГотовься к новым приключениям - читай отзывы, попробуй сам."
     }
   ]
 }
