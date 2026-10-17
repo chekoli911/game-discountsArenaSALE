@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T00:10:00+00:00",
+  "updated_at": "2026-10-17T06:44:52+00:00",
   "items": [
     {
       "id": "call-of-duty-modern-warfare-4",
@@ -46,6 +46,15 @@
       "platforms": "PS5",
       "release_date": "15/2/2027",
       "added_at": "2026-10-13T17:09:01+00:00"
+    },
+    {
+      "id": "call-of-duty-modern-warfare-4-vault-edition",
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2020/60be9c36b8646660dc80e99e50483eecb3f99df636adece1.png",
+      "url": "https://arenapsgm.ru/newgame",
+      "platforms": "PS5",
+      "release_date": "22/10/2026",
+      "added_at": "2026-10-17T06:44:52+00:00"
     }
   ]
 }
