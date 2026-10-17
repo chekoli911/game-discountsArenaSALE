@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-18T00:42:38+03:00",
-  "updated_at_msk": "18.10.2026 00:42",
+  "updated_at": "2026-10-18T01:42:46+03:00",
+  "updated_at_msk": "18.10.2026 01:42",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1819,
+  "total": 1820,
   "unique_games": 665,
   "in_demand": 103,
   "one_off": 468,
@@ -2147,7 +2147,7 @@
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
       "item_id": "8309116747",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/call_of_duty_modern_warfare_4_-_vault_edition_ps5_8309116747",
-      "count": 49,
+      "count": 50,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -2315,7 +2315,7 @@
         38,
         42,
         49,
-        49
+        50
       ],
       "hourly": [
         0,
@@ -2457,7 +2457,7 @@
         1,
         4,
         7,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -2602,7 +2602,7 @@
         257
       ],
       "first_at": "2026-09-20T11:40:52+03:00",
-      "last_at": "2026-10-17T22:24:11+03:00"
+      "last_at": "2026-10-18T00:46:59+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -295729,6 +295729,12 @@
   ],
   "recent": [
     {
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-18T00:46:59+03:00"
+    },
+    {
       "title": "Winx Club: The Magic is Back PS5",
       "price": 286,
       "price_string": "286 ₽",
@@ -295961,12 +295967,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-10-16T18:27:17+03:00"
-    },
-    {
-      "title": "Hoa PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-16T18:16:22+03:00"
     }
   ]
 }
