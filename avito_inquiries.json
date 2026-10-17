@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-17T12:40:35+03:00",
-  "updated_at_msk": "17.10.2026 12:40",
+  "updated_at": "2026-10-17T13:40:44+03:00",
+  "updated_at_msk": "17.10.2026 13:40",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1801,
+  "total": 1802,
   "unique_games": 658,
   "in_demand": 102,
   "one_off": 461,
@@ -2133,7 +2133,7 @@
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
       "item_id": "8309116747",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/call_of_duty_modern_warfare_4_-_vault_edition_ps5_8309116747",
-      "count": 44,
+      "count": 45,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -2300,7 +2300,7 @@
         37,
         38,
         42,
-        44
+        45
       ],
       "hourly": [
         0,
@@ -2441,7 +2441,7 @@
         1,
         1,
         4,
-        2
+        3
       ],
       "price_series": [
         null,
@@ -2585,7 +2585,7 @@
         257
       ],
       "first_at": "2026-09-20T11:40:52+03:00",
-      "last_at": "2026-10-17T12:29:48+03:00"
+      "last_at": "2026-10-17T13:27:11+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -290648,6 +290648,12 @@
   ],
   "recent": [
     {
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-17T13:27:11+03:00"
+    },
+    {
       "title": "Phantom Blade Zero Digital Deluxe Edition PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -290880,12 +290886,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-10-15T21:51:08+03:00"
-    },
-    {
-      "title": "Dark souls II: Scholar of the First Sin PS4",
-      "price": 240,
-      "price_string": "240 ₽",
-      "at": "2026-10-15T20:58:45+03:00"
     }
   ]
 }
