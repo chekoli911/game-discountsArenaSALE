@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-17T15:41:08+03:00",
-  "updated_at_msk": "17.10.2026 15:41",
+  "updated_at": "2026-10-17T16:41:15+03:00",
+  "updated_at_msk": "17.10.2026 16:41",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1805,
+  "total": 1806,
   "unique_games": 658,
   "in_demand": 102,
   "one_off": 461,
@@ -2133,7 +2133,7 @@
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
       "item_id": "8309116747",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/call_of_duty_modern_warfare_4_-_vault_edition_ps5_8309116747",
-      "count": 46,
+      "count": 47,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -2300,7 +2300,7 @@
         37,
         38,
         42,
-        46
+        47
       ],
       "hourly": [
         0,
@@ -2441,7 +2441,7 @@
         1,
         1,
         4,
-        4
+        5
       ],
       "price_series": [
         null,
@@ -2585,7 +2585,7 @@
         257
       ],
       "first_at": "2026-09-20T11:40:52+03:00",
-      "last_at": "2026-10-17T15:36:44+03:00"
+      "last_at": "2026-10-17T16:12:13+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -290652,6 +290652,12 @@
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
       "price": 257,
       "price_string": "257 ₽",
+      "at": "2026-10-17T16:12:13+03:00"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
       "at": "2026-10-17T15:36:44+03:00"
     },
     {
@@ -290881,12 +290887,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-10-16T07:47:44+03:00"
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-16T06:29:26+03:00"
     }
   ]
 }
