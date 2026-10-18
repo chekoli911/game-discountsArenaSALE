@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-18T11:43:49+03:00",
-  "updated_at_msk": "18.10.2026 11:43",
+  "updated_at": "2026-10-18T12:43:58+03:00",
+  "updated_at_msk": "18.10.2026 12:43",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1824,
+  "total": 1826,
   "unique_games": 666,
   "in_demand": 104,
   "one_off": 469,
@@ -2147,7 +2147,7 @@
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
       "item_id": "8309116747",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/call_of_duty_modern_warfare_4_-_vault_edition_ps5_8309116747",
-      "count": 50,
+      "count": 52,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -2315,7 +2315,7 @@
         38,
         42,
         49,
-        50
+        52
       ],
       "hourly": [
         0,
@@ -2457,7 +2457,7 @@
         1,
         4,
         7,
-        1
+        3
       ],
       "price_series": [
         null,
@@ -2602,7 +2602,7 @@
         257
       ],
       "first_at": "2026-09-20T11:40:52+03:00",
-      "last_at": "2026-10-18T00:46:59+03:00"
+      "last_at": "2026-10-18T12:26:17+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -296173,6 +296173,18 @@
   ],
   "recent": [
     {
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-18T12:26:17+03:00"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-18T12:18:41+03:00"
+    },
+    {
       "title": "NHL 27 Deluxe Edition PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -296399,18 +296411,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-10-16T20:35:03+03:00"
-    },
-    {
-      "title": "Berry Bury Berry PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-16T20:29:37+03:00"
-    },
-    {
-      "title": "Firefighting Simulator - The Squad PS4 & PS5 PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-16T19:35:52+03:00"
     }
   ]
 }
