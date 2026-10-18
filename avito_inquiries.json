@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-18T04:43:05+03:00",
-  "updated_at_msk": "18.10.2026 04:43",
+  "updated_at": "2026-10-18T06:43:16+03:00",
+  "updated_at_msk": "18.10.2026 06:43",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1820,
+  "total": 1821,
   "unique_games": 665,
   "in_demand": 103,
   "one_off": 468,
@@ -3995,9 +3995,9 @@
       "title": "NBA 2K27 Ultra Edition PS5",
       "item_id": "8276992073",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/nba_2k27_ultra_edition_ps5_8276992073",
-      "count": 26,
+      "count": 27,
       "demand": "high",
-      "avg_price": 292,
+      "avg_price": 291,
       "min_price": 257,
       "max_price": 697,
       "last_price": 257,
@@ -4163,7 +4163,7 @@
         24,
         24,
         26,
-        26
+        27
       ],
       "hourly": [
         0,
@@ -4305,7 +4305,7 @@
         0,
         0,
         2,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -4450,7 +4450,7 @@
         257
       ],
       "first_at": "2026-08-20T13:33:54+03:00",
-      "last_at": "2026-10-17T17:29:00+03:00"
+      "last_at": "2026-10-18T06:20:48+03:00"
     },
     {
       "id": "onimusha-wots-deluxe-edition-ps5",
@@ -295729,6 +295729,12 @@
   ],
   "recent": [
     {
+      "title": "NBA 2K27 Ultra Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-18T06:20:48+03:00"
+    },
+    {
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -295961,12 +295967,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-10-16T18:34:04+03:00"
-    },
-    {
-      "title": "Evil Nun: The Broken Mask PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-16T18:27:17+03:00"
     }
   ]
 }
