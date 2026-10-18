@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-18T20:44:50+03:00",
-  "updated_at_msk": "18.10.2026 20:44",
+  "updated_at": "2026-10-18T21:44:56+03:00",
+  "updated_at_msk": "18.10.2026 21:44",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1852,
+  "total": 1853,
   "unique_games": 678,
   "in_demand": 104,
   "one_off": 481,
@@ -1685,7 +1685,7 @@
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
       "item_id": "8309116747",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/call_of_duty_modern_warfare_4_-_vault_edition_ps5_8309116747",
-      "count": 58,
+      "count": 59,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1853,7 +1853,7 @@
         38,
         42,
         49,
-        58
+        59
       ],
       "hourly": [
         0,
@@ -1995,7 +1995,7 @@
         1,
         4,
         7,
-        9
+        10
       ],
       "price_series": [
         null,
@@ -2140,7 +2140,7 @@
         257
       ],
       "first_at": "2026-09-20T11:40:52+03:00",
-      "last_at": "2026-10-18T17:54:06+03:00"
+      "last_at": "2026-10-18T21:25:10+03:00"
     },
     {
       "id": "nhl-27-ps5",
@@ -301492,6 +301492,12 @@
   ],
   "recent": [
     {
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-18T21:25:10+03:00"
+    },
+    {
       "title": "Tomb Raider: Legacy of Atlantis PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -301724,12 +301730,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-10-17T20:23:08+03:00"
-    },
-    {
-      "title": "End of Abyss PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-17T18:53:55+03:00"
     }
   ]
 }
