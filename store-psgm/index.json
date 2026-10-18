@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-13T14:00:00Z",
+  "updated_at": "2026-10-18T14:00:00Z",
   "page_url": "https://arenapsgm.ru/",
   "buy_url": "https://t.me/m/NrVGWXJpOGNi",
-  "total": 711,
+  "total": 713,
   "sections": [
     {
       "key": "preorders",
       "title": "Предзаказы",
       "file": "sections/preorders.json",
-      "count": 19,
+      "count": 20,
       "home": true,
       "banner": true
     },
@@ -48,7 +48,7 @@
       "key": "shooters",
       "title": "Шутеры",
       "file": "sections/shooters.json",
-      "count": 144,
+      "count": 145,
       "home": true,
       "banner": false
     },
@@ -88,7 +88,7 @@
       "key": "coop",
       "title": "Игры на двоих",
       "file": "sections/coop.json",
-      "count": 88,
+      "count": 89,
       "home": true,
       "banner": false
     },
@@ -104,7 +104,7 @@
       "key": "platformers",
       "title": "Платформеры",
       "file": "sections/platformers.json",
-      "count": 48,
+      "count": 49,
       "home": true,
       "banner": false
     },
@@ -128,7 +128,7 @@
       "key": "ps5",
       "title": "Только PS5",
       "file": "sections/ps5.json",
-      "count": 194,
+      "count": 195,
       "home": true,
       "banner": false
     },
@@ -144,7 +144,7 @@
       "key": "all",
       "title": "Все игры",
       "file": "sections/all.json",
-      "count": 650,
+      "count": 652,
       "home": false,
       "banner": false
     }
@@ -153,7 +153,7 @@
     {
       "key": "preorders",
       "title": "Предзаказы",
-      "count": 19
+      "count": 20
     },
     {
       "key": "novinki",
@@ -173,7 +173,7 @@
     {
       "key": "shooters",
       "title": "Шутеры",
-      "count": 144
+      "count": 145
     },
     {
       "key": "horror",
@@ -198,7 +198,7 @@
     {
       "key": "coop",
       "title": "Игры на двоих",
-      "count": 88
+      "count": 89
     },
     {
       "key": "strategy",
@@ -208,7 +208,7 @@
     {
       "key": "platformers",
       "title": "Платформеры",
-      "count": 48
+      "count": 49
     },
     {
       "key": "cinema",
@@ -223,12 +223,12 @@
     {
       "key": "ps5",
       "title": "Только PS5",
-      "count": 194
+      "count": 195
     },
     {
       "key": "all",
       "title": "Все игры",
-      "count": 650
+      "count": 652
     }
   ],
   "home_order": [
