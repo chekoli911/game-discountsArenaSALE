@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T14:00:00Z",
+  "updated_at": "2026-10-18T14:00:00Z",
   "games": [
     {
       "slug": "007-first-light-ps5",
@@ -1612,10 +1612,24 @@
       "platforms": "PS4"
     },
     {
+      "slug": "call-of-duty-modern-warfare-4-vault-edition-ps5",
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
+      "mark": "NEW",
+      "price_from": 1697,
+      "image_url": "https://static.tildacdn.com/stor3737-3636-4665-b032-656361373964/788f7ec68708663cb74b7059067c92bf.jpg",
+      "categories": [
+        "Предзаказы",
+        "Все игры",
+        "Только PS5",
+        "Шутеры"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "call-of-duty-modern-warfare-4-ps5",
       "title": "Call of Duty: Modern Warfare 4 PS5",
       "mark": "NEW",
-      "price_from": 1197,
+      "price_from": 1497,
       "image_url": "https://static.tildacdn.com/stor6165-6633-4335-b232-386263613839/d6965415c9fc80d08757f8613fc5e84a.jpg",
       "categories": [
         "Предзаказы",
@@ -6945,6 +6959,19 @@
         "Все игры",
         "Шутеры",
         "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "plateup-ps4",
+      "title": "PlateUp! PS4",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor3033-3934-4539-a136-636663333132/72912274.jpg",
+      "categories": [
+        "Все игры",
+        "Игры на двоих",
+        "Платформеры"
       ],
       "platforms": "PS4, PS5"
     },
