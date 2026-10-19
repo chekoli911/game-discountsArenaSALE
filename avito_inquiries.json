@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-19T02:45:21+03:00",
-  "updated_at_msk": "19.10.2026 02:45",
+  "updated_at": "2026-10-19T03:45:41+03:00",
+  "updated_at_msk": "19.10.2026 03:45",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1856,
+  "total": 1857,
   "unique_games": 680,
   "in_demand": 104,
   "one_off": 483,
@@ -1696,7 +1696,7 @@
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
       "item_id": "8309116747",
       "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/call_of_duty_modern_warfare_4_-_vault_edition_ps5_8309116747",
-      "count": 59,
+      "count": 60,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1865,7 +1865,7 @@
         42,
         49,
         59,
-        59
+        60
       ],
       "hourly": [
         0,
@@ -2008,7 +2008,7 @@
         4,
         7,
         10,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -2154,7 +2154,7 @@
         257
       ],
       "first_at": "2026-09-20T11:40:52+03:00",
-      "last_at": "2026-10-18T21:25:10+03:00"
+      "last_at": "2026-10-19T02:50:29+03:00"
     },
     {
       "id": "nhl-27-ps5",
@@ -304421,6 +304421,12 @@
   ],
   "recent": [
     {
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-10-19T02:50:29+03:00"
+    },
+    {
       "title": "My Time AT Sandrock PS4/PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -304653,12 +304659,6 @@
       "price": 286,
       "price_string": "286 ₽",
       "at": "2026-10-17T21:03:39+03:00"
-    },
-    {
-      "title": "Fighting Force Collection PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-17T21:00:09+03:00"
     }
   ]
 }
