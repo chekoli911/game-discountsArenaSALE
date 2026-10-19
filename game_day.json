@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-18T02:02:08Z",
-  "server_time_utc": "2026-10-18T02:02:08Z",
+  "updated_at": "2026-10-19T02:02:05Z",
+  "server_time_utc": "2026-10-19T02:02:05Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-19T02:00:00Z",
-  "expires_at": "2026-10-19T02:00:00Z",
+  "next_rotation_at": "2026-10-20T02:00:00Z",
+  "expires_at": "2026-10-20T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-19T02:00:00Z"
+    "next_rotation_at": "2026-10-20T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "the-crew-2-gold-edition-ps4-ps5",
+      "title": "The Crew 2 Gold Edition PS4/PS5",
+      "description": "🚗 Готовы к бешеным гонкам по всей Америке? The Crew 2 Gold Edition - это не просто игра, а настоящий мото- и авто-адреналин в открытом мире.  \n\n🔥 Всё с самого начала: бесплатный контент, новые режимы, трассы и события - каждый сезон приносит что-то новое. Соревнуйтесь на трассах, полюбуйтесь пейзажами и выбирайте из сотен автомобилей и мотоциклов.  \n\n🎯 Принимайте участие в гонках, дружеских соревнованиях - и приглашайте до 7 друзей на онлайн-сессию. Америка на вашей стороне!  \n\n💡 Попробуйте игру - включает сезонный пас и особый цифровой набор.",
+      "image_url": "https://static.tildacdn.com/stor3639-3639-4534-b561-646337323965/93568558.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTDgOYAjg0pogPdpoITAq0/PREVIEW_SCREENSHOT1_155407.jpg",
+        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTGOhl9eClJENnqdT9uDjh/PREVIEW_SCREENSHOT2_155407.jpg",
+        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTolN8uYY8c0bepstedNrf/PREVIEW_SCREENSHOT3_155407.jpg",
+        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTN9Q2tQTeHzlkgUD3pjIq/PREVIEW_SCREENSHOT4_155407.jpg",
+        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTImsd9VptO6YcxtfqnLEt/PREVIEW_SCREENSHOT5_155407.jpg",
+        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTAfX18CR7V9Vi470w2Zfr/PREVIEW_SCREENSHOT6_155407.jpg",
+        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTDSBjKL8WR5peAfD2SCDG/PREVIEW_SCREENSHOT7_155407.jpg"
+      ],
+      "release_date": "29/6/2018",
+      "publisher": "Ubisoft",
+      "platforms": "PS4",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.14,
+      "store_url": "https://store.playstation.com/en-tr/concept/227552",
+      "tilda_uid": "689345727522",
+      "sku": "",
+      "external_id": "H6i62V9udy6LjvuhOI3F",
+      "url": "http://arenapsgm.ru/tproduct/689345727522-the-crew-2-gold-edition-ps4ps5",
+      "expires_at": "2026-10-20T02:00:00Z",
+      "published_at": "2026-10-19T02:02:05Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Гонки по всей Америке с реальными трассами, авто и мотоциклами - The Crew 2 Gold Edition.  \nБесплатный контент, соревнования, до 7 друзей - всё уже в игре, без лишних покупок."
+    }
+  ],
+  "history": [
     {
       "slug": "cuphead-amp-the-delicious-last-course-ps4-ps5",
       "title": "Cuphead &amp; The Delicious Last Course PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "rMntjVSGfuIFdzU4ItRS",
       "url": "http://arenapsgm.ru/tproduct/542621814862-cuphead-amp-the-delicious-last-course-ps",
-      "expires_at": "2026-10-19T02:00:00Z",
       "published_at": "2026-10-18T02:02:08Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 300,
+          "14": 500,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 400,
+          "14": 600,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 300,
+        "14": 500,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "В Cuphead ты играешь за Чашека или Кружека - как в старом кино с джазовой музыкой и мультиками на боссов.  \n\nТеперь в игре Золотая Чаша - новые боссы, навыки, блюда, чтобы Солонкин приготовил кулинарное чудо."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "firewatch-ps4-ps5",
       "title": "Firewatch PS4/PS5",
@@ -2986,56 +3036,6 @@
       "p3_extra": 0,
       "is_game_day": false,
       "short_description": "Гарриетт - главный хитрец города, который обходит охрану и исчезает без следа.  \nТы - вор с тонким чувством к звуку, свету и поведению. Каждый шаг - как в фильме из 90-х."
-    },
-    {
-      "slug": "far-cry-primal-ps4-ps5",
-      "title": "Far Cry Primal PS4/PS5",
-      "description": "Каменный век в живую - ты в середине дикой природы, где каждый шаг - риск, а каждый снег - шанс на выживание.  \n\nТаккар - последний охотник из своей группы. Он не просто выживает. Он борется за право быть живым, и если он проиграет - его история рвётся в пепел.  \n\nНовый режим «Выживание»: твои запасы исчезают, ты устаёшь, а охота становится настоящей катастрофой. А ещё - включай «Окончательная смерть». После первой гибели игра заканчивается. Игру не выиграешь - ты просто погибнешь.  \n\n🔥 Берёшь, борешься, умираешь - всё это в Far Cry Primal.",
-      "image_url": "https://static.tildacdn.com/stor6238-3637-4462-a134-633839323335/31544105.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/cdn/EP0001/CUSA03309_00/FREE_CONTENTjDE8cwUi0qjfHT0E06ab/PREVIEW_SCREENSHOT10_479624.jpg",
-        "https://image.api.playstation.com/cdn/EP0001/CUSA03309_00/FREE_CONTENTmA0keS5RT3dvgbwZZdjq/PREVIEW_SCREENSHOT9_479624.jpg",
-        "https://image.api.playstation.com/cdn/EP0001/CUSA03309_00/FREE_CONTENTZPtDreI13MxhjGOO98N8/PREVIEW_SCREENSHOT8_479624.jpg",
-        "https://image.api.playstation.com/cdn/EP0001/CUSA03309_00/FREE_CONTENTxOQPCBaDj278kGOsrN5x/PREVIEW_SCREENSHOT7_479624.jpg",
-        "https://image.api.playstation.com/cdn/EP0001/CUSA03309_00/FREE_CONTENTvzeXhIwExusx457mDqSI/PREVIEW_SCREENSHOT6_479624.jpg",
-        "https://image.api.playstation.com/cdn/EP0001/CUSA03309_00/FREE_CONTENTVOcqAazACbVYsyloXg0j/PREVIEW_SCREENSHOT5_479624.jpg",
-        "https://image.api.playstation.com/cdn/EP0001/CUSA03309_00/FREE_CONTENTwFKKWMO7ekojyAI0Jc92/PREVIEW_SCREENSHOT4_479624.jpg"
-      ],
-      "release_date": "23/2/2016",
-      "publisher": "Ubisoft",
-      "platforms": "PS4",
-      "voice": "",
-      "text_translation": "Английский",
-      "rating": 4.52,
-      "store_url": "https://store.playstation.com/en-tr/concept/201634",
-      "tilda_uid": "603852375012",
-      "sku": "",
-      "external_id": "lhAxi9aAZ4r121MezLdh",
-      "url": "http://arenapsgm.ru/tproduct/603852375012-far-cry-primal-ps4ps5",
-      "published_at": "2026-08-20T02:00:23Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Ты в каменном веке – каждый шаг – риск, каждый снег – шанс выжить.  \nНовый режим «Выживание»: твои запасы исчезают, охота становится катастрофой, и если умираешь – игру не спасёт."
     }
   ]
 }
