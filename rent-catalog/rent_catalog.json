@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-20T13:59:49Z",
-  "generated_at": "2026-10-20T14:02:08Z",
-  "count": 11261,
+  "catalog_id": "2026-10-20T19:47:04Z",
+  "generated_at": "2026-10-20T19:48:59Z",
+  "count": 11264,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -4133,6 +4133,213 @@
       "seo_descr": "Аренда Back to the Dawn PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
+    },
+    {
+      "id": "we-were-here-tomorrow",
+      "slug": "we-were-here-tomorrow",
+      "sku": "rent-we-were-here-tomorrow",
+      "title": "We Were Here Tomorrow PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение, Головоломка",
+      "categories": [],
+      "publisher": "TMG STUDIOS B.V.",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "20.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0910/ef83d3272f54457698383a3300a35051de05f57290b5d383.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2412/bd963a6e72cc306b9beafaf4260d579433eb7ee193ecca6d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/0911/82e46360012fcba29b01dd99d3e0ef9482c1c1526820b542.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0809/c1dee12f288631436790eaff8fd687a8022907769e3532a0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2412/a557448232fd8e76061276dc49f2fe61b142e4beb1abbc50.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0809/76ef3523b2a02699e6b3d97858c1bd6cb07ceb485f03a02d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2412/e8955d7df5d9cc81ed6474b6713f3e32985622f7b7a9a5a9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2412/683a129eeea33f51f7d83d1d62166ea0b4538b0ca1423531.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0809/c038c80939b8365f6964a48d07fb9c3e843c12b01e254d85.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10017739",
+      "description": "We Were Here Tomorrow - это не просто игра. Это будущее, которое ты уже чувствуешь.  \n\nТы встаёшь утром и видишь, что всё по-другому - дома, друзья, мечты. Всё как в кино, только с реальными эмоциями.  \n\nПсихология, память, связь между людьми - всё насыщено, живо, как настоящая жизнь.  \n\nПросто включи и почувствуй, что ты уже был здесь завтра. 🌅",
+      "seo_title": "We Were Here Tomorrow PS5 аренда игры",
+      "seo_descr": "Аренда We Were Here Tomorrow PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-20T19:48:51Z"
+    },
+    {
+      "id": "mycopunk",
+      "slug": "mycopunk",
+      "sku": "rent-mycopunk",
+      "title": "Mycopunk PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен, Шутер",
+      "categories": [],
+      "publisher": "Devolver Digital",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.57,
+      "release_date": "20.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1321/6dafd54c5f7bff9737d2b0c462a8e0852f645571418a3163.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0316/f4315f8bec987db88e7deb1bd95c06aaaad267f510272414.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0316/da3b80ca743b54679fc5b7d5a436cf79a4e2087a6136b1e5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0316/3f7c169f0869d5674fb2baeb2c1e27120dacec94ee6c12b0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0316/f9ffa9db4301f9a3017f461b961a7552d40add1f4957be78.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0316/eeca33d70191c1c25678a3bdca500c40051e4c81babd467f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0316/d35b980ceef502aee24bf1200981f76c37ba2c5621d02c2f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0316/259cf001fc29e13a9d900a2f38f08a4ef817827f65e3fdd5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0316/cb081c97fe6ca304c62083403bb5f94a7c8a12a77766adb0.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018765",
+      "description": "Микопунк - фантастика с душой. Ты ведёшь борьбу за выживание в мире, где природа и технологии слились в что-то нечто странное и живое.  \n\nГеймплей - как на грани реальности: тяжелые выборы, напряжённые сцены, атмосфера, которая дышит.  \n\nНе просто игра - это мир, который ты начинаешь понимать с первого шага.  \nАрендуем по ПС5 - ведём на улицы без хайпа.",
+      "seo_title": "Mycopunk PS5 аренда игры",
+      "seo_descr": "Аренда Mycopunk PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-20T19:48:51Z"
+    },
+    {
+      "id": "frankenstein-awakening-of-horror",
+      "slug": "frankenstein-awakening-of-horror",
+      "sku": "rent-frankenstein-awakening-of-horror",
+      "title": "Frankenstein: Awakening of Horror PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен, Хоррор",
+      "categories": [],
+      "publisher": "Witenovastudio OÜ",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.33,
+      "release_date": "20.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0216/9c08e7a6a647764135c29ab0a892bbaed213d13f2347ddf5.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2913/30ea7392f564084a3fd28d13984eaac26915e3506dad4b36.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2913/2faf93c605797d8569f00300f98dbfb6c23b049c9649629c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2913/a28b124de8d2480077a5dc91ec9992655e7bc128390e574e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2913/b0198083cfca0fd539fcb79b04897b32bbc3d1d9f490f03f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2913/a8ee9169ca907f24df7883249b4e4397cb9ed7e734eb97a0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2913/57ebb77618e9ef584df50450e60115d1902752be7924a5ad.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2913/a4ff7361fbbfa980bd47d09780dbe446ae53f752aef5677b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2913/214857402e258ea06a53dbe3f3c66bac37711a047f0ead0b.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10017279",
+      "description": "Живое возвращение в мир ужасов.  \n\nВ Frankenstein: Awakening of Horror ты впервые ведёшь себя как робот-модель, обретающий разум и злобу - один из самых агрессивных и неожиданных харизматических боссов в жанре ужасов.  \n\nТы ведёшь игру на PS4 или PS5 - поддержка всех систем, но впечатления остаются сильными как никогда.  \n\nИгра подаётся как живой шок-эксперимент: каждый поворот сюжета - как удар по нервам.",
+      "seo_title": "Frankenstein: Awakening of Horror PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Frankenstein: Awakening of Horror PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-20T19:48:51Z"
     },
     {
       "id": "dino-crisis-2",
