@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-20T02:02:15Z",
-  "server_time_utc": "2026-10-20T02:02:15Z",
+  "updated_at": "2026-10-21T02:02:04Z",
+  "server_time_utc": "2026-10-21T02:02:04Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-21T02:00:00Z",
-  "expires_at": "2026-10-21T02:00:00Z",
+  "next_rotation_at": "2026-10-22T02:00:00Z",
+  "expires_at": "2026-10-22T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-21T02:00:00Z"
+    "next_rotation_at": "2026-10-22T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "goat-simulator-1-ps4-ps5",
+      "title": "Goat simulator 1 PS4/PS5",
+      "description": "Коза в вашем телефоне - уже не мечта.  \nВ «Goat Simulator 1» на PS4/PS5 вы действительно становитесь козлами, и это суперсерьёзно.  \n\nФизика игры дергается так, что шея козла по-настоящему вибрирует - а вы просто не остановите себя от того, чтобы бросить всё и прыгать по лужам.  \n\nРазрушайте, бегайте, хмуритесь - жизнь козла начинается прямо сейчас.  \nПопробуйте - у вас будет шанс стать настоящим сельским жителем. 🐑",
+      "image_url": "https://static.tildacdn.com/stor3137-6134-4131-a537-343965613962/68256859.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1716/6bdddfbe41f9fbd8a7d4343168fe5ad8c7f709f7e3ad9cef.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1716/c3a455a198013ab6751fe906a2c06f9cb4c377a6ba3c3673.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1716/8cfe8a29d6407393c3abc58e9e094e9c2ce618f14c73b735.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1716/45da25d4d835ed280506bc0ce96b548b2e52c03598e56e17.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1716/cfe52f925992312de1335ddbbc8c9e31c712f8e2ffee1985.jpg"
+      ],
+      "release_date": "7/11/2024",
+      "publisher": "COFFEE STAIN PUBLISHING AB",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.51,
+      "store_url": "https://store.playstation.com/en-tr/concept/10003965",
+      "tilda_uid": "390790707192",
+      "sku": "",
+      "external_id": "0GXurctgTnEAphYr2XZZ",
+      "url": "http://arenapsgm.ru/tproduct/390790707192-goat-simulator-1-ps4ps5",
+      "expires_at": "2026-10-22T02:00:00Z",
+      "published_at": "2026-10-21T02:02:04Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Коза в вашем телефоне - теперь реальность.  \nВ «Goat Simulator 1» физика такая, что вы не сможете остановиться - просто броситесь в лужи и начнёте прыгать как настоящий сельский житель."
+    }
+  ],
+  "history": [
     {
       "slug": "blue-prince-ps5",
       "title": "Blue Prince PS5",
@@ -50,34 +101,31 @@
       "sku": "",
       "external_id": "lt2ePUaV7DBjVD0hf2md",
       "url": "http://arenapsgm.ru/tproduct/574617354582-blue-prince-ps5",
-      "expires_at": "2026-10-21T02:00:00Z",
       "published_at": "2026-10-20T02:02:15Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 490,
+          "14": 680,
+          "21": 970,
+          "28": 1260
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 590,
+          "14": 780,
+          "21": 1070,
+          "28": 1360
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 490,
+        "14": 680,
+        "21": 970,
+        "28": 1260
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "В особняке Маунт-Холли всё выглядит спокойно - но за ним тайна.  \n\nДвери ведут к выбору: куда пойти, что найти, и как держаться, когда дом сам меняется. Повсюду - неожиданные инструменты, исчезающие комнаты и шантаж."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "the-crew-2-gold-edition-ps4-ps5",
       "title": "The Crew 2 Gold Edition PS4/PS5",
@@ -2988,56 +3036,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Хочешь почувствовать настоящий хоккей? В NHL 2023 ты создаёшь свою команду - от звёзд до новичков.  \n\nРеальные стили игры, борьба и атмосфера как на настоящем катке. Каждый выстрел - шанс на победу."
-    },
-    {
-      "slug": "resident-evil-revelations-1-ps4-ps5",
-      "title": "Resident Evil: Revelations 1 PS4/PS5",
-      "description": "Резерв на корабле-призраке. Криш Редфилд. Биотеракты в Киджуджу и Ланьшиане. АООБ - всё началось не так, как казалось.  \n\nС Джил Валентайном вы находитесь на грани правды - и угрозы. Погружаетесь в тёмные воды Средиземного моря, где плавучий город исчез... а его суть остаётся неизвестной.  \n\nГотовы к бою? Или просто любите стрелять с друзьями - режим «Рейд» ждёт вас.  \n\nИгра дня в Resident Evil: Revelations 1 - страшно, но по-настоящему увлекательно.",
-      "image_url": "https://static.tildacdn.com/stor3136-6165-4330-b932-656235373161/54817339.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/cdn/EP0102/CUSA01067_00/FREE_CONTENTQiyIhVvlexUYiMPxInMv/PREVIEW_SCREENSHOT1_432967.jpg",
-        "https://image.api.playstation.com/cdn/EP0102/CUSA01067_00/FREE_CONTENTqRBpZ0vKMgK1diXaTYfG/PREVIEW_SCREENSHOT2_432967.jpg",
-        "https://image.api.playstation.com/cdn/EP0102/CUSA01067_00/FREE_CONTENTO6UQ3y4de4WoJtcqsGrS/PREVIEW_SCREENSHOT3_432967.jpg",
-        "https://image.api.playstation.com/cdn/EP0102/CUSA01067_00/FREE_CONTENTYVj5DFRruoigluyGBXV0/PREVIEW_SCREENSHOT4_432967.jpg",
-        "https://image.api.playstation.com/cdn/EP0102/CUSA01067_00/FREE_CONTENTHhbsvETu3movBDrGGHJA/PREVIEW_SCREENSHOT5_432967.jpg",
-        "https://image.api.playstation.com/cdn/EP0102/CUSA01067_00/FREE_CONTENTdRB1tORVEt8ra4AfKuDI/PREVIEW_SCREENSHOT6_432967.jpg",
-        "https://image.api.playstation.com/cdn/EP0102/CUSA01067_00/FREE_CONTENTxQxXY6OVdCuS9V7cJnul/PREVIEW_SCREENSHOT7_432967.jpg"
-      ],
-      "release_date": "20/1/2015",
-      "publisher": "CE EUROPE LIMITED",
-      "platforms": "PS4",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "rating": 4.71,
-      "store_url": "https://store.playstation.com/en-tr/concept/232112",
-      "tilda_uid": "760997761082",
-      "sku": "",
-      "external_id": "at9YrjpsFhrkUfTZFyFn",
-      "url": "http://arenapsgm.ru/tproduct/760997761082-resident-evil-revelations-1-ps4ps5",
-      "published_at": "2026-08-22T02:00:23Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Криш Редфилд и Джил Валентайн на грани правды - а за ними тёмные воды Средиземного моря.  \nРейд - для тех, кто любит стрелять с друзьями. Игра дня: Resident Evil: Revelations 1 - страшно, но реально увлекательно."
     }
   ]
 }
