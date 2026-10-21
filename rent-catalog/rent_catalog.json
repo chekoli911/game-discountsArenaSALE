@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-21T01:47:02Z",
-  "generated_at": "2026-10-21T01:49:02Z",
-  "count": 11267,
+  "catalog_id": "2026-10-21T07:31:46Z",
+  "generated_at": "2026-10-21T07:37:12Z",
+  "count": 11268,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -2455,6 +2455,75 @@
       "catalog_added_at": "2026-10-20T13:17:01Z"
     },
     {
+      "id": "shrek-2-remastered",
+      "slug": "shrek-2-remastered",
+      "sku": "rent-shrek-2-remastered",
+      "title": "Shrek 2 Remastered PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "Семейная",
+      "categories": [],
+      "publisher": "ASPYR MEDIA, INC",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "10.11.2026",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/55a2d8335f4cf30e94ae7747778dc007fda46a2c963e44ac.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/3d498933381ad7558c1b6ae58f29300cdc9c11fcaf55d52e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/7248d2a65adf296599aed3b6e86e35050fbcfcc1eb2650b0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/017dae476552d0591424f721d5d1653e94115635c3f86abf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/4143e6484fd69daa663f7d2a0e8acd45d4a00cc415eef392.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/2e1cae49b873916c70f8a45d24a4ab457023e756191cdcf0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/314277582233384136c7c08f91f6981544f2b28a6d453189.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/146e83d1068a78fe855d0c674dbf7f208c852b9bb38639bb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/c2ee2fbd1a65c7df094b5b1339ba4d6c3458005ccc92faab.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/EP1875-PPSA31341_00-SHREK2REMASTERED",
+      "description": "Shrek 2 Remastered на PS5 - снова шреки, снова болота, снова битвы!  \n\nИгра переработана с нуля: теперь всё чётче, анимации в 4К, текстуры улучшены, интерфейс стал проще. Всё как в мультфильме - но с драйвом и деталями из настоящего приключений.  \n\nВыбирайте героев под ситуацию: бой, головоломка или штурм замка. Уникальные способности - на каждый случай. Всё это можно поиграть в одиночку или с друзьями - до четырёх игроков.  \n\nПогрузитесь в Тридевятое королевство, где каждый поворот - пасхалка и крутой экшён. Играйте, как в детстве - просто, весело и без лишних сложностей. 🎮😄",
+      "seo_title": "Shrek 2 Remastered PS5 аренда игры",
+      "seo_descr": "Аренда Shrek 2 Remastered PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-21T07:31:23Z"
+    },
+    {
       "id": "edge-of-memories",
       "slug": "edge-of-memories",
       "sku": "rent-edge-of-memories",
@@ -3908,8 +3977,8 @@
       "text_translation": "",
       "rating": 0.0,
       "release_date": "21.10.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2307/d718247a7ecf8c248c9366bcef47472979c2075ac4807de3.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202609/0314/a0e8c67cdd7373ceb489f3bd2c97b723a40ffc9da3fbb1b1.jpg",
@@ -3976,8 +4045,8 @@
       "text_translation": "",
       "rating": 0.0,
       "release_date": "21.10.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/8e22140956f5980e5a33a0f6fa22ced64c3597cfdf20bc0e.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202604/0603/7eb2357e5bac3d4353c686ffc089ca4955e1d1f936b5cc99.jpg",
@@ -4045,8 +4114,8 @@
       "text_translation": "",
       "rating": 0.0,
       "release_date": "21.10.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2406/3d357697687688f7e85b0609b8fbf80f0b79327431f543a0.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202604/0603/7eb2357e5bac3d4353c686ffc089ca4955e1d1f936b5cc99.jpg",
@@ -4114,8 +4183,8 @@
       "text_translation": "",
       "rating": 0.0,
       "release_date": "21.10.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1111/823f5ae58f1bc18c86372a4438c3145bb98ab25c60cb1fbb.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202509/1111/8048326df54aff473845a14176677d4f5fe79e569c63cf20.jpg",
@@ -4250,7 +4319,7 @@
       "publisher": "Question LLC",
       "voice": "Английский",
       "text_translation": "Английский",
-      "rating": 0.0,
+      "rating": 5.0,
       "release_date": "20.10.2026",
       "is_preorder": false,
       "is_new": true,
@@ -4270,7 +4339,7 @@
       "seo_title": "The Killing Stone PS5 аренда игры",
       "seo_descr": "Аренда The Killing Stone PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-10-21T01:48:53Z"
+      "catalog_added_at": "2026-10-21T01:00:53Z"
     },
     {
       "id": "mycopunk",
@@ -4388,7 +4457,7 @@
       "publisher": "Doronik Games Inc.",
       "voice": "",
       "text_translation": "Русский, Английский",
-      "rating": 0.0,
+      "rating": 5.0,
       "release_date": "20.10.2026",
       "is_preorder": false,
       "is_new": true,
@@ -4406,7 +4475,7 @@
       "seo_title": "Mortal Sin PS5 аренда игры",
       "seo_descr": "Аренда Mortal Sin PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-10-21T01:48:53Z"
+      "catalog_added_at": "2026-10-21T01:01:02Z"
     },
     {
       "id": "hail-to-the-rainbow",
@@ -4475,7 +4544,7 @@
       "seo_title": "Hail to the Rainbow PS5 аренда игры",
       "seo_descr": "Аренда Hail to the Rainbow PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-10-21T01:48:53Z"
+      "catalog_added_at": "2026-10-21T01:00:39Z"
     },
     {
       "id": "frankenstein-awakening-of-horror",
