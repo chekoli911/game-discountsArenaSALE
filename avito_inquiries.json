@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-21T16:05:01+03:00",
-  "updated_at_msk": "21.10.2026 16:05",
+  "updated_at": "2026-10-21T17:05:09+03:00",
+  "updated_at_msk": "21.10.2026 17:05",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 1917,
+  "total": 1918,
   "unique_games": 687,
   "in_demand": 111,
   "one_off": 483,
@@ -1717,13 +1717,13 @@
       "id": "call-of-duty-modern-warfare-4-vault-edition-ps5",
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
       "item_id": "8309116747",
-      "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/call_of_duty_modern_warfare_4_-_vault_edition_ps5_8309116747",
-      "count": 76,
+      "url": "https://avito.ru",
+      "count": 77,
       "demand": "high",
-      "avg_price": 257,
+      "avg_price": 276,
       "min_price": 257,
-      "max_price": 257,
-      "last_price": 257,
+      "max_price": 1697,
+      "last_price": 1697,
       "prices": [
         257,
         257,
@@ -1744,7 +1744,7 @@
         257,
         257,
         257,
-        257
+        1697
       ],
       "counts": [
         0,
@@ -1889,7 +1889,7 @@
         59,
         67,
         74,
-        76
+        77
       ],
       "hourly": [
         0,
@@ -2034,7 +2034,7 @@
         10,
         8,
         7,
-        2
+        3
       ],
       "price_series": [
         null,
@@ -2179,10 +2179,10 @@
         257,
         257,
         257,
-        257
+        1697
       ],
       "first_at": "2026-09-20T11:40:52+03:00",
-      "last_at": "2026-10-21T12:33:00+03:00"
+      "last_at": "2026-10-21T16:55:57+03:00"
     },
     {
       "id": "nhl-27-ps5",
@@ -311703,6 +311703,12 @@
   ],
   "recent": [
     {
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition PS5",
+      "price": 1697,
+      "price_string": "1 697 ₽",
+      "at": "2026-10-21T16:55:57+03:00"
+    },
+    {
       "title": "Better Mart Simulator PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -311935,12 +311941,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-10-19T16:59:32+03:00"
-    },
-    {
-      "title": "NBA 2K27 PS5",
-      "price": 591,
-      "price_string": "591 ₽",
-      "at": "2026-10-19T16:04:26+03:00"
     }
   ]
 }
