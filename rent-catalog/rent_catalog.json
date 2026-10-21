@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-20T19:47:04Z",
-  "generated_at": "2026-10-20T19:48:59Z",
-  "count": 11264,
+  "catalog_id": "2026-10-21T01:47:02Z",
+  "generated_at": "2026-10-21T01:49:02Z",
+  "count": 11267,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -4204,6 +4204,75 @@
       "catalog_added_at": "2026-10-20T19:48:51Z"
     },
     {
+      "id": "the-killing-stone",
+      "slug": "the-killing-stone",
+      "sku": "rent-the-killing-stone",
+      "title": "The Killing Stone PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Стратегия",
+      "categories": [],
+      "publisher": "Question LLC",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 0.0,
+      "release_date": "20.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0703/e7709b8e70f2d1b959945a11a81a441a0ba75024a286e64b.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0914/59131c4b49310bd666d9f304b237961414e12cee9447cd14.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2017/c260cea5acf4ade6d4d61b340772db37f2dac33cacf8b918.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2017/f0fa962a1b00f9fd85269d254a99a4c97f64c832a672f733.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2017/e5814fe929d1a5c0e4ad93bd55b6514a5d994c444051f3e7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2017/4ce698b2b9716ec473f2c4b5b6fe9b0e344fecd7f7c9d90f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2017/4a45d828e5f49142fbbf68b62e91df2b1e7afc3202d9de52.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2017/88fbb994365cabcc0edd77f533bcc3d952aa410ee2418c93.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2017/d56bf9379c523a29f1be80b6b694e29eb54e3da53391bd3f.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019905",
+      "description": "Камень смерти - не просто бой, а шедевр визуального и драматического напряжения.  \n\nТы управляешь человеком, который должен остановить ритуал - без помощи, без шансов.  \n\nСердце пульсирует, каждый шаг - риск, каждое решение - смерть.  \n\nИгра на PS5. Всё в одной руке.",
+      "seo_title": "The Killing Stone PS5 аренда игры",
+      "seo_descr": "Аренда The Killing Stone PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-21T01:48:53Z"
+    },
+    {
       "id": "mycopunk",
       "slug": "mycopunk",
       "sku": "rent-mycopunk",
@@ -4271,6 +4340,142 @@
       "seo_descr": "Аренда Mycopunk PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-20T19:48:51Z"
+    },
+    {
+      "id": "mortal-sin",
+      "slug": "mortal-sin",
+      "sku": "rent-mortal-sin",
+      "title": "Mortal Sin PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "Doronik Games Inc.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 0.0,
+      "release_date": "20.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2911/a0e2f0651c170e94f7d0171d545e1fe98b39e39fb1189a04.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/2911/16530140a5e8c6c1f0fadfd2718e15cf56e2348981bcd967.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/2911/e53cc0b206061d78bb3ebab8d1af7be651d1cd6c8a1f52e7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/2911/a308f7e696e9f96870b495ee9a17488060d6deb17273e9ce.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/2911/438e41f49691935bc2d375a7752e4a91242bd1968be01d0f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/2911/27ebd4fdebfeb1d33b7a65af8177cec8ec77c9ca882e882f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/2911/a4738f6e8d74910c9487c2214fcdb19b90daf65f7badec71.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020315",
+      "description": "Моральный ужас в каждом движении.  \nMortal Sin - это бой за выживание в мире, где каждый шаг приводит к выбору: жить или сдаться.  \n\nТы играешь не как герой, а как человек, который может ошибаться и платить за это.  \n\nСердце пульсирует, дыхание - тяжёлое. Игра ведёт тебя по узким проходам смерти, где каждый момент - близко к концу.  \n\nГотовы к тому, что не всё может быть спасено? В Mortal Sin - нет «всё хорошо». Только выбор и цена.",
+      "seo_title": "Mortal Sin PS5 аренда игры",
+      "seo_descr": "Аренда Mortal Sin PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-21T01:48:53Z"
+    },
+    {
+      "id": "hail-to-the-rainbow",
+      "slug": "hail-to-the-rainbow",
+      "sku": "rent-hail-to-the-rainbow",
+      "title": "Hail to the Rainbow PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке!",
+      "genre": "Приключение, Экшен",
+      "categories": [],
+      "publisher": "Sometimes You",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.13,
+      "release_date": "20.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0600/fa2e1edc8ac369de8b3d4840219859c424c952830a8b5237.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0621/43efd8fc6707578d3fa5d77785aa47cfe25202d67896af69.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0621/3acf1a9d40307aa50718265053fecd444e776b68050089ae.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0621/46543fa04440b56d943f666d452a85d975fc7cb94e06bcc7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0621/ceb2ac9face969b48c8efd3c5d6a38558421ade9ef58249f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0621/d7f431bd69111b4ce7058cd3df716283955af972b3982652.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0621/d711e0b3a147da7a946c9542773061ce130fb3fff87b8c6e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0621/17b2f8c3c9759dec511876988880c30b1576e022ad7a5110.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0621/bbafe81259baf89b0d2b4d01ac8854d8e246aca6da2d98fd.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018801",
+      "description": "Погружаемся в мир 80-х с яркими образами, драйвом и безумными маневрами - Hail to the Rainbow на PS5.  \n\nКлассика, которая не смотрится, а чувствуется: эпичные сцены, динамичные битвы и атмосфера, как будто ты в чём-то из любимых кинокартин.  \n\nИгра поднимает настроение - всё, от мелодий до персонажей, наполнено энергией прошлого.  \n\nГотовы к гонкам, боям и ретро-взрыву? Присоединяйтесь. 🎮",
+      "seo_title": "Hail to the Rainbow PS5 аренда игры",
+      "seo_descr": "Аренда Hail to the Rainbow PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-21T01:48:53Z"
     },
     {
       "id": "frankenstein-awakening-of-horror",
