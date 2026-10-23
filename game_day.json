@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-22T02:02:17Z",
-  "server_time_utc": "2026-10-22T02:02:17Z",
+  "updated_at": "2026-10-23T09:11:46Z",
+  "server_time_utc": "2026-10-23T09:11:46Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-23T02:00:00Z",
-  "expires_at": "2026-10-23T02:00:00Z",
+  "next_rotation_at": "2026-10-24T02:00:00Z",
+  "expires_at": "2026-10-24T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-23T02:00:00Z"
+    "next_rotation_at": "2026-10-24T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "empire-of-the-ants-ps5",
+      "title": "Empire Of The Ants PS5",
+      "description": "Животные не сражаются - но в этой игре они всё-таки правят! 🐜  \n\nВ Empire of the Ants ты не просто смотришь на колонии, а становишься частью их мира. Построй лавки, управляй отрядами и погнали к новым территориям - всё это в реальном времени, без скучных карт и моральных диалогов.  \n\nКаждая колония - это свой стиль развития. Удивительный баланс между стратегией и атакой. Ты не просто ведёшь войну - ты создаёшь цивилизацию из муравьёв.  \n\nPS5 - твой лучший друг для этого крепкого, умного и честно насыщенного игрового опыта.",
+      "image_url": "https://static.tildacdn.com/stor3138-6636-4539-b137-663237356430/29724351.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/154427439e656732aef4cbddfe4e3f9fa15fdc44d8bdf412.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/091978a477c875f15627bf6db4cb9288d00590e2844c9db0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/c11dcec03028d5e712eea36b9be3fa8fb1290f7a95de78b2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/769d1eb9151e1b7c8921f6ccf4afbb9c1f8016b560b2040f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/cceaa74d6b4e4996cff2944c7ed280aae8e3a2ac0c4ee90c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/3525897ee8cb2c515ab716785fb355c6e209a0b73f06e685.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/cf4688ab91a0f4ffb86e848d17b6a247e985d63d6bf21000.jpg"
+      ],
+      "release_date": "4/11/2024",
+      "publisher": "Microids",
+      "platforms": "PS5",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 4.12,
+      "store_url": "https://store.playstation.com/en-tr/concept/10007652",
+      "tilda_uid": "436287275002",
+      "sku": "",
+      "external_id": "sSloSUdBvreiJT6F20cD",
+      "url": "http://arenapsgm.ru/tproduct/436287275002-empire-of-the-ants-ps5",
+      "expires_at": "2026-10-24T02:00:00Z",
+      "published_at": "2026-10-23T09:11:46Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Животные не сражаются - но в этой игре они правят.  \n\nСтавишь лавки, ведёшь отряды и создаёшь цивилизацию из муравьёв - всё в реальном времени, без морали и карт."
+    }
+  ],
+  "history": [
     {
       "slug": "wwe-22-ps4-ps5",
       "title": "WWE 22 PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "TZu8zsTotRGKmYV8Rfcj",
       "url": "http://arenapsgm.ru/tproduct/908641532512-wwe-22-ps4ps5",
-      "expires_at": "2026-10-23T02:00:00Z",
       "published_at": "2026-10-22T02:02:17Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Хватит болеть - возьмите под контроль WWE!  \n\nСуперзвезды, крутые финальные удары и реальные бои - всё это уже в вашей игре. Управляйте командами, создавайте фракции и докажите, что ваш бренд - лучший."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "goat-simulator-1-ps4-ps5",
       "title": "Goat simulator 1 PS4/PS5",
@@ -2986,56 +3036,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Darksiders II теперь в 4K - графика как будто ты на месте.  \nВыбирай оружие и навыки, каждый проход - свой. Ты - главный всадник, который ломает стены рая и ада."
-    },
-    {
-      "slug": "lego-marvel-avengers-ps4-ps5",
-      "title": "LEGO Marvel Avengers PS4/PS5",
-      "description": "Мстители в LEGO - вот где супер-приключения начинаются! 🚀  \n\nВ новой игре вы не просто смотрите на Мстителей - вы игрываете за них: Шау, Тор, Сквайр и других бойцов, которые спасают мир в крутых, динамичных сценах.  \n\nВсе персонажи - как в фильмах, а сюжет - как настоящий сериал. Хорошо подходит для тех, кто любит не просто управлять героями, а жить их приключениями.  \n\nДля аренды - пиши сюда 📩 @ArenaPSGMadmin",
-      "image_url": "https://static.tildacdn.com/stor3739-6532-4433-b766-643539393361/86335670.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/cdn/EP1018/CUSA02122_00/FREE_CONTENTtfVlUjICM4qkain4h7Ev/PREVIEW_SCREENSHOT1_479117.jpg",
-        "https://image.api.playstation.com/cdn/EP1018/CUSA02122_00/FREE_CONTENTfsLhbb01DkB92VxOFaun/PREVIEW_SCREENSHOT2_479117.jpg",
-        "https://image.api.playstation.com/cdn/EP1018/CUSA02122_00/FREE_CONTENTVTxHgjpWGIwfBdtKsNzO/PREVIEW_SCREENSHOT3_479117.jpg",
-        "https://image.api.playstation.com/cdn/EP1018/CUSA02122_00/FREE_CONTENT5zPVdhlg1WJtJ5keYbmJ/PREVIEW_SCREENSHOT4_479117.jpg",
-        "https://image.api.playstation.com/cdn/EP1018/CUSA02122_00/FREE_CONTENTU9GI1guff4mGHe7WN6hF/PREVIEW_SCREENSHOT5_479117.jpg",
-        "https://image.api.playstation.com/cdn/EP1018/CUSA02122_00/FREE_CONTENTocBWqoIK8h2vgyF3J1kl/PREVIEW_SCREENSHOT6_479117.jpg",
-        "https://image.api.playstation.com/cdn/EP1018/CUSA02122_00/FREE_CONTENTZoFG1Y6Tsged5eiFmEnK/PREVIEW_SCREENSHOT7_479117.jpg"
-      ],
-      "release_date": "29/1/2016",
-      "publisher": "WARNER BROS. INTERACTIVE",
-      "platforms": "PS4",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.26,
-      "store_url": "https://store.playstation.com/en-tr/concept/202494",
-      "tilda_uid": "676934247022",
-      "sku": "",
-      "external_id": "aecvCJha6oZt5hLY1DZO",
-      "url": "http://arenapsgm.ru/tproduct/676934247022-lego-marvel-avengers-ps4ps5",
-      "published_at": "2026-08-24T02:00:23Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Мстители в LEGO - настоящие приключения, где ты не просто смотришь, а действуешь.  \nШау, Тор и другие бойцы спасают мир в живых, динамичных сценах - как в фильмах, но с чувством игры."
     }
   ]
 }
