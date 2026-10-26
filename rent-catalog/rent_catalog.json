@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-26T09:26:51Z",
-  "generated_at": "2026-10-26T10:23:13Z",
-  "count": 11291,
+  "catalog_id": "2026-10-26T19:30:08Z",
+  "generated_at": "2026-10-26T19:33:52Z",
+  "count": 11293,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3796,6 +3796,144 @@
       "seo_descr": "Аренда Hunter's Moon PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-26T01:17:53Z"
+    },
+    {
+      "id": "fangtopia",
+      "slug": "fangtopia",
+      "sku": "rent-fangtopia",
+      "title": "Fangtopia PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Стратегия, Головоломка, Казуальная",
+      "categories": [],
+      "publisher": "Secret Mode Limited",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "26.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0811/8cdaf809e221a3c5517a26619c2ac8cc1e89fc484dfa2724.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2208/0ca0d824acdd8fa0b84d71107bf64dec4c8ac84b940ed86a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2208/fce4b4e4f67655e1ca77c0a05206af3bc964f8fb5cc3c716.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0811/9c3fe625b96a4a999fffcd69e7f14ea47feaa18b270f0e14.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0811/65e7c11b52ddaa8468715bd6ce5c41e90b0260e41fd485e7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2208/52af389a1916e82ca2af8099fd732b982ca95f8327a4174c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2208/cc2d4170299df8f100ee734bf19e38b7a852c206bfe9fe79.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2208/1ed08d6ada10b3794c7294223626b7171a451d4a44c5b429.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0811/b2fdc44cdaf3bcda10fef00a1f7e285a43b8138fec773f02.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018955",
+      "description": "Fangtopia - это не просто открытая лесная сказка, а настоящий фэнтези-мир в твоих руках.  \n\nТы создаёшь свои собственные звери, строишь хаты и управляешь кланом - всё как в старых мультиках, но с глубокой механикой.  \n\nКаждый день - это новый лес, новые опасности и шанс вырасти в величественного ледяного царя или хитрого дракона.  \n\nПогрузись в мир, где каждый шаг - как рисование на бумаге, но с эффектом настоящего фэнтези. 🌲✨",
+      "seo_title": "Fangtopia PS5 аренда игры",
+      "seo_descr": "Аренда Fangtopia PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-26T19:33:43Z"
+    },
+    {
+      "id": "ayasa-shadows-of-silence",
+      "slug": "ayasa-shadows-of-silence",
+      "sku": "rent-ayasa-shadows-of-silence",
+      "title": "Ayasa: Shadows of Silence PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Головоломка, Хоррор, Приключение",
+      "categories": [],
+      "publisher": "Aya Games Inc.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "26.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1810/d925ac32a20ecc1cfaac6a7573e51d1fa1f9c395136d8c08.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1616/302d5f93fe1190d5d08fa854ad2d9ba4460a005e5b64e9db.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1616/b4e84961e9c7cc9dd710eb0ed6f0fefea175b84b4a85f231.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1616/934055b8a10fafb7eb5ac76357e03bc106e25b8875a6d55f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1616/16fc1d03ba42f235407acdd4ffa2e9544f697d4e61d52798.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1616/b2f497cb76c89abc0a3ca5f94b2d74d814c952905b4da84f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1616/d54c35384beaa8acdeff0ada5a7f800cbbb847b6dfd7568a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1811/a3f68cb95de176139049ae55272626fe195c7e02623088aa.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1616/3510eef4f5023d9f364dbc4c45150bfe325ba1fa64f00803.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018080",
+      "description": "Ayasa: Shadows of Silence - мрачная, почти визуально роскошная драма о человеке, который пытается понять, кто он и что произошло.  \n\nГеймплей на грани реальности и сна - тихие шаги, туманные ландшафты, звуки, которые несут смысл.  \n\nСюжет поднимает вопросы о памяти, выборах и молчании. Играть в этом мире - как жить в полумраке, где каждый взгляд может быть ключом к правде.  \n\nТолько на PS5. Удивительная атмосфера, которая держит тебя в напряжении с первого момента.",
+      "seo_title": "Ayasa: Shadows of Silence PS5 аренда игры",
+      "seo_descr": "Аренда Ayasa: Shadows of Silence PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-26T13:33:47Z"
     },
     {
       "id": "anomalith-digital-deluxe-edition",
@@ -107642,39 +107780,39 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799,
+          "56": 1438
         },
         "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
+          "1": 357,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899,
+          "56": 1618
         }
       },
       "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
+        "1": 257,
+        "7": 357,
+        "14": 490,
+        "21": 699,
+        "28": 799,
+        "56": 1438
       },
       "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
+        "1": 357,
+        "7": 459,
+        "14": 590,
+        "21": 799,
+        "28": 899,
+        "56": 1618
       },
-      "price_min": 697,
+      "price_min": 257,
       "lang_label": "На русском языке! (субтитры)",
       "genre": "Хоррор, Приключение",
       "categories": [],
@@ -107701,7 +107839,7 @@
       "seo_title": "Backrooms Level X PS5 аренда игры",
       "seo_descr": "Аренда Backrooms Level X PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:14Z"
+      "catalog_added_at": "2026-10-26T15:28:01Z"
     },
     {
       "id": "arcade-archives-2-adventure-canoe",
@@ -757075,21 +757213,14 @@
       "price_min": 257,
       "lang_label": "",
       "genre": "Хоррор",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Хоррор"
-      ],
+      "categories": [],
       "publisher": "Horror",
       "voice": "",
       "text_translation": "",
       "rating": 0.0,
       "release_date": "Dolores Entertainment S.L.",
       "is_preorder": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/3115/9ee1d3bc113992e13d63d5c7218d7953c6b36b29518d87ac.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202603/3115/982a0ce77f9ff2c090987fce0e0ab42357f4074adac09605.jpg",
@@ -757100,10 +757231,10 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202603/3115/6a9bc0a1c18c7e7d7b71499a4a54cc54fb8381013dbb1b1e.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/concept/10018781",
-      "description": "На 9-м этаже отеля «Лиминал» вас ждёт таинственная ловушка.  \n\nАномалии - повсюду: на полу, в картинах, прямо перед глазами. Каждый угол - потенциальная угроза. Ошибки ведут к началу с нуля.  \n\nЖивое напряжение, головоломки и психологический ужас - всё это в одном дыхании.  \nПогрузитесь в атмосферу, где внимание - ваш главный инструмент. 🎵👻",
-      "seo_title": "Floor 9 на PS5 аренда игры",
-      "seo_descr": "Аренда Floor 9 на PS5. На 9-м этаже вы оказываетесь в ловушке в таинственном отеле под названием «Отель Лиминал». Быстрый доступ после оплаты.",
-      "external_id": "4Ia6HpDBGy71NOb6utwu",
+      "description": "На 9-м этаже - вы не просто играете, вы в ловушке.  \n\nВ «Отеле Лиминал» всё кажется нормальным… пока вы не замечаете странностей: на полу, в картинках, прямо перед глазами.  \n\nКаждый угол проверяйте - одна ошибка и вы снова возвращаетсяс на 9-й этаж.  \n\nЖуткая атмосфера, головоломки и психологическое напряжение - всё это в одном дыхании.",
+      "seo_title": "Floor 9 PS5 аренда игры",
+      "seo_descr": "Аренда Floor 9 PS5 на PlayStation.",
+      "external_id": "",
       "catalog_added_at": "2026-10-26T10:23:11Z"
     },
     {
