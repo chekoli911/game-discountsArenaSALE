@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-24T13:46:46Z",
-  "generated_at": "2026-10-24T13:48:30Z",
-  "count": 11287,
+  "catalog_id": "2026-10-26T01:18:23Z",
+  "generated_at": "2026-10-26T01:42:39Z",
+  "count": 11291,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3732,6 +3732,72 @@
       "catalog_added_at": "2026-09-29T07:47:41Z"
     },
     {
+      "id": "hunter-s-moon",
+      "slug": "hunter-s-moon",
+      "sku": "rent-hunter-s-moon",
+      "title": "Hunter's Moon PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Хоррор",
+      "categories": [],
+      "publisher": "Twin Swans Limited",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "26.10.2026",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1413/ef408f0f61d57fc79b66cdf8bdcfeca743fe7f75b03c8e3e.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1618/4e05fa86c1bc08727a59d98bf87da43d7ecde64fdb6e9f58.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1618/6301715f7959f2de7b48e1bb5e5e4efa33249e37a4c159a5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2518/03472b378ed3c29972955108b3c5b785ae92efb0764c349a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2518/c2bf1603d4f6093dc9167ace30ca8c747313ad6c507fbac9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2518/b833a46d42ec04952d0534eb72576f7924fba1014ef507d2.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10013468",
+      "description": "Hunter’s Moon - крутая атмосферная гонка в лесах, где ты на охоте не за дичью, а за самим собой.  \n\nТы выбираешь путь - идёшь вглубь туманной местности, борешься с природой, а иногда - с теми, кто в ней живёт.  \n\nПсихологические перепады, тайны леса, неожиданные повороты - всё это на PS5 в одном уютном и напряжённом потоке.  \n\nИгра как дыхание: глубокое, живое, почти реальное.",
+      "seo_title": "Hunter's Moon PS5 аренда игры",
+      "seo_descr": "Аренда Hunter's Moon PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-26T01:41:53Z"
+    },
+    {
       "id": "anomalith-digital-deluxe-edition",
       "slug": "anomalith-digital-deluxe-edition",
       "sku": "rent-anomalith-digital-deluxe-edition",
@@ -3790,6 +3856,142 @@
       "seo_descr": "Аренда ANOMALITH Digital Deluxe Edition PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
+    },
+    {
+      "id": "boarding-denied",
+      "slug": "boarding-denied",
+      "sku": "rent-boarding-denied",
+      "title": "BOARDING DENIED PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Simulator, Головоломка",
+      "categories": [],
+      "publisher": "Pigeon Games S.L.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "25.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0610/35ee7670e44faf30f20807a09f57624da65c353e44b3b234.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0616/325a453ac4efdd008d1f5cc15025332f6fb979eacff1f550.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0616/16d45463c8f485cbf1f93ad73bbb99732607c655e203f377.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0616/db9c851594582fc6b112c271de7e0ecabdc1d09b9a667317.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0616/a45996f7f3745a1fe6051df82a6630f5f96d8a542b3a3bdf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0616/6ccdb509bce8a37009a4cfc1cea69df62df769a444a3c888.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0616/e7bbf4c73d546d8eca9e24ee6757f29d6f712a4577dfec33.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021101",
+      "description": "Кто-то заблокировал дверь на борту - теперь ты можешь это пережить.  \n\nВ «BOARDING DENIED» ты ведёшь пассажира, который не может сдать документы. Ситуация растёт - и всё больше становится ясно.  \n\nЭто не просто фантастика. Это ощущение, как будто ты на борту самолёта… но в другом мире.  \n\nPS5 - только для настоящих альфа-пассажиров 🚀",
+      "seo_title": "BOARDING DENIED PS5 аренда игры",
+      "seo_descr": "Аренда BOARDING DENIED PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-26T01:41:53Z"
+    },
+    {
+      "id": "rusty-rangers",
+      "slug": "rusty-rangers",
+      "sku": "rent-rusty-rangers",
+      "title": "Rusty Rangers PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке!",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "Games Harbor LTD",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.86,
+      "release_date": "24.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2921/d7704b4424afee5e7686260fa11e199af2f938b2eb4d3646.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2921/fabb17cbbc5de649090e28bfd691d8d0fb590d99678f7c48.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2921/262d41b3feebae6f19fee3db09df9a6a4c0e1e690da6eddc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2921/2dd80e6e4578d4c9e7e587fe09861096a7694775d9b81d5f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2921/af09008efadc23aab702b62260892f20535613a754e05f41.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2921/12c856a72ecc917b895110154259fef1993f29581b45cd26.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2921/c48cee7875ff7050626ab67e390d705a88db1e321d4ee131.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2921/1723ede86b1986ae1970d82a9394b35261ee26d1f5ec5907.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2921/1947a7f5a998f66976f25c533ef8a457f3a5d337cf009838.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10014817",
+      "description": "Рusty Rangers - динамичная, визуально яркая игра про пешеходов-героев, которые борются с разрушителями и защищают город.  \n\nПесня о мотивации, бравых парнях и креативной борьбе - всё это в одном флаконе.  \n\nТы не просто играешь - ты участвуешь в приключении с дружной командой.  \n\nОдин из самых живых и энергичных шутеров на PS5.",
+      "seo_title": "Rusty Rangers PS5 аренда игры",
+      "seo_descr": "Аренда Rusty Rangers PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-25T02:46:12Z"
     },
     {
       "id": "dominoes-together",
@@ -3859,6 +4061,75 @@
       "seo_descr": "Аренда Dominoes Together PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-24T13:37:14Z"
+    },
+    {
+      "id": "brave-dungeon-dark-witch-s-story-combat",
+      "slug": "brave-dungeon-dark-witch-s-story-combat",
+      "sku": "rent-brave-dungeon-dark-witch-s-story-combat",
+      "title": "Brave Dungeon + Dark Witch's Story : Combat PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Ролевая игра",
+      "categories": [],
+      "publisher": "INSIDE SYSTEM",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "24.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0707/28452df37a8f422398accd4aa5dbd510cb1d32f7606af6d0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0707/aeb66f7a4e4e31a1294c265406220a778d4f22a7b18ef8f9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0707/2a9ed24daae7fb92eb1195f4d59f96ba2241c5204a35e46b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0707/c7d90ee326563ab3946effef1d4f65ee899e5211a4c0db3c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0707/1dea4f27ad73a11c5e7f166dc1fee58d1e97bb8bb78066b2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0707/9e5aa885616ce6edf3c97c99d3a3141f49d50dc1c79f1932.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0707/ac4ecceed7f948cc50a1df0ee0a9feeb69b5d85d56063e78.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0707/5ed3c1ab63e0e2b8e43ee24b7c75708f25dfc56edc1c114f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0707/e983c7958009d4d5e5b6c320a074de16f0c5543458b098ff.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020770",
+      "description": "Готовы к дракам в мире из мрачных лесов и древних подземельй?  \n\nBrave Dungeon - это битва за выживание, где каждый шаг - риск, а каждое решение влияет на ход сюжета.  \n\nDark Witch's Story добавляет глубокий слой мистики: тёмные волшебники, загадочные заклинания и драматичные конфликты.  \n\nИгра на PS5 - честный бой, где физика, реакция и стратегия важны как никогда.",
+      "seo_title": "Brave Dungeon + Dark Witch's Story : Combat PS5 аренда игры",
+      "seo_descr": "Аренда Brave Dungeon + Dark Witch's Story : Combat PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-25T02:46:12Z"
     },
     {
       "id": "the-walking-trade",
