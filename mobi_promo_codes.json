@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T12:00:00Z",
+  "updated_at": "2026-10-26T17:55:00Z",
   "amounts": [
     100,
     200,
@@ -23,5 +23,27 @@
     "ArenaYBDQW576",
     "ArenaXGSRM293",
     "ArenaNKBCT144"
+  ],
+  "permanent": [
+    {
+      "code": "ARENALOVE",
+      "percent": 7
+    },
+    {
+      "code": "VINOKUR30",
+      "percent": 30
+    },
+    {
+      "code": "DIMA20P",
+      "percent": 20
+    },
+    {
+      "code": "SAV50",
+      "percent": 50
+    },
+    {
+      "code": "ARENAPSGMTIME",
+      "amount": 300
+    }
   ]
 }
