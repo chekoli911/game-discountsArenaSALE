@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-26T01:18:23Z",
-  "generated_at": "2026-10-26T01:42:39Z",
+  "catalog_id": "2026-10-26T09:26:51Z",
+  "generated_at": "2026-10-26T10:23:13Z",
   "count": 11291,
   "items": [
     {
@@ -3714,8 +3714,8 @@
       "text_translation": "",
       "rating": 0.0,
       "release_date": "26.10.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1409/8a8a29b9ad103c8c6c02d2dbc30e561bb0c9f5feb2792040.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202605/1410/30c5e694ad8cdb5f3fc899ade76a61b06dfc1e57a6c1e9b3.jpg",
@@ -3780,8 +3780,8 @@
       "text_translation": "Английский",
       "rating": 5.0,
       "release_date": "26.10.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1413/ef408f0f61d57fc79b66cdf8bdcfeca743fe7f75b03c8e3e.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202610/1618/4e05fa86c1bc08727a59d98bf87da43d7ecde64fdb6e9f58.jpg",
@@ -3795,7 +3795,7 @@
       "seo_title": "Hunter's Moon PS5 аренда игры",
       "seo_descr": "Аренда Hunter's Moon PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-10-26T01:41:53Z"
+      "catalog_added_at": "2026-10-26T01:17:53Z"
     },
     {
       "id": "anomalith-digital-deluxe-edition",
@@ -3846,8 +3846,8 @@
       "text_translation": "",
       "rating": 0.0,
       "release_date": "26.10.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2707/af7e539bc20246ece6f68d6b8c01e664c7db361c9da9de67.png",
       "screenshots": [],
       "store_url": "https://store.playstation.com/en-tr/product/EP2640-PPSA29380_00-DDXEDITION000000",
@@ -3922,7 +3922,7 @@
       "seo_title": "BOARDING DENIED PS5 аренда игры",
       "seo_descr": "Аренда BOARDING DENIED PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-10-26T01:41:53Z"
+      "catalog_added_at": "2026-10-26T01:18:10Z"
     },
     {
       "id": "rusty-rangers",
@@ -757040,49 +757040,56 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799,
+          "56": 1438
         },
         "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
+          "1": 357,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899,
+          "56": 1618
         }
       },
       "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
+        "1": 257,
+        "7": 357,
+        "14": 490,
+        "21": 699,
+        "28": 799,
+        "56": 1438
       },
       "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
+        "1": 357,
+        "7": 459,
+        "14": 590,
+        "21": 799,
+        "28": 899,
+        "56": 1618
       },
-      "price_min": 697,
+      "price_min": 257,
       "lang_label": "",
       "genre": "Хоррор",
-      "categories": [],
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Приключения",
+        "Хоррор"
+      ],
       "publisher": "Horror",
       "voice": "",
       "text_translation": "",
       "rating": 0.0,
       "release_date": "Dolores Entertainment S.L.",
       "is_preorder": false,
-      "is_new": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/3115/9ee1d3bc113992e13d63d5c7218d7953c6b36b29518d87ac.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202603/3115/982a0ce77f9ff2c090987fce0e0ab42357f4074adac09605.jpg",
@@ -757093,11 +757100,11 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202603/3115/6a9bc0a1c18c7e7d7b71499a4a54cc54fb8381013dbb1b1e.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/concept/10018781",
-      "description": "На 9-м этаже - вы не просто играете, вы в ловушке.  \n\nВ «Отеле Лиминал» всё кажется нормальным… пока вы не замечаете странностей: на полу, в картинках, прямо перед глазами.  \n\nКаждый угол проверяйте - одна ошибка и вы снова возвращаетсяс на 9-й этаж.  \n\nЖуткая атмосфера, головоломки и психологическое напряжение - всё это в одном дыхании.",
-      "seo_title": "Floor 9 PS5 аренда игры",
-      "seo_descr": "Аренда Floor 9 PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:18Z"
+      "description": "На 9-м этаже отеля «Лиминал» вас ждёт таинственная ловушка.  \n\nАномалии - повсюду: на полу, в картинах, прямо перед глазами. Каждый угол - потенциальная угроза. Ошибки ведут к началу с нуля.  \n\nЖивое напряжение, головоломки и психологический ужас - всё это в одном дыхании.  \nПогрузитесь в атмосферу, где внимание - ваш главный инструмент. 🎵👻",
+      "seo_title": "Floor 9 на PS5 аренда игры",
+      "seo_descr": "Аренда Floor 9 на PS5. На 9-м этаже вы оказываетесь в ловушке в таинственном отеле под названием «Отель Лиминал». Быстрый доступ после оплаты.",
+      "external_id": "4Ia6HpDBGy71NOb6utwu",
+      "catalog_added_at": "2026-10-26T10:23:11Z"
     },
     {
       "id": "find-my-frogs",
