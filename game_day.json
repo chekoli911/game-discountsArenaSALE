@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-26T02:02:27Z",
-  "server_time_utc": "2026-10-26T02:02:27Z",
+  "updated_at": "2026-10-27T02:02:29Z",
+  "server_time_utc": "2026-10-27T02:02:29Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-27T02:00:00Z",
-  "expires_at": "2026-10-27T02:00:00Z",
+  "next_rotation_at": "2026-10-28T02:00:00Z",
+  "expires_at": "2026-10-28T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 200,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-27T02:00:00Z"
+    "next_rotation_at": "2026-10-28T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "monster-hunter-wilds-ps5",
+      "title": "Monster Hunter Wilds PS5",
+      "description": "🔥 Monster Hunter Wilds - не для тех, кто боится дикой природы.  \n\nПогрузись в мир, где монстры и люди живут рядом, а погода может смениться за считанные минуты. Всё меняется - от погоды до поведения монстров. И ты не просто охотишься, ты учись предугадывать их движения, изучать ландшафт и создавать всё новые оружие из найденных материалов.  \n\nЗапретные земли - это живой, дышащий мир. Там хищники выходят в стаю во время ненастья, а в периоды изобилия природа бурлит жизнью. Монстры адаптировались к хаосу и теперь используют свои сильные стороны - как выживание, так и умение маскироваться.  \n\nТы не одиночка. Всё вокруг - от напарников до экспедиционных друзей - поддержит тебя на каждом этапе охоты. И всё это - в одной игре, где каждый выбор влияет на мир и твою судьбу.",
+      "image_url": "https://static.tildacdn.com/stor6164-3637-4266-b538-393065316163/68243453.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/6eca11bf1cbeda40d7fbff267f42565b2030b6ca10a4f4c2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/f653040b97ae0e2203bcc6291c2c904f72f08768d01ca125.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/e67705e75851d1423236257076fb113e9b278df1d7ee9235.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/f273cf7c1c38bcbfd334fb3abaaec6eb645f414a027f5d5e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/a0f54ab37ba91b505c4edb98d42d7852bf92b3f03b0c2a80.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/aff652e15d91796b46e9edc36dd468c24db35bb1b4d45be1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/c1480589e13dccb9ff6892163430802ee0258f8f64c78950.jpg"
+      ],
+      "release_date": "28/2/2025",
+      "publisher": "CE EUROPE LIMITED",
+      "platforms": "PS5",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.09,
+      "store_url": "https://store.playstation.com/en-tr/concept/10005176",
+      "tilda_uid": "790073278762",
+      "sku": "",
+      "external_id": "OxtxMIV7TkfXAdIyhDOx",
+      "url": "http://arenapsgm.ru/tproduct/790073278762-monster-hunter-wilds-ps5",
+      "expires_at": "2026-10-28T02:00:00Z",
+      "published_at": "2026-10-27T02:02:29Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 200,
+          "21": 300,
+          "28": 400
+        },
+        "p3": {
+          "7": 200,
+          "14": 300,
+          "21": 400,
+          "28": 500
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 200,
+        "21": 300,
+        "28": 400
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Monster Hunter Wilds - мир, где природа дышит и монстры живут как настоящие хищники.  \n\nТам погода меняется мгновенно, монстры адаптируются к хаосу и ты учишься их предугадывать - всё вместе с друзьями в одном живом мире."
+    }
+  ],
+  "history": [
     {
       "slug": "serious-sam-4-ps4-ps5",
       "title": "Serious Sam 4 PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "4ZV0yAf54li5ZYGJ8Elp",
       "url": "http://arenapsgm.ru/tproduct/102741266942-serious-sam-4-ps4ps5",
-      "expires_at": "2026-10-27T02:00:00Z",
       "published_at": "2026-10-26T02:02:27Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 200,
-          "21": 300,
-          "28": 400
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 300,
-          "21": 400,
-          "28": 500
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 200,
-        "21": 300,
-        "28": 400
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Сэм снова в бою - с мясорубкой, взрывами и хаосом в каждом выстреле.  \n\nШутер от первого лица. Безумие. Мир на грани. Драйв как всегда."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "skull-and-bones-ps5",
       "title": "SKULL AND BONES PS5",
@@ -2984,56 +3034,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Марты нет. Джулия - её близнец, теперь одна на свете.  \n\nТриллер от первого лица: реальность тает в войне и суевериях. Игра с настоящей озвучкой, без фильтров - ты чувствуешь, а не видишь."
-    },
-    {
-      "slug": "monster-hunter-wilds-ps5",
-      "title": "Monster Hunter Wilds PS5",
-      "description": "Монстры не спят, а бегут - и это всё меняется в одно мгновение.  \n\nВ Monster Hunter Wilds вы находитесь в мире, где природа не просто дышит - она живёт, переполняется, греет и сбивается с пути. Суровые засухи и ненастья превращаются в охотничьи сезоны, а монстры выходят стаями, как будто ответили на вызов.  \n\nКаждый бой - это не просто удача или хитрость. Вы строите доспехи из собственных охотных сокровищ, превращаете природу в арсенал и начинаете понимать: люди и монстры здесь - не противники, а части одного целого.  \n\nПросто включайте оружие и начинайте охотиться - мир подаст сигналы, но вы должны быть готовы к тому, что даже самое маленькое движение может изменить всё вокруг. 💥",
-      "image_url": "https://static.tildacdn.com/stor6164-3637-4266-b538-393065316163/68243453.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/6eca11bf1cbeda40d7fbff267f42565b2030b6ca10a4f4c2.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/f653040b97ae0e2203bcc6291c2c904f72f08768d01ca125.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/e67705e75851d1423236257076fb113e9b278df1d7ee9235.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/f273cf7c1c38bcbfd334fb3abaaec6eb645f414a027f5d5e.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/a0f54ab37ba91b505c4edb98d42d7852bf92b3f03b0c2a80.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/aff652e15d91796b46e9edc36dd468c24db35bb1b4d45be1.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1107/c1480589e13dccb9ff6892163430802ee0258f8f64c78950.jpg"
-      ],
-      "release_date": "28/2/2025",
-      "publisher": "CE EUROPE LIMITED",
-      "platforms": "PS5",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.09,
-      "store_url": "https://store.playstation.com/en-tr/concept/10005176",
-      "tilda_uid": "790073278762",
-      "sku": "",
-      "external_id": "OxtxMIV7TkfXAdIyhDOx",
-      "url": "http://arenapsgm.ru/tproduct/790073278762-monster-hunter-wilds-ps5",
-      "published_at": "2026-08-28T02:00:20Z",
-      "prices": {
-        "p2": {
-          "7": 350,
-          "14": 550,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 550,
-          "14": 750,
-          "21": 900,
-          "28": 1000
-        }
-      },
-      "prices_p2": {
-        "7": 350,
-        "14": 550,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 200,
-      "is_game_day": false,
-      "short_description": "Монстры не спят - они бегут.  \nВ Wilds природа живёт, монстры выходят стаями, а каждый бой - это не просто схватка, а взаимодействие с миром."
     }
   ]
 }
