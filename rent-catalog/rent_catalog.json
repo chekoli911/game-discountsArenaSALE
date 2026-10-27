@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-27T01:20:05Z",
-  "generated_at": "2026-10-27T01:29:18Z",
-  "count": 11293,
+  "catalog_id": "2026-10-27T01:31:59Z",
+  "generated_at": "2026-10-27T01:38:42Z",
+  "count": 11296,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3666,6 +3666,138 @@
       "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
+      "id": "treasure-tiger",
+      "slug": "treasure-tiger",
+      "sku": "rent-treasure-tiger",
+      "title": "Treasure Tiger PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Хоррор, Хоррор, Хоррор",
+      "categories": [],
+      "publisher": "Take IT Studio! Sp. z o.o.",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "26.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0612/6ee1d257d0298be1fcd6ebab14e3ff1d936419c674c2f284.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0612/88c958130512592b8b0ae88c40d46b730ce47ec4554f692b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0612/eb83692c8984475180512289218e82e362c2be71f53cb6e9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0612/b3d60ae2afa4d4ee45c9413a1262b75e0962f4337bcb4e66.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0612/ca89e178966682dc9587fca83012fb3a88d9cad48532d4a9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0612/753478e2748be4f91159f9ebe0a0902d7ef85c522e311693.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021023",
+      "description": "Ты в лесу. Там, где дикие животные не просто живут - они участвуют в битвах за золото.  \n\nВ Treasure Tiger ты будешь командовать тигром, который не только хватает костей, но и сражается на равных.  \n\nЭто не просто приключение - это динамичная, адреналиновая история о силе, ловкости и настоящем диком мире.  \n\nТы в деле - вперёд в лес! 🌲🐯",
+      "seo_title": "Treasure Tiger PS5 аренда игры",
+      "seo_descr": "Аренда Treasure Tiger PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-27T01:31:20Z"
+    },
+    {
+      "id": "tidy-up-the-halloween-shop",
+      "slug": "tidy-up-the-halloween-shop",
+      "sku": "rent-tidy-up-the-halloween-shop",
+      "title": "Tidy Up the Halloween Shop PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Казуальная",
+      "categories": [],
+      "publisher": "Over the Moon Inc.",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "26.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1300/b4e38c0acacc295da28d8186157e40e8e0a3e304da4882a6.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1822/c2218bd8c592d23621ba13ab1a50feb8f3518186fdfc14c5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1822/02f8f979da550a6351ea4b1e3b51b190b40677934bbde0d9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1822/7bd5ac1f9a3d0828f242407222ad4778d74ad0717f59d5ee.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1822/f6c8aabfad2ce86f2d5250b6c553a96cbdc01c8efdc42c27.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1822/369ce1a084a4f7bf20ac4125f5588e8aabaf42c1e497134f.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021114",
+      "description": "Нужно почистить ужасную кабинетную лавку перед Днем всех святых?  \n\nВ этой игре ты - владелец магазина, где всё растерялось и пыль проникла в каждый угол.  \n\nТебе предстоит собрать хаос, упаковать шоколадные котлеты и вручить гостям настоящий фэнтези-дизайн.  \n\nКлассика с душой - погрузись в атмосферу хайпового страха и порядка. 🎃🧹",
+      "seo_title": "Tidy Up the Halloween Shop PS5 аренда игры",
+      "seo_descr": "Аренда Tidy Up the Halloween Shop PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-27T01:31:37Z"
+    },
+    {
       "id": "suri-the-seventh-note-digital-deluxe-edition",
       "slug": "suri-the-seventh-note-digital-deluxe-edition",
       "sku": "rent-suri-the-seventh-note-digital-deluxe-edition",
@@ -3865,6 +3997,75 @@
       "seo_descr": "Аренда Fangtopia PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-26T19:33:43Z"
+    },
+    {
+      "id": "dog-man-bark-in-action",
+      "slug": "dog-man-bark-in-action",
+      "sku": "rent-dog-man-bark-in-action",
+      "title": "Dog Man: Bark in Action PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Казуальная, Экшен",
+      "categories": [],
+      "publisher": "MINDSCAPE BV",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 4.09,
+      "release_date": "26.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1012/8d61836ceab7b5e772d3ab4e30f54f089a001e0d2f4990b2.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2720/a4a2452f6e390a660e7872163bb6aca96166965001b4cc15.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2720/673854db618792a246f30ded83c74b0f0fe13a317af0a3d4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2720/ee72157000a7e87b5abfa242bc07dbdc48f1036da4f336f1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2720/b33688bbf3b0a73f184a33731c7be64c0a02d4df0a6e8bf9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2720/48d858aa1b3724240c6ce566c440a9511370f1ff9d601e3a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2720/1dfcecb4bf98cffca5fcbd85a0bc11cf2f57031fec5dd11c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2720/b9b5eda760ff732eee2275a6601ef7457b02f2c261ed0d95.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2720/bcd5285c62e2d561a7ac11a1ecb681bd56dcc407f216fde0.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019467",
+      "description": "Дог-мэн в бою! 🐕💥  \nСыграем с пёсом, который не просто лает - он бьёт, прыгает и ведёт за собой в квесты по городу.  \n\nВерсия для PS4 и PS5 - всё на одном экране, без ожиданий, только драйв.  \n\nГотов к дерзким приключениям? Это уже не просто игра - это как быть в кино с пёсом-героем.",
+      "seo_title": "Dog Man: Bark in Action PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Dog Man: Bark in Action PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-27T01:30:57Z"
     },
     {
       "id": "ayasa-shadows-of-silence",
