@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-27T14:16:07Z",
-  "generated_at": "2026-10-27T14:20:05Z",
-  "count": 11297,
+  "catalog_id": "2026-10-27T20:14:11Z",
+  "generated_at": "2026-10-27T20:16:20Z",
+  "count": 11300,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3662,6 +3662,211 @@
       "seo_descr": "Аренда Village in the Shade PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-27T13:36:42Z"
+    },
+    {
+      "id": "the-seance-of-blake-manor",
+      "slug": "the-seance-of-blake-manor",
+      "sku": "rent-the-seance-of-blake-manor",
+      "title": "The Seance of Blake Manor PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Головоломка",
+      "categories": [],
+      "publisher": "Raw Fury AB",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 3.22,
+      "release_date": "27.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0108/6f31883f26b5dcaf7ca6ac75a39fbbd4a3e9774875f23f48.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1907/8ed1e815d2d638789881b76ee7307085a1ad0931d1dfc330.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1907/26d44f2684be67c46d592855d31da5b4cee64b3ab45d64cc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1907/a5e163c6740bb97571be71546b0868bd4fc6ab2aa0fdb4a7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1907/b63aa5321f37644d37e69c085be148de3f66090210c716de.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1907/dd1bcc395d6ea5501c12ad3f4160f6058423928645dfc475.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1907/f0de4a30d0e5c2fc46958205d96ef6face2d8fa9af0eb9f2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1907/972833d2f98929a1a45f1623b8a155666c12a41418d2be55.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1907/63cda59192f2949fb90e354f6e52f72cc95ea4fabbbe0527.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018028",
+      "description": "Тёмная атмосфера. Страшные звуки. Игра, где ты - ведущий сеанса в маноре Блейка.  \n\nПогрузись в тень старинного дома, где каждый шаг может привести к неожиданным открытиям.  \n\nНе просто призраки - там что-то живое, что пытается вырваться наружу.  \n\nИгра для тех, кто любит мрачный настрой и настоящую напряжённость.",
+      "seo_title": "The Seance of Blake Manor PS5 аренда игры",
+      "seo_descr": "Аренда The Seance of Blake Manor PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-27T20:16:11Z"
+    },
+    {
+      "id": "remothered-red-nun-s-legacy",
+      "slug": "remothered-red-nun-s-legacy",
+      "sku": "rent-remothered-red-nun-s-legacy",
+      "title": "Remothered: Red Nun's Legacy PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Хоррор",
+      "categories": [],
+      "publisher": "STORMIND GAMES",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.84,
+      "release_date": "27.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2414/24506d1634bf32d5ce835d705e0cd6c7c95fa5714897fb6b.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2714/6fd1d263d7b902ed9b63b408403ccd6372656aaea2b9e740.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2714/9d711cfef9aef54f304c39f7b6441f1531b2fbbe3d20eeea.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2714/8d203a9cfccdadfb6680358a43d09a8806773dd1828ef87a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2714/f45f66b747e31c50843b67447a882f3d154683fb5eb934e4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2714/718ac3f9a70aebb912b1f879133eed4f29b8e690d57bef59.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2714/a283bba9fa665d0b49c8ebeb3b3e711f2e3440c5e43d3106.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2714/84043022f90c2f9b5c029e88f80d718214f1e8f8a8c3bd7c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2714/8070fefbe202d49803e2d2296e401c0a56bed79d05a5a226.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018448",
+      "description": "Ремотеред: Ред Нунс Легаси - криминальная, мрачная и насыщенная атмосферой игра. Ты вступаешь в мир, где ужасы не просто происходят - они живут.\n\nПогружение в пугающий ландшафт роковой драмы с жесткими правилами и мрачными персонажами. Каждый шаг - как шанс на выживание или гибель.\n\nСовсем не для тех, кто любит светлые моменты. Это тёмная история о борьбе, ужасах и том, что иногда вспоминаешь слишком поздно.",
+      "seo_title": "Remothered: Red Nun's Legacy PS5 аренда игры",
+      "seo_descr": "Аренда Remothered: Red Nun's Legacy PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-27T20:16:11Z"
+    },
+    {
+      "id": "paths-of-fight-samurai",
+      "slug": "paths-of-fight-samurai",
+      "sku": "rent-paths-of-fight-samurai",
+      "title": "Paths of Fight: Samurai PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Головоломка",
+      "categories": [],
+      "publisher": "CAVYLABS LTDA",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "27.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1320/9648dbc380dac51359e3baca7bc3c1a41e1c56657c82ea4b.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1320/b9e19c098e5adb3e451bcdfddce72d8bc10167559e6093a3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1320/928a4a02f6c3ddefcf73f8fe9a1bbc8f24d9716a58fa8fa0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1320/2897502bd638fffd28d1e859ad996188a914763e62923011.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1320/dbdf8b4994e3633840b045d57ba1ac07d7dad2a9877b592b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1320/a7236fb9eeb6228e4513829c35bde31a7f29fb5e76de5d4e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1320/5c68b05be3e3b4f81b26e962742354610dbfff81004903a2.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018438",
+      "description": "Самурайский бой на PS5. У тебя в руках – меч, шиньон и свобода выбора стиля боя.  \n\nРазнообразные боевые сценарии, от уличных драков до грандиозных схваток с тайными архивами.  \n\nКаждый удар - как в фильме, каждый шаг - по-японски. Всё настройка под тебя.  \n\nТы не просто играешь – ты становишься самурайским героем.",
+      "seo_title": "Paths of Fight: Samurai PS5 аренда игры",
+      "seo_descr": "Аренда Paths of Fight: Samurai PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-27T20:16:11Z"
     },
     {
       "id": "farming-simulator-25-beans-alpacas-edition",
@@ -26453,7 +26658,7 @@
       "seo_title": "HOT WHEELSTM Infinite Rush PS5 аренда игры",
       "seo_descr": "Аренда HOT WHEELSTM Infinite Rush PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-10-27T14:15:51Z"
+      "catalog_added_at": "2026-10-27T20:16:11Z"
     },
     {
       "id": "hazard-pay",
