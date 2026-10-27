@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-27T12:15:53Z",
-  "generated_at": "2026-10-27T12:27:37Z",
-  "count": 11296,
+  "catalog_id": "2026-10-27T13:19:42Z",
+  "generated_at": "2026-10-27T13:36:56Z",
+  "count": 11297,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3595,6 +3595,73 @@
       "seo_descr": "Аренда ANOMALITH PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
+    },
+    {
+      "id": "village-in-the-shade",
+      "slug": "village-in-the-shade",
+      "sku": "rent-village-in-the-shade",
+      "title": "Village in the Shade PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Симулятор, Приключение",
+      "categories": [],
+      "publisher": "NIS America",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 4.82,
+      "release_date": "27.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2513/fb87870937681c3af9cd06e3ae4de8b8c4ece460764384fc.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0720/fd27365821a0227f9e2d17a470028327e092af284f076683.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0720/d4a77699c4b01c5bafad91ee2f7028cb1f983e19aae67ab6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0720/af0bd4aa26d7b6c3885cbc00404604ab03667d494f841ea2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0720/f85f3cd20de6533ab6ed9af5bf9480544d9c6afd8b2b743d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0720/00091038d8966d42c94a528f32d6cbabd6d1a3cfc415ae6d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0720/ad550718edbd4ea9f4c08d6a3ed2cc6bab78cb9d1c88cecd.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10015979",
+      "description": "Вillage в тени - это спокойная, почти магическая реальность, где ты не просто живёшь в деревне, а участвуешь в её росте.  \n\nТы выбираешь, как развиваться: строишь дома, копаешь каналы, устраиваешь праздники - всё под твоим контролем.  \n\nСердце игры - не бой, а жизнь. Тихий ритм, доброе настроение и ощущение настоящей деревни, в которой каждый шаг - важен.  \n\nПросто и уютно. Как будто ты приехал сюда по-настоящему. 🌲✨",
+      "seo_title": "Village in the Shade PS5 аренда игры",
+      "seo_descr": "Аренда Village in the Shade PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-27T13:36:42Z"
     },
     {
       "id": "farming-simulator-25-beans-alpacas-edition",
@@ -26386,7 +26453,7 @@
       "seo_title": "HOT WHEELSTM Infinite Rush PS5 аренда игры",
       "seo_descr": "Аренда HOT WHEELSTM Infinite Rush PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-10-27T12:27:27Z"
+      "catalog_added_at": "2026-10-27T13:19:13Z"
     },
     {
       "id": "hazard-pay",
