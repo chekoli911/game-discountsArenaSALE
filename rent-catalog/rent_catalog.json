@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-28T11:18:42Z",
-  "generated_at": "2026-10-28T11:35:06Z",
-  "count": 11308,
+  "catalog_id": "2026-10-28T13:18:55Z",
+  "generated_at": "2026-10-28T13:52:42Z",
+  "count": 11310,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3599,6 +3599,139 @@
       "seo_descr": "Аренда Whispers Within - Halloween Terror PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-28T02:36:19Z"
+    },
+    {
+      "id": "sulfur",
+      "slug": "sulfur",
+      "sku": "rent-sulfur",
+      "title": "SULFUR PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Шутер, Приключение, Экшен",
+      "categories": [],
+      "publisher": "Perfect Random AB",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 4.48,
+      "release_date": "28.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0213/12edcc574a51aab547aae5481cbac86be831e6e6fc01ee3e.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0214/8656694a9396eed986adf69e7022348d6c2e0a0434b3966b.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0214/eac3790d5f07b41e3fe116d369df20aab430ff9aaca2ecd0.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0214/222f0caa302fcdc6dc2055f2ca8b0c8b471c889b1320f186.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0214/870d09ce2b749eea5dfb61df6d1cc96dc78934e8291d345f.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0214/d54e086498fb8b9abb8479f775875f035bbee2eebe86467a.jpeg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10007890",
+      "description": "SULFUR - это шикарная киберпанковая драма в стиле «мрачный ретро-футуризм». Ты ведёшь себя как злодей, но всё же чувствуешь себя настоящим героем.  \n\nГеймплей - плотный, напряжённый, с мелкими деталями и устойчивой атмосферой. Всё отображается в тонком, почти мистическом стиле.  \n\nМир застывает на краю распада, но ты всё равно не оставишь его без внимания. Сделай выбор - быть жестоким или быть настоящим.  \n\nДля тех, кто любит глубину и тонкую психологию. Уже в первых минутах - схватка с самим собой начинается.",
+      "seo_title": "SULFUR PS5 аренда игры",
+      "seo_descr": "Аренда SULFUR PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-28T13:47:57Z"
+    },
+    {
+      "id": "sn-ultimate-freeriding",
+      "slug": "sn-ultimate-freeriding",
+      "sku": "rent-sn-ultimate-freeriding",
+      "title": "SNØ: Ultimate Freeriding PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "AMATA K.K.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "28.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2505/7fe6667e0287592d1bc00210d1f2eadd012c88412d153407.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1506/c37018e92626e4f603d7d2c3bca7ffa7dd9650d7cade4f50.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1506/6a03247ffa39445b28464c3b7683129597bb37217c5bf10d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1506/931cf557c5ef53da1beeb0128cbf56dddc4dab02ac3e7b4d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1506/9e47212aa5e7937a437a162fb376aa7040815ed458c3f532.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1506/882230991734798acba5fb5e636fce3f849e25e1690125ec.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1506/677bd4d29575ccc13ad52f4327538e34526965b9bbd3f3b0.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020036",
+      "description": "Скользишь по горам? В SNØ: Ultimate Freeriding ты - не просто игрок, а настоящий горнолыжник на PS5.  \n\nЛёгкий контроль, фантастическая физика и реалистичные ландшафты - всё это в твоих руках.  \n\nТы выбираешь трассу, ускоряешься, прыгаешь, маневрируешь - как настоящий слаломист на пике.  \n\nПогружение в мир свободного катания начинается с одного клика.",
+      "seo_title": "SNØ: Ultimate Freeriding PS5 аренда игры",
+      "seo_descr": "Аренда SNØ: Ultimate Freeriding PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-28T13:47:57Z"
     },
     {
       "id": "excise",
@@ -19485,42 +19618,49 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 591,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
+          "1": 390,
+          "7": 490,
+          "14": 890,
+          "21": 1190,
+          "28": 1290,
+          "56": 2322
         },
         "p3": {
-          "1": 1434,
-          "7": 1792,
-          "14": 1992,
-          "21": 2428,
-          "28": 2633,
-          "56": 4739
+          "1": 490,
+          "7": 590,
+          "14": 990,
+          "21": 1190,
+          "28": 1290,
+          "56": 2322
         }
       },
       "prices_p2": {
-        "1": 591,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
+        "1": 390,
+        "7": 490,
+        "14": 890,
+        "21": 1190,
+        "28": 1290,
+        "56": 2322
       },
       "prices_p3": {
-        "1": 1434,
-        "7": 1792,
-        "14": 1992,
-        "21": 2428,
-        "28": 2633,
-        "56": 4739
+        "1": 490,
+        "7": 590,
+        "14": 990,
+        "21": 1190,
+        "28": 1290,
+        "56": 2322
       },
-      "price_min": 591,
+      "price_min": 390,
       "lang_label": "",
       "genre": "Экшен",
-      "categories": [],
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Приключения",
+        "Боевики"
+      ],
       "publisher": "REMEDY ENTERTAINMENT LTD.",
       "voice": "",
       "text_translation": "",
@@ -19540,10 +19680,10 @@
       ],
       "store_url": "https://store.playstation.com/en-tr/product/EP5291-PPSA34547_00-0210080241603648",
       "description": "CONTROL Resonant - продолжение ужасающей истории Дилана Фейдена.  \n\nОн вырвался из тюрьмы Федерального бюро контроля и теперь борется с космической силой, которая разрушает реальность Манхэттена. Плесень, Ииссы - всё это врывается в город, искажая физику, гравитацию и пространство.  \n\nТы проникаешь в этот кошмар вместе с Диланом: исследуешь искривлённые районы, разбираешь мотивы персонажей и пытается понять, кто из них - враг, а кто - просто потерянный.  \n\nУправляй его силами - от жёсткого молота до быстрых клинков. Оружие меняется на ходу, как будто живёт и реагирует на бой. Ты не просто сражаешься - ты создаёшь новый путь для Дилана.",
-      "seo_title": "CONTROL Resonant PS5 аренда игры",
-      "seo_descr": "Аренда CONTROL Resonant PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-09-23T06:07:59Z"
+      "seo_title": "CONTROL Resonant на PS5 аренда игры",
+      "seo_descr": "Аренда CONTROL Resonant на PS5. После долгих лет заточения в стенах Федерального бюро контроля (ФБК) Дилан Фейден отправляется в бой в разгар сверхъестественного кризиса. Быстрый доступ после оплаты.",
+      "external_id": "haSd5NF7hxiYf3ut6vck",
+      "catalog_added_at": "2026-10-28T13:26:08Z"
     },
     {
       "id": "beer-manufacture-simulator",
@@ -27197,7 +27337,7 @@
       "seo_title": "HOT WHEELSTM Infinite Rush PS5 аренда игры",
       "seo_descr": "Аренда HOT WHEELSTM Infinite Rush PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-10-28T11:34:55Z"
+      "catalog_added_at": "2026-10-28T13:47:57Z"
     },
     {
       "id": "hazard-pay",
