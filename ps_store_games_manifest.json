@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "catalog_id": "20261027T191652Z",
-  "generated_at": "2026-10-27T19:16:53Z",
-  "total_games": 11200,
+  "catalog_id": "20261028T012137Z",
+  "generated_at": "2026-10-28T01:21:38Z",
+  "total_games": 11207,
   "chunk_size": 200,
-  "chunk_count": 56,
+  "chunk_count": 57,
   "chunks": [
     "ps_store_games_chunk_000.json",
     "ps_store_games_chunk_001.json",
@@ -61,7 +61,8 @@
     "ps_store_games_chunk_052.json",
     "ps_store_games_chunk_053.json",
     "ps_store_games_chunk_054.json",
-    "ps_store_games_chunk_055.json"
+    "ps_store_games_chunk_055.json",
+    "ps_store_games_chunk_056.json"
   ],
   "search_index": "ps_store_games_search.json",
   "legacy_monolith": "ps_store_games.json"
