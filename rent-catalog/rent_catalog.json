@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-28T17:17:26Z",
-  "generated_at": "2026-10-28T17:32:05Z",
-  "count": 11310,
+  "catalog_id": "2026-10-28T19:18:18Z",
+  "generated_at": "2026-10-28T19:26:00Z",
+  "count": 11312,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3732,6 +3732,144 @@
       "seo_descr": "Аренда SNØ: Ultimate Freeriding PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-28T13:18:01Z"
+    },
+    {
+      "id": "primal-planet",
+      "slug": "primal-planet",
+      "sku": "rent-primal-planet",
+      "title": "Primal Planet PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "Pretty Soon S.A.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 4.92,
+      "release_date": "28.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1118/10cab6423f3b3161d2fa818ad99599fda904336ab797e6aa.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/1118/590bb9b639419047096336960cbc1a20ca0550d2115a6df5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/1118/f79d1e2caffadb55e1062254c02047e9f3721140b164a34b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/1118/cad31e16bded5e852c834d750282f43b5c0c3afe4e9fb83a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/1118/845474ef63e071bdddd173d036b1f1f6883bf9ae11ba9598.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/1118/d249c3f64d4b8a0b976eb1ecabfddbe171e1e4e7fe712a19.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/1118/40c50487e43324b1be9da5ddfd8902628a93564830ecf074.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/1118/2cadbc22aec81dda65dc6dcd573f229ba87bd61179d7d7d1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/1118/cfdd898ea779a15eaef06e0a678047b25b0f8bc91ac000b2.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10016118",
+      "description": "Примитивная природа. Животные. Схватки. Выживание.  \nТы не просто управляешь, ты в деле - на первом месте стоят выживание и борьба за ресурсы.\n\nНастоящая экосистема - с дикими животными, которые реагируют на твои действия.  \n\nКаждое решение влияет на мир: что строишь, как держишь погоду - всё живёт и изменяется вокруг тебя.  \n\nПолноценный опыт в жанре survival. Без сюжета, но с настоящей атмосферой.  \nТы не просто играешь - ты внутри мира. 🌲🔥",
+      "seo_title": "Primal Planet PS5 аренда игры",
+      "seo_descr": "Аренда Primal Planet PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-28T19:17:54Z"
+    },
+    {
+      "id": "gennady",
+      "slug": "gennady",
+      "sku": "rent-gennady",
+      "title": "Gennady PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке!",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "Sobaka Studio LLP",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.65,
+      "release_date": "28.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1915/3eff65c23b52600af05106e7e3b42decf5f0da0e6280052b.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2416/04ccd97c8a7001fb2f7f048d41fc0a48b1ab5ba99da9bbc7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2416/7767ffcc3e4dce2f1c1bb1754ac4d9677b63593e356e1800.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2416/e96e8ca6f5722d4385fbd57071e16257aba0f3164212e2da.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2416/2912d1055e7b3008562cd0951b984a605b2bb7f4c60e74b0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2416/b6f17c336ed2b3a6810611baec0b016b683faa41d8238342.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2416/88a84461715162f66b319d00b5fd061a168f525168dc068b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2416/aa2d056b4eb6d24d58ac6446d818e93bc4c343143a9f63ab.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2416/b1874dac98d463ce2dfa210421acbaf87abc3ebb0a5a7d71.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019311",
+      "description": "Геннарди - классика русского юмора в игровой форме.  \nСмешно, с душой и без лишних слов.  \n\nТеперь на ПС4 и ПС5 - не просто игра, а уютный вечер с братом или другом.  \n\nЕсли хочешь посмеяться под катушку - это твоя история. 🎮😄",
+      "seo_title": "Gennady PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Gennady PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-28T19:17:40Z"
     },
     {
       "id": "excise",
@@ -27330,7 +27468,7 @@
       "seo_title": "HOT WHEELSTM Infinite Rush PS5 аренда игры",
       "seo_descr": "Аренда HOT WHEELSTM Infinite Rush PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-10-28T17:31:56Z"
+      "catalog_added_at": "2026-10-28T19:18:07Z"
     },
     {
       "id": "hazard-pay",
