@@ -1,8 +1,8 @@
 {
   "version": 1,
   "catalog_id": "2026-10-28T05:17:45Z",
-  "generated_at": "2026-10-28T05:33:05Z",
-  "count": 11307,
+  "generated_at": "2026-10-28T06:27:29Z",
+  "count": 11306,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -27062,75 +27062,6 @@
       "catalog_added_at": "2026-09-09T17:31:41Z"
     },
     {
-      "id": "hot-wheelstm-infinite-rush",
-      "slug": "hot-wheelstm-infinite-rush",
-      "sku": "rent-hot-wheelstm-infinite-rush",
-      "title": "HOT WHEELSTM Infinite Rush PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "Английский",
-      "genre": "Гонки, Аркада",
-      "categories": [],
-      "publisher": "MILESTONE SRL",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "rating": 4.84,
-      "release_date": "09.09.2026",
-      "is_preorder": false,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2509/b304ac4fea73474605efb22161edd7943565533ec3dab802.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/5696d479f7fe63874bb92b5973f6edc351a8614e4b48f597.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/c9ba33bdaf3357251ea89cb427bf32c820e47ff55cbd099a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/7e91e4da26d1cd34754a1de19369152427ac8b53265ef4b4.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/0fb54debdd77b3417e6a959a399e41271e37c466ef81a94a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/83f73fa803095e41700c6a6d8a788c7d05dac8e5578df968.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/51308af1a6d19facbac3a52c6f20db9d281878fbc7295d91.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/7a0e20851f73757dc38dbca838e4b5035614b1ee52d423d5.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/7184a4423ef4de40881eb5d6c77c3ac3adda68db07af4e7b.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10010731",
-      "description": "Вырвитесь за пределы оранжевого трека - теперь вы на всём острове!  \n\nЧетыре острова, каждый со своей атмосферой и вызовами - от лужайки до бурлений диких гор.  \n\nСносите препятствия, открывайте секреты и соревнуйтесь с главными чемпионами каждого острова.  \n\nЭпичные приключения начинаются - в каждом повороте есть что-то новое. 🏁",
-      "seo_title": "HOT WHEELSTM Infinite Rush PS5 аренда игры",
-      "seo_descr": "Аренда HOT WHEELSTM Infinite Rush PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-10-28T05:32:57Z"
-    },
-    {
       "id": "hazard-pay",
       "slug": "hazard-pay",
       "sku": "rent-hazard-pay",
@@ -39565,46 +39496,55 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799,
+          "56": 1438
         },
         "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
+          "1": 357,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899,
+          "56": 1618
         }
       },
       "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
+        "1": 257,
+        "7": 357,
+        "14": 490,
+        "21": 699,
+        "28": 799,
+        "56": 1438
       },
       "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
+        "1": 357,
+        "7": 459,
+        "14": 590,
+        "21": 799,
+        "28": 899,
+        "56": 1618
       },
-      "price_min": 697,
+      "price_min": 257,
       "lang_label": "",
       "genre": "Хоррор",
-      "categories": [],
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Игры на двоих",
+        "Приключения",
+        "Платформеры",
+        "Хоррор"
+      ],
       "publisher": "THQ NORDIC GMBH",
       "voice": "",
       "text_translation": "",
-      "rating": 4.89,
+      "rating": 0.0,
       "release_date": "07.08.2026",
       "is_preorder": false,
       "is_new": true,
@@ -39617,11 +39557,11 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202607/1609/268b8fd2913026b2374e0a66e9cdb83ad0d943471a892ca0.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/product/EP4389-PPSA23372_00-REANIMALDLC00001",
-      "description": "REANIMAL: The Prisoner – новый DLC от Tarsier Studios, где страх становится ещё жёстче.  \n\nТы впервые зашёл в неизведанные локации - погружаешься в атмосферу, где война уже не просто прошла, она превратилась в угрозу.  \n\nСолдатка и Узница – новые персонажи, новые страхи. Ничего лишнего, только тонкий настрой и реальная пугающая сила.  \n\nМинималистичный стиль - не для любителей шумных сцен. Для тех, кто ценит глубину и мрачную атмосферу.",
-      "seo_title": "REANIMAL: The Prisoner PS5 аренда игры",
-      "seo_descr": "Аренда REANIMAL: The Prisoner PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-10-21T19:20:27Z"
+      "description": "Новое дополнение к REANIMAL - The Prisoner. От Tarsier Studios, тех, кто умеет делать ужасы по-настоящему.  \n\nСолдатка и Узница - два новых персонажа, которые не просто выживают в разрушенных городах, а сталкиваются с чем-то… похуже войны.  \n\nТеперь можно пешком или на машине - исследовать незнакомые уголки мира REANIMAL и увидеть, как уже пройденные места могут быть совсем не такими, как казалось.  \n\nЖуткая атмосфера, минималистичный сюжет и что-то извивающееся за кадром - всё это в одном. И да, вы можете бояться вместе - благодаря Friend's Pass.",
+      "seo_title": "REANIMAL: The Prisoner на PS5 аренда игры",
+      "seo_descr": "Аренда REANIMAL: The Prisoner на PS5. Tarsier Studios представляет новую главу полной ужаса хоррор-адвенчуры REANIMAL: DLC с двумя новыми персонажами, Солдаткой и Узницей. Быстрый доступ после оплаты.",
+      "external_id": "LfcXtso8mJHZ3-rvCGwf",
+      "catalog_added_at": "2026-10-28T06:27:27Z"
     },
     {
       "id": "yellowcreek-stories-the-cabin-watcher",
