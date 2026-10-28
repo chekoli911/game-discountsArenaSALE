@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-28T19:23:51Z",
-  "generated_at": "2026-10-28T19:33:56Z",
-  "count": 11312,
+  "catalog_id": "2026-10-28T19:54:17Z",
+  "generated_at": "2026-10-28T19:59:14Z",
+  "count": 11314,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -1839,6 +1839,140 @@
       "seo_descr": "Аренда Forza Horizon 6 Premium Add-Ons Bundle PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-20T13:05:04Z"
+    },
+    {
+      "id": "titan-quest-ii",
+      "slug": "titan-quest-ii",
+      "sku": "rent-titan-quest-ii",
+      "title": "Titan Quest II PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "Ролевая игра",
+      "categories": [],
+      "publisher": "THQ NORDIC GMBH",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "15.01.2027",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/8b2be4e05cfe52c2e8035faf27b918cb9af8c89387c495ab.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/a2a97f86b748097eca78167a3c3e96c68a6103fa91775f95.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/62774f59b0afd4b97958eba3ed1b031b2d46fb725869052b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/7aa1330093bfd193f17c9fe81dab9775643098d511d7c01a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/402739860aeff288c5908d7f719476ca3a9b8e2ecbfe7aca.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/59262dd76bdfbb9b875fc3f1a19495999846495ed716d128.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/2a6e692a40765886f4481f0e38f7c8b1cc4ff2c4cea36282.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/EP4389-PPSA18023_00-TITANQUEST02GAME",
+      "description": "Возвращайтесь в мир Titan Quest - где древняя Греция живёт, а мифы становятся реальностью.  \n\nСражайтесь с кентаврами, грифонами и циклопами, проникая в таинственные леса, проклятое болото и горные пики, где каждый камень - часть загадки.  \n\nКампания создана вручную: у каждой статуи - история, у каждого города - интрига. Секреты раскрываются неожиданно - от артефактов до разговоров с местными жителями.  \n\nВы - герой. Ваш путь - непредсказуемый. Умения растут, оружие становится грозным, но враги - далеко не беззащитны. Уклоняйтесь, парируйте и обрушивайте удары, когда будет время.",
+      "seo_title": "Titan Quest II PS5 аренда игры",
+      "seo_descr": "Аренда Titan Quest II PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-28T19:53:36Z"
+    },
+    {
+      "id": "titan-quest-ii-ultimate-edition",
+      "slug": "titan-quest-ii-ultimate-edition",
+      "sku": "rent-titan-quest-ii-ultimate-edition",
+      "title": "Titan Quest II - Ultimate Edition PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "Ролевая игра",
+      "categories": [],
+      "publisher": "THQ NORDIC GMBH",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "15.01.2027",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0909/94db7c12cc652f01f3122d8201aa95971959031f8f6e1098.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/2a6e692a40765886f4481f0e38f7c8b1cc4ff2c4cea36282.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/59262dd76bdfbb9b875fc3f1a19495999846495ed716d128.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/402739860aeff288c5908d7f719476ca3a9b8e2ecbfe7aca.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/7aa1330093bfd193f17c9fe81dab9775643098d511d7c01a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/62774f59b0afd4b97958eba3ed1b031b2d46fb725869052b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/0412/a2a97f86b748097eca78167a3c3e96c68a6103fa91775f95.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/EP4389-PPSA18023_00-TITANQUEST02ULTI",
+      "description": "Вернитесь в мир Titan Quest - античная Греция, где боги живут, а чудовища ждут своего часа.  \n\nГодится для настоящих героев: сражайтесь с грифонами, кентаврами и циклопами, разгадывайте тайны руин, ведите разговоры с жителями и находитесь под землёй - где каждый камень скрывает секрет.  \n\nВаш путь - это не просто бой. Это исследование мира, его магии и загадок. Умения растут, оружие становится сильнее, а враги - умнее.  \n\nПовторное прохождение - не шутка: каждое решение влияет на мир вокруг.",
+      "seo_title": "Titan Quest II - Ultimate Edition PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Titan Quest II - Ultimate Edition PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-28T19:54:01Z"
     },
     {
       "id": "stage-tour",
