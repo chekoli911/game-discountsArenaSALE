@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-28T13:55:01Z",
-  "generated_at": "2026-10-28T14:00:10Z",
-  "count": 11310,
+  "catalog_id": "2026-10-28T14:54:48Z",
+  "generated_at": "2026-10-28T15:38:42Z",
+  "count": 11309,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -17987,42 +17987,48 @@
       "platform": "PS4 и PS5",
       "prices": {
         "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
+          "1": 390,
+          "7": 490,
+          "14": 890,
+          "21": 1190,
+          "28": 1290,
+          "56": 2322
         },
         "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
+          "1": 490,
+          "7": 590,
+          "14": 990,
+          "21": 1190,
+          "28": 1290,
+          "56": 2322
         }
       },
       "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
+        "1": 390,
+        "7": 490,
+        "14": 890,
+        "21": 1190,
+        "28": 1290,
+        "56": 2322
       },
       "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
+        "1": 490,
+        "7": 590,
+        "14": 990,
+        "21": 1190,
+        "28": 1290,
+        "56": 2322
       },
-      "price_min": 697,
+      "price_min": 390,
       "lang_label": "На русском языке!",
       "genre": "Ролевая игра",
-      "categories": [],
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Приключения",
+        "РПГ"
+      ],
       "publisher": "THQ NORDIC GMBH",
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
@@ -18038,11 +18044,11 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202606/1810/3cdc0c0ff68307142be3213d91405393b941f415bce04cd1.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/concept/10010693",
-      "description": "Готический мир снова в движении.  \nВ Gothic II ты возвращаешься в погружённую в мистику и борьбу за выживание архитектуру эпохи - с тонким драматизмом, чёрными тенями и живыми персонажами.  \n\nКлассика, но не устарела - теперь на PS4/PS5 в одном пакете.  \nТы сам выбираешь путь: бороться, убежать или просто построить своё небо из руин и магии.  \n\nИгра как в старом фильме с дыханием прошлого - но с мощным движком и живой атмосферой.  \nДля тех, кто любит глубокие мира и нестандартные правила.",
-      "seo_title": "Gothic II Complete Classic PS4/PS5 аренда игры",
-      "seo_descr": "Аренда Gothic II Complete Classic PS4/PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-09-29T18:47:04Z"
+      "description": "Гошт II - не просто продолжение, а полноценный захватывающий фантастический шедевр.  \n\nТеперь в одном издании - сама игра и дополнение Night of the Raven. Всё как в оригинале: магия, бандиты, узники Долины рудников и город, который с каждым днём падает под давлением хаоса.  \n\nВыбирай фракцию - каждый путь имеет своих врагов и союзников, а также свой уникальный набор навыков, которые можно развивать до предела. Более 100 заданий, сотни персонажей, тысячи вариантов решения - всё это даёт не просто прохождение, а настоящий квест в реальном времени.  \n\nКаждый раз ты будешь чувствовать, как мир живёт - с битвой на улице до тайных встреч под звёздами.",
+      "seo_title": "Gothic II Complete Classic на PS4 и PS5 аренда игры",
+      "seo_descr": "Аренда Gothic II Complete Classic на PS4 и PS5. В издании Gothic II Complete Classic игра Gothic II и дополнение Night of the Raven впервые объединяются на консоли. Быстрый доступ после оплаты.",
+      "external_id": "U1qQEdNjd1dxgLoxcNJE",
+      "catalog_added_at": "2026-10-28T15:38:40Z"
     },
     {
       "id": "axis-football-2027",
@@ -27262,75 +27268,6 @@
       "seo_descr": "Аренда Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-09-09T17:31:41Z"
-    },
-    {
-      "id": "hot-wheelstm-infinite-rush",
-      "slug": "hot-wheelstm-infinite-rush",
-      "sku": "rent-hot-wheelstm-infinite-rush",
-      "title": "HOT WHEELSTM Infinite Rush PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "Английский",
-      "genre": "Гонки, Аркада",
-      "categories": [],
-      "publisher": "MILESTONE SRL",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "rating": 4.84,
-      "release_date": "09.09.2026",
-      "is_preorder": false,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2509/b304ac4fea73474605efb22161edd7943565533ec3dab802.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/5696d479f7fe63874bb92b5973f6edc351a8614e4b48f597.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/c9ba33bdaf3357251ea89cb427bf32c820e47ff55cbd099a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/7e91e4da26d1cd34754a1de19369152427ac8b53265ef4b4.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/0fb54debdd77b3417e6a959a399e41271e37c466ef81a94a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/83f73fa803095e41700c6a6d8a788c7d05dac8e5578df968.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/51308af1a6d19facbac3a52c6f20db9d281878fbc7295d91.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/7a0e20851f73757dc38dbca838e4b5035614b1ee52d423d5.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/7184a4423ef4de40881eb5d6c77c3ac3adda68db07af4e7b.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10010731",
-      "description": "Вырвитесь за пределы оранжевого трека - теперь вы на всём острове!  \n\nЧетыре острова, каждый со своей атмосферой и вызовами - от лужайки до бурлений диких гор.  \n\nСносите препятствия, открывайте секреты и соревнуйтесь с главными чемпионами каждого острова.  \n\nЭпичные приключения начинаются - в каждом повороте есть что-то новое. 🏁",
-      "seo_title": "HOT WHEELSTM Infinite Rush PS5 аренда игры",
-      "seo_descr": "Аренда HOT WHEELSTM Infinite Rush PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-10-28T13:54:52Z"
     },
     {
       "id": "hazard-pay",
