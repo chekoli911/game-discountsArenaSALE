@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-29T04:43:15Z",
-  "generated_at": "2026-10-29T05:21:28Z",
-  "count": 11324,
+  "catalog_id": "2026-10-29T08:17:28Z",
+  "generated_at": "2026-10-29T08:22:24Z",
+  "count": 11327,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3381,8 +3381,8 @@
       "text_translation": "Английский",
       "rating": 5.0,
       "release_date": "29.10.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1123/ca2c1597ae386e92c11608c6956bc5ca503931bba1d9920e.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202610/1415/f20819ba7d35d3b8a437bf1ec822bbf955d529975364d79d.jpg",
@@ -3395,6 +3395,75 @@
       "seo_descr": "Аренда Train Merge Tycoon PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-29T02:15:59Z"
+    },
+    {
+      "id": "titanium-court",
+      "slug": "titanium-court",
+      "sku": "rent-titanium-court",
+      "title": "Titanium Court PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Стратегия",
+      "categories": [],
+      "publisher": "SURPRISE ATTACK PTY LTD",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0801/ba3b6e520700d20869e4ad54dce9bde8805e6e683a790b9e.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0801/933f0e5354bfa3911d5f1e5d24da54f0494bd9e5a31eaf97.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0801/f7ba0d9e77d8dcc7af73f6d9579f3db88abebed2844434ac.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0801/5a534bf0c2604cf776824476f5c971deffba91cd0f26cb7f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0801/64235469e8f14bdd993f6358e87143e1333f6c948db07ec9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0801/da69d3e90110216b6a320b93f95930b9cb50f97e1f609296.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0801/4abeff84511871815ace52c0aa1991dd0b6de9b0e697e84a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0801/85e589fceeb0b5a8fb70a7f3be2a36752880efe46f16349a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0801/36f78226b83b70c3980a126ecd4e9658f568cc5f0146ae55.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020159",
+      "description": "Титановый корт - настоящий бой в 3D. Ощущение реального баскетбола, где каждый мяч - как удар по ритму.  \n\nЛёгкий стиль, динамичные финалы и неожиданные повороты. Повседневная атмосфера с кайфом от каждого штурма.  \n\nСкачок в реальность - ты будешь чувствовать себя на корте. Даже если просто смотришь, это будет звучать как настоящее.",
+      "seo_title": "Titanium Court PS5 аренда игры",
+      "seo_descr": "Аренда Titanium Court PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-29T07:43:52Z"
     },
     {
       "id": "suri-the-seventh-note",
@@ -3445,8 +3514,8 @@
       "text_translation": "",
       "rating": 0.0,
       "release_date": "29.10.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1409/8a8a29b9ad103c8c6c02d2dbc30e561bb0c9f5feb2792040.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202605/1410/b445b413c4b15ab00880a8b9428a46d5e092c64be7a2a7f6.jpg",
@@ -3510,8 +3579,8 @@
       "text_translation": "",
       "rating": 0.0,
       "release_date": "29.10.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2810/8ea15bce1b7336894aa364867c03a3ea32ecd2f1455a4333.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202608/1021/7eba396efc645719f9a3dce12b49958aebab179d73ca699c.jpg",
@@ -3570,20 +3639,13 @@
       "price_min": 1497,
       "lang_label": "",
       "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "РПГ",
-        "Боевики"
-      ],
+      "categories": [],
       "publisher": "S-GAME Publishing",
       "voice": "",
       "text_translation": "",
       "rating": 0.0,
       "release_date": "29.10.2026",
-      "is_preorder": true,
+      "is_preorder": false,
       "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2809/0eb304f7e688453c5f242b77cafdc0843e2f2dadc9364add.png",
       "screenshots": [
@@ -3597,10 +3659,10 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202512/1416/011f08e66b4b506f77eb1dcebe50a80ccef09b97b6c263ff.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/product/UB2134-PPSA34579_00-0679049422108833",
-      "description": "Phantom Blade Zero - ужасная битва между судьбой и решимостью.  \n\nТы - Соул, воин с 66 днями до конца. Каждый ход - выбор: жить или погибнуть ради истины.  \n\nUnreal Engine 5 в деле: яркие эффекты, живая атмосфера, настоящий экшен без фантастических упрощений.  \n\nГотовы бороться за мир - даже если это означает смерть? 🥷",
-      "seo_title": "Phantom Blade Zero Digital Deluxe Edition на PS5 аренда игры",
-      "seo_descr": "Аренда Phantom Blade Zero Digital Deluxe Edition на PS5. S-GAME представляет Phantom Blade Zero — созданное на Unreal Engine 5 сочетание классического повествования в жанре уся и захватывающего экшена. Быстрый доступ после оплаты.",
-      "external_id": "lWiSdwyg8hEDYkLGEWIN",
+      "description": "Предзаказ на Phantom Blade Zero Digital Deluxe Edition - уже в движении! 🚀  \n\nДля тех, кто хочет быть первым - доступ к новому аксессуару: «Чаша сокровищ», которая повышает шанс найти «Пыль остатков» на 10%.  \n\nТакже вы получите эксклюзивный внешний вид - «Наследие» - и в процессе игры сможете разблокировать ещё два стиля: «Легенда Улинь» и «Форма Кровавой стали».  \n\nСделайте шаг вперёд - и получите всё это раньше других.",
+      "seo_title": "Phantom Blade Zero Digital Deluxe Edition PS5 аренда игры",
+      "seo_descr": "Аренда Phantom Blade Zero Digital Deluxe Edition PS5 на PlayStation.",
+      "external_id": "",
       "catalog_added_at": "2026-10-29T05:21:25Z"
     },
     {
@@ -3652,8 +3714,8 @@
       "text_translation": "Русский, Английский",
       "rating": 3.0,
       "release_date": "29.10.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1410/c70973df5e5061ddbfc1de2c7741c6b05ee0e2a8d24e8e40.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202610/2615/179f5fee6bc59a6fc6b149125555460be13eff75674948dc.jpg",
@@ -3718,8 +3780,8 @@
       "text_translation": "",
       "rating": 0.0,
       "release_date": "29.10.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202411/1916/811f15bab7c1241cd2c5973839d3e927805fa2b40ce2283b.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202608/2614/ea337d10f3de11eb2d0ca8ce8242243b0dc0c6f7847e55ea.jpg",
@@ -3787,8 +3849,8 @@
       "text_translation": "",
       "rating": 0.0,
       "release_date": "29.10.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2609/db5b5491b37ee9657b51393675a2e4de2ebcaf7694e3c461.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202608/2614/ea337d10f3de11eb2d0ca8ce8242243b0dc0c6f7847e55ea.jpg",
@@ -3806,6 +3868,72 @@
       "seo_descr": "Аренда Hunting Simulator 3 - Apex Predator Edition PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-09-18T11:14:21Z"
+    },
+    {
+      "id": "hatsune-miku-connecting-puzzle-tamagotori-deluxe",
+      "slug": "hatsune-miku-connecting-puzzle-tamagotori-deluxe",
+      "sku": "rent-hatsune-miku-connecting-puzzle-tamagotori-deluxe",
+      "title": "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Головоломка",
+      "categories": [],
+      "publisher": "KOMODO HAWAII LLC",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1507/454cb3d37d39dbc1f9e71038eb34dadbcb46baa2765a93fb.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1507/16d8f0f4dd2740b67f547d3015f8f909ae775f6388cbc729.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1507/4b98ff4c6d7f92c223ddf2f6c6a2cf75fbbc3fdfc2c5effa.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1507/df89ce1861544f92a0c59b9ad6d72a5e8aec0f3560d8b0bd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1507/4b98f1e5e72e0f077ae86b80a5330d9f35b1bd09089fcba0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1507/8fe43cf7b483931e5fd7599ae5117eac2d6e90f662b464f4.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019975",
+      "description": "Милые куклы, яркие цвета, мю-мю в фоне - Hatsune Miku ждёт тебя в Tamagotiri Deluxe.  \n\nПазл из 3D-объектов и анимированных элементов, где каждый ход приближает к мечтам.  \n\nГотовы превратить лёгкий процесс в полноценный ритм? Включай музыку - и начинай соединять! 🎵✨",
+      "seo_title": "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-29T07:43:52Z"
     },
     {
       "id": "whispers-within-halloween-terror",
@@ -28352,6 +28480,75 @@
       "seo_descr": "Аренда Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-09-09T17:31:41Z"
+    },
+    {
+      "id": "hot-wheelstm-infinite-rush",
+      "slug": "hot-wheelstm-infinite-rush",
+      "sku": "rent-hot-wheelstm-infinite-rush",
+      "title": "HOT WHEELSTM Infinite Rush PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Гонки, Аркада",
+      "categories": [],
+      "publisher": "MILESTONE SRL",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.84,
+      "release_date": "09.09.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2509/b304ac4fea73474605efb22161edd7943565533ec3dab802.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/5696d479f7fe63874bb92b5973f6edc351a8614e4b48f597.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/c9ba33bdaf3357251ea89cb427bf32c820e47ff55cbd099a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/7e91e4da26d1cd34754a1de19369152427ac8b53265ef4b4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/0fb54debdd77b3417e6a959a399e41271e37c466ef81a94a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/83f73fa803095e41700c6a6d8a788c7d05dac8e5578df968.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/51308af1a6d19facbac3a52c6f20db9d281878fbc7295d91.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/7a0e20851f73757dc38dbca838e4b5035614b1ee52d423d5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/7184a4423ef4de40881eb5d6c77c3ac3adda68db07af4e7b.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10010731",
+      "description": "Вырвитесь за пределы оранжевого трека - теперь вы на всём острове!  \n\nЧетыре острова, каждый со своей атмосферой и вызовами - от лужайки до бурлений диких гор.  \n\nСносите препятствия, открывайте секреты и соревнуйтесь с главными чемпионами каждого острова.  \n\nЭпичные приключения начинаются - в каждом повороте есть что-то новое. 🏁",
+      "seo_title": "HOT WHEELSTM Infinite Rush PS5 аренда игры",
+      "seo_descr": "Аренда HOT WHEELSTM Infinite Rush PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-29T08:17:12Z"
     },
     {
       "id": "hazard-pay",
