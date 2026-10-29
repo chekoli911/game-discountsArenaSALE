@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-29T02:14:07Z",
-  "generated_at": "2026-10-29T02:16:07Z",
-  "count": 11326,
+  "catalog_id": "2026-10-29T04:43:15Z",
+  "generated_at": "2026-10-29T05:21:28Z",
+  "count": 11324,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3535,49 +3535,56 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
+          "1": 1497,
+          "7": 1739,
+          "14": 1927,
+          "21": 2244,
+          "28": 2678,
+          "56": 4820
         },
         "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
+          "1": 1597,
+          "7": 1892,
+          "14": 2092,
+          "21": 2328,
+          "28": 2793,
+          "56": 5027
         }
       },
       "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
+        "1": 1497,
+        "7": 1739,
+        "14": 1927,
+        "21": 2244,
+        "28": 2678,
+        "56": 4820
       },
       "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
+        "1": 1597,
+        "7": 1892,
+        "14": 2092,
+        "21": 2328,
+        "28": 2793,
+        "56": 5027
       },
-      "price_min": 697,
+      "price_min": 1497,
       "lang_label": "",
       "genre": "Экшен",
-      "categories": [],
+      "categories": [
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Приключения",
+        "РПГ",
+        "Боевики"
+      ],
       "publisher": "S-GAME Publishing",
       "voice": "",
       "text_translation": "",
       "rating": 0.0,
       "release_date": "29.10.2026",
       "is_preorder": true,
-      "is_new": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2809/0eb304f7e688453c5f242b77cafdc0843e2f2dadc9364add.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202512/1416/e9320163ce91523840881aeaf99be45b343e7a0dc57677d4.jpg",
@@ -3590,11 +3597,11 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202512/1416/011f08e66b4b506f77eb1dcebe50a80ccef09b97b6c263ff.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/product/UB2134-PPSA34579_00-0679049422108833",
-      "description": "Предзаказ на Phantom Blade Zero Digital Deluxe Edition - уже в движении! 🚀  \n\nДля тех, кто хочет быть первым - доступ к новому аксессуару: «Чаша сокровищ», которая повышает шанс найти «Пыль остатков» на 10%.  \n\nТакже вы получите эксклюзивный внешний вид - «Наследие» - и в процессе игры сможете разблокировать ещё два стиля: «Легенда Улинь» и «Форма Кровавой стали».  \n\nСделайте шаг вперёд - и получите всё это раньше других.",
-      "seo_title": "Phantom Blade Zero Digital Deluxe Edition PS5 аренда игры",
-      "seo_descr": "Аренда Phantom Blade Zero Digital Deluxe Edition PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:18Z"
+      "description": "Phantom Blade Zero - ужасная битва между судьбой и решимостью.  \n\nТы - Соул, воин с 66 днями до конца. Каждый ход - выбор: жить или погибнуть ради истины.  \n\nUnreal Engine 5 в деле: яркие эффекты, живая атмосфера, настоящий экшен без фантастических упрощений.  \n\nГотовы бороться за мир - даже если это означает смерть? 🥷",
+      "seo_title": "Phantom Blade Zero Digital Deluxe Edition на PS5 аренда игры",
+      "seo_descr": "Аренда Phantom Blade Zero Digital Deluxe Edition на PS5. S-GAME представляет Phantom Blade Zero — созданное на Unreal Engine 5 сочетание классического повествования в жанре уся и захватывающего экшена. Быстрый доступ после оплаты.",
+      "external_id": "lWiSdwyg8hEDYkLGEWIN",
+      "catalog_added_at": "2026-10-29T05:21:25Z"
     },
     {
       "id": "needle-in-a-haystack",
@@ -28347,75 +28354,6 @@
       "catalog_added_at": "2026-09-09T17:31:41Z"
     },
     {
-      "id": "hot-wheelstm-infinite-rush",
-      "slug": "hot-wheelstm-infinite-rush",
-      "sku": "rent-hot-wheelstm-infinite-rush",
-      "title": "HOT WHEELSTM Infinite Rush PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "Английский",
-      "genre": "Гонки, Аркада",
-      "categories": [],
-      "publisher": "MILESTONE SRL",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "rating": 4.84,
-      "release_date": "09.09.2026",
-      "is_preorder": false,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2509/b304ac4fea73474605efb22161edd7943565533ec3dab802.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/5696d479f7fe63874bb92b5973f6edc351a8614e4b48f597.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/c9ba33bdaf3357251ea89cb427bf32c820e47ff55cbd099a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/7e91e4da26d1cd34754a1de19369152427ac8b53265ef4b4.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/0fb54debdd77b3417e6a959a399e41271e37c466ef81a94a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/83f73fa803095e41700c6a6d8a788c7d05dac8e5578df968.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/51308af1a6d19facbac3a52c6f20db9d281878fbc7295d91.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/7a0e20851f73757dc38dbca838e4b5035614b1ee52d423d5.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2614/7184a4423ef4de40881eb5d6c77c3ac3adda68db07af4e7b.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10010731",
-      "description": "Вырвитесь за пределы оранжевого трека - теперь вы на всём острове!  \n\nЧетыре острова, каждый со своей атмосферой и вызовами - от лужайки до бурлений диких гор.  \n\nСносите препятствия, открывайте секреты и соревнуйтесь с главными чемпионами каждого острова.  \n\nЭпичные приключения начинаются - в каждом повороте есть что-то новое. 🏁",
-      "seo_title": "HOT WHEELSTM Infinite Rush PS5 аренда игры",
-      "seo_descr": "Аренда HOT WHEELSTM Infinite Rush PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-10-29T02:15:59Z"
-    },
-    {
       "id": "hazard-pay",
       "slug": "hazard-pay",
       "sku": "rent-hazard-pay",
@@ -30316,72 +30254,6 @@
       "seo_descr": "Аренда Fear The Timeloop PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-09-10T11:41:13Z"
-    },
-    {
-      "id": "dream-cage",
-      "slug": "dream-cage",
-      "sku": "rent-dream-cage",
-      "title": "Dream Cage PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Хоррор, Хоррор",
-      "categories": [],
-      "publisher": "JANDUSOFT S.L.",
-      "voice": "",
-      "text_translation": "Русский, Английский",
-      "rating": 5.0,
-      "release_date": "04.09.2026",
-      "is_preorder": false,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0509/a1efd30b3fc6b866e02410b20070e49702cf9ec15b412157.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0510/ec1de3dc8cd93cd117a2083e2b3efa113e613e3173e66edc.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0510/56f7d2bf2891d95484fa93bfc9729cc4e793b41ce1d0b37a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0510/135e3215fe974f699ef3c808a1f188439551a1db416df447.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0510/5fdd1abf68073667250ebf49d339f19778ad1d36756c76c1.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0510/eb35d71cd8a5854e6624cacf92e418b36759a12cde9e1457.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10019989",
-      "description": "Сонный паралич стал основой для этой игры - и не просто так. Мы спрашивали людей, кто пережил его, и слышали, как в темноте всё становится иным.  \n\nВсё это превратилось в реальность: пять ночей подряд - каждая из них с кем-то, что не просто появляется, а всё нарушает.  \n\nСущества здесь не случайны - они созданы, чтобы бросить вызов. И не дать уснуть. 🌙",
-      "seo_title": "Dream Cage PS5 аренда игры",
-      "seo_descr": "Аренда Dream Cage PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-09-04T01:19:35Z"
     },
     {
       "id": "dice-a-million",
