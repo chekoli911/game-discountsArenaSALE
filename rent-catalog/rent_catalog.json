@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-30T07:15:16Z",
-  "generated_at": "2026-10-30T07:18:27Z",
-  "count": 11341,
+  "catalog_id": "2026-10-30T07:35:42Z",
+  "generated_at": "2026-10-30T07:38:22Z",
+  "count": 11357,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3333,6 +3333,72 @@
       "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
+      "id": "pictaku-halloween",
+      "slug": "pictaku-halloween",
+      "sku": "rent-pictaku-halloween",
+      "title": "Pictaku: Halloween PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Головоломка, Казуальная",
+      "categories": [],
+      "publisher": "JetDogs Oy",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "30.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1507/96b9dd02f4c1858ecdfbd8f7da0e6747f82817b3519b3e38.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1207/ae2698fdee9c2e64c61f8d5c805dab75959e8427950fd598.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1207/2a72bc08abc790576beb1b3d2ca414af938fb61c9bfe395d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1207/4fbf3d99b3d7aa53b436c84c5e551948fef334ad7fa5544c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1207/c502b9ff847d30d674d172e12a548c32d826fa3c51f27cc0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1207/b384f721e2336476cc29001dfe744b13de17d660ef727c81.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021033",
+      "description": "👻 Устраивает ли вас крик-сцена?  \nВ Pictaku: Halloween вы не просто смотрите - вы участвуете в ночном шоу.  \n\nКаждый экран - это гейм-пейзаж, где морозные лужи, свистящие тени и крики из подземелья становятся частью атмосферы.  \n\nНастоящий фестиваль ужасов в формате «всё наоборот» - как будто вы сами стали частью пиктага.",
+      "seo_title": "Pictaku: Halloween PS5 аренда игры",
+      "seo_descr": "Аренда Pictaku: Halloween PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:35:22Z"
+    },
+    {
       "id": "white-box-quiz",
       "slug": "white-box-quiz",
       "sku": "rent-white-box-quiz",
@@ -3400,6 +3466,142 @@
       "seo_descr": "Аренда White Box Quiz PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-29T16:00:11Z"
+    },
+    {
+      "id": "ultimate-wobble-run",
+      "slug": "ultimate-wobble-run",
+      "sku": "rent-ultimate-wobble-run",
+      "title": "Ultimate Wobble Run PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Аркада, Симулятор, Party",
+      "categories": [],
+      "publisher": "LUCKY RACCOON GAMES DESENVOLVIMENTO DE JOGOS ELETRONICOS LTDA",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2112/5563a256b7e5a460507813e3048b9d98db9d228513741b7e.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2112/45edb5cb58b6c747720cd329d5bf00dae7b46956526ef00f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2112/199efebefc7f34e390f28846c632338f2ff0e4000192ee00.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2112/afdff37c48a7a8c27bfc401951ee4c942e835d3c348b9079.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2112/954173b93cfe7447a80bc8c102259bd7d4c55fb6a402adc7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2112/833703fd35c7086137b908d5d12ab84f4f805706f363b4ea.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2112/2a5d61f1133dcb825dcde8b429ca041784119d9cd882a043.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020665",
+      "description": "Угадай, как держать баланс на мостах, которые криво ведут вниз?  \n\nПрыгай по трассе, где каждый шаг - это риск. Никаких штрафов, только гравитация и смелость.  \n\nСамая тревожная, самая динамичная игра на PS5 - с уклоном в кривые и падения.  \n\nТы уже готов? Взяться за руль - и не отпускать. 🚀",
+      "seo_title": "Ultimate Wobble Run PS5 аренда игры",
+      "seo_descr": "Аренда Ultimate Wobble Run PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:34:53Z"
+    },
+    {
+      "id": "train-yard-builder",
+      "slug": "train-yard-builder",
+      "sku": "rent-train-yard-builder",
+      "title": "Train Yard Builder PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Simulator, Казуальная",
+      "categories": [],
+      "publisher": "ULTIMATE GAMES",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.0,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/3014/98e0a04f029ae3cb944bbffc144ea60adf28c38b139db3df.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2208/366463d1eee7e0dcf46999d34f7f608d76d2d4ba1287647d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2208/86be24e171a30179fd8d9dee136b61597b8800cd065ff62a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2208/071103c2448da2d0ff504b9276b356ebff8e149e5285bd27.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2208/889cda05ecca8a659f6590b42d46b9932e2e86467fe36c73.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2208/9a7a29fffcc07aed07e8d5f2e4c33ea8c291d0d690eef764.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2208/61cc2e0181a49d917243860481d98221579f78f91c797e68.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2208/d3425e0518b52cb7e800080af5378403525e8dfb2938a2e0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2208/aea85a44153209eeee0059fe3f93cfbbc07c7d4775496b16.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10017585",
+      "description": "Транспортная строительная хроника в одном клике.  \nСобери рельсы, построй станции, управляй поездами - всё это на PS5.  \n\nНе просто симулятор, а настоящая игра в управление логистикой.  \nМини-модели, динамичный рост и стратегия - каждое решение влияет на движение.  \n\nИграй как инженер, не теряя ни секунды.  \nТы - главный архитектор железных дорог. 💡🚂",
+      "seo_title": "Train Yard Builder PS5 аренда игры",
+      "seo_descr": "Аренда Train Yard Builder PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:34:42Z"
     },
     {
       "id": "train-merge-tycoon",
@@ -3739,6 +3941,211 @@
       "catalog_added_at": "2026-10-29T16:00:11Z"
     },
     {
+      "id": "the-cat-in-the-hat-rainy-day-mayhem",
+      "slug": "the-cat-in-the-hat-rainy-day-mayhem",
+      "sku": "rent-the-cat-in-the-hat-rainy-day-mayhem",
+      "title": "The Cat in the Hat: Rainy Day Mayhem PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Семейная, Party",
+      "categories": [],
+      "publisher": "Outright Games LLC",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1114/92a9161eb5369d2ff292efb6aaed6acd0a13f9ee0dbef57a.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0513/c9671d73605f52e7d0ffebc2901cb598112768b2f8114361.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0513/12b4e6338af58342140d49a48230d0d47e05acc035ed3810.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0513/729eb9086e250f1547cc0fd677d9bb03c8c59702236b32de.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0513/b8ce19355e8bafdaa69c624840665e384d58d8bf51504a8d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0513/53d1d3dac9b7f6823a8230fdd3f11c5f0b7d4f75b0e5ea44.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0912/e411adaa5c4f5addfa797cbb7b611e590a4b57b370b1e36d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0912/dca3d0a7b16d281855fee43d3c7bc6a4b7f89b895c186305.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0912/8a0e1a87e684af0ed7bb39262830928e68392b79f026fbfe.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10013983",
+      "description": "Надоело сидеть дома? Включи «The Cat in the Hat: Rainy Day Mayhem» - и вдруг на пороге появляется кот, который не просто играет, а буквально держит тебя под шаром!  \n\nТы - главный герой ужасающего дождя, где каждый сценарий - как весёлый бред, но в самый разумный момент.  \n\nКот с батончиками, мусорные коробки и гигантские штормовые шары - всё это на PS4/PS5. У тебя есть выбор: быть глупым или стать настоящим героем дождливого хаоса.  \n\nИгра для тех, кто хочет посмеяться, пока не замечает, как пропало время. 🎮☔",
+      "seo_title": "The Cat in the Hat: Rainy Day Mayhem PS4/PS5 аренда игры",
+      "seo_descr": "Аренда The Cat in the Hat: Rainy Day Mayhem PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:34:28Z"
+    },
+    {
+      "id": "the-abjuration-stand",
+      "slug": "the-abjuration-stand",
+      "sku": "rent-the-abjuration-stand",
+      "title": "The Abjuration Stand PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "Brainium Games LLC",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1419/97365e81b67ca4ebf80c378a2b26cbb24fd0b4687681432b.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2709/f42b5d20ecce5c01404f8b92cf8b3dcdd160210ae782626e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2709/5efd3262cb7f43ac4dc39b10f1e39238ff2361f46a4ad527.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2709/485d6fa680f744790b08b637e4ca05c33744adb9d355e6b0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2709/67bf89623cdf83054dff3f5a1733d5a23927b7040635f84f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2709/6b02c9d8a297f13ad70f6f3b2b5dcc70338e6ce5482971a2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2709/4112da7a1a565568af824af9f4e22aefe6e09aa0adaba9d9.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021037",
+      "description": "Ты хочешь сражаться не с врагами, а с магией?  \nВ The Abjuration Stand ты создаёшь барьеры из чёрной магии - каждый выброс артефакта - это выбор между силой и ценой.  \n\nИгра на PS5 поднимает душу в атмосферу ужаса и непредсказуемости.  \nКаждый шаг - как шахматная партия с магией, где ты контролируешь своё пространство.  \n\nТы не просто выигрываешь битву - ты создаёшь враждебную реальность.  \nИгра для тех, кто любит драму, стратегию и что-то настоящее.",
+      "seo_title": "The Abjuration Stand PS5 аренда игры",
+      "seo_descr": "Аренда The Abjuration Stand PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:34:15Z"
+    },
+    {
+      "id": "terrible-lizards",
+      "slug": "terrible-lizards",
+      "sku": "rent-terrible-lizards",
+      "title": "Terrible Lizards PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Хоррор, Экшен",
+      "categories": [],
+      "publisher": "Digital Pajamas LLC",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.88,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0300/31ac1513ba548042778157b2667b83aeadfc3321e65cba6c.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2718/e48c769e45188da3eb89e68fcfab5fb39c3c4650eb100543.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1322/661206c61be7a5ab6831930becdaf4feac1f425ef219adab.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0300/dd85ad5d9354c85f66ae65a1483ac8e2ccba5b5851888578.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0300/e245914877a440ceab2ef9fd75c6cdb6accf38deaf186b21.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0300/a750204e08010ab07cc7a0065baaf28c96f23cd2c6e49ca5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0300/a677265a41525852adedae81b0ed4e0fb5d27425713b0516.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0300/ede6140dae68a21848091dee279e1c3d711d927d4b6c8870.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0300/ab3c0e3eb3ac7d420353066e966faf6529782351bdfb9ff6.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019203",
+      "description": "Терrible Lizards - не просто бой в лесах, а настоящий квест с диким животным-наркоманом и шумными прыжками по лужам.  \n\nГорячая атмосфера, жаркое солнце и звери, которые не любят покоя - всё это в твоих руках.  \n\nИгра на PS5 держит тебя в напряжении с первых минут: ты не просто бегаешь, ты выживает.  \n\nСамая харизматичная экш-игра под названием \"Крик львов\" - теперь доступна для аренды.",
+      "seo_title": "Terrible Lizards PS5 аренда игры",
+      "seo_descr": "Аренда Terrible Lizards PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:32:19Z"
+    },
+    {
       "id": "suri-the-seventh-note",
       "slug": "suri-the-seventh-note",
       "sku": "rent-suri-the-seventh-note",
@@ -3804,6 +4211,144 @@
       "catalog_added_at": "2026-10-20T13:18:13Z"
     },
     {
+      "id": "space-rock-breaker",
+      "slug": "space-rock-breaker",
+      "sku": "rent-space-rock-breaker",
+      "title": "Space Rock Breaker PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Аркада",
+      "categories": [],
+      "publisher": "Games Harbor LTD",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/3018/822ed5c390398ff26b4296a2b8a6a2847c57a60e96e603f9.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1115/d121821b2f3d6fea1fe8cbafa5a91181df33dd2093effebd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1115/7f357956073ad8650a784408f7882c06a7dcd1cf3ba3e8ec.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1115/4191881d5999cbceedb1f4b532b176e37ab8b9ebcce3cf89.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1115/85dfdec9416d230d3094cfbd6f3e0216f09a1e34a57a6557.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1115/67d60d21498ee1d2d7978455a9d1f8c1460d944252e6e984.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1115/3d1548640d68bc5128e552b6be9f14a8cecc9dfbdcfeff01.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1115/52a81b4ca18649a04c5cc89ee2905e88e48c10c1d39bb4d1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1115/4cc96c7a063caefb08ec5829292185cce2d976267e499158.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020243",
+      "description": "Гравитация, бешеные удары и космические бойцы - Space Rock Breaker возвращается с новым рывком!  \n\nТы ведёшь бой за контроль над гигантскими астероидами, перегоняя их на вражеские линии. Никаких сложных механик - только чистая, безумная фантастика.  \n\nПолный запуск на PS4 и PS5 - сильные контроли, динамичные бои и ощущение настоящего космического штурма.  \n\nИгра для тех, кто любит жёсткий ритм и не терпит лени.",
+      "seo_title": "Space Rock Breaker PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Space Rock Breaker PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:33:51Z"
+    },
+    {
+      "id": "sigi-a-fart-for-melusina",
+      "slug": "sigi-a-fart-for-melusina",
+      "sku": "rent-sigi-a-fart-for-melusina",
+      "title": "Sigi - A Fart for Melusina PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Аркада, Приключение, Экшен",
+      "categories": [],
+      "publisher": "Sometimes You",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 3.77,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2020/f75469916179580fef1f3e10577611cb4772e7c2a074f090.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/img/rnd/202108/1710/Z40rJ5xMLRInAc0yGsOCEnEc.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202108/1710/urqBW7DtHk8O1cXMT1Ygf5rA.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202108/1710/UUOvJJ2C4GhQr2MvmrTY0kXj.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202108/1710/RMqD8qibLDweByvg6rRGLhng.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202108/1710/kF2BFbgQPxWKJrrPSrzPRuED.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202108/1710/nuOyrRk0WcvltreQsDJ1AZEM.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202108/1710/QnAq6RjfpmYVZVRXyLH9jKJC.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202108/1710/M3fXlC8PKa00nx1f57c3A5Y8.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/232518",
+      "description": "Sigi – это не просто игра. Это смешной, душевный пикник в мире фартов и дружбы с Мелусиной.  \n\nПредставьте: вы - Sigi, а Мелусина - та самая неподконтрольная, но очаровательная личность, которую никто не может остановить.  \n\nФарти в игре - не просто эффект, это динамика, звук, атмосфера и чуть-чуть бардака по-настоящему живого.  \n\nПриятно смотреть на то, как два существа с неподобными приоритетами решают всё - включая молитвы и дыхание. 🎮💨",
+      "seo_title": "Sigi - A Fart for Melusina PS5 аренда игры",
+      "seo_descr": "Аренда Sigi - A Fart for Melusina PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:33:37Z"
+    },
+    {
       "id": "rv-there-yet",
       "slug": "rv-there-yet",
       "sku": "rent-rv-there-yet",
@@ -3844,13 +4389,13 @@
         "56": 3479
       },
       "price_min": 697,
-      "lang_label": "",
+      "lang_label": "На русском языке! (субтитры)",
       "genre": "Казуальная",
       "categories": [],
       "publisher": "Nuggets Entertainment AB",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.81,
       "release_date": "29.10.2026",
       "is_preorder": false,
       "is_new": true,
@@ -3871,6 +4416,72 @@
       "seo_descr": "Аренда RV There Yet? PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-29T21:03:49Z"
+    },
+    {
+      "id": "quite-my-tempo",
+      "slug": "quite-my-tempo",
+      "sku": "rent-quite-my-tempo",
+      "title": "Quite My Tempo PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Music/Rhythm, Фитнес, Казуальная",
+      "categories": [],
+      "publisher": "Marek Stoj trading as ImmSoft Marek Stoj",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2904/e2ba0cf2d7ba24b8cbb6d47f812297b060b22d718c0bcdba.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1008/80edfe4bbae2abe7ac8934fe232d124ccab3b8c2fd50f6bd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1008/cb193f380ece040deb94a41a4da53cf586684a18463e1d19.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1008/3726d2484d5d1be890046c71ec9d60defa922f6d2f8ff57a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1008/3e6fa3c559acd20ab8d963e0ae5cd46437b8aa155318f676.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1008/6d6b2da4d61a172638cc94ea33c03a4797a9f36facc110b8.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10016738",
+      "description": "На PS5 вы вдруг оказываетесь в мире, где каждый шаг - как ритм.  \n\nВсё вокруг движется с той же скоростью, что и ваше дыхание.  \n\nПопробуйте настроить свой темп - мир отвечает.  \n\nИгра не просто про время, она учит вас слушать его.",
+      "seo_title": "Quite My Tempo PS5 аренда игры",
+      "seo_descr": "Аренда Quite My Tempo PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:35:33Z"
     },
     {
       "id": "phantom-blade-zero",
@@ -4114,13 +4725,13 @@
         "56": 3479
       },
       "price_min": 697,
-      "lang_label": "",
+      "lang_label": "На русском языке! (субтитры)",
       "genre": "Хоррор",
       "categories": [],
       "publisher": "INPLERON LTD",
       "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
       "release_date": "29.10.2026",
       "is_preorder": false,
       "is_new": true,
@@ -4140,6 +4751,75 @@
       "seo_descr": "Аренда Mouthwashing PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-29T21:03:49Z"
+    },
+    {
+      "id": "mercenary-corps",
+      "slug": "mercenary-corps",
+      "sku": "rent-mercenary-corps",
+      "title": "Mercenary Corps PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Шутер",
+      "categories": [],
+      "publisher": "DANIEL WENGENROTH",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0207/85b79395f862e67a0f3de53fed925d25bdfda47280fc5c1e.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0207/530ac66ac1dd381fb566e9d47831540efa7ba74f24748089.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0207/896b603830a60727a22f8f21bc6bab5542d4332eae5280d3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0207/aef6a7cd377887c7a8cf6622e538be626bdee2f69647a98f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0207/6b55bcf1e5d8341ef67dde1dae36c671693d4b083e47598f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0207/57deac49dd253180560ddc4fc68ad222a3e3eb3611aeb3f1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0207/44f9dca487c35b38f0c2a24cf2af30b2a532b869687f9e5a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0207/7af317bd1446a5ec5a931568adb1059cf753abd9f325ba5b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0207/a195485fb9cd70087cb9ca4524ec5c6a82f4eb2e8cdc55cb.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020821",
+      "description": "Мерцантирийская корпорация - это не просто бой в фэнтези-стиле. Это динамичные схватки, стратегические команды и свобода выбора роля на поле боя.  \n\nТы выбираешь клиента, устраиваешь контракты, ведёшь подразделения - всё это живёт в реальном времени.  \n\nНастоящая атмосфера бойцовского мира с глубоким чувством к персонажам и динамичными миссиями.  \n\nИгра на PS5 - как включить режим выживания, но с более тонкими нюансами.",
+      "seo_title": "Mercenary Corps PS5 аренда игры",
+      "seo_descr": "Аренда Mercenary Corps PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:33:25Z"
     },
     {
       "id": "love-fall-in-death",
@@ -4182,13 +4862,13 @@
         "56": 3479
       },
       "price_min": 697,
-      "lang_label": "",
+      "lang_label": "На русском языке!",
       "genre": "Приключение, Казуальная",
       "categories": [],
       "publisher": "SNR INTERACTIVE OYUN FILM YAPIMCILIK A.S",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.0,
       "release_date": "29.10.2026",
       "is_preorder": false,
       "is_new": true,
@@ -4209,6 +4889,75 @@
       "seo_descr": "Аренда Love: Fall in Death PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-29T21:03:49Z"
+    },
+    {
+      "id": "love-love-mystery-club",
+      "slug": "love-love-mystery-club",
+      "sku": "rent-love-love-mystery-club",
+      "title": "Love Love Mystery Club PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Хоррор, Simulator",
+      "categories": [],
+      "publisher": "Dolores Entertainment S.L.",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0813/dba7e2ac19d44f13d7007653c193f85fa057c6581910393c.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0813/c698d4008e43126b230ea7c0eda38e65f80b20cc6769db06.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0813/808ebbb6a245e8f5daa620d3157ec5328af1d18e17f19454.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0813/985c7e1ef2f7d1f18130d47296c8728e9013bd5171da267d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0813/b95857c515d9a2992a9395a67610e7f0b7ecd33d7d7021c1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0813/35b7642cc2f9fc594f828514cdec03c34b88d58877b88f29.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0813/13c477a60b6626189eb84d409fd813c8d29ae451ba7ef8e2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0813/0fdf624b1e499afbd8aac412f920cf5df090aba163e2d84e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0813/048d3e0eaf3d4fa0909460b5e81b917982a059bde6b3cf3d.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019716",
+      "description": "Любовь. Мистика. Клуб.  \nВ Love Love Mystery Club ты ведёшь себя как главный герой - вдруг у тебя на руках появляется супер-любовная тайна, которую нужно раскрыть до конца.\n\nТы не просто играешь - ты участвуешь. Помнишь, как дышит мир, когда кто-то из твоих близких вдруг становится загадкой?\n\nСцены, шоки, тайны и эмоции - всё это на PS5.  \nИгра как в кино, но с личной историей.",
+      "seo_title": "Love Love Mystery Club PS5 аренда игры",
+      "seo_descr": "Аренда Love Love Mystery Club PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:33:13Z"
     },
     {
       "id": "hyperviolent",
@@ -4552,6 +5301,73 @@
       "catalog_added_at": "2026-10-29T07:43:52Z"
     },
     {
+      "id": "ex-master-zombie",
+      "slug": "ex-master-zombie",
+      "sku": "rent-ex-master-zombie",
+      "title": "Ex-Master, Zombie PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "Brainium Games LLC",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0712/3cc2cb187002ee62859150dabc99c849e602e119d0e5889c.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0712/3a88c1ec6ecfb717bf7bd7f3164259c23b93d9752ee70726.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0712/25d556bdd6788207dbed715f0b89f829af9def3027b1f00f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0712/d6f0aab4420bfba7d0184d310c505c36cd544d7503b03c43.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0712/a176377a8597b67ddd83871de81c0f27ca59468189d4da4f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0712/3de259d315ed64a164c71f77c48801b8911fbc6725dfa63a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0712/d7251a266196d9e557414d805f6598dad8b90cb1bba95759.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020960",
+      "description": "Зомби в твоей квартире.  \nСердце бьётся - а ты уже в лесу с ножом и пистолетом.  \n\nЭкшн на высоте: беги, строй, убивай - всё как в кино, только без перерывов.  \n\nPS5. Сильная, жёсткая, настоящая атмосфера зомби-апокалипсиса.  \nТы - главный герой. Иди туда, где нет выхода.",
+      "seo_title": "Ex-Master, Zombie PS5 аренда игры",
+      "seo_descr": "Аренда Ex-Master, Zombie PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:33:02Z"
+    },
+    {
       "id": "deadly-days-roadtrip",
       "slug": "deadly-days-roadtrip",
       "sku": "rent-deadly-days-roadtrip",
@@ -4759,6 +5575,141 @@
       "catalog_added_at": "2026-10-29T16:00:11Z"
     },
     {
+      "id": "choice-of-life-samosbor",
+      "slug": "choice-of-life-samosbor",
+      "sku": "rent-choice-of-life-samosbor",
+      "title": "Choice of Life: Samosbor PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "Sobaka Studio LLP",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2616/48c11468bbc74d304dd2bb695beef6a7d6d7d29ecd7fe41c.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2616/d0283cbd043de21571e2301d5949ac1f348eafa7a3264921.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2616/1f5d70036c28166454c9da308e2eedc7b46cabfcf6e28c13.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2616/3c8b0dbe440a1c2cfeb258df1a6b0861e3076093846715b9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2616/0a11de46b7b07f9396c15e99f0cab1799e67549abc82c3a2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2616/2f667a8b8cbec1b0db51a1fe966c73f4ff06710b68c81cde.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2616/9ca617d50548b0ded60bc76dcea5de735effb101c89bbc2c.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020365",
+      "description": "Выбираешь - живёшь.  \nВ Choice of Life: Samosbor ты впервые в жизни - или вновь - оказываешься на грани выбора.  \n\nКаждый шаг - это не просто сценарий, а реальная угроза и возможность.  \nТы сам решаешь, что останется - и как выжить.  \n\nСюжет сложен, но живой. Действия - тяжёлые, но честные. Игра не шутит. А ты - в центре событий.",
+      "seo_title": "Choice of Life: Samosbor PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Choice of Life: Samosbor PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:35:10Z"
+    },
+    {
+      "id": "choice-of-life-floors",
+      "slug": "choice-of-life-floors",
+      "sku": "rent-choice-of-life-floors",
+      "title": "Choice of Life: Floors PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "Sobaka Studio LLP",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2617/19042c6d80fc1b93d9c0c17de84fba0dd0ea204405da2d26.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2713/0dc452e618b9ff465ddf44ebda3d3f953d632aa26f51ef2d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2713/9b677076114bfab19d26da066d3b6b8bbebe7e2a3acc6a1a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2713/cc7859848ce9835b3ec1631679f85813c5bd90da13b9f690.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2713/5a012cf95f08c74e0855bfcf7070d8b12e0a600b4de4c708.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2713/487de3fa60df293ed077cd32bf69aa0b0541b37d0fc4aa42.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2713/37aee63332367834053bb0b3b48a2411e50ce65043228ea5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2713/4e26c0cf4c10e7b18033fd1e3dfe782b6c9977aa736f1610.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020596",
+      "description": "Выбираешь - живёшь.  \nСердце бьётся в ритме выбора: оставаться или уйти, жить или исчезнуть.  \n\nЖиви в мире, где каждый шаг - не просто действие, а решение.  \nПовседневные мелочи превращаются в кризисы. И ты - главный герой своей судьбы.  \n\nИгра на PS4 и PS5 - тонкий сюрреализм, где реальность рушится под ногами.  \nНе просто игра - как жизнь.",
+      "seo_title": "Choice of Life: Floors PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Choice of Life: Floors PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:32:51Z"
+    },
+    {
       "id": "candy-shop-simulator",
       "slug": "candy-shop-simulator",
       "sku": "rent-candy-shop-simulator",
@@ -4823,6 +5774,75 @@
       "seo_descr": "Аренда Candy Shop Simulator PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-29T21:03:49Z"
+    },
+    {
+      "id": "asylum",
+      "slug": "asylum",
+      "sku": "rent-asylum",
+      "title": "Asylum PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Хоррор, Приключение",
+      "categories": [],
+      "publisher": "SOEDESCO Publishing",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0712/1af26e273690d52fbeb39845a6eeb202e04c939acbc507bd.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0712/1723256ae6c70cf52aa700c745caed03cc3c1928c682ac68.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0712/0f0fbaa5c933ca8cc968191e2eddf51a0f06d9652c98bc2a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0712/830da44501085046e3d9fb12da045b0c7dbbc1e8390b42e6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0712/c6cd743fd7d1114ed42d0b20fdaf9b19259ac6457b6570b2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0712/062ccb3f05921fa43de5d8fdb8ee82543315a4620110bf74.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0712/f71216b7d29c7d13e49bdb5d54f664f06610e8d694178cb3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0712/0b9d67ac6ea3dc6c2301ce1170af9b90170b65eb61cfb088.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0712/1c8e4379154c70b876034ed57438a6429a8f32021abd2a53.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019427",
+      "description": "Ты хочешь играть в психбольницу?  \nВ Asylum ты оказываешься в кабинете врача с бредовыми пациентами, где каждый шаг - это выбор между логикой и харизмой.  \n\nИгра держит напряжение на высоте - тонкая линия между реальностью и делирием.  \nКаждый герой ведёт себя по-своему, а ты - главный психолог в этом хаосе.  \n\nСмотришь, как сценарий растягивается - неожиданные повороты, мрачные персонажи и дикий ритм.  \nТолько на PS5 - без подделок, только настоящая атмосфера.",
+      "seo_title": "Asylum PS5 аренда игры",
+      "seo_descr": "Аренда Asylum PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:32:38Z"
     },
     {
       "id": "an-eggcelent-sorting-game",
@@ -5021,6 +6041,75 @@
       "seo_descr": "Аренда SULFUR PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-28T13:18:21Z"
+    },
+    {
+      "id": "steins-gate-re-boot",
+      "slug": "steins-gate-re-boot",
+      "sku": "rent-steins-gate-re-boot",
+      "title": "STEINS;GATE RE:BOOT PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "Spike Chunsoft, Inc.",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 4.85,
+      "release_date": "28.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/3010/5c0e8aba2cd653c7b9a35e7b64b6983ea1150aefd0350005.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/2201/641908dadb20b6917bbb2f96de99f3db31debd03c3525266.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/2201/5ff768031ae5884c1a12656516da18e263e08a0c93caa8d5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/2201/e8678ff93caf942f1feaf27e408bc9ec155b0a7ddcfdfe9c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/2201/b8e72a65328f7208317e39363d9f183cfeef01070fe63336.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/2201/749b48c2fed43de20a6f9255e8cfa01c1b57ae50e8e63300.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/2201/26ee733b4284a82ad9f28ef6224ef71987b6e5320afdb1cd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1210/53d61664b8dcdf712c03fe50f6d61fbb07db496fe802e222.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1210/aae6773d51f14fc7d14ce554b068cad7781e60466d8313ee.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018909",
+      "description": "STEINS;GATE RE:BOOT на PS5 - это не просто продолжение, а настоящий бросок в будущее.  \n\nТы снова ведёшь разговор с машиной, но уже не в той вселенной, где всё было предсказано.  \n\nСюжет переплетается с личными потерями и непредсказуемыми последствиями - как всегда, это наука, которая рушит границы реальности.  \n\nГотовься к мрачным ударам и чудовищам, которые неожиданно появляются в твоей жизни.",
+      "seo_title": "STEINS;GATE RE:BOOT PS5 аренда игры",
+      "seo_descr": "Аренда STEINS;GATE RE:BOOT PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T07:34:03Z"
     },
     {
       "id": "sn-ultimate-freeriding",
