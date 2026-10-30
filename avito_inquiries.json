@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-30T09:37:09+03:00",
-  "updated_at_msk": "30.10.2026 09:37",
+  "updated_at": "2026-10-30T10:37:18+03:00",
+  "updated_at_msk": "30.10.2026 10:37",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2123,
+  "total": 2124,
   "unique_games": 771,
   "in_demand": 119,
   "one_off": 529,
@@ -6299,9 +6299,9 @@
       "title": "NBA 2K27 PS5",
       "item_id": "8277318141",
       "url": "https://avito.ru",
-      "count": 21,
+      "count": 22,
       "demand": "high",
-      "avg_price": 517,
+      "avg_price": 520,
       "min_price": 257,
       "max_price": 697,
       "last_price": 591,
@@ -6310,7 +6310,7 @@
         257,
         257,
         257,
-        257,
+        591,
         591,
         591,
         591,
@@ -6479,7 +6479,7 @@
         21,
         21,
         21,
-        21
+        22
       ],
       "hourly": [
         0,
@@ -6633,7 +6633,7 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -6790,7 +6790,7 @@
         591
       ],
       "first_at": "2026-08-21T22:41:37+03:00",
-      "last_at": "2026-10-26T15:13:40+03:00"
+      "last_at": "2026-10-30T09:47:52+03:00"
     },
     {
       "id": "ufc-6-ultimate-edition-ps5",
@@ -370609,6 +370609,12 @@
   ],
   "recent": [
     {
+      "title": "NBA 2K27 PS5",
+      "price": 591,
+      "price_string": "591 ₽",
+      "at": "2026-10-30T09:47:52+03:00"
+    },
+    {
       "title": "Car Dealer Garage Simulator 2026 PS4",
       "price": 257,
       "price_string": "257 ₽",
@@ -370841,12 +370847,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-10-29T13:58:35+03:00"
-    },
-    {
-      "title": "Chernobylite Complete Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-10-29T13:37:37+03:00"
     }
   ]
 }
