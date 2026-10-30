@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-30T17:16:53Z",
-  "generated_at": "2026-10-30T17:19:36Z",
-  "count": 11356,
+  "catalog_id": "2026-10-30T18:52:40Z",
+  "generated_at": "2026-10-30T18:55:02Z",
+  "count": 11359,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -1084,144 +1084,6 @@
       "seo_descr": "Аренда Tomb Raider: Legacy of Atlantis PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
-    },
-    {
-      "id": "metro-2039",
-      "slug": "metro-2039",
-      "sku": "rent-metro-2039",
-      "title": "METRO 2039 PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [],
-      "publisher": "PLAION",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "04.02.2027",
-      "is_preorder": true,
-      "is_new": false,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2408/522fd46e628df9250ac7bd3a52b7e97cddfa872a32664578.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2407/20646f92a0685285b00e2bb8fd0b89cb98a992b6c61ae6f9.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2407/755422b728966eeed6cfefe403b8cd77597dfd51fb764102.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2407/07be50d60497cf01d29fcd2d73a43fb609203f89a520c004.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202609/3020/b929186d6235ade61aefdef39bd16cf2ed938e4f23ad36d9.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202609/3020/6e2e8b5987848f7b1e80c1ab0136c85b7f30dadc1009c829.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2407/8e6b4f14573438ee1852c6ac58a8440c749d90b1b0232c4a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202609/3020/674304f7277831dc4e4125dcab892ae7b1c8010e1ccfa82f.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2407/23d161bf824f8c10130137159a14339bbbad435d3ddebd26.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP8459-PPSA18995_00-GOZO0000000PS5WW",
-      "description": "METRO 2039 - атмосфера войны, туннелей и ужасов в каждом шаге.  \n\nПоследние выжившие в подземном Москве борются за выживание под властью жестокого лидера Хантера. А ты - Незнакомец - должен пройти через кошмары прошлого, чтобы вернуться к тёмному сердцу города.  \n\nЖёсткие схватки, скрытное движение и мрачный поворот истории - всё это в одной мощной одиночной кампании.  \n\nПогрузитесь в мир, где выживание - не просто выбор, а судьба.",
-      "seo_title": "METRO 2039 PS5 аренда игры",
-      "seo_descr": "Аренда METRO 2039 PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-10-20T12:59:34Z"
-    },
-    {
-      "id": "metro-2039-deluxe-edition",
-      "slug": "metro-2039-deluxe-edition",
-      "sku": "rent-metro-2039-deluxe-edition",
-      "title": "METRO 2039 Deluxe Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [],
-      "publisher": "PLAION",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "04.02.2027",
-      "is_preorder": true,
-      "is_new": false,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0519/b31a81c18e4c4594d82b8c55c1b9404984d3218f6789fff8.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2407/20646f92a0685285b00e2bb8fd0b89cb98a992b6c61ae6f9.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2407/755422b728966eeed6cfefe403b8cd77597dfd51fb764102.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2407/07be50d60497cf01d29fcd2d73a43fb609203f89a520c004.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202609/3020/b929186d6235ade61aefdef39bd16cf2ed938e4f23ad36d9.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202609/3020/6e2e8b5987848f7b1e80c1ab0136c85b7f30dadc1009c829.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2407/8e6b4f14573438ee1852c6ac58a8440c749d90b1b0232c4a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202609/3020/674304f7277831dc4e4125dcab892ae7b1c8010e1ccfa82f.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2407/23d161bf824f8c10130137159a14339bbbad435d3ddebd26.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP8459-PPSA18995_00-METRO039DELUXEWW",
-      "description": "🎮 В METRO 2039 Deluxe Edition - не просто бег по подземельям. Это глубокий мир, где каждый рюкзак можно улучшать: в боеприпасы, химтехнику и снаряжение.  \n\n🔥 Ранний доступ к улучшениям - уже в предзаказе. Ты сам выбираешь, как оснащать своего персонажа.  \n\n🧩 Всё это плюс будущие сюжетные расширения и бонусный цифровой контент. Погружение продолжается - и растёт.  \n\nP.S. Если уже играли в Metro, у тебя есть скидка 10% на предзаказ Deluxe Edition.",
-      "seo_title": "METRO 2039 Deluxe Edition PS5 аренда игры",
-      "seo_descr": "Аренда METRO 2039 Deluxe Edition PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-10-20T12:59:15Z"
     },
     {
       "id": "elta-defy-all-gods",
@@ -3333,6 +3195,75 @@
       "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
+      "id": "queen-s-domain",
+      "slug": "queen-s-domain",
+      "sku": "rent-queen-s-domain",
+      "title": "Queen's Domain PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "Future Friends Games Limited",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 4.92,
+      "release_date": "30.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0107/d48e2ad94cefa82e44285ffc1a47ac1981881802d9582b34.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2810/bb22f1a273cae9ccc173a01d0e012db952cac32287fbb6a7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2810/d46a4ae00e2c7c025608d0c433614a809d3fe99cb4581f28.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2810/7f376fa52e37481a9b01085039e216e464f6677bcc223b5e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2810/5b6d6f9549bcbb2547a01ab53fc9a7dc48752332b57f8ce0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2810/4dffbe8637964ff45b47b73982100849dc419164b8db3962.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2810/85bcf2b77e907881948330714deca4c1535da3e624b29b76.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2810/316585aba443dcafd3345e1f31b2fe31101fb925c6950f99.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2810/18d63c1ac15d7a1f127241b3b64081959eedbb2fd5696638.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019847",
+      "description": "Королева правит своей землёй - в Queen’s Domain ты будешь частью мрачной, но живой вселенной.  \n\nПогрузись в атмосферу крепких барьеров и тёмных пещер - каждое движение наполнено смыслом и напряжением.  \n\nСложные механики, глубокая история - всё это в одном потоке действия.  \n\nТы не просто играешь - ты становишься частью королевской саги. 🏰",
+      "seo_title": "Queen's Domain PS5 аренда игры",
+      "seo_descr": "Аренда Queen's Domain PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T18:54:51Z"
+    },
+    {
       "id": "pictaku-halloween",
       "slug": "pictaku-halloween",
       "sku": "rent-pictaku-halloween",
@@ -3397,6 +3328,209 @@
       "seo_descr": "Аренда Pictaku: Halloween PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-30T08:30:46Z"
+    },
+    {
+      "id": "look-outside",
+      "slug": "look-outside",
+      "sku": "rent-look-outside",
+      "title": "Look Outside PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Ролевая игра, Хоррор",
+      "categories": [],
+      "publisher": "Devolver Digital",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "30.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1322/5d60e087e881aa6f13484305e1ecfa237c02af18136f7398.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1322/1f877b73644cb9ce59cd73718d3e5b7f00fced8f02e9b7f1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1322/5cbe9bcb67ce4f44c3ca31aab73bb5037a2575c9aa140da5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1322/9c7473de5c26799bada607ea828b92fdb5dfba8e19a38d3d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1322/f829df04e6e3ce3c09df21409510c41544d7fe47ec183025.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1322/80940dfd80bb752733c612f7cd9c4fa3491a9e36826a5f6a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1322/eaabe6c3b2e40d6e457b8e6d8bc0105f381014d7ead63627.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020193",
+      "description": "Возьмите в руки Look Outside - игру, где мир становится не просто фоном, а живым, дышащим пространством.  \n\nСледите за вами, как за собой - каждое движение и каждый взгляд в окно даёт новый шанс на открытие.  \n\nГеймплей - мягкий, глубокий, с тонким балансом между реальностью и мечтой.  \nИграет на эмоции, а не только на ум.  \n\nВсё в одном экране - мир, память и ощущение быть где-то рядом.",
+      "seo_title": "Look Outside PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Look Outside PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T18:54:51Z"
+    },
+    {
+      "id": "hidden-objects",
+      "slug": "hidden-objects",
+      "sku": "rent-hidden-objects",
+      "title": "Hidden Objects PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Головоломка, Казуальная, Приключение",
+      "categories": [],
+      "publisher": "Q&A Sp. z o.o.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "30.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2219/b0d9ca3991cd212ecdf1473122892a842919091c30282823.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2219/a724510c6dccb55d846cc76dadf313906ef6b6c71942494a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2219/03beff5309af5760bdfbf20e26e31c493c458a6edf626167.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2219/cca1db1928770007f5d4e2c5eb47886031e0fc322ab1a555.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2219/e463a55e201a78df41227f9ada049e5ea7089a53362cfc81.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2219/125a446f6868d926d0dc4618fe81f6c427b430c407287b9d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2219/07106bee7b4d56ee49ba6a966a92724323ce4a2ffc5157b4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2219/d3a7d38eb3b0d24f31d230b6a724fc623a51ee0ea18224e5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2219/9f647ab48d60d7f9811df6fd85cb982e50296a724ef0db76.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020876",
+      "description": "Ты ищешь увлекательные головоломки? Всё, что нужно - это найти предметы в пейзажах, кухнях, гостиницах... и почувствовать себя настоящим детективом.  \n\nИгра Hidden Objects на PS5 - это не просто поиск, а увлекательный процесс, где каждый объект раскрывает новую сторону мира.  \n\nСмешно, интересно, с небольшими дозами напряжения - как будто ты в кадре из фильма про приключения.  \n\nИгра на PS5 - для тех, кто любит неспешные, но живые моменты.",
+      "seo_title": "Hidden Objects PS5 аренда игры",
+      "seo_descr": "Аренда Hidden Objects PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T18:54:51Z"
+    },
+    {
+      "id": "corner-shop-nightshift",
+      "slug": "corner-shop-nightshift",
+      "sku": "rent-corner-shop-nightshift",
+      "title": "Corner Shop: NightShift PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Хоррор",
+      "categories": [],
+      "publisher": "PlayWay plc",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.0,
+      "release_date": "30.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1308/e8e64bf01fb113b030392970c2da05021390f7e791b66601.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1308/e2f65c0f8d6169682d1154565dfc63fd8147aa85eb38b59c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1308/d028979377d8f5cdf52cff421f64632f59537b0e1e96f427.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1308/70697ffde6df443d4d10de42654c7d2463facea1800e7f4f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1308/e8121d9b091180d8023a6dcc4426a5923aaf6b2d1765ecb4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1308/1512caa433165bbdaba01436cba771c5b2413501adda9988.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1308/87fafce7f71e2761e87b2787d6942a2d4a1ed48393dcfff6.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020191",
+      "description": "Тёмная ночная съемка в небольшом городке. Ты - сторож, который не спит.  \n\nКаждый вечер на балконе звучат стуки, и ты всё время чувствуешь, что кто-то рядом.  \n\nОдин из самых тревожных, атмосферных сценаров в жанре «психологическая хоррор» - не просто страшно, но насыщенно и реалистично.  \n\nТы сам выбираешь, какую часть ночи пройти - и что будет дальше.",
+      "seo_title": "Corner Shop: NightShift PS5 аренда игры",
+      "seo_descr": "Аренда Corner Shop: NightShift PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T18:54:51Z"
     },
     {
       "id": "white-box-quiz",
@@ -5774,6 +5908,73 @@
       "seo_descr": "Аренда Candy Shop Simulator PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-29T21:03:49Z"
+    },
+    {
+      "id": "body-kounts",
+      "slug": "body-kounts",
+      "sku": "rent-body-kounts",
+      "title": "Body Kounts PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Аркада",
+      "categories": [],
+      "publisher": "Voeult SAS",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 1.0,
+      "release_date": "29.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0712/0bc1f91403ebda811b42a88dfa3fdad4ed88097c983b4822.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2800/2ddbc918084c446463fb9e8049b3b1d9561f578929dea2fd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2800/68bcfbbebf76fa6cf2c3bcccf6cea58cf1b5b0053b36e677.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2800/f50dcf9c14095a32be679ca74717cbf1daeca915dc3cca8a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2800/8bc2e57d2a2cb51304c94337da7c04e34b3ce4a475073e60.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0712/6a22c0cff4d74c8f1da64546bab55343e9ea47818153ebb1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0712/9a9a90ac8f29c697b8c68d9a6397a0d896c38425d23849df.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019633",
+      "description": "Body Kounts – не просто шутка. Это жестокий, дикий бой в стиле «самообороны» без правил.  \n\nКаждый из 40 персонажей - реально живой человек с собственной историей и мотивацией.  \n\nТы выбираешь сторону: быть убийцей или жертвой, но в этом мире нет «победителей». Только выживание.  \n\nОчень дикий, очень плотный – если хочешь почувствовать реальность на грани, это именно то, что нужно. 🩸💥",
+      "seo_title": "Body Kounts PS5 аренда игры",
+      "seo_descr": "Аренда Body Kounts PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-30T18:54:51Z"
     },
     {
       "id": "asylum",
@@ -236930,39 +237131,39 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 519,
-          "7": 649,
-          "14": 799,
-          "21": 949,
-          "28": 1199,
-          "56": 2158
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
         },
         "p3": {
-          "1": 439,
-          "7": 549,
-          "14": 699,
-          "21": 849,
-          "28": 1099,
-          "56": 1978
+          "1": 497,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
         }
       },
       "prices_p2": {
-        "1": 519,
-        "7": 649,
-        "14": 799,
-        "21": 949,
-        "28": 1199,
-        "56": 2158
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
       },
       "prices_p3": {
-        "1": 439,
-        "7": 549,
-        "14": 699,
-        "21": 849,
-        "28": 1099,
-        "56": 1978
+        "1": 497,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
       },
-      "price_min": 439,
+      "price_min": 497,
       "lang_label": "На русском языке! (субтитры)",
       "genre": "Приключение",
       "categories": [],
@@ -236989,7 +237190,7 @@
       "seo_title": "Indiana Jones and the Great Circle PS5 аренда игры",
       "seo_descr": "Аренда Indiana Jones and the Great Circle PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:00Z"
+      "catalog_added_at": "2026-10-30T17:33:40Z"
     },
     {
       "id": "i-robot",
@@ -743955,19 +744156,14 @@
       "price_min": 257,
       "lang_label": "На русском языке!",
       "genre": "Шутер, Экшен, Шутер",
-      "categories": [
-        "Все игры",
-        "Шутеры",
-        "Приключения",
-        "Боевики"
-      ],
+      "categories": [],
       "publisher": "Deep Silver",
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "rating": 4.42,
       "release_date": "02.06.2015",
       "is_preorder": false,
-      "is_new": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202103/0313/0XmesVquzTiWkjPy0vJlxrzZ.png",
       "screenshots": [
         "https://image.api.playstation.com/cdn/EP4062/CUSA00591_00/FREE_CONTENTnIMgpG96pt5IiGuEcdXv/PREVIEW_SCREENSHOT1_427587.jpg",
@@ -743980,10 +744176,10 @@
         "https://image.api.playstation.com/cdn/EP4062/CUSA00591_00/FREE_CONTENTGbBwiSAO7Y7CC0cL4HWZ/PREVIEW_SCREENSHOT8_427587.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/concept/202807",
-      "description": "Московское метро - теперь в полном разрешении и на 60 кадров в секунду.  \nАпокалипсис уничтожил города, но остался жив лишь под землёй: выжившие борются с мутантами, людьми и самой жестокой природой.  \n\nВот твой путь - от глубин метрополитена до выжженной пустыни, где каждый шаг может определить судьбу человечества.  \nА пока думай: а что если угроза не снаружи… а внутри?  \n\nДва стиля игры - медленный хоррор или жёсткий боевой режим рэндера. И возвращается классика - Ranger Mode, где ты стал настоящим боец.",
-      "seo_title": "Metro 2033 Redux на PS4 аренда игры",
-      "seo_descr": "Аренда Metro 2033 Redux на PS4. • Immerse yourself in the Moscow Metro – witness one of the most atmospheric worlds in gaming brought to life with stunning next-gen visuals at 60FPS • Brave the… Быстрый доступ после оплаты.",
-      "external_id": "zCRU6Mk3Sk3Pu9f0J06I",
+      "description": "Спуститесь в подземелья Москвы - атмосфера будущего, где метрополитен стал царством мутантов и тьмы.  \n\nВот как выживать: наденьте противогаз, дайте отпор ужасам и не сдавайтесь в мире, где каждый шаг - риск. По мотивам классики Дмитрия Глуховского.  \n\nОбновлённая графика, 60 FPS, реалистичные эффекты - всё это теперь на PS4. ДUALSHOCK®4 с вибрацией поддерживает погружение в атмосферу игры.",
+      "seo_title": "Metro 2033 Redux PS4 аренда игры",
+      "seo_descr": "Аренда Metro 2033 Redux PS4 на PlayStation.",
+      "external_id": "",
       "catalog_added_at": "2026-10-30T17:19:29Z"
     },
     {
