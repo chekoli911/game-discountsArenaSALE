@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-30T11:05:17Z",
-  "server_time_utc": "2026-10-30T11:05:17Z",
+  "updated_at": "2026-10-31T02:02:28Z",
+  "server_time_utc": "2026-10-31T02:02:28Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-10-31T02:00:00Z",
-  "expires_at": "2026-10-31T02:00:00Z",
+  "next_rotation_at": "2026-11-01T02:00:00Z",
+  "expires_at": "2026-11-01T02:00:00Z",
   "prices_p2": {
     "7": 300,
     "14": 300,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-10-31T02:00:00Z"
+    "next_rotation_at": "2026-11-01T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "lego-batman-3-pokidaya-gotem-ps4-ps5",
+      "title": "LEGO Batman 3: Покидая Готэм PS4/PS5",
+      "description": "Крестоносец в плаще - не просто супергерой, а настоящий лидер. Он собирает суперзвёзд из вселенной DC и улетает в космос, чтобы спасти Землю от злодея Брейниака.  \n\nБрейниак сжигает миры с помощью Сияющих колец - он собирает маленькие города по всей Вселенной. А вы - вместе со своими героями - должны пролететь через эти миры, найти кольца и остановить угрозу до того, как всё станет слишком поздно.  \n\nКрутая адреналиновая история с динамичными баталиями, хитрами и умным вовлечением. Игра для тех, кто любит не просто слушать, а реально включаться в сюжет - как герой на космической миссии.",
+      "image_url": "https://static.tildacdn.com/stor6564-3063-4033-b766-663532396362/1a2274e3f5fe17687e920c628a2dfd22.webp",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6564-3063-4033-b766-663532396362/1a2274e3f5fe17687e920c628a2dfd22.webp",
+        "https://static.tildacdn.com/stor3863-3031-4635-b065-316335353738/21aa7615e82828b2ac72fb9783290161.jpg",
+        "https://static.tildacdn.com/stor3764-3664-4338-b336-306439383331/90033148b93930579464448df875b826.jpg",
+        "https://static.tildacdn.com/stor3262-3330-4662-b566-323466626235/7fd15d89ee9b0f21152f12031751d579.jpg",
+        "https://static.tildacdn.com/stor6263-6265-4337-a636-643837366662/0c405a5105fed90c997cc7457acd17e0.jpg"
+      ],
+      "release_date": "",
+      "publisher": "",
+      "platforms": "",
+      "voice": "",
+      "text_translation": "",
+      "rating": null,
+      "store_url": "",
+      "tilda_uid": "956334717592",
+      "sku": "",
+      "external_id": "4DKVBxJR3G4Nem28Tydb",
+      "url": "http://arenapsgm.ru/tproduct/956334717592-lego-batman-3-pokidaya-gotem-ps4ps5",
+      "expires_at": "2026-11-01T02:00:00Z",
+      "published_at": "2026-10-31T02:02:28Z",
+      "prices": {
+        "p2": {
+          "7": 300,
+          "14": 300,
+          "21": 300,
+          "28": 350
+        },
+        "p3": {
+          "7": 400,
+          "14": 400,
+          "21": 400,
+          "28": 450
+        }
+      },
+      "prices_p2": {
+        "7": 300,
+        "14": 300,
+        "21": 300,
+        "28": 350
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Крестоносец в плаще ведёт борьбу против Брейниака - злодея, который сжигает миры с помощью Сияющих колец.  \n\nПролетайте по миру, найдите кольца и остановите угрозу - динамичные баталии и настоящая вовлечённость для любителей действовать, а не просто смотреть."
+    }
+  ],
+  "history": [
     {
       "slug": "gears-of-war-reloaded-ps5-navsegda",
       "title": "Gears of War: Reloaded PS5",
@@ -50,34 +101,31 @@
       "sku": "",
       "external_id": "rfjDGiPx8HSG18MIyrHJ",
       "url": "http://arenapsgm.ru/p2p3/tproduct/336611650112-gears-of-war-reloaded-ps5-navsegda",
-      "expires_at": "2026-10-31T02:00:00Z",
       "published_at": "2026-10-30T11:05:17Z",
       "prices": {
         "p2": {
-          "7": 300,
-          "14": 300,
-          "21": 300,
-          "28": 350
+          "7": 0,
+          "14": 0,
+          "21": 0,
+          "28": 0
         },
         "p3": {
-          "7": 400,
-          "14": 400,
-          "21": 400,
-          "28": 450
+          "7": 0,
+          "14": 0,
+          "21": 0,
+          "28": 0
         }
       },
       "prices_p2": {
-        "7": 300,
-        "14": 300,
-        "21": 300,
-        "28": 350
+        "7": 0,
+        "14": 0,
+        "21": 0,
+        "28": 0
       },
-      "p3_extra": 100,
-      "is_game_day": true,
+      "p3_extra": 0,
+      "is_game_day": false,
       "short_description": "Gears of War: Reloaded - полный перезапуск бойца, теперь на ПС5 с Unreal Engine и без доплат.  \nНовый режим «отряд», 120 кадров в секунду, простое управление для всех - от новичков до ветеранов."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "wwe-23-ps4-ps5",
       "title": "WWE 23 PS4/PS5",
@@ -2984,55 +3032,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Лары возвращается с диким бунтом - теперь ты чувствуешь каждый удар копья в темноте.  \nНовый режим «Кошмар Лары», «Выносливость» и уровень «Экстремальное выживание» - для тех, кто любит нестандартные драйвы. Костюмы и пистолет 20-летия включены. Для VR - лучше беспроводной DUALSHOCK®4."
-    },
-    {
-      "slug": "evil-inside-ps4-ps5",
-      "title": "Evil Inside PS4/PS5",
-      "description": "Потерял маму, отец арестован - Марк теперь живёт в тишине и тревоге. И всё это начинается с доски духов…  \n\nОн пытается найти свою мать через её остатки - разбросанные по дому фрагменты, которые не просто лежат. Они «живут».  \n\nТы будешь за Марком - подростком, который на самом деле ничего не знает, но чувствует, что в доме что-то не так. Лампочки моргают, скрипит кухня, а музыка… ты уже слышал эту мелодию?  \n\nСобери доску, пройди через тень и найди Розу - чтобы выяснить, что случилось с родителями. Потому что правда не такая, как кажется.",
-      "image_url": "https://static.tildacdn.com/stor6138-3261-4237-a536-353135363331/40148544.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/PxjUPcnyl5tvJziTDn49gszF.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/EK6fVk1hneVVaZlqd1PpGSrJ.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/ZNFKK9ojrQlkzeDFnoUY7mpp.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/eOW0PvGfjpwwmVRzrcGaNd9k.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/CbHBkb6aKIEflZmcuU4qML4j.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/0flFYlFm96JLDqMgF5cfT0Iu.jpg"
-      ],
-      "release_date": "25/3/2021",
-      "publisher": "JANDUSOFT S.L.",
-      "platforms": "PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 3.26,
-      "store_url": "https://store.playstation.com/en-tr/concept/10002054",
-      "tilda_uid": "744126918102",
-      "sku": "",
-      "external_id": "eIuBSlRdzkx211V9SoGT",
-      "url": "http://arenapsgm.ru/tproduct/744126918102-evil-inside-ps4ps5",
-      "published_at": "2026-09-02T02:00:17Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Марк живёт в тишине после потери мамы и ареста отца - всё начинается с доски духов.  \n\nЛампочки моргают, кухня скрипит, музыка приводит к воспоминаниям - нужно собрать доску и найти Розу, чтобы понять правду."
     }
   ]
 }
