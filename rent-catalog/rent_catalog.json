@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-31T10:27:21Z",
-  "generated_at": "2026-10-31T10:36:05Z",
-  "count": 11364,
+  "catalog_id": "2026-10-31T18:06:46Z",
+  "generated_at": "2026-10-31T18:16:39Z",
+  "count": 11365,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3262,6 +3262,73 @@
       "seo_descr": "Аренда VOiD: Reshaped PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-31T05:57:02Z"
+    },
+    {
+      "id": "innocent-memory",
+      "slug": "innocent-memory",
+      "sku": "rent-innocent-memory",
+      "title": "Innocent Memory PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "Moesoft Limited",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "31.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1618/850ce9db81b953941db781d0a1ad49a8f4e599968a7edaf4.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1619/6318117081f9c0b7410114a77b18a742c92679a88ce9eb90.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1619/c831583e18c1d6f529cd65d6fa304f8c26eb43c0cfab1e01.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1619/7c5ef677faec057753bd2c66846f333728a9c6e6c49439cf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1619/beb454d0968421ec3c5ea708e8815461bded444a0bf5e272.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1619/3bf998a133e92f37238b426aad868592a8bf87c1026d1c07.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1619/1a676191b00354f0156001946f92295b1211f7e474471848.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020853",
+      "description": "Игра Innocent Memory - душевная, почти романтичная история о любви, ушедшей и возвращающейся.  \n\nТы проникаешь в мир, где детство не уходит - оно просто переходит в другую жизнь.  \n\nСюжет мягкий, трогательный, с лёгкой игрой на чувства. Ничего лишнего - только искренность.  \n\nПодойдёт для тех, кто любит тихие, деликатные истории без броских моментов. 🌿",
+      "seo_title": "Innocent Memory PS5 аренда игры",
+      "seo_descr": "Аренда Innocent Memory PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-31T18:16:27Z"
     },
     {
       "id": "tidebreak",
@@ -26319,23 +26386,13 @@
         "56": 2322
       },
       "price_min": 390,
-      "lang_label": "",
+      "lang_label": "Английский",
       "genre": "Аркада",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Игры на двоих",
-        "Приключения",
-        "Платформеры",
-        "Боевики",
-        "Хоррор"
-      ],
+      "categories": [],
       "publisher": "Trailmark Games, LLC",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.35,
       "release_date": "17.09.2026",
       "is_preorder": false,
       "is_new": true,
@@ -26349,10 +26406,10 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202606/0911/7b38361183bb0e11fe62a15c299e6aa04efabefdab817640.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/product/UB2551-PPSA38510_00-0542265777974288",
-      "description": "Сражайтесь с ходячими, бегите по разрушенным улицам - The Walking Dead: Streets of Survival - это жаркий бой на выживание в мире АМК.  \n\nИграйте за Rick, Daryl, Michonne и даже Negan - каждый со своей атакой, стилем и фирменными навыками. Удивляйтесь мощным мертвецам, как Winslow или Well Walker, и враждебной группировке Saviors под предводительством Negan.  \n\nРазрушенные поселения, укрепления, туннели - всё это живёт в игре с динамичными опасностями и настоящими испытаниями. С каждым раундом вы становитесь сильнее, оттачиваете комбо и настраиваетесь на бой.  \n\nВсё по мотивам сериала - знакомые локации, глубокие угрозы, настоящая атмосфера выживания.",
-      "seo_title": "The Walking Dead: Streets of Survival - Deluxe Edition на PS5 аренда игры",
-      "seo_descr": "Аренда The Walking Dead: Streets of Survival - Deluxe Edition на PS5. СРАЖАЙТЕСЬ С МЕРТВЕЦАМИ. ВЫЖИВАЙТЕ НА УЛИЦАХ. Быстрый доступ после оплаты.",
-      "external_id": "eeZOilqOCmtNHJwh0sf2",
+      "description": "🔥 Сражайтесь с ходячими, выживайте на улицах - The Walking Dead: Streets of Survival на PS5 готов к битвам!  \n\nПредставьте: Rick с магнумом, Michonne с катаной и Daryl с арбалетом. Каждый персонаж - как в сериале. Уникальные боевые стили, фирменные навыки, настоящие битвы на выживание.  \n\nБоитесь не только мертвецов - вас ждут толпы Saviors под предводительством Negan и угрозы из мира The Walking Dead: Sanctuary, Hilltop, Alexandria и других знакомых локаций.  \n\nГотовы к аркадным сражениям? В Deluxe Edition - золотое оружие, бесконечные битвы, хардкорный уровень и динамичные выживания на грани.",
+      "seo_title": "The Walking Dead: Streets of Survival - Deluxe Edition PS5 аренда игры",
+      "seo_descr": "Аренда The Walking Dead: Streets of Survival - Deluxe Edition PS5 на PlayStation.",
+      "external_id": "",
       "catalog_added_at": "2026-10-31T10:36:01Z"
     },
     {
