@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-30T18:52:40Z",
-  "generated_at": "2026-10-30T18:55:02Z",
-  "count": 11359,
+  "catalog_id": "2026-10-31T00:08:40Z",
+  "generated_at": "2026-10-31T00:13:55Z",
+  "count": 11363,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3195,6 +3195,136 @@
       "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
+      "id": "tidebreak",
+      "slug": "tidebreak",
+      "sku": "rent-tidebreak",
+      "title": "Tidebreak PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Шутер",
+      "categories": [],
+      "publisher": "A-Z COMPUTERS",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 2.0,
+      "release_date": "30.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0711/0b3edebebf261a4cb2ea0e4d7fecc2113e6392eaa3e6c429.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0900/26827f0d223aaab7f3775c06cbf3a0a2926332be16e66785.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0900/f604157f91bf89fae366aa8b5491fd9616f20fd7eac41ec0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0900/65eceb0645d10cf03f0d8d1aa39f9320dea54b19459ab9d2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0900/18dbcf075182aa99b2462af3b46d7d08037a87d1107acf95.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021126",
+      "description": "Тidebreak на PS5 - это волны, борьба и настоящий физический драйв.  \n\nТы не просто перемещаешься по миру - ты заставляешь его двигаться.  \n\nМир раскрывается с каждым шагом: опасные ландшафты, динамичная атмосфера и всё больше врагов.  \n\nГотов к приключениям? Просто взял - и погружаемся. 🌊",
+      "seo_title": "Tidebreak PS5 аренда игры",
+      "seo_descr": "Аренда Tidebreak PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-31T00:08:30Z"
+    },
+    {
+      "id": "the-adventures-of-captain-j",
+      "slug": "the-adventures-of-captain-j",
+      "sku": "rent-the-adventures-of-captain-j",
+      "title": "The Adventures Of Captain J PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Аркада",
+      "categories": [],
+      "publisher": "World Of Games LLC",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "30.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2722/149f05cb12112c9dbec94bdefda67085eb7a204ce3379f5e.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2519/37c59309d31861762b6eead8c56ec48e169704db44c798a7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2519/119412beb00e2afd6cd596a2e20c004898424d61516c0e59.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2519/956652259618d4d297cb7506e59d33120e1175f4fcfef0d6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2519/eaeebcf70b8e8caf8abb373c1d506e50e703d4b7796c9dc7.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020353",
+      "description": "Капитан Дж – не просто морской плавник, а настоящий харизматичный штурман в мире, где каждый поворот волны - это новый вызов.  \n\nОн сражается с бандами и лесными чудовищами, прыгает по горам и землям, которые не существуют на карте.  \n\nПогружайся в атмосферу дикого приключения - где смелость, ум и немного шуток помогают выжить.  \n\nДа, это не просто игра - это поездка в другой мир.",
+      "seo_title": "The Adventures Of Captain J PS5 аренда игры",
+      "seo_descr": "Аренда The Adventures Of Captain J PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-31T00:08:17Z"
+    },
+    {
       "id": "queen-s-domain",
       "slug": "queen-s-domain",
       "sku": "rent-queen-s-domain",
@@ -3395,6 +3525,144 @@
       "seo_descr": "Аренда Look Outside PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-30T18:54:51Z"
+    },
+    {
+      "id": "kitties-solitaire",
+      "slug": "kitties-solitaire",
+      "sku": "rent-kitties-solitaire",
+      "title": "Kitties Solitaire PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Казуальная",
+      "categories": [],
+      "publisher": "Benoit Varasse trading as Pix Arts",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 3.0,
+      "release_date": "30.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2109/c8921ff161a87944f753e119cde68741cdf9608251b1107c.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2109/cc713b91a1b7eef041ef96c51580f97b507c8dcbb8cd47a8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2109/33ca9d82ff31a4fa975b153854213d9d3ab17211d0e9b1ae.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2109/aee9cb58c8032335e3e7196a1c10f311865a5aba1e45d97d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2109/2d880033276329eba11416d9b4d8bf283d353414fa7d7584.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2109/eb3e25bc35177e7725136c14383633fecc8c9a2fad2d27d8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2109/6fb6fe72efc7166113fedcdaa76596d64e8e41ef2d8a6b4f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2109/3725008edb2436a66ed80acd65a5f4b7abe05eea1cd41a8a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2109/6f68ad2cd2c6ea95dd5b28b43f9ac5bc2fb1d93bdb888a23.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021296",
+      "description": "Коты в карточках. Классика с душой.  \n\nСердце погружено в котиков, а мозг - в насыщенные лёгкие игры.  \n\nНажми на карту и пусть каждый ход будет как утренний кофе - тёплый, нежный, с лёгкой дрожью от удовольствия.  \n\nКоты не спят - они играют. А ты?",
+      "seo_title": "Kitties Solitaire PS5 аренда игры",
+      "seo_descr": "Аренда Kitties Solitaire PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-31T00:08:08Z"
+    },
+    {
+      "id": "horrorvale-deadluxe-edition",
+      "slug": "horrorvale-deadluxe-edition",
+      "sku": "rent-horrorvale-deadluxe-edition",
+      "title": "HorrorVale: Deadluxe Edition PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Ролевая игра",
+      "categories": [],
+      "publisher": "Penguin Pop Games LLC",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "30.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1621/407e061199369938fc1eeee01b9a208a4329889aa649192a.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1620/8dce21f0b9e35e1cf7be45009ba86a02445a6fb719b5ce6d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1620/53c22f493b1cc861f09d77ba44d1e0d638d6d76df3d187fc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1620/e9636c794fb7559a94df9a7dfca86b04cda1b45b66ab53b1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1620/30aac03badc332764d7fef6e4e1795619bf38af1390626b0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1620/b00de9bc4e3f8e306f3d54cc8bf78f93fa23fc506081eb93.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1620/b7deb4bc5b95c4e70492e6eb39c3de2533a80ed566490309.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1620/feaa00983150961cadfc999a5fbde920a102f77223dcb16d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1620/ca9d070ab2c970ed1e6e663b2711cc3c9b43ad5e606ba27a.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020175",
+      "description": "Живой ужас в каждом уголке. HorrorVale: Deadluxe Edition - не просто хоррор, а настоящий погружение в мрачную, тонущую реальность.  \n\nТы вступаешь в мир, где тишина бьётся по стенам, а звуки - как будто изнутри себя. Каждый шаг оставляет след.  \n\nГлубокий настрой, дикий атмосферный фон и крутые сцены - всё это в одном флажке. Подойдёт тем, кто любит не просто играть, а чувствовать.  \n\nСкачайте уже сегодня - и не забудьте подышать перед тем, как включить свет. 😱",
+      "seo_title": "HorrorVale: Deadluxe Edition PS4/PS5 аренда игры",
+      "seo_descr": "Аренда HorrorVale: Deadluxe Edition PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-31T00:07:52Z"
     },
     {
       "id": "hidden-objects",
