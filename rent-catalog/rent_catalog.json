@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-31T00:52:57Z",
-  "generated_at": "2026-10-31T00:54:58Z",
-  "count": 11363,
+  "catalog_id": "2026-10-31T06:12:42Z",
+  "generated_at": "2026-10-31T06:14:45Z",
+  "count": 11364,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3193,6 +3193,75 @@
       "seo_descr": "Аренда CRYMELIGHT Deluxe Edition PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
+    },
+    {
+      "id": "void-reshaped",
+      "slug": "void-reshaped",
+      "sku": "rent-void-reshaped",
+      "title": "VOiD: Reshaped PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Головоломка",
+      "categories": [],
+      "publisher": "Enter Games Publishing",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "31.10.2026",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2010/2a65da898d82952a739ee361510929778b63f05f70765612.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1520/6e380f07e903620614fe1b13056c4146773f4b7e0d105316.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2010/cd24a7127afc4de9c332ae7f6c00dfabd40093a308c36fa0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1520/6029b231e4f8202ec75b7f11f3d6cfdd3c749faa4df276b4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1520/f036368c99ac1bcdbddfce587f154963cdfe77e70a3c3de9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1520/c40a89d966d98a7c6dc7c9850c4b73ea78389e999c923c6f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1520/7c2d6fa3b7cae18134f48aede50a4251e36f36f9f0b84119.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1520/336471b118e0168b983b433f7867bbcdf4275d821fe2c16a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1520/24f12ff71a381ce1172e809599f2d81c92cbeb43f965e2b5.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020172",
+      "description": "VOiD: Reshaped - кинематографическое впечатление в стиле \"после завтрака, но уже не просто так\".  \n\nГлубокий, мрачный мир, где каждый шаг - как выбор между тьмой и светом.  \n\nКонтроль над реальностью, архитектура сновидений, динамика действий - всё на грани разума.  \n\nИгра не просто про борьбу - она о том, как вести себя в мире, где ты уже знаешь правду.",
+      "seo_title": "VOiD: Reshaped PS5 аренда игры",
+      "seo_descr": "Аренда VOiD: Reshaped PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-10-31T05:57:02Z"
     },
     {
       "id": "tidebreak",
