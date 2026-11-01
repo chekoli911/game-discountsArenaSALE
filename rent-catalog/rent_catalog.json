@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-10-31T18:52:50Z",
-  "generated_at": "2026-10-31T19:33:37Z",
-  "count": 11365,
+  "catalog_id": "2026-11-01T00:12:09Z",
+  "generated_at": "2026-11-01T00:21:48Z",
+  "count": 11368,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3195,6 +3195,75 @@
       "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
+      "id": "wreck-the-world",
+      "slug": "wreck-the-world",
+      "sku": "rent-wreck-the-world",
+      "title": "Wreck the World PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Аркада",
+      "categories": [],
+      "publisher": "Booster Box Ltd",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "31.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1717/248123055ad6f8131ff33e3cd734db9cd0c1b01a1a2f8d58.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1717/32bf0391478da3615739e67840d68a8ba50c9b4188c333c8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1717/7fdaa99bfc2a4d2349f6f4f486f8c402ba3e5021c51949e3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1717/40ea60f65b5dcc72ef5e7bf211f89a3d52e6da114b332eb5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1717/8f3abc1b68f40238f7a930f127dc8868cc92cfba1d9be815.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1717/c95ad78348fa39cddadfc8dd4870de675e69f1601973a8a3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1717/7eb795df3aca3dc780cc33ce7145defb34ca81e31a9ef0f8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1717/63c1479324c11cf6bcaea7ba46a3a19db4ccaa12e38c24eb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1717/920ab23c9ba857c95f8344f2c097f95220733a605dc595bf.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10010658",
+      "description": "Разрушай мир - с Wreck the World на PS5.  \n\nКаждый ход - как в боевом штурме, где ты не просто управляешь машиной, а переписываешь карту реальности.  \n\nДействие в жёстком стиле: динамичные битвы, разрушения и хаос на фоне дикого природного дизайна.  \n\nТы - не просто игрок. Ты - сила, которая уничтожает всё, что стоит на пути. 🚗💥",
+      "seo_title": "Wreck the World PS5 аренда игры",
+      "seo_descr": "Аренда Wreck the World PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-01T00:11:58Z"
+    },
+    {
       "id": "void-reshaped",
       "slug": "void-reshaped",
       "sku": "rent-void-reshaped",
@@ -3262,6 +3331,140 @@
       "seo_descr": "Аренда VOiD: Reshaped PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-31T05:57:02Z"
+    },
+    {
+      "id": "phantom-floor",
+      "slug": "phantom-floor",
+      "sku": "rent-phantom-floor",
+      "title": "Phantom Floor PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Хоррор",
+      "categories": [],
+      "publisher": "subSilico",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "31.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0412/a41808447c4ba0656a67dd436ae8af775b5159af4bcea45f.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0412/01c6c5c9e726b20f187ce7e94a9ea6246fb81a388d0a67e4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0412/4ed5bcfba16d836396438a6500a24a4a0255a64af9a05404.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0412/3f4f13d045cecc6815d2d2e9877e2af291158b3556aff217.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0412/00af0033b5d0988bde121edc893fd7f65d57185c2470155b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0412/1a9f3cc9f4e7bccd692a45df695ca346a551da7068d5edbf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2323/35bd773f2eb45c7a7fe5b8e270bb9ffed909a0cea6b1c5d8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0412/80dbb68e95da44dd8e1e0bf5ad9231d765c9a6c83ee7e5db.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0412/f3709f7207c5e7e24cc3985caf0e7a61b6971d64c78b00f1.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020273",
+      "description": "Фантастическая драма в стиле «как жить, когда мир рушится».  \n\nВсё начинается с одного звонка - и после этого ни один из участников не вернётся к обычной жизни.  \n\nТы будешь играть за разных персонажей, каждый из которых скрывает свою правду.  \n\nГлубоко в тьме - биографии, лжи и неожиданные сюрпризы. Игра на грани реальности и фантастики. 🕳️",
+      "seo_title": "Phantom Floor PS5 аренда игры",
+      "seo_descr": "Аренда Phantom Floor PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-01T00:11:48Z"
+    },
+    {
+      "id": "lordcraft",
+      "slug": "lordcraft",
+      "sku": "rent-lordcraft",
+      "title": "Lordcraft PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Стратегия, Симулятор",
+      "categories": [],
+      "publisher": "SEASHELL STUDIO C.V.",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 1.0,
+      "release_date": "31.10.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1411/a6a5e3ccb8cd32546c911d24506fdfaab46910d57e1b65cd.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1414/1dc056ed39801843f1a7a8a54c52fb2c987b93ecfe656db4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1414/e60920e6f38a00ee748da7968683b9d57585cbe193bb9747.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1414/043138147ce3b0c92bbcd865ad21dc7df407acafaed39a5e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1414/cd8fdea711297cb915fbb619ab31d17c6c406f6e323f4a17.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021125",
+      "description": "Лордскрафт на PS5 - это не просто бой на карте, а настоящий диктаторский рост. Ты выбираешь путь: управлять свитками, разрушать вражеские постройки или строить свою империю с нуля.\n\nГлубокая механика, живая физика и реальные последствия каждого решения - в каждом шаге ты чувствуешь, как растёт твоя власть.  \n\nТы не просто играешь - ты создаёшь своё божество из пепла и армии.  \n\nПриятно играть с фанатами, которые верят в силу магии и контроль над миром.",
+      "seo_title": "Lordcraft PS5 аренда игры",
+      "seo_descr": "Аренда Lordcraft PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-01T00:11:30Z"
     },
     {
       "id": "innocent-memory",
@@ -510985,21 +511188,14 @@
       "price_min": 290,
       "lang_label": "На русском языке!",
       "genre": "Хоррор",
-      "categories": [
-        "Все игры",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "РПГ",
-        "Боевики"
-      ],
+      "categories": [],
       "publisher": "THE FARM 51 GROUP SA",
       "voice": "Русский, Английский",
       "text_translation": "Русский, Английский",
       "rating": 3.79,
       "release_date": "21.04.2022",
       "is_preorder": false,
-      "is_new": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2119/150d779c1b72ec85eeb0bc7ab32a58044f9b44d36e603260.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202106/1109/WJLfzTp8I82fUuxgEdgwbgDL.jpg",
@@ -511012,10 +511208,10 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202106/1109/7kp9HqnhM6jTW8VRB9hEfH3s.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/concept/10002921",
-      "description": "Чернобыльская зона в игре Chernobylite - не просто атмосферный фон. Это живая, дышащая реальность, построенная на 3D-сканерах и детализированной до мелочей.  \n\nВы играете за Игоря Химинюка - физика, который вернулся в Припять, чтобы найти свою невесту, исчезшую 30 лет назад. Путь к правде пролегает через военных, других сталкеров и чудовищ.  \n\nКаждый день - борьба за выживание: ресурсы тают, союзники умирают. Вы выбираете: атаковать или скрываться, строить базу или исследовать. Ваши решения формируют историю - и будущее в зоне зависит от вас.",
-      "seo_title": "Chernobylite Complete Edition на PS5 аренда игры",
-      "seo_descr": "Аренда Chernobylite Complete Edition на PS5. Chernobylite — научно-фантастическая ролевая игра в жанре ужасов с элементами выживания от студии The Farm 51. Быстрый доступ после оплаты.",
-      "external_id": "66BBed3fgC4kRQdL2SL9",
+      "description": "Chernobylite Complete Edition - ужасы в припяти 1980-х. Ты - учёный Игорь Химинюк, который пытается найти невесту в зоне отчуждения.  \n\nТут не просто беги от чудовищ - ты строишь базы, делает оружие и ведёт команду среди военных, сталкеров и чего-то неприятного.  \n\nНаучно-фантастический жанр ужасов с глубоким миром, где каждый шаг - риск. Играет на душу, как настоящий припяти. 🌆🔥",
+      "seo_title": "Chernobylite Complete Edition PS5 аренда игры",
+      "seo_descr": "Аренда Chernobylite Complete Edition PS5 на PlayStation.",
+      "external_id": "",
       "catalog_added_at": "2026-10-31T19:33:33Z"
     },
     {
