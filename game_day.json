@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-31T02:02:28Z",
-  "server_time_utc": "2026-10-31T02:02:28Z",
+  "updated_at": "2026-11-01T02:02:26Z",
+  "server_time_utc": "2026-11-01T02:02:26Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-01T02:00:00Z",
-  "expires_at": "2026-11-01T02:00:00Z",
+  "next_rotation_at": "2026-11-02T02:00:00Z",
+  "expires_at": "2026-11-02T02:00:00Z",
   "prices_p2": {
     "7": 300,
     "14": 300,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-01T02:00:00Z"
+    "next_rotation_at": "2026-11-02T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "puteshestvie-ps4-ps5",
+      "title": "Путешествие PS4/PS5",
+      "description": "Путешествие PS4/PS5 - это не просто игра, а настоящий поход в глубины души.  \n\nВы отправляетесь в пустыню под солнцем, где ветер шипит и время останавливается. Ведёт вас странник без имени - один на всё, но с чувством приключений, что не даёт сдаться.  \n\nПлывёте по небу, разгадываете тайны ушедшей цивилизации и сталкиваетесь с древней магией - в одиночку или вместе с кем-то из проходящих в пути.  \n\nЭто путешествие останется в памяти - как нечто живое, дышащее и невероятное.  \n\nСмотрите в карточку игры → 📩 @ArenaPSGMadmin  \nВступайте в группу → ССЫЛКА  \nЧат канала → ССЫЛКА  \nОтзывы - читать",
+      "image_url": "https://static.tildacdn.com/stor6365-3939-4634-a131-323839393761/39798238.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6365-3939-4634-a131-323839393761/39798238.jpg",
+        "https://static.tildacdn.com/stor6535-6536-4462-a430-323061396363/62519222.jpg",
+        "https://static.tildacdn.com/stor6339-6463-4136-b366-306133313938/12973937.jpg",
+        "https://static.tildacdn.com/stor3463-3132-4062-b537-333966343631/61086170.jpg",
+        "https://static.tildacdn.com/stor3131-3539-4037-b433-613664343038/90056172.jpg"
+      ],
+      "release_date": "",
+      "publisher": "",
+      "platforms": "",
+      "voice": "",
+      "text_translation": "",
+      "rating": null,
+      "store_url": "",
+      "tilda_uid": "854351722782",
+      "sku": "",
+      "external_id": "5jZ2Iol8nTcFlDVy80oV",
+      "url": "http://arenapsgm.ru/tproduct/854351722782-puteshestvie-ps4ps5",
+      "expires_at": "2026-11-02T02:00:00Z",
+      "published_at": "2026-11-01T02:02:26Z",
+      "prices": {
+        "p2": {
+          "7": 300,
+          "14": 300,
+          "21": 300,
+          "28": 350
+        },
+        "p3": {
+          "7": 400,
+          "14": 400,
+          "21": 400,
+          "28": 450
+        }
+      },
+      "prices_p2": {
+        "7": 300,
+        "14": 300,
+        "21": 300,
+        "28": 350
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Путешествие PS4/PS5 - это одиночное путешествие в глубины души под солнцем и ветром.  \n\nШипящий ветер, древняя магия, тайны прошлых цивилизаций - всё это живёт в игре, как настоящая история."
+    }
+  ],
+  "history": [
     {
       "slug": "lego-batman-3-pokidaya-gotem-ps4-ps5",
       "title": "LEGO Batman 3: Покидая Готэм PS4/PS5",
@@ -48,34 +99,31 @@
       "sku": "",
       "external_id": "4DKVBxJR3G4Nem28Tydb",
       "url": "http://arenapsgm.ru/tproduct/956334717592-lego-batman-3-pokidaya-gotem-ps4ps5",
-      "expires_at": "2026-11-01T02:00:00Z",
       "published_at": "2026-10-31T02:02:28Z",
       "prices": {
         "p2": {
-          "7": 300,
-          "14": 300,
-          "21": 300,
-          "28": 350
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 400,
-          "14": 400,
-          "21": 400,
-          "28": 450
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 300,
-        "14": 300,
-        "21": 300,
-        "28": 350
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Крестоносец в плаще ведёт борьбу против Брейниака - злодея, который сжигает миры с помощью Сияющих колец.  \n\nПролетайте по миру, найдите кольца и остановите угрозу - динамичные баталии и настоящая вовлечённость для любителей действовать, а не просто смотреть."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "gears-of-war-reloaded-ps5-navsegda",
       "title": "Gears of War: Reloaded PS5",
@@ -2984,54 +3032,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Sherlock Holmes: The Devil’s Daughter - психо-головоломка, где зло живёт не в палатах, а в душе.  \n\nРешайте, бегайте, допрашивайте - каждый шаг меняет судьбу сюжета. Игра как ни в чём не бывало."
-    },
-    {
-      "slug": "rise-of-the-tomb-raider-ps4-ps5",
-      "title": "Rise of the Tomb Raider PS4/PS5",
-      "description": "Лары возвращается - и с новым визуальным бунтом, диким ходом и погружением в атмосферу древних тайн.  \n\nНовая глава «Узы крови» добавляет глубину сюжету, а поддержка PlayStation VR делает её ещё более тревожной и реалистичной - можно почувствовать каждый удар копья в темноте.  \n\nДля тех, кто любит нестандартные драйвы - новый режим «Кошмар Лары» с зомби, а также совместный режим «Выносливость» и уровень сложности «Экстремальное выживание» поднимают игру на новый уровень.  \n\nДополнены костюм и пистолет 20-летия - вместе с классическими обликов Лары, как в старых эпизодах. Всё ранее выпущенное уже включено - никаких пропусков.  \n\nПри подключении PS Camera к PS5 нужен адаптер (можно найти на сайте playstation.com/camera-adaptor), а для VR-игр рекомендуем беспроводной DUALSHOCK®4 - удобнее и стабильнее.",
-      "image_url": "https://static.tildacdn.com/stor6563-6265-4937-b065-386131383436/41489433.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/cdn/EP0082/CUSA05716_00/FREE_CONTENTV8MGuA54hzI1wu4ioNVj/TR_01.jpg",
-        "https://image.api.playstation.com/cdn/EP0082/CUSA05716_00/FREE_CONTENTZut2OcFO64HV1bilaSnm/TR_02.jpg",
-        "https://image.api.playstation.com/cdn/EP0082/CUSA05716_00/FREE_CONTENTXKmkIOHdkROfmZFPL2GF/TR_03.jpg",
-        "https://image.api.playstation.com/cdn/EP0082/CUSA05716_00/FREE_CONTENT0wjMsKRvAhKN2V4wFYCc/TR_04.jpg",
-        "https://static.tildacdn.com/stor6563-6265-4937-b065-386131383436/41489433.jpg"
-      ],
-      "release_date": "11/10/2016",
-      "publisher": "CRYSTAL DYNAMICS",
-      "platforms": "PS4",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.49,
-      "store_url": "https://store.playstation.com/en-tr/concept/221750",
-      "tilda_uid": "430570405282",
-      "sku": "",
-      "external_id": "LXn1RZT2jIhFRk4kdy60",
-      "url": "http://arenapsgm.ru/tproduct/430570405282-rise-of-the-tomb-raider-ps4ps5",
-      "published_at": "2026-09-03T02:01:33Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Лары возвращается с диким бунтом - теперь ты чувствуешь каждый удар копья в темноте.  \nНовый режим «Кошмар Лары», «Выносливость» и уровень «Экстремальное выживание» - для тех, кто любит нестандартные драйвы. Костюмы и пистолет 20-летия включены. Для VR - лучше беспроводной DUALSHOCK®4."
     }
   ]
 }
