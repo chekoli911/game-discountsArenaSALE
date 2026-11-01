@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T20:00:20Z",
+  "updated_at": "2026-11-01T20:07:00Z",
   "amounts": [
     100,
     200,
@@ -44,6 +44,10 @@
     {
       "code": "ARENAPSGMTIME",
       "amount": 300
+    },
+    {
+      "code": "ARENAAVITO",
+      "amount": 200
     }
   ]
 }
