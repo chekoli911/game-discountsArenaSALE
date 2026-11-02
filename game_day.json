@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-01T02:02:26Z",
-  "server_time_utc": "2026-11-01T02:02:26Z",
+  "updated_at": "2026-11-02T02:02:37Z",
+  "server_time_utc": "2026-11-02T02:02:37Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-02T02:00:00Z",
-  "expires_at": "2026-11-02T02:00:00Z",
+  "next_rotation_at": "2026-11-03T02:00:00Z",
+  "expires_at": "2026-11-03T02:00:00Z",
   "prices_p2": {
     "7": 300,
     "14": 300,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-02T02:00:00Z"
+    "next_rotation_at": "2026-11-03T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "rise-of-the-tomb-raider-ps4-ps5",
+      "title": "Rise of the Tomb Raider PS4/PS5",
+      "description": "Лары возвращается - с новыми узами, зомби и экстремальными испытаниями! 🌪️  \nВ «Rise of the Tomb Raider: 20 Year Celebration» - полноценный геймплей на PS4 Pro, а теперь с ещё одним уровнем сложности и режимом «Кошмар Лары».  \n\nТеперь можно играть в VR с «Узами крови», бороться с зомби, сражаться в команде - и даже погрузиться в атмосферу 20-летнего юбилея.  \n\nВ наборе - новый костюм, пистолет, 5 классических обликов Лары и все старые додатки.  \nДля PS5: используйте DUALSHOCK®4 или подключайте PS Camera с адаптером (сайт: playstation.com/camera-adaptor).",
+      "image_url": "https://static.tildacdn.com/stor6563-6265-4937-b065-386131383436/41489433.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP0082/CUSA05716_00/FREE_CONTENTV8MGuA54hzI1wu4ioNVj/TR_01.jpg",
+        "https://image.api.playstation.com/cdn/EP0082/CUSA05716_00/FREE_CONTENTZut2OcFO64HV1bilaSnm/TR_02.jpg",
+        "https://image.api.playstation.com/cdn/EP0082/CUSA05716_00/FREE_CONTENTXKmkIOHdkROfmZFPL2GF/TR_03.jpg",
+        "https://image.api.playstation.com/cdn/EP0082/CUSA05716_00/FREE_CONTENT0wjMsKRvAhKN2V4wFYCc/TR_04.jpg",
+        "https://static.tildacdn.com/stor6563-6265-4937-b065-386131383436/41489433.jpg"
+      ],
+      "release_date": "11/10/2016",
+      "publisher": "CRYSTAL DYNAMICS",
+      "platforms": "PS4",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.49,
+      "store_url": "https://store.playstation.com/en-tr/concept/221750",
+      "tilda_uid": "430570405282",
+      "sku": "",
+      "external_id": "LXn1RZT2jIhFRk4kdy60",
+      "url": "http://arenapsgm.ru/tproduct/430570405282-rise-of-the-tomb-raider-ps4ps5",
+      "expires_at": "2026-11-03T02:00:00Z",
+      "published_at": "2026-11-02T02:02:37Z",
+      "prices": {
+        "p2": {
+          "7": 300,
+          "14": 300,
+          "21": 300,
+          "28": 350
+        },
+        "p3": {
+          "7": 400,
+          "14": 400,
+          "21": 400,
+          "28": 450
+        }
+      },
+      "prices_p2": {
+        "7": 300,
+        "14": 300,
+        "21": 300,
+        "28": 350
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Лары возвращается - с зомби, узами и кошмаром в VR!  \nНовый уровень сложности, костюм, оружие и классики - всё для настоящего юбилея."
+    }
+  ],
+  "history": [
     {
       "slug": "puteshestvie-ps4-ps5",
       "title": "Путешествие PS4/PS5",
@@ -48,34 +99,31 @@
       "sku": "",
       "external_id": "5jZ2Iol8nTcFlDVy80oV",
       "url": "http://arenapsgm.ru/tproduct/854351722782-puteshestvie-ps4ps5",
-      "expires_at": "2026-11-02T02:00:00Z",
       "published_at": "2026-11-01T02:02:26Z",
       "prices": {
         "p2": {
-          "7": 300,
-          "14": 300,
-          "21": 300,
-          "28": 350
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 400,
-          "14": 400,
-          "21": 400,
-          "28": 450
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 300,
-        "14": 300,
-        "21": 300,
-        "28": 350
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Путешествие PS4/PS5 - это одиночное путешествие в глубины души под солнцем и ветром.  \n\nШипящий ветер, древняя магия, тайны прошлых цивилизаций - всё это живёт в игре, как настоящая история."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "lego-batman-3-pokidaya-gotem-ps4-ps5",
       "title": "LEGO Batman 3: Покидая Готэм PS4/PS5",
@@ -2982,56 +3030,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Disciples: Liberation - тёмное фэнтези с глубокими последствиями и множеством концовок.  \nВыбираете класс, стиль боя и лидера - каждый шаг влияет на судьбу мира. Digital Deluxe добавляет броню, оружие и фрагменты персонажей."
-    },
-    {
-      "slug": "sherlock-holmes-the-devil-daughter-ps4-ps5",
-      "title": "Sherlock Holmes the devil daughter PS4/PS5",
-      "description": "Sherlock Holmes: The Devil’s Daughter - не просто детектив, а настоящий психо-головоломка. Всё начинается с одного вопроса: что если зло скрывается не в палатах, а в душе?  \n\nВы на месте Шерлока Холмса - разыскиваете интригу в тьме Лондона, проникаете в тайны и делаете шаги, которые могут изменить судьбу всей истории. Каждое ваше решение - не просто выбор, а поворот сюжета.  \n\nСледите за подозреваемыми, допрашивайте, бегите, проникаете - всё это в одном динамичном, насыщенном действии. Игра не похожа ни на одну другую.  \n\nПопробуйте сегодня - и почувствуйте, как близко к правде можно быть… 🕵️‍♂️",
-      "image_url": "https://static.tildacdn.com/stor3361-3963-4462-a662-333334383136/46502544.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/UvBWk1A5TiSZyWQY2GBaPagT.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/0DB3K9hrv5cQnhI97mjDBbMy.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/sOtqTpUPWuMrU1ZtFfRuX7JP.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/XHrSBJkAO7LgBq0YxVwbXbOp.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/xV3SoO272qNIz56eCExDEDSQ.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/2OeS4ka7Vgw5X0VdCuGM5vE2.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/2413/S8MtCz60RMqRqP0Ba306kZin.jpg"
-      ],
-      "release_date": "24/6/2021",
-      "publisher": "FROGWARES IRELAND LTD",
-      "platforms": "PS4",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.07,
-      "store_url": "https://store.playstation.com/en-tr/concept/10002297",
-      "tilda_uid": "505235948912",
-      "sku": "",
-      "external_id": "grVmvuky8vFZVY7HiXC9",
-      "url": "http://arenapsgm.ru/tproduct/505235948912-sherlock-holmes-the-devil-daughter-ps4ps",
-      "published_at": "2026-09-04T02:00:28Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Sherlock Holmes: The Devil’s Daughter - психо-головоломка, где зло живёт не в палатах, а в душе.  \n\nРешайте, бегайте, допрашивайте - каждый шаг меняет судьбу сюжета. Игра как ни в чём не бывало."
     }
   ]
 }
