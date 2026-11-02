@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-01T13:10:16Z",
-  "generated_at": "2026-11-01T13:34:29Z",
-  "count": 11368,
+  "catalog_id": "2026-11-02T18:38:56Z",
+  "generated_at": "2026-11-02T18:42:21Z",
+  "count": 11372,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -2113,6 +2113,144 @@
       "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
+      "id": "thief-the-dark-project-remastered",
+      "slug": "thief-the-dark-project-remastered",
+      "sku": "rent-thief-the-dark-project-remastered",
+      "title": "Thief: The Dark Project Remastered PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "NIGHT DIVE STUDIOS",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "03.12.2026",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0315/e72cf99329b71d77f77df3f1a1fc0bd46d2152df4157a67a.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/b9b92c54ac7ccde488fd44479b871b5c9cda2aea07ae13e0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/1ebf4ac1241bff009634fbe9ca78c6b486ee600482f859cf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/99c430023ba794a32daf538bacfd39a72ffc79309d7f1852.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/a6d08c1d6e3ee98712a4753b072ac76b08d519d7c2cdd3ac.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0217/9d99f39f557f1cfa8dbb18dfd75f811801aac67d6c56b7bc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/5bce86e543bdd3cd720013842e7237d7c3e26b2116aef5e4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/eec6566626ebf2a1f485a8c6fbbbd4f5af14a8f15b861180.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/3658a79be8320c2bb58cf1bcc6bf0a68e7a60912cd18823b.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/UP0913-PPSA38212_00-0877603519890164",
+      "description": "Ты готов к погружению в тень?  \n\nThief: The Dark Project Remastered - это не просто стелс-игра, а настоящая революция 1998 года, переработанная под современные системы. Возвращаемся к атмосфере тишины и скрытности, где свет и звук - не фон, а часть механики: враги слышат, смотрят, тревожатся, если ты шумишь.  \n\nГарретт - сирота, которого забрали Хранители. Теперь он мастер вора, и его задача - добраться до сокровищ, не разбивая тишину мира. Всё делается тихо: меч для боя, дубинка для обезвреживания, стрелы на заданиях. У каждого уровня три сложности - и ты можешь вечно перепроходить.  \n\nВсе уровни лабиринтные, без скриптов, с живыми NPC, которые реагируют на твои поступки. Улучшены текстуры, модели, анимации - и добавлены новые функции: колесо оружия, выбор миссий, поддержка пользовательских кампаний.",
+      "seo_title": "Thief: The Dark Project Remastered PS5 аренда игры",
+      "seo_descr": "Аренда Thief: The Dark Project Remastered PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-02T18:38:11Z"
+    },
+    {
+      "id": "thief-the-dark-project-remastered-digital-deluxe",
+      "slug": "thief-the-dark-project-remastered-digital-deluxe",
+      "sku": "rent-thief-the-dark-project-remastered-digital-deluxe",
+      "title": "Thief: The Dark Project Remastered - Digital Deluxe Edition PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "NIGHT DIVE STUDIOS",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "03.12.2026",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/7a2f69d78a4176f176659a46e09d185faf2bc5c7c733ec57.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2122/2dd323aef0b132c80fc166859237f8a85464972d580baf59.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/b9b92c54ac7ccde488fd44479b871b5c9cda2aea07ae13e0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/1ebf4ac1241bff009634fbe9ca78c6b486ee600482f859cf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/99c430023ba794a32daf538bacfd39a72ffc79309d7f1852.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/a6d08c1d6e3ee98712a4753b072ac76b08d519d7c2cdd3ac.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/86d09ea8b28b98d1e4341fd2ed81adf35c41e4fb694943aa.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/5bce86e543bdd3cd720013842e7237d7c3e26b2116aef5e4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2120/eec6566626ebf2a1f485a8c6fbbbd4f5af14a8f15b861180.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/UP0913-PPSA38212_00-0655864714752329",
+      "description": "Ты хочешь играть как настоящий шпион? Всё - под тенью, без лишнего шума.  \n\nThief: The Dark Project Remastered - редкий шедевр в жанре криминальной гонки по теням. Теперь в высоком качестве и с новым взглядом на атмосферу.  \n\nВ составе: полноценная игра, дневник ремастеринга и фрагмент романа - как если бы ты сам вёл кадры шпионской истории.  \n\nМинималистичный стиль, глубокая атмосфера, всё на тонком грани между реальностью и мистикой. Погрузись в мир, где каждый шаг - твоя ложь. 🕵️‍♂️",
+      "seo_title": "Thief: The Dark Project Remastered - Digital Deluxe Edition PS5 аренда игры",
+      "seo_descr": "Аренда Thief: The Dark Project Remastered - Digital Deluxe Edition PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-02T18:38:41Z"
+    },
+    {
       "id": "freestyle-football-2",
       "slug": "freestyle-football-2",
       "sku": "rent-freestyle-football-2",
@@ -3174,8 +3312,8 @@
       "text_translation": "",
       "rating": 0.0,
       "release_date": "02.11.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0205/adc1caaea235565a26b5e34a887bf2390445ab781e702e01.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202604/0309/7f991cd9a021a24e7ef9bab4ad480afe438f26e3033aaad7.jpg",
@@ -3193,6 +3331,140 @@
       "seo_descr": "Аренда CRYMELIGHT Deluxe Edition PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
+    },
+    {
+      "id": "mystery-suspect",
+      "slug": "mystery-suspect",
+      "sku": "rent-mystery-suspect",
+      "title": "Mystery Suspect PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Головоломка",
+      "categories": [],
+      "publisher": "A-Z COMPUTERS",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "01.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1223/a2f33b4d2abbd56e9d4007a00aaff364d009a6f8c52d4edb.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2309/ad61cef29823b0b3e914194c29b84663cc5ea0d0fa2f084e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2309/7ae9ce8b86c52cf0b2297f10d3a209abdd59ca2c22c1d597.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2309/55422588f057910532ff72e8070929b43a91d84d7e8c558c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2309/0b908d50097374b4ed6fe28c0f6eda495ebd3dd1c7fff4d0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2309/c9c04dabd3696a1cc8092ae5ec403a152e85c8ac75f97b25.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021194",
+      "description": "Ты в деле? Всё на месте - душа, оружие, подозрения.  \n\nМystery Suspect - это не просто детектив, а настоящий квест в твоей комнате.  \n\nТолько у тебя есть шанс стать главным следователем и раскрыть правду.  \n\nСобери свидетельства, проверь подозреваемых - и дай ответ на вопрос: кто из них лжёт? 🕵️‍♂️",
+      "seo_title": "Mystery Suspect PS5 аренда игры",
+      "seo_descr": "Аренда Mystery Suspect PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-02T00:15:35Z"
+    },
+    {
+      "id": "mystery-detective-adventure-2",
+      "slug": "mystery-detective-adventure-2",
+      "sku": "rent-mystery-detective-adventure-2",
+      "title": "Mystery Detective Adventure 2 PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "FIVE-BN STUDIO LLC",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "01.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2613/83069d78c3bf40df3b946ed9fc6af8efda2c5d8b604d9150.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1110/1b21570cfd74087d8708620d3184fff11d7f63b06d026a0c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1110/cb47c22fb6ab0ab32b4d940eec193ef69bcb19c6d4720978.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1110/c3110835484ce304c97ae061297a2afdafe371e28a3bf007.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1110/be2b9172b8fad615069e8c160ddc698ab91eb6b5cfaff1a9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1110/b1be9cba96182414c4a81fd222a8420a016f4fb1f05037e4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1110/66a041de99b849fdfeb2e498ad8e748452ac5389fc5f11dc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1110/832078bc71d12a858bc152d8d617f0e49c0b8bd1133f778c.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020751",
+      "description": "Мистерский детектив возвращается! 🕵️‍♂️ В Mystery Detective Adventure 2 ты - главный следователь, который разбирает криминал с лёгкостью и юмором.  \n\nНе просто угадывай преступления - выделяй детали, собирай доказательства и делай выводы на основе реальных фактов.  \n\nСюжет развивается так, как в лучшем детективе: незабываемые повороты, хитрые подсказки и тонкая игра с логикой.  \n\nГотов к новому расследованию? Пусть каждый шаг - шаг вперёд.",
+      "seo_title": "Mystery Detective Adventure 2 PS5 аренда игры",
+      "seo_descr": "Аренда Mystery Detective Adventure 2 PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-02T00:15:35Z"
     },
     {
       "id": "wreck-the-world",
@@ -4552,39 +4824,39 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
+          "1": 390,
+          "7": 490,
+          "14": 890,
+          "21": 1190,
+          "28": 1290,
+          "56": 2322
         },
         "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
+          "1": 490,
+          "7": 590,
+          "14": 990,
+          "21": 1190,
+          "28": 1290,
+          "56": 2322
         }
       },
       "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
+        "1": 390,
+        "7": 490,
+        "14": 890,
+        "21": 1190,
+        "28": 1290,
+        "56": 2322
       },
       "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
+        "1": 490,
+        "7": 590,
+        "14": 990,
+        "21": 1190,
+        "28": 1290,
+        "56": 2322
       },
-      "price_min": 697,
+      "price_min": 390,
       "lang_label": "Английский",
       "genre": "Приключение, Ролевая игра, Приключение",
       "categories": [],
@@ -4611,7 +4883,7 @@
       "seo_title": "The Wolf Among Us Remastered PS5 аренда игры",
       "seo_descr": "Аренда The Wolf Among Us Remastered PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-10-29T16:00:11Z"
+      "catalog_added_at": "2026-11-02T09:05:33Z"
     },
     {
       "id": "the-transference",
@@ -43140,30 +43412,21 @@
       "price_min": 390,
       "lang_label": "На русском языке! (субтитры)",
       "genre": "Хоррор, Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Игры на двоих",
-        "Шутеры",
-        "Приключения",
-        "РПГ"
-      ],
+      "categories": [],
       "publisher": "Green Man Gaming Publishing",
       "voice": "Английский",
       "text_translation": "Русский, Английский",
-      "rating": 0.0,
+      "rating": 4.4,
       "release_date": "11.08.2026",
       "is_preorder": false,
       "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/1416/6752ca9f0e61258b1b5646d77124c464e49b790fc241f1ab.png",
       "screenshots": [],
       "store_url": "https://store.playstation.com/en-tr/concept/10019078",
-      "description": "No More Room in Hell 2 - тёмная драма о спасателях, которые борются с ордой зомби по всему Северо-востоку США.  \n\nВсего восемь игроков. Один персонаж. Одна жизнь. Потеряйте её - и всё исчезает.  \n\nКаждое решение влияет на орду: как вы действуете, так и реагирует она. Зомби не просто гонятся - они умнеют, а ваша сила растёт только тогда, когда вы вместе.  \n\nОт Льюистона до больницы Beaulieu - по шести картах, где каждый район живёт своей смертельной историей. Ищите союзников, стройте стратегию и не оставляйте никого в одиночку.",
-      "seo_title": "No More Room in Hell 2 на PS5 аренда игры",
-      "seo_descr": "Аренда No More Room in Hell 2 на PS5. В No More Room in Hell 2 вы выступаете в роли спасателя и отправляетесь в зловещую тьму локаций, кишащих зомби. Быстрый доступ после оплаты.",
-      "external_id": "n5SzmPQvBUcxyBi5Gqq7",
+      "description": "No More Room in Hell 2 - это не просто бой с зомби. Вы спасатели в тьме локаций, где каждый шаг - риск.  \n\nВсем вместе - максимум 8 игроков - нужно выжить на грани, где одна ошибка может уничтожить не только персонажа, но и всю команду.  \n\nГорода, больницы, бункеры - на шести картах США, в разных временах суток, каждый раз с уникальными задачами и угрозами.  \n\nЗомби не просто гоняют вас - они реагируют, меняются, заражают. И ваша жизнь - одна. Делайте шаги с умом, иначе вы сами станете частью нежити.",
+      "seo_title": "No More Room in Hell 2 PS5 аренда игры",
+      "seo_descr": "Аренда No More Room in Hell 2 PS5 на PlayStation.",
+      "external_id": "",
       "catalog_added_at": "2026-11-01T13:34:25Z"
     },
     {
