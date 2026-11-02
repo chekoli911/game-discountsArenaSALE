@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-02T18:38:56Z",
-  "generated_at": "2026-11-02T18:42:21Z",
+  "catalog_id": "2026-11-02T20:09:18Z",
+  "generated_at": "2026-11-02T20:57:23Z",
   "count": 11372,
   "items": [
     {
@@ -2179,7 +2179,7 @@
       "seo_title": "Thief: The Dark Project Remastered PS5 аренда игры",
       "seo_descr": "Аренда Thief: The Dark Project Remastered PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-02T18:38:11Z"
+      "catalog_added_at": "2026-11-02T18:55:10Z"
     },
     {
       "id": "thief-the-dark-project-remastered-digital-deluxe",
@@ -2248,7 +2248,7 @@
       "seo_title": "Thief: The Dark Project Remastered - Digital Deluxe Edition PS5 аренда игры",
       "seo_descr": "Аренда Thief: The Dark Project Remastered - Digital Deluxe Edition PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-02T18:38:41Z"
+      "catalog_added_at": "2026-11-02T18:55:10Z"
     },
     {
       "id": "freestyle-football-2",
@@ -31413,42 +31413,47 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799,
+          "56": 1438
         },
         "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
+          "1": 357,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899,
+          "56": 1618
         }
       },
       "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
+        "1": 257,
+        "7": 357,
+        "14": 490,
+        "21": 699,
+        "28": 799,
+        "56": 1438
       },
       "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
+        "1": 357,
+        "7": 459,
+        "14": 590,
+        "21": 799,
+        "28": 899,
+        "56": 1618
       },
-      "price_min": 697,
+      "price_min": 257,
       "lang_label": "На русском языке! (субтитры)",
       "genre": "Simulator, Симулятор, Казуальная",
-      "categories": [],
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Новинки",
+        "Стратегии и симуляторы"
+      ],
       "publisher": "GAMES INCUBATOR S.A.",
       "voice": "Английский",
       "text_translation": "Русский, Английский",
@@ -31468,11 +31473,11 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202607/2917/4d977a9c4c9338d98911e7e35b96ac6177027ccac6accfe3.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/concept/10018006",
-      "description": "Ты готов к битве с хаосом?  \nDeconstruction Simulator - это не просто строительство, а разборка по-настоящему.  \n\nВсё, что ты увидишь, рушится - и в этом и есть суть.  \nГрубо говоря: ты не строишь, ты перестраиваешь всё подряд.  \n\nСоздаётся ощущение, будто мир разваливается перед твоими глазами - и ты уже на его месте. 🏗️💥",
-      "seo_title": "Deconstruction Simulator PS5 аренда игры",
-      "seo_descr": "Аренда Deconstruction Simulator PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-09-11T00:59:36Z"
+      "description": "Deconstruction Simulator - это не просто игра, а настоящий бизнес-симулятор в стиле \"вы сносите, а потом зарабатываете\".  \n\nСносите дома, мебель или роскошные виллы. Разбирайте по частям или пусть всё рушится хаотично - ветхие лачуги или бархатные здания, всё равно красиво.  \n\nКаждый контракт - это вызов. Выбор: строго следовать инструкциям или просто сносить всё на своём пути. Но будьте осторожны - репутация важна, как и деньги.  \n\nСтройте бизнес: купите авто, расширьте склад, обновите инструменты. Станьте ведущим специалистом по сносу - и начните зарабатывать на реальных условиях.",
+      "seo_title": "Deconstruction Simulator на PS5 аренда игры",
+      "seo_descr": "Аренда Deconstruction Simulator на PS5. Deconstruction Simulator - это лучший симулятор разрушения, предлагающий полную свободу действий и широкий спектр контрактов, которые необходимо выполнить. Быстрый доступ после оплаты.",
+      "external_id": "NqpzXY9Xv9dFuxyGv7ur",
+      "catalog_added_at": "2026-11-02T20:57:19Z"
     },
     {
       "id": "valheim",
