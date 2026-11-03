@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-02T20:09:18Z",
-  "generated_at": "2026-11-02T21:13:00Z",
-  "count": 11372,
+  "catalog_id": "2026-11-02T23:56:58Z",
+  "generated_at": "2026-11-03T00:06:01Z",
+  "count": 11373,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3331,6 +3331,75 @@
       "seo_descr": "Аренда CRYMELIGHT Deluxe Edition PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
+    },
+    {
+      "id": "cat-president-2-purrlitical-revolution",
+      "slug": "cat-president-2-purrlitical-revolution",
+      "sku": "rent-cat-president-2-purrlitical-revolution",
+      "title": "Cat President 2: Purrlitical Revolution PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Приключение, Приключение",
+      "categories": [],
+      "publisher": "Penguin Pop Games LLC",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "02.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1007/2d8ab998faada9cdb0ba7775da22fea01bffca695269cb45.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1007/9021cd3f3db95220e5c0f926c6186aebdd99e143814baf19.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1007/92643cf01773c9cbeb31997a7d18ee41cd17e456c3fd1bb8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1007/b3dfbde611e22c03ef6ec2a6900c21197ad076d76517feea.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1007/9d40d7ba16c04d20b3365d2253f831a32be3f52d8f515f05.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1007/64fe79bb96f10c0ec73f7d90e514d6bd8ab2de547923c41e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1007/2e31d13fb6a4091ae26529f79b9368f43fc2247bf835b2f5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1007/a23db3b23485df337d951dd598bfb28e8aa1a47e59f86a73.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1007/7c7a5e1bd501ab4a29d62b4d8b4819a10908112cb2c36a9b.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020489",
+      "description": "Коты в кабинете власти. Да, это реально.  \n\nВ Cat President 2 ты не просто управляешь - ты властвуешь. Кот-президент, парламент из котов и барышни в шляпах - всё как в кино, только с мурлыкающими дипломатами.  \n\nПредставь: ты отвечаешь за бюджет, утверждаешь законы и выступаешь на публичных выступлениях - всё это на твоём личном кот-пультё.  \n\nПриятно быть властным - особенно когда ты не просто сидишь в кресле, а реально решаешь, что будет с мусором и кот-парадами. 🐾",
+      "seo_title": "Cat President 2: Purrlitical Revolution PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Cat President 2: Purrlitical Revolution PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-02T23:56:40Z"
     },
     {
       "id": "mystery-suspect",
@@ -31448,12 +31517,7 @@
       "price_min": 257,
       "lang_label": "На русском языке! (субтитры)",
       "genre": "Simulator, Симулятор, Казуальная",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Стратегии и симуляторы"
-      ],
+      "categories": [],
       "publisher": "GAMES INCUBATOR S.A.",
       "voice": "Английский",
       "text_translation": "Русский, Английский",
@@ -31473,10 +31537,10 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202607/2917/4d977a9c4c9338d98911e7e35b96ac6177027ccac6accfe3.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/concept/10018006",
-      "description": "Deconstruction Simulator - это не просто игра, а настоящий бизнес-симулятор в стиле \"вы сносите, а потом зарабатываете\".  \n\nСносите дома, мебель или роскошные виллы. Разбирайте по частям или пусть всё рушится хаотично - ветхие лачуги или бархатные здания, всё равно красиво.  \n\nКаждый контракт - это вызов. Выбор: строго следовать инструкциям или просто сносить всё на своём пути. Но будьте осторожны - репутация важна, как и деньги.  \n\nСтройте бизнес: купите авто, расширьте склад, обновите инструменты. Станьте ведущим специалистом по сносу - и начните зарабатывать на реальных условиях.",
-      "seo_title": "Deconstruction Simulator на PS5 аренда игры",
-      "seo_descr": "Аренда Deconstruction Simulator на PS5. Deconstruction Simulator - это лучший симулятор разрушения, предлагающий полную свободу действий и широкий спектр контрактов, которые необходимо выполнить. Быстрый доступ после оплаты.",
-      "external_id": "NqpzXY9Xv9dFuxyGv7ur",
+      "description": "Ты готов к битве с хаосом?  \nDeconstruction Simulator - это не просто строительство, а разборка по-настоящему.  \n\nВсё, что ты увидишь, рушится - и в этом и есть суть.  \nГрубо говоря: ты не строишь, ты перестраиваешь всё подряд.  \n\nСоздаётся ощущение, будто мир разваливается перед твоими глазами - и ты уже на его месте. 🏗️💥",
+      "seo_title": "Deconstruction Simulator PS5 аренда игры",
+      "seo_descr": "Аренда Deconstruction Simulator PS5 на PlayStation.",
+      "external_id": "",
       "catalog_added_at": "2026-11-02T20:57:19Z"
     },
     {
@@ -267170,53 +267234,49 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 257,
-          "7": 357,
-          "14": 490,
-          "21": 699,
-          "28": 799,
-          "56": 1438
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
         },
         "p3": {
-          "1": 357,
-          "7": 459,
-          "14": 590,
-          "21": 799,
-          "28": 899,
-          "56": 1618
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
         }
       },
       "prices_p2": {
-        "1": 257,
-        "7": 357,
-        "14": 490,
-        "21": 699,
-        "28": 799,
-        "56": 1438
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
       },
       "prices_p3": {
-        "1": 357,
-        "7": 459,
-        "14": 590,
-        "21": 799,
-        "28": 899,
-        "56": 1618
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
       },
-      "price_min": 257,
+      "price_min": 697,
       "lang_label": "На русском языке! (субтитры)",
       "genre": "Хоррор",
-      "categories": [
-        "Все игры",
-        "Только PS5",
-        "Стратегии и симуляторы"
-      ],
+      "categories": [],
       "publisher": "Tlon Industries LLC",
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "rating": 4.67,
       "release_date": "23.01.2025",
       "is_preorder": false,
-      "is_new": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1001/d48169ac7fde4306e762f06dfda1f3a91ce628031a2c7f3d.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202412/1621/ffa34fd06068b47904870d70ce2acd7a6acbd40a66cecb39.jpg",
@@ -267225,11 +267285,11 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202412/1621/06bc3be0376d2d9244091be560a7fcaf865b94ec13fbdc96.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/concept/10011875",
-      "description": "Dreamcore - не просто игра, а погружение в жуткую красоту лиминальных пространств.  \n\nТам где тишина становится зловещей, и каждый уголок скрывает тайну - вы бродите по бесконечным коридорам Dreampools, мерцающим отражениям и водяным лабиринтам без пути.  \n\nEternal Suburbia приглашает вас заглянуть за фасады обычной жизни: в детских зонах, пластике, кубиках и шарах - всё выглядит идиллично, но не работает.  \n\nНет инструкций, нет голосов, нет направления. Всё зависит от вас. Каждый уровень - как загадочный аркадный кошмар, где каждый поворот проверяет ваше восприятие реальности.",
-      "seo_title": "Dreamcore на PS5 аренда игры",
-      "seo_descr": "Аренда Dreamcore на PS5. Dreamcore — это игра психологического исследования, которая погружает игроков в жуткую красоту лиминальных пространств. Быстрый доступ после оплаты.",
-      "external_id": "jwlAClpsGQGK0l0GKhK-",
-      "catalog_added_at": "2026-11-02T21:12:56Z"
+      "description": "Dreamcore - не просто игра, а состояние души. Ты входишь в мир, где нет карт, нет путей, только туман и зов.  \n\nКаждая тропинка - это выбор. Каждый уголок - шанс на откровение. В Dreampools и Eternal Suburbia всё скрыто, как в детской игре, без правил, без ответов.  \n\nТы не идёшь по линии - ты живёшь в лиминальном пространстве. Атмосфера. Слабая света. Безумные мечты. Только твой путь - и твоя история. 🌫️",
+      "seo_title": "Dreamcore PS5 аренда игры",
+      "seo_descr": "Аренда Dreamcore PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:39:15Z"
     },
     {
       "id": "arcade-archives-final-star-force",
