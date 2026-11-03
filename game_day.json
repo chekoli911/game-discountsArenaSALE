@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-02T02:02:37Z",
-  "server_time_utc": "2026-11-02T02:02:37Z",
+  "updated_at": "2026-11-03T02:02:29Z",
+  "server_time_utc": "2026-11-03T02:02:29Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-03T02:00:00Z",
-  "expires_at": "2026-11-03T02:00:00Z",
+  "next_rotation_at": "2026-11-04T02:00:00Z",
+  "expires_at": "2026-11-04T02:00:00Z",
   "prices_p2": {
     "7": 300,
     "14": 300,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-03T02:00:00Z"
+    "next_rotation_at": "2026-11-04T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "police-simulator-patrol-officers-ps4-ps5",
+      "title": "Police Simulator: Patrol Officers PS4/PS5",
+      "description": "Кратос и Атрея ждут тебя в мире, где каждый мир - как новый шок. От скандинавских богов до диких зверей - битвы не просто происходят, они громко рвутся в твою реальность.  \n\nС топором Левиафан и клинками Хаоса ты будешь чувствовать каждое движение, как если бы сам сражался на поле боя. Способности, которые раскрываются по мере игры - это не просто фича, а настоящий рост героя.  \n\nПогрузись в живые, детализированные миры, где каждая пейзажная деталь кажется реальной. Адаптивные тригги и тактильная отдача делают каждый удар - почти физическим ощущением.  \n\nГотовы к Рагнарёку? Просто включи игру и стань частью истории.",
+      "image_url": "https://static.tildacdn.com/stor6131-3738-4331-b530-306239643537/63361152.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0714/fcb0ad0800169c7d8f9c6eef5361ae8b9fc609100a0a9cbd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202207/0712/J5sOfs99XdXte11gwpPVs3qZ.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202207/0712/tGF7aVoNLsL3m2X4w8nMm24a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202207/0712/gKoaqyybV0tR4Qof0VL2clJV.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202207/0712/8dvFDVY0QuLXVyedxnJmu5Tw.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0714/997f211fb43b3398be51fd905b926a17cef1eca0087ce12f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0714/888fd729747550875ed391215d6fa1c7f19394bf6d7c908c.jpg"
+      ],
+      "release_date": "10/11/2022",
+      "publisher": "astragon Entertainment GmbH",
+      "platforms": "PS4, PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.37,
+      "store_url": "https://store.playstation.com/en-tr/concept/10000663",
+      "tilda_uid": "380942619302",
+      "sku": "",
+      "external_id": "CPpBmYG5jHNFY1bHLGHy",
+      "url": "http://arenapsgm.ru/tproduct/380942619302-police-simulator-patrol-officers-ps4ps5",
+      "expires_at": "2026-11-04T02:00:00Z",
+      "published_at": "2026-11-03T02:02:29Z",
+      "prices": {
+        "p2": {
+          "7": 300,
+          "14": 300,
+          "21": 300,
+          "28": 350
+        },
+        "p3": {
+          "7": 400,
+          "14": 400,
+          "21": 400,
+          "28": 450
+        }
+      },
+      "prices_p2": {
+        "7": 300,
+        "14": 300,
+        "21": 300,
+        "28": 350
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Каждый мир в игре - как новый шок: от богов до диких зверей, битвы рвутся прямо в твою реальность.  \nС топором Левиафан и клинками Хаоса каждый удар чувствуешь почти физически - как будто сражаешься сам."
+    }
+  ],
+  "history": [
     {
       "slug": "rise-of-the-tomb-raider-ps4-ps5",
       "title": "Rise of the Tomb Raider PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "LXn1RZT2jIhFRk4kdy60",
       "url": "http://arenapsgm.ru/tproduct/430570405282-rise-of-the-tomb-raider-ps4ps5",
-      "expires_at": "2026-11-03T02:00:00Z",
       "published_at": "2026-11-02T02:02:37Z",
       "prices": {
         "p2": {
-          "7": 300,
-          "14": 300,
-          "21": 300,
-          "28": 350
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 400,
-          "14": 400,
-          "21": 400,
-          "28": 450
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 300,
-        "14": 300,
-        "21": 300,
-        "28": 350
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Лары возвращается - с зомби, узами и кошмаром в VR!  \nНовый уровень сложности, костюм, оружие и классики - всё для настоящего юбилея."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "puteshestvie-ps4-ps5",
       "title": "Путешествие PS4/PS5",
@@ -2981,55 +3031,6 @@
       "p3_extra": 0,
       "is_game_day": false,
       "short_description": "Гонки на уровне настоящего GT3 - теперь в Assetto Corsa Competizione.  \nТочная физика, плавная графика и рельеф трассы делают движение почти реальным - как в жизни, так и на гоночной трассе."
-    },
-    {
-      "slug": "disciples-liberation-ps4-ps5",
-      "title": "Disciples: Liberation PS4/PS5",
-      "description": "🔥 Всё, что нужно для мрачного фэнтези-погружения - в Disciples: Liberation.  \n\nПогрузитесь в тёмный мир Невендаара, где каждый ваш шаг делает последствия. Выбираете класс, формируете группу из разных фракций и строите армию под свой стиль - с оружием или заклинаниями.  \n\nБолее 80 часов кампании - три акта, больше 270 заданий, пять концовок. Найдёте руины, сокровища и кровавые истории. А бой с монстрами? У каждого - своя стратегия.  \n\nСражайтесь в онлайн-модах или просто решайте: каким лидером станете - ваш выбор определяет судьбу мира. И да, это не просто игра - это тяжёлая история, где неверный шаг может закончиться катастрофой.  \n\nDigital Deluxe Edition добавляет два комплекта брони, оружия и фрагменты персонажей - для тех, кто хочет уйти дальше в мир.",
-      "image_url": "https://static.tildacdn.com/stor3462-3665-4061-b430-343161643638/93556984.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202110/1512/F8NMJd4RkHRwU4wOVOSTZPvh.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202110/1512/Tcbh56hSjsBBjCxDfAMsBMPQ.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202110/1512/uyLdUYjTm0PFuiK6wWvduk3u.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202110/1512/psUVvRi8KtH4VjqAyN63CwWn.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202110/1512/1oz3B3LwDstDHlitTbAbK0Te.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202110/1512/AW37WuNBssnKrlxx2uSPxv8f.jpg"
-      ],
-      "release_date": "21/10/2021",
-      "publisher": "Kalypso Media GMBH",
-      "platforms": "PS4, PS5",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.19,
-      "store_url": "https://store.playstation.com/en-tr/concept/10000604",
-      "tilda_uid": "666985504492",
-      "sku": "",
-      "external_id": "gfHKsB0i1yfYtAjeSJp6",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/666985504492-disciples-liberation-ps4ps5",
-      "published_at": "2026-09-05T02:00:32Z",
-      "prices": {
-        "p2": {
-          "7": 390,
-          "14": 450,
-          "21": 590,
-          "28": 690
-        },
-        "p3": {
-          "7": 490,
-          "14": 550,
-          "21": 690,
-          "28": 790
-        }
-      },
-      "prices_p2": {
-        "7": 390,
-        "14": 450,
-        "21": 590,
-        "28": 690
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Disciples: Liberation - тёмное фэнтези с глубокими последствиями и множеством концовок.  \nВыбираете класс, стиль боя и лидера - каждый шаг влияет на судьбу мира. Digital Deluxe добавляет броню, оружие и фрагменты персонажей."
     }
   ]
 }
