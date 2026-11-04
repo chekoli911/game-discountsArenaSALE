@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-04T18:05:46Z",
-  "generated_at": "2026-11-04T18:13:09Z",
-  "count": 11384,
+  "catalog_id": "2026-11-04T18:52:51Z",
+  "generated_at": "2026-11-04T18:55:11Z",
+  "count": 11386,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -673,6 +673,144 @@
       "seo_descr": "Аренда Fable Standard Edition PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
+    },
+    {
+      "id": "final-fantasy-xiv-evercold-standard-edition",
+      "slug": "final-fantasy-xiv-evercold-standard-edition",
+      "sku": "rent-final-fantasy-xiv-evercold-standard-edition",
+      "title": "FINAL FANTASY XIV: Evercold - Standard Edition PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "Ролевая игра, Ролевая игра",
+      "categories": [],
+      "publisher": "Square Enix LTD",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "19.02.2027",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1310/f3ccf644a258b9a49118f39d29003485561b645b4dab398b.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/26985fa7858422f632e14854f3750100a196e3c161ac42c9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/6597c745af018c0acc0e84e47f1effb6d5fd5b39f9d8adef.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/c8faa5d00cc842906c6cc2b98606def5dc3380366be6a932.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/8a950ca69c0ad46590b7197be961fa89208626f63191f765.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/4680d5d4339aa2396c5a111a0379be3cfd16d32b93dffb02.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/c84e09fa562d34997909f6d4ddb37ce218e6dc7466a22ba9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/6a63b818365e8a8af153b259285a9cc66a4c1741e22b8a04.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/76801d60621ab6977ec3694542f08ebd71a1afeb21e97391.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/EP0082-PPSA02955_00-C0EX06SET0000000",
+      "description": "🔥 Новый сезон в Final Fantasy XIV - Evercold приближается!  \n\nВоин Света отправляется в опасное путешествие по новым землям, где ждут колоссы, грозные противники и тайны, которые разорвут даже самые сильные союзы.  \n\nТеперь ты можешь выбрать профессии - танк Bastion или стрелка Zephyr, повысить уровень до 110 и почувствовать себя настоящим героем в новых городах: Fargarth и Hjartadunur.  \n\nИгра живёт - с новыми рейдами, расширенными настройками боя, фейтами, охотой и поиском сокровищ. А ты уже готов к поиску правды? 🚀",
+      "seo_title": "FINAL FANTASY XIV: Evercold - Standard Edition PS4/PS5 аренда игры",
+      "seo_descr": "Аренда FINAL FANTASY XIV: Evercold - Standard Edition PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-04T18:55:00Z"
+    },
+    {
+      "id": "final-fantasy-xiv-evercold-collector-s-edition",
+      "slug": "final-fantasy-xiv-evercold-collector-s-edition",
+      "sku": "rent-final-fantasy-xiv-evercold-collector-s-edition",
+      "title": "FINAL FANTASY XIV: Evercold - Collector’s Edition PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "Ролевая игра, Ролевая игра",
+      "categories": [],
+      "publisher": "Square Enix LTD",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "19.02.2027",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1310/32e0039c1c08bc13dd0a411f3a80a5f1b66ade5463bda5d8.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/26985fa7858422f632e14854f3750100a196e3c161ac42c9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/6597c745af018c0acc0e84e47f1effb6d5fd5b39f9d8adef.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/c8faa5d00cc842906c6cc2b98606def5dc3380366be6a932.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/8a950ca69c0ad46590b7197be961fa89208626f63191f765.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/4680d5d4339aa2396c5a111a0379be3cfd16d32b93dffb02.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/c84e09fa562d34997909f6d4ddb37ce218e6dc7466a22ba9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/6a63b818365e8a8af153b259285a9cc66a4c1741e22b8a04.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/76801d60621ab6977ec3694542f08ebd71a1afeb21e97391.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/EP0082-PPSA02955_00-C0EC6SET00000000",
+      "description": "Вот новое приключение - FINAL FANTASY XIV: Evercold.  \n\nПосле 4 дней до выхода ты уже получишь доступ к раннему досмотре, а в игру придут бонусы: серьга Халоне (даёт +30% опыта до уровня 100), экипируемая только для воинов света и магов, и зверь Valhallar Odin - твой личный конь.  \n\nСюжет продолжается в мире Godless Realms: новые города, грозные противники, рейды от уровня 110 и даже альянс-рейд Ghosts of Desire. Ты почувствуешь себя настоящим героем - с новыми профессиями, настройками и возможностями для самовыражения.  \n\nИгра уже ждёт тебя - просто оформи предзаказ и начни путешествие.",
+      "seo_title": "FINAL FANTASY XIV: Evercold - Collector’s Edition PS4/PS5 аренда игры",
+      "seo_descr": "Аренда FINAL FANTASY XIV: Evercold - Collector’s Edition PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-04T18:55:00Z"
     },
     {
       "id": "fable-premium-edition",
