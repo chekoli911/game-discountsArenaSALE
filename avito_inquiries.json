@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-04T17:27:37+03:00",
-  "updated_at_msk": "04.11.2026 17:27",
+  "updated_at": "2026-11-04T18:28:09+03:00",
+  "updated_at_msk": "04.11.2026 18:28",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2321,
+  "total": 2322,
   "unique_games": 851,
   "in_demand": 141,
   "one_off": 574,
@@ -333,7 +333,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru",
-      "count": 90,
+      "count": 91,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -518,7 +518,7 @@
         88,
         88,
         89,
-        90
+        91
       ],
       "hourly": [
         0,
@@ -677,7 +677,7 @@
         0,
         0,
         1,
-        1
+        2
       ],
       "price_series": [
         null,
@@ -839,7 +839,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-11-04T11:46:07+03:00"
+      "last_at": "2026-11-04T18:21:48+03:00"
     },
     {
       "id": "ea-sports-fctm-27-ps4-ps5",
@@ -421802,6 +421802,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-04T18:21:48+03:00"
+    },
+    {
       "title": "Скрытая повестка",
       "price": 479,
       "price_string": "479 ₽",
@@ -422034,12 +422040,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-03T18:01:29+03:00"
-    },
-    {
-      "title": "NEW monopoly PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-03T17:02:49+03:00"
     }
   ]
 }
