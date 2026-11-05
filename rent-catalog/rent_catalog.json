@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-04T18:52:51Z",
-  "generated_at": "2026-11-04T18:55:11Z",
-  "count": 11386,
+  "catalog_id": "2026-11-05T12:08:41Z",
+  "generated_at": "2026-11-05T12:16:50Z",
+  "count": 11399,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3001,6 +3001,75 @@
       "catalog_added_at": "2026-10-21T07:48:57Z"
     },
     {
+      "id": "forefront",
+      "slug": "forefront",
+      "sku": "rent-forefront",
+      "title": "Forefront PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Шутер, Экшен",
+      "categories": [],
+      "publisher": "Triangle Factory",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.76,
+      "release_date": "05.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202601/0611/352bcd85c76871203126d8e80f6beaf0f3ec013a9181c30a.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1711/78a18c45101d72d2ebdcb14ab4f91e1023b7db6df6d5d0b9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1711/5ff201788c3162857e2c128442870f1b430f29eeb26ee5e2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1711/3a15c3ecf61d5e9cc355494685fd1b004b4131ec1ee09cf4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1711/8947a8bbc26a5521d0e7db1c7010b1eca2d1351afb419fb7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1711/8236b94082a6cf3e207936b0339c6af418bd3a23cbe782ea.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1711/262fbff58cb498f44f0b20d11ca7d0d3f0223f635618da83.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1711/b05b3205a37354ff325121e48cab1cad7005bc2f56c605ea.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1711/1ee8fb73a9acba2228821555fb7738515d5a7400f55e25d0.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018044",
+      "description": "Forefront - это бодрое, насыщенное действие в стиле \"масштабная арена + динамичные баттлы\".  \n\nСюжет с элементами фэнтези и будущего: ты - главный герой, который должен взять под контроль всё, что осталось от разрушенного мира.  \n\nГеймплей на уровне - быстрые бои, стратегические решения и живая атмосфера борьбы.  \nРазвлечься - просто. Всё в одном потоке.",
+      "seo_title": "Forefront PS5 аренда игры",
+      "seo_descr": "Аренда Forefront PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-05T12:08:05Z"
+    },
+    {
       "id": "edge-of-memories",
       "slug": "edge-of-memories",
       "sku": "rent-edge-of-memories",
@@ -3049,8 +3118,8 @@
       "text_translation": "",
       "rating": 0.0,
       "release_date": "05.11.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2508/0da171c50ab1a452cabe88d9967a05f25d1229bca6876f1f.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202609/1114/2c56f1202f8c1dc9c8eb1ed961050285ff0b7c32904dee8b.jpg",
@@ -3068,6 +3137,211 @@
       "seo_descr": "Аренда Edge of Memories PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-09-18T05:14:34Z"
+    },
+    {
+      "id": "dark-alley",
+      "slug": "dark-alley",
+      "sku": "rent-dark-alley",
+      "title": "Dark Alley PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Приключение, Головоломка",
+      "categories": [],
+      "publisher": "JANDUSOFT S.L.",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "05.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1916/4f65787bad6509571d7970da7af78f660c10e6d61ee5f80b.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1917/799e707fd91f69c3bebb1193e723f72da8b17edcca0b40e3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1917/8ca070673007dc9b9beb0205feeafdeac6f77f1dff58e043.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1917/ccc06663ba8e2dab42ab310a062282740694791a9add009b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1917/1868fbd61716c05d6703b29958f2eb6311bd1b34e5c80b6e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1917/1cac3934136d3bb8935862284d27f9aae3eeb622ea1251a9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1917/37be6c87f78b9e1b28fdbc6423388faad26a5ee0862e3a47.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1917/8a21ade45930c75316cbd8eae8fcc6e5edcba31a3971e8cc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1917/1bbd18517f697d95c7b21ecf101926867a005693d947668b.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020602",
+      "description": "Dark Alley - не просто преступная драма. Это уличные истории с кровавыми нотками, где каждый шаг ведёт к выбору - и следствие заставляет дрожать.  \n\nТы влезаешь в мир подполья, где тьма не просто фон - она живая. Следуй за людьми, которые не хотят быть забытыми.  \n\nМрачно, напряжённо, с глубоким настроением. Психологические интриги и безумные решения в каждом повороте.  \n\nПроверь себя: что ты бы сделал - если бы мог?",
+      "seo_title": "Dark Alley PS5 аренда игры",
+      "seo_descr": "Аренда Dark Alley PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-05T12:07:47Z"
+    },
+    {
+      "id": "where-the-seeds-fall",
+      "slug": "where-the-seeds-fall",
+      "sku": "rent-where-the-seeds-fall",
+      "title": "Where the Seeds Fall PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "Cygames, Inc.",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 4.36,
+      "release_date": "04.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0308/cb390cece59469c750236d52fe97781bce765cf63695b538.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1207/edcc97f338d80033f474b92d4d69a85f4640432e917ad26a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1207/c27502518bb983d8662cf14963e86c75f58478d758d47986.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1207/24164e8f54dcfc6827f9d8440073d3c85a25bb0a0453ea8f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1207/7e7ad46d62a4ed96e0f54233d3c9117b3c997f1a41299354.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1207/a179d4af728605eaac3a6c587a62303f199f36b467ede4b0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1207/3bab000847d47f5e94caee63eba41322d0f21b3defe582f7.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019729",
+      "description": "Где-то в глубине леса растёт дерево, из которого не вырвать ни одного листа.  \nВ Where the Seeds Fall ты - дочь-сёстрица, которая ведёт борьбу за землю и природу.  \nСамая тихая игра - но с самой мощной атмосферой.  \nЛес не просто фон: он живой, чувствующий, как ты. 🌲✨",
+      "seo_title": "Where the Seeds Fall PS5 аренда игры",
+      "seo_descr": "Аренда Where the Seeds Fall PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-05T00:54:32Z"
+    },
+    {
+      "id": "void-breaker",
+      "slug": "void-breaker",
+      "sku": "rent-void-breaker",
+      "title": "VOID/BREAKER PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Шутер, Экшен",
+      "categories": [],
+      "publisher": "Playstack Limited",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.33,
+      "release_date": "04.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2816/0eb0f5c49b4287b4423e5b21923d0696258ddd63df6ea3a0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202504/0416/9312a790ebbf0c90a3c6e858b8e7a141047fdf7880111b73.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202504/0416/e3ebecf289b36b9c3d2ed0a99103fa57b9cdb2a37cde021b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202504/0416/242333a61076c7804c8b582db361940a6f643d072e33945c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202504/0416/73759d7e0fb30bbcd5fa331537c8388ef48931cf1e0e2487.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202504/0416/fce2f7573107fa4a7ebdce50f87dd8a2a1ea3bfb2ca08ead.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202504/0416/688c0f50bc1bed7e9f1f4096db93fb1400ddfdfcba02e6a7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202504/0416/534705f2a738c3cf2f3600de020d033b1b773ceb34145e6a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202504/0416/0ba8c0596aa83305fc7eb0ca2fcd81ee9e3a30b3e63f5ff5.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10013733",
+      "description": "VOID/BREAKER - это жестокая битва между реальностью и мозгом.  \n\nТы не просто управляешь героем - ты в нём. Повторяйся, смотришь, рвёшься, вспоминаешь.  \n\nМир раскрывается по кусочкам - каждый выбор меняет путь.  \n\nГотов к борьбе с тенью? Ты уже в ней. 🎮",
+      "seo_title": "VOID/BREAKER PS5 аренда игры",
+      "seo_descr": "Аренда VOID/BREAKER PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-05T00:54:32Z"
     },
     {
       "id": "solo-leveling-arise-overdrive",
@@ -3128,6 +3402,272 @@
       "seo_descr": "Аренда Solo Leveling: ARISE OVERDRIVE PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-04T06:13:26Z"
+    },
+    {
+      "id": "re-volt",
+      "slug": "re-volt",
+      "sku": "rent-re-volt",
+      "title": "Re-Volt PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Гонки",
+      "categories": [],
+      "publisher": "H2 Interactive Co., Ltd.",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "04.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/1301/f72078b264d8e63ce621d349d1ae60316fa560456b283c67.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1502/dde7d64ae763462c06c01d0924dab702d3ba53b43387f7e2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1502/c73738f784af0e121c4bd8b64aae94bf8dc958e5648254ac.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1502/65ea8b692b804cd2185221bba10df3e136d6e022b515dce5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1502/702040add11758cccacdefa81822b4f03e4ee55ed7d8423d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1502/61a5627ed7f7dae85439a84e7a32ba3b1304b381f4700ac3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1502/62e4e8a86ab59aa34e6701989d87b61217e024eae5544b1b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1502/bdc8b2cf61065d901c9c0370f3fcf1d5059861e8d5627dff.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019377",
+      "description": "Re-Volt на PS5 - это не просто гонки, а настоящий бой за контроль над территориями.  \n\nТы ведёшь свою машину по динамичным картам, где каждый поворот - риск, каждый разворот - шанс выиграть.  \n\nПочти как в старых кибер-экшен-играх, но с мощным движком и реальным чувством ускорения.  \n\nГотовы к скорости? Всё на PS5 - и ты уже в деле. 🚗💥",
+      "seo_title": "Re-Volt PS5 аренда игры",
+      "seo_descr": "Аренда Re-Volt PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-05T00:54:32Z"
+    },
+    {
+      "id": "old-market-restored",
+      "slug": "old-market-restored",
+      "sku": "rent-old-market-restored",
+      "title": "Old Market Restored PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Simulator",
+      "categories": [],
+      "publisher": "ALCEDO GAMES YAZILIM TEKNOLOJILERI ANONIM SIRKETI",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "04.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0212/41c85df1022fe25a28f651d1dbce95245290bc7e8399e081.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0213/24c82d961da700b3ba7a90691e4371365ed81a71183a0bcd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0213/d61f6b9eba2567a2be005ea3840247831d09bc1cc5da04bf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0213/53791bb8b89589ecfec3adac93aaec08123abb10f499bdd8.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021087",
+      "description": "Вот что получилось:\n\nГородская улица, где всё как в старом кино.  \nКаждый шаг - погружение в атмосферу 1960-х, с пыльными балконами, шумной кухней и живыми людьми.  \n\nПочти как если бы ты не просто играл, а жил на этой улице.  \n\nИгра возвращает дух старых городов - без хайпа, только чистая атмосфера и детали, которые ты сразу чувствуешь.",
+      "seo_title": "Old Market Restored PS5 аренда игры",
+      "seo_descr": "Аренда Old Market Restored PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-05T12:08:24Z"
+    },
+    {
+      "id": "next-of-kin-epiphany",
+      "slug": "next-of-kin-epiphany",
+      "sku": "rent-next-of-kin-epiphany",
+      "title": "Next of Kin: Epiphany PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "Robin David Cocks trading as Spelkväll Games",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 4.28,
+      "release_date": "04.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2706/49fd7fa7a3fd9a2f3c1dff19a6a7e6c98158c7d65706cece.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2715/09a511c6d1abdafb8157e552602b57cbcc384ca4e2e1914a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2715/d5313ff97bcebb8eb25aa649741f9e05834dd5b0c38f2fdb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2715/c4849ba131bb28ff6985769313fff29d66fc7bbe409ac470.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2715/fa9a129b16324f48c08118094b0e9ebdfa2fc473e6273c49.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018485",
+      "description": "Новая эпическая драма в жанре «настоящая борьба» – Next of Kin: Epiphany.  \n\nТы оказываешься в мире, где смерть не конец - это начало. Всё, что ты знаешь, может быть нарушено.  \n\nГлубокие темы, атмосфера и динамичная история - всё это в твоих руках.  \n\nИгра для тех, кто любит не просто сражаться, а чувствовать каждый шаг. 💥",
+      "seo_title": "Next of Kin: Epiphany PS5 аренда игры",
+      "seo_descr": "Аренда Next of Kin: Epiphany PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-05T00:54:32Z"
+    },
+    {
+      "id": "light-black-cat-amnesia-girl",
+      "slug": "light-black-cat-amnesia-girl",
+      "sku": "rent-light-black-cat-amnesia-girl",
+      "title": "LIGHT:Black Cat & Amnesia Girl PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "COSEN CO., LTD.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "04.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0910/6987d5008e9ab6669260adb21f1b393c814babda7409ec8b.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0910/cdbeefb9a7f5132112b515e6c9d45999be4738c4825fb607.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0910/221de053dcaa939505e3fec3c8bd46cdfdd5d43628d9643d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0910/4334dd10e2358c9468c2125dd4ccc90ddb229dcbe0545fcc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0910/0d95e33353d128e5a0853e0bf3e23306e05bfc1392aab2cd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0910/1b9a26def127a48a20cae9800347c379c2e4f7e1e9b94672.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0910/c8469103d58779a31e91bb233b59b16c8caf9d0df2181919.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0910/ae43329c3fa24516da7da47c0dadca4ab534ddbf8f394455.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0910/3f7ec7442ada13560ad235b2a0f0b863af4a0849088e6674.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10013485",
+      "description": "Тёмная мистика, насыщенность эмоций - Light: Black Cat & Amnesia Girl.  \n\nДве личности в одном мире: одинокая кошка и девушка с потерянной памятью.  \n\nСмешанные геймплейные стили - от таинственных ходов до драматических развязок.  \n\nИгра для тех, кто любит загадки и не терпит непонятного. 🖤",
+      "seo_title": "LIGHT:Black Cat & Amnesia Girl PS5 аренда игры",
+      "seo_descr": "Аренда LIGHT:Black Cat & Amnesia Girl PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-05T00:54:32Z"
     },
     {
       "id": "kingdom-of-night",
@@ -3399,6 +3939,351 @@
       "seo_descr": "Аренда CRYMELIGHT PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
+    },
+    {
+      "id": "console-archives-elevator-action",
+      "slug": "console-archives-elevator-action",
+      "sku": "rent-console-archives-elevator-action",
+      "title": "Console Archives ELEVATOR ACTION PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "HAMSTER CORPORATION",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "04.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2307/9fa66ad5a05247a2ed9ce73ac6992e80074426eea8ecf181.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2703/b409cb9dc06a6aeb64c96400733e19dff86dd53469c8ad60.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2703/e3c7abe1d72102f340ebef090221595f7da2a9e25317885e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2703/e89fe74bebe44038488af65b2657c8832a059fee0a5e62d5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2703/a40a8c35bc6077e188c9f50597b17482f20045867d43a37b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2703/a3b3cb0e99008b8650f00276dc1ca34ba3aa5054a74b0d2a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2703/289199fa640ef5d0f5b83ac70db2f4956bf5dc1c216ba5ad.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2703/808439835f7a090e13cc52a751f2280cdb689183e35e7eec.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2703/d9ce08055fcd6d395ae26924f1f40f5057befa2d149bd043.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019775",
+      "description": "Консольная история в подвале.  \nТы - персонаж, который может прыгать, бежать и сражаться на всех этажах огромного здания.  \n\nПуть твоего действия - не просто квест. Это как быть в панике, но при этом выживать.  \n\nКаждый уровень - это новая реальность: динамичные бои, странные персонажи и непредсказуемые повороты.  \nТолько на PS5.",
+      "seo_title": "Console Archives ELEVATOR ACTION PS5 аренда игры",
+      "seo_descr": "Аренда Console Archives ELEVATOR ACTION PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-05T00:54:32Z"
+    },
+    {
+      "id": "cat-astrophy",
+      "slug": "cat-astrophy",
+      "sku": "rent-cat-astrophy",
+      "title": "Cat-Astrophy PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "PdPartid@games",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "04.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1110/e600d99ae566d868534fa44e4d82c7b642b1ef2e4aa76d39.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1617/c0e502531e55029447d3e5679c6fb790e5e57784fd1ab098.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1617/5574dd740e89000b6fe2c455c0db6fa95367cec9dd31eb3f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1617/6867ec61d3f6d1621d42dcc1c97889a513314b59112cde6e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1617/5bb997afd8a9cfd18a7c53240fd19e8ffa9005c258069965.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1617/2073d7cd5d0322d4a7a008851809e977820b46c02daa5e97.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1617/0504fa53a7a02030eddfd5e21f408e2c86302f69ac4b85e4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1617/964828478466420efd6299aeb4865b2196b61e3be97229d6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1617/9721f4e8e4ff2a38a38b25bbdea9d8696a59cae3f1de1965.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019949",
+      "description": "Кат-Астрофия - это не просто игра, а космическая драма в стиле «я бегу от инопланетян, но всё равно ухожу в тьму».  \n\nТы ведёшь корабль, который по сути - просто шарик на руке. Мораль: если не вспоминать прошлое, ты погибнешь в пустоте.  \n\nИграть - значит чувствовать каждую минуту напряжения и одиночество. Всё происходит как в тайном дневнике, только в космосе.  \n\nСамая странная игра на PS5, где ты не контролируешь судно - ты просто управляешь своим пессимизмом. 🚀",
+      "seo_title": "Cat-Astrophy PS5 аренда игры",
+      "seo_descr": "Аренда Cat-Astrophy PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-05T00:54:32Z"
+    },
+    {
+      "id": "arcade-archives-2-exzisus",
+      "slug": "arcade-archives-2-exzisus",
+      "sku": "rent-arcade-archives-2-exzisus",
+      "title": "Arcade Archives 2 EXZISUS PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Шутер",
+      "categories": [],
+      "publisher": "HAMSTER CORPORATION",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 4.67,
+      "release_date": "04.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2206/eaabae917c085338c14565ed615f26b8569e44441e35ae31.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2702/da6ce01b6f7153d8c496b2712e0f7f8b5d013bc6a22be6b2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2702/08494db09cde44922a4b0ab43df5710bd666f38cceef6380.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2702/e5c96e4a25c08d45c58c8cd528556c853a8e7139d5141adc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2702/739e182bbba54bd788f8d0c3e806678bffc38611f783e784.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2702/da9ae8aba99331f3034fe96f9552b26ff29fc675006eb43c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2702/225a0e853ae4b8b7884bf34baa27065c14cca9ef475424ae.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2702/0c29130d7f5d62b3c2f3e422268f40931ee6c26026a533b0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2702/c98d9ff44480e5711e67c06cd6b04a85f2a3ab48641dbd5a.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020156",
+      "description": "Аркада на пике: EXZISUS - жестокий ритм, бешеные ходы и прямой контакт с врагами.  \n\nКаждый уровень - как поединок с самим собой. Ставишь ловушку - и сразу начинается хаос.  \n\nПсихологический тон игры не просто ощущается - он буквально втыкается в тебя.  \n\nИгра на пульсе, как в аркаде 80-х, только теперь без перерывов.",
+      "seo_title": "Arcade Archives 2 EXZISUS PS5 аренда игры",
+      "seo_descr": "Аренда Arcade Archives 2 EXZISUS PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-05T00:54:32Z"
+    },
+    {
+      "id": "arcade-archives-2-elevator-action",
+      "slug": "arcade-archives-2-elevator-action",
+      "sku": "rent-arcade-archives-2-elevator-action",
+      "title": "Arcade Archives 2 ELEVATOR ACTION PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "HAMSTER CORPORATION",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "04.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2303/a166d6bba489d376c5fd011ece63fdee2bf8f1c878aa80b4.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2305/052d8f91d673caabb1b8e392700dbf76cf66616208f3de7a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2305/7c5512d02e7eeb2c252176a66d8afedad2b30bce97f5ad95.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2305/4bd6084dab1377e54c0c2d693d60bc6fca4ab8370d13b655.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2305/bce48110fc04494d2c04c6a6ed9d750e2f39a5df65ac83f1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2305/9f53ad2c4fc54668183728dd0ecca65ee1da998ecb1bf40e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2305/239b777310b32e108e08afc5aceb9477ca82eaf2ac433897.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2305/b14668e4f453db4e251f8dd2a155334f47034ee84b7551e2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2305/346395dc6c84facb83e493424e810b186441a0680faf5dd9.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020226",
+      "description": "Классика в движке! Elevator Action - кинематографичная азартная симуляция, где каждый подъём - это битва.  \n\nГеймеры 90-х не ошибались: игра прямиком из аркады, с тяжёлым ритмом и безжалостными врагами.  \n\nТеперь ты можешь попробовать её прямо на PS5 - в оригинальном формате, как в старой аркаде.  \n\nНастоящая атмосфера - в каждом движении лифта. 🚪💥",
+      "seo_title": "Arcade Archives 2 ELEVATOR ACTION PS5 аренда игры",
+      "seo_descr": "Аренда Arcade Archives 2 ELEVATOR ACTION PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-05T00:54:32Z"
+    },
+    {
+      "id": "alex-the-rabbit",
+      "slug": "alex-the-rabbit",
+      "sku": "rent-alex-the-rabbit",
+      "title": "Alex the Rabbit PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "WENDELL JANIO ANDRADE BEZERRA DESENVOLVIMENTO DE SOFTWARE LTDA",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "04.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0216/21d7d6d41d661b4bce3ef0ca92f199efbe2c12416c981fef.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0216/1fc11511b655cabaf07951f29c0b7ea26422fae573c74a5e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0216/9d6c62ea9939130f3b355fe4eb8cf9f493ea2c68c7f659f2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0216/0e5c53ee9bd4cc0d2c404f17aac7dcab734a1c87fa160ecc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0216/f245f7671cfac2f8aeb3599846ded0973174b352e55c663f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0216/4d1b8935811c0a48b74971704a9a97cfc87c47f07b32cb0b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0216/5dc4e0c6b9b44de704eab3647d5a88308ac8b21acf8d2566.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0216/6e1df1fae81544ed0704facd9e7e270120ffb68a9998bcb3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0216/f174dc35ec7c6e8d054c586fabb0480682d20e70f29fd2f7.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021088",
+      "description": "Алекс - не просто белый хомяк, а настоящий герой с мечтами о свободе.  \n\nОн пробует всё: от ловких прыжков до дружеских посиделок в лесу.  \n\nВсё это на PS5 - без лишних шумов, только чистая атмосфера и уютный ритм.  \n\nПриятно играть с кем-то, кто не боится быть собой 🐰",
+      "seo_title": "Alex the Rabbit PS5 аренда игры",
+      "seo_descr": "Аренда Alex the Rabbit PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-05T12:07:27Z"
     },
     {
       "id": "zero-parades-director-s-cut",
