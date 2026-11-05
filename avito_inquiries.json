@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-05T10:33:26+03:00",
-  "updated_at_msk": "05.11.2026 10:33",
+  "updated_at": "2026-11-05T11:33:32+03:00",
+  "updated_at_msk": "05.11.2026 11:33",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2337,
+  "total": 2338,
   "unique_games": 858,
   "in_demand": 143,
   "one_off": 581,
@@ -335,7 +335,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru",
-      "count": 91,
+      "count": 92,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -521,7 +521,7 @@
         88,
         89,
         91,
-        91
+        92
       ],
       "hourly": [
         0,
@@ -681,7 +681,7 @@
         0,
         1,
         2,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -844,7 +844,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-11-04T18:21:48+03:00"
+      "last_at": "2026-11-05T11:21:19+03:00"
     },
     {
       "id": "ea-sports-fctm-27-ps4-ps5",
@@ -427843,6 +427843,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-05T11:21:19+03:00"
+    },
+    {
       "title": "Resident Evil Code: Veronica X PS4",
       "price": 257,
       "price_string": "257 ₽",
@@ -428075,12 +428081,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-04T07:46:39+03:00"
-    },
-    {
-      "title": "Microsoft Flight Simulator 2024 PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-04T02:41:11+03:00"
     }
   ]
 }
