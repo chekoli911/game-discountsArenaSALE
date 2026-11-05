@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-04T02:02:28Z",
-  "server_time_utc": "2026-11-04T02:02:28Z",
+  "updated_at": "2026-11-05T02:02:35Z",
+  "server_time_utc": "2026-11-05T02:02:35Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-05T02:00:00Z",
-  "expires_at": "2026-11-05T02:00:00Z",
+  "next_rotation_at": "2026-11-06T02:00:00Z",
+  "expires_at": "2026-11-06T02:00:00Z",
   "prices_p2": {
     "7": 300,
     "14": 300,
@@ -21,10 +21,62 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-05T02:00:00Z"
+    "next_rotation_at": "2026-11-06T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "evil-inside-ps4-ps5",
+      "title": "Evil Inside PS4/PS5",
+      "description": "Потерял родителей, а теперь - ты один с братом в тёмном доме.  \nМарк пытается связаться с матерью через доску духов… но вместо ответа - только мрачные шорохи, мерцание лампочек и что-то не так в воздухе.  \n\nДом кажется обычным, а на деле - крепко обернулся вокруг тебя.  \nКаждый шаг - как угадывание: кто был папа? Зачем он это сделал? И почему теперь он в тюрьме?  \n\nТы должен собрать разбитые части доски, проникнуть в дом до конца и найти Розу - единственную, кто знает правду.  \nПотому что только она могла видеть то, что происходит… а ты уже начал слышать ту мелодию.  \n\nСядь на диван - и вдруг всё становится слишком реальным.  \nТы не один. Но никто тебе не верит. А может быть… они просто ждут, пока ты включишь свет.",
+      "image_url": "https://static.tildacdn.com/stor6138-3261-4237-a536-353135363331/40148544.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/PxjUPcnyl5tvJziTDn49gszF.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/EK6fVk1hneVVaZlqd1PpGSrJ.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/ZNFKK9ojrQlkzeDFnoUY7mpp.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/eOW0PvGfjpwwmVRzrcGaNd9k.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/CbHBkb6aKIEflZmcuU4qML4j.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/0flFYlFm96JLDqMgF5cfT0Iu.jpg"
+      ],
+      "release_date": "25/3/2021",
+      "publisher": "JANDUSOFT S.L.",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.26,
+      "store_url": "https://store.playstation.com/en-tr/concept/10002054",
+      "tilda_uid": "744126918102",
+      "sku": "",
+      "external_id": "eIuBSlRdzkx211V9SoGT",
+      "url": "http://arenapsgm.ru/tproduct/744126918102-evil-inside-ps4ps5",
+      "expires_at": "2026-11-06T02:00:00Z",
+      "published_at": "2026-11-05T02:02:35Z",
+      "prices": {
+        "p2": {
+          "7": 300,
+          "14": 300,
+          "21": 300,
+          "28": 350
+        },
+        "p3": {
+          "7": 400,
+          "14": 400,
+          "21": 400,
+          "28": 450
+        }
+      },
+      "prices_p2": {
+        "7": 300,
+        "14": 300,
+        "21": 300,
+        "28": 350
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Потерял родителей - теперь ты один с братом в тёмном доме.  \n\nМарк ищет мать через доску духов, но слышит только шорохи и мерцание лампочек. Дом не обычный - он наблюдает. Ты должен найти Розу - единственную, кто видел правду. Всё начинается с дивана. Свет включится сам - если ты его включишь."
+    }
+  ],
+  "history": [
     {
       "slug": "flatout-4-total-insanity-ps4",
       "title": "FlatOut 4: Total Insanity PS4",
@@ -50,34 +102,31 @@
       "sku": "",
       "external_id": "v0njUNABe25c3aeLPcZk",
       "url": "http://arenapsgm.ru/gamescatalog/tproduct/115034162393-flatout-4-total-insanity-ps4",
-      "expires_at": "2026-11-05T02:00:00Z",
       "published_at": "2026-11-04T02:02:28Z",
       "prices": {
         "p2": {
-          "7": 300,
-          "14": 300,
-          "21": 300,
-          "28": 350
+          "7": 250,
+          "14": 400,
+          "21": 699,
+          "28": 799
         },
         "p3": {
-          "7": 400,
-          "14": 400,
-          "21": 400,
-          "28": 450
+          "7": 350,
+          "14": 500,
+          "21": 799,
+          "28": 899
         }
       },
       "prices_p2": {
-        "7": 300,
-        "14": 300,
-        "21": 300,
-        "28": 350
+        "7": 250,
+        "14": 400,
+        "21": 699,
+        "28": 799
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "FlatOut 4: Total Insanity - на PS4 с новой силой безумия.  \n\nРазрушайте всё, до неба - машины, башни, трассы в пыли. До 8 игроков, разные авто, бои и шоу-игры - как в кино, но реально."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "police-simulator-patrol-officers-ps4-ps5",
       "title": "Police Simulator: Patrol Officers PS4/PS5",
