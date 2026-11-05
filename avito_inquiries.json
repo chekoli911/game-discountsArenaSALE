@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-05T17:34:56+03:00",
-  "updated_at_msk": "05.11.2026 17:34",
+  "updated_at": "2026-11-05T18:35:05+03:00",
+  "updated_at_msk": "05.11.2026 18:35",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2349,
+  "total": 2350,
   "unique_games": 863,
   "in_demand": 144,
   "one_off": 585,
@@ -2399,7 +2399,7 @@
       "title": "NHL 27 PS5",
       "item_id": "8355713865",
       "url": "https://avito.ru",
-      "count": 64,
+      "count": 65,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -2585,7 +2585,7 @@
         60,
         63,
         64,
-        64
+        65
       ],
       "hourly": [
         0,
@@ -2745,7 +2745,7 @@
         0,
         3,
         1,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -2908,7 +2908,7 @@
         257
       ],
       "first_at": "2026-09-05T21:51:28+03:00",
-      "last_at": "2026-11-04T19:31:08+03:00"
+      "last_at": "2026-11-05T17:38:12+03:00"
     },
     {
       "id": "nba-2k27-ultra-edition-ps5",
@@ -430334,6 +430334,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-05T17:38:12+03:00"
+    },
+    {
       "title": "PGA tour 2K25 PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -430566,12 +430572,6 @@
       "price": 279,
       "price_string": "279 ₽",
       "at": "2026-11-04T15:12:50+03:00"
-    },
-    {
-      "title": "Trivial Pursuit Live 2 PS4",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-04T15:10:03+03:00"
     }
   ]
 }
