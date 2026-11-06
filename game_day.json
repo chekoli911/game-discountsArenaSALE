@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-05T15:44:13Z",
-  "server_time_utc": "2026-11-05T15:44:13Z",
+  "updated_at": "2026-11-06T02:02:43Z",
+  "server_time_utc": "2026-11-06T02:02:43Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-06T02:00:00Z",
-  "expires_at": "2026-11-06T02:00:00Z",
+  "next_rotation_at": "2026-11-07T02:00:00Z",
+  "expires_at": "2026-11-07T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 100,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-06T02:00:00Z"
+    "next_rotation_at": "2026-11-07T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "jurassic-world-evolution-jurassic-park-edition-ps4-ps5",
+      "title": "Jurassic World Evolution: Jurassic Park Edition PS4/PS5",
+      "description": "Динозавры, которые могут мыслить - да, и они уже ждут вас на острове. В Jurassic World Evolution: Jurassic Park Edition вы не просто смотрите на зверей, а строите парк, где каждый шаг - как в фильме 1993 года.  \n\nПогрузитесь в мир, где штормы губят башни, динозавры выдают себя за шпионов и всё может рухнуть на мгновение. Всё это - не фантастика, а живое сценарий.  \n\nВосстановите парк под руководством Алана Гранта, Элли Сэттлер и Иэна Малкольма. А в комплекте - эксклюзивные динозавры и полноценный путь возвращения в Парк Юрского периода.  \n\nИгра для тех, кто любит не просто играть - а чувствовать себя частью истории.",
+      "image_url": "https://static.tildacdn.com/stor6139-3066-4235-b036-616233383465/78866911.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/img/rnd/202009/3019/DW5eHd2yp7dEwb8p1G0dKMMu.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202009/3019/RamxYsEIl4LDrnmMuKbveMhm.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202009/3019/mXBYo9UOlKbzsjom4Wuk0pYT.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202009/3019/k7N1am9w0Nk3QEZ4EouXucbe.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202009/3019/JU7MxK0CmjegrBtlPeFw0Dew.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202009/3019/EdVwK3cAsEoOBEVeQMLTnkxD.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202009/3019/OIZapScMUCR1F2rKvTYtwd2x.jpg"
+      ],
+      "release_date": "12/6/2018",
+      "publisher": "FRONTIER DEVELOPMENTS PLC",
+      "platforms": "PS4",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.57,
+      "store_url": "https://store.playstation.com/en-tr/concept/230379",
+      "tilda_uid": "838414031382",
+      "sku": "",
+      "external_id": "TRMAU9gXoURRfJIlL2VJ",
+      "url": "http://arenapsgm.ru/tproduct/838414031382-jurassic-world-evolution-jurassic-park-e",
+      "expires_at": "2026-11-07T02:00:00Z",
+      "published_at": "2026-11-06T02:02:43Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 100,
+          "21": 100,
+          "28": 100
+        },
+        "p3": {
+          "7": 200,
+          "14": 200,
+          "21": 200,
+          "28": 200
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 100,
+        "21": 100,
+        "28": 100
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Динозавры, которые могут мыслить - уже ждут вас на острове.  \nШтормы, шпионы и хаос - всё как в фильме. Строите парк, руководствуясь Грантом, Сэттлером и Малкольмом."
+    }
+  ],
+  "history": [
     {
       "slug": "battlefield-hardline-ps4-ps5",
       "title": "Battlefield Hardline PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "4EdFHfrmuZThk65mdZVY",
       "url": "http://arenapsgm.ru/gamescatalog/tproduct/612012898172-battlefield-hardline-ps4ps5",
-      "expires_at": "2026-11-06T02:00:00Z",
       "published_at": "2026-11-05T15:44:13Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 100,
-          "21": 100,
-          "28": 100
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 200,
-          "21": 200,
-          "28": 200
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 100,
-        "21": 100,
-        "28": 100
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "В Battlefield Hardline ты либо с законом, либо с криминалом - выбор делает тебя виноватым или героем.  \n\nБои, переговоры, драма - всё как в реальной телепередаче. Каждый шаг меняет ход сюжета."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "evil-inside-ps4-ps5",
       "title": "Evil Inside PS4/PS5",
@@ -2980,56 +3030,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Resident Evil 0 - первая игра серии, где всё начинается в тишине особняка.  \nТеперь с яркой графикой, мощным звуком и удобной настройкой - как в оригинале, но лучше."
-    },
-    {
-      "slug": "sniper-ghost-warrior-contracts-2-ps4-ps5",
-      "title": "Sniper Ghost Warrior Contracts 2 PS4/PS5",
-      "description": "Sniper Ghost Warrior Contracts 2 - самая жёсткая игра в серии. Да-да, на этом развороте вы будете стрелять не просто из пистолета, а с расстояния больше 1000 метров.  \n\nВаша миссия: уничтожить коварного преступного синдиката в зоне Ливана и Сирии - как будто вы наемный снайпер из фильма, а не просто игрок.  \n\nЭто не просто стрельба - это тактические батальи в глубине вражеской территории, где каждое движение, каждый выстрел - важен и умён.  \n\nЕсли хочешь испытать себя на прочность - попробуйте. Уже сейчас. 🎯",
-      "image_url": "https://static.tildacdn.com/stor3532-6330-4565-b231-326137666236/29727102.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/img/rnd/202107/2209/5ooocYcaiNfkukhZUW8J1Tnh.jpg",
-        "https://image.api.playstation.com/vulcan/img/rnd/202107/2209/QO6k6N8LUISTK3U25RWl6gSb.jpg",
-        "https://image.api.playstation.com/vulcan/img/rnd/202107/2209/RInhzxx44GTeEemmfe3g1EYe.jpg",
-        "https://image.api.playstation.com/vulcan/img/rnd/202107/2209/5ETsClsyJxfUsiiX92EJLoS8.jpg",
-        "https://image.api.playstation.com/vulcan/img/rnd/202107/2209/niubNKVra2tCDtG0WwKskYOD.jpg",
-        "https://image.api.playstation.com/vulcan/img/rnd/202107/2209/38EPouIxMb2bSS9kRtUGEnYk.jpg",
-        "https://image.api.playstation.com/vulcan/img/rnd/202107/2209/TZUCy0CQHh44fLRjKkxmlotA.jpg"
-      ],
-      "release_date": "4/6/2021",
-      "publisher": "CI GAMES S.A.",
-      "platforms": "PS4, PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.04,
-      "store_url": "https://store.playstation.com/en-tr/concept/10000888",
-      "tilda_uid": "365896871682",
-      "sku": "",
-      "external_id": "RzFhjrePLkg4bB0xHcyN",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/365896871682-sniper-ghost-warrior-contracts-2-ps4ps5",
-      "published_at": "2026-09-08T02:00:30Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Sniper Ghost Warrior Contracts 2 - самая жёсткая игра в серии: стреляй с расстояния до 1000 метров, как настоящий наёмный снайпер.  \n\nТактические батальи в Ливане и Сирии, где каждый выстрел - это мысль, а не просто нажатие кнопки."
     }
   ]
 }
