@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-06T06:37:42+03:00",
-  "updated_at_msk": "06.11.2026 06:37",
+  "updated_at": "2026-11-06T07:37:58+03:00",
+  "updated_at_msk": "06.11.2026 07:37",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2357,
+  "total": 2358,
   "unique_games": 865,
   "in_demand": 145,
   "one_off": 585,
@@ -7084,7 +7084,7 @@
       "title": "UFC 6 Ultimate Edition PS5",
       "item_id": "8277145222",
       "url": "https://avito.ru",
-      "count": 22,
+      "count": 23,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -7271,7 +7271,7 @@
         22,
         22,
         22,
-        22
+        23
       ],
       "hourly": [
         0,
@@ -7432,7 +7432,7 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -7596,7 +7596,7 @@
         257
       ],
       "first_at": "2026-08-18T10:07:46+03:00",
-      "last_at": "2026-11-01T22:32:08+03:00"
+      "last_at": "2026-11-06T07:24:11+03:00"
     },
     {
       "id": "the-blood-of-dawnwalker-eclipse-edition-ps5",
@@ -433930,6 +433930,12 @@
   ],
   "recent": [
     {
+      "title": "UFC 6 Ultimate Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-06T07:24:11+03:00"
+    },
+    {
       "title": "BeamNG.drive",
       "price": 257,
       "price_string": "257 ₽",
@@ -434162,12 +434168,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-04T16:38:38+03:00"
-    },
-    {
-      "title": "Just In Time Incorporated PS4",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-04T16:27:32+03:00"
     }
   ]
 }
