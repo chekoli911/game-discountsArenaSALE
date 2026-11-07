@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-07T03:43:10+03:00",
-  "updated_at_msk": "07.11.2026 03:43",
+  "updated_at": "2026-11-07T04:43:18+03:00",
+  "updated_at_msk": "07.11.2026 04:43",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2393,
+  "total": 2394,
   "unique_games": 880,
   "in_demand": 151,
   "one_off": 595,
@@ -339,7 +339,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru",
-      "count": 92,
+      "count": 93,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -527,7 +527,7 @@
         91,
         92,
         92,
-        92
+        93
       ],
       "hourly": [
         0,
@@ -689,7 +689,7 @@
         2,
         1,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -854,7 +854,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-11-05T11:21:19+03:00"
+      "last_at": "2026-11-07T04:19:56+03:00"
     },
     {
       "id": "ea-sports-fctm-27-ps4-ps5",
@@ -444090,6 +444090,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-07T04:19:56+03:00"
+    },
+    {
       "title": "Batman: The Enemy Within PS4",
       "price": 257,
       "price_string": "257 ₽",
@@ -444322,12 +444328,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-05T22:48:02+03:00"
-    },
-    {
-      "title": "KeyWe PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-05T22:10:03+03:00"
     }
   ]
 }
