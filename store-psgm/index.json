@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-18T14:00:00Z",
+  "updated_at": "2026-11-07T15:00:00Z",
   "page_url": "https://arenapsgm.ru/",
   "buy_url": "https://t.me/m/NrVGWXJpOGNi",
-  "total": 713,
+  "total": 711,
   "sections": [
     {
       "key": "preorders",
@@ -16,7 +16,7 @@
       "key": "header",
       "title": "Шапка",
       "file": "sections/header.json",
-      "count": 120,
+      "count": 119,
       "home": false,
       "banner": false
     },
@@ -24,7 +24,7 @@
       "key": "novinki",
       "title": "Новинки",
       "file": "sections/novinki.json",
-      "count": 167,
+      "count": 166,
       "home": true,
       "banner": false
     },
@@ -40,7 +40,7 @@
       "key": "adventure",
       "title": "Приключения",
       "file": "sections/adventure.json",
-      "count": 359,
+      "count": 358,
       "home": true,
       "banner": false
     },
@@ -88,7 +88,7 @@
       "key": "coop",
       "title": "Игры на двоих",
       "file": "sections/coop.json",
-      "count": 89,
+      "count": 88,
       "home": true,
       "banner": false
     },
@@ -104,7 +104,7 @@
       "key": "platformers",
       "title": "Платформеры",
       "file": "sections/platformers.json",
-      "count": 49,
+      "count": 47,
       "home": true,
       "banner": false
     },
@@ -128,7 +128,7 @@
       "key": "ps5",
       "title": "Только PS5",
       "file": "sections/ps5.json",
-      "count": 195,
+      "count": 194,
       "home": true,
       "banner": false
     },
@@ -144,7 +144,7 @@
       "key": "all",
       "title": "Все игры",
       "file": "sections/all.json",
-      "count": 652,
+      "count": 650,
       "home": false,
       "banner": false
     }
@@ -158,7 +158,7 @@
     {
       "key": "novinki",
       "title": "Новинки",
-      "count": 167
+      "count": 166
     },
     {
       "key": "action",
@@ -168,7 +168,7 @@
     {
       "key": "adventure",
       "title": "Приключения",
-      "count": 359
+      "count": 358
     },
     {
       "key": "shooters",
@@ -198,7 +198,7 @@
     {
       "key": "coop",
       "title": "Игры на двоих",
-      "count": 89
+      "count": 88
     },
     {
       "key": "strategy",
@@ -208,7 +208,7 @@
     {
       "key": "platformers",
       "title": "Платформеры",
-      "count": 49
+      "count": 47
     },
     {
       "key": "cinema",
@@ -223,12 +223,12 @@
     {
       "key": "ps5",
       "title": "Только PS5",
-      "count": 195
+      "count": 194
     },
     {
       "key": "all",
       "title": "Все игры",
-      "count": 652
+      "count": 650
     }
   ],
   "home_order": [
