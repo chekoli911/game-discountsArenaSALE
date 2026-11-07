@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-07T00:40:10Z",
-  "generated_at": "2026-11-07T00:45:41Z",
-  "count": 11413,
+  "catalog_id": "2026-11-07T05:56:34Z",
+  "generated_at": "2026-11-07T06:05:09Z",
+  "count": 11414,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -2859,7 +2859,7 @@
       "seo_title": "Winx Club - Moonlight Quest PS5 аренда игры",
       "seo_descr": "Аренда Winx Club - Moonlight Quest PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-07T00:39:48Z"
+      "catalog_added_at": "2026-11-07T00:54:52Z"
     },
     {
       "id": "ranger-s-path-national-park-simulator",
@@ -3260,6 +3260,70 @@
       "seo_descr": "Аренда DPS IDLE PS4 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-06T18:19:43Z"
+    },
+    {
+      "id": "checkers-master",
+      "slug": "checkers-master",
+      "sku": "rent-checkers-master",
+      "title": "Checkers MASTER PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Brain Training",
+      "categories": [],
+      "publisher": "Benoit Varasse trading as Pix Arts",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "06.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/13dc19b58ba7b4535ecbd9073282cfb3e26e1c2056140508.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/ee17dcc818a950791bea93a4f4504fc7aca320fb74260d96.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/fdb57e8fb21f8ad34b3ac34bcece17da6036af4d351617c9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/574524e018f4a07b4748f2072c807e33a543c9c9ee899819.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021352",
+      "description": "Классика с современным лицом - Checkers MASTER на PS5.  \n\nНастоящий бой за каждое поле, где стратегия и скорость становятся ключом к победе.  \n\nСовсем не просто «шашки» - это глубокая механика, умные AI-противники и динамичная игра.  \n\nГотовы отыграть на полном уровне? Взять в аренду - и начать уже сегодня. 🎮",
+      "seo_title": "Checkers MASTER PS5 аренда игры",
+      "seo_descr": "Аренда Checkers MASTER PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-07T05:56:20Z"
     },
     {
       "id": "zero-caliber-2-remastered",
