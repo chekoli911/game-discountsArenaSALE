@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-06T23:58:43Z",
-  "generated_at": "2026-11-07T00:03:05Z",
-  "count": 11412,
+  "catalog_id": "2026-11-07T00:40:10Z",
+  "generated_at": "2026-11-07T00:45:41Z",
+  "count": 11413,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -2794,6 +2794,72 @@
       "seo_descr": "Аренда DRAGON QUEST MONSTERS: The Withered World DIGITAL DELUXE EDITION PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
+    },
+    {
+      "id": "winx-club-moonlight-quest",
+      "slug": "winx-club-moonlight-quest",
+      "sku": "rent-winx-club-moonlight-quest",
+      "title": "Winx Club - Moonlight Quest PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "Party, Приключение",
+      "categories": [],
+      "publisher": "BALIO STUDIO SRL",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "29.11.2026",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0212/48ac14138c624893d5aa17344d2e6ab4ec4bb74385a3eb4c.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0212/3cfaf95467f301dcce99bb75534c3e64752184bee2321db3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0212/0639b281cf7cc59b4771f876fd8fd14efad8450831c39506.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0212/b24b48d0e122622d248f4b76996abae6c44769a77f57172e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0212/c8279107669b3340b890dc966e15f7d3178b3c5233dea723.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0212/5c2af4114f235eb3321cafedeb67414ddbc53c4c6997aeb9.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/EP8021-PPSA37755_00-WINXCLUBMOONQPS5",
+      "description": "Winx Club – Moonlight Quest на PS5.  \nПриготовьтесь к магии, ветру и неожиданным сюрпризам!  \n\nИграть за Блум - значит превращаться в волшебника на лету, расправлять крылья и летать по земле и небу.  \nТы снова окажешься в мире оригинального сериала - открывай знакомые места, но теперь в новой, таинственной реальности.  \n\nФестиваль 100 Лун не по плану… Играй за своих героев, сражайся в эпических битвах и овладей магией, чтобы защитить Магическое Измерение.  \n32 испытания - в 4 режимах. 24 персонажа. Всё для всей семьи и друзей.  \n\nГотовь крылья - новое приключение уже на горизонте.",
+      "seo_title": "Winx Club - Moonlight Quest PS5 аренда игры",
+      "seo_descr": "Аренда Winx Club - Moonlight Quest PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-07T00:39:48Z"
     },
     {
       "id": "ranger-s-path-national-park-simulator",
