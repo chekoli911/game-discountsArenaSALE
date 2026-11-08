@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-07T02:02:36Z",
-  "server_time_utc": "2026-11-07T02:02:36Z",
+  "updated_at": "2026-11-08T02:02:30Z",
+  "server_time_utc": "2026-11-08T02:02:30Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-08T02:00:00Z",
-  "expires_at": "2026-11-08T02:00:00Z",
+  "next_rotation_at": "2026-11-09T02:00:00Z",
+  "expires_at": "2026-11-09T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 100,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-08T02:00:00Z"
+    "next_rotation_at": "2026-11-09T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "star-wars-battlefront-ii-ps4-ps5",
+      "title": "Star Wars: Battlefront II PS4/PS5",
+      "description": "Погружаемся в бой на стороне Звёздных Войн - без лишних слов, только сила и сталь.  \n\nВыбирайте свою роль: пехотинец, пилот звёздного истребителя или даже любимый персонаж из франшизы.  \n\nКаждое действие - как в фильме. Напряжённые баталии, глубокая атмосфера, настоящий фан-эксперимент на поле сражений.  \n\nСобирайте команду и включайтесь в приключение - только на PS4 или PS5.",
+      "image_url": "https://static.tildacdn.com/stor3163-3739-4230-a136-666239666135/62934797.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP0006/CUSA05749_00/FREE_CONTENTzaQXYNstO8gql6YuHLIX/1.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA05749_00/FREE_CONTENT2bXokGecmLYIiKMtsZKv/2.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA05749_00/FREE_CONTENTqBUuhoiVS75VMqotNiUA/3.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA05749_00/FREE_CONTENThVR7OAjusbQs0fZL4njq/4.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA05749_00/FREE_CONTENTQzFLCbYilmnDhvNlcnFO/5.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA05749_00/FREE_CONTENTihM9P3zUmvG19GQezEyP/6.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA05749_00/FREE_CONTENTAMgV2PJo4slKe3byb9Zx/7.jpg"
+      ],
+      "release_date": "17/11/2017",
+      "publisher": "EA Swiss Sarl",
+      "platforms": "PS4",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.34,
+      "store_url": "https://store.playstation.com/en-tr/concept/229438",
+      "tilda_uid": "233383874892",
+      "sku": "",
+      "external_id": "U4G4EaFaCtvnIzlKnPiM",
+      "url": "http://arenapsgm.ru/tproduct/233383874892-star-wars-battlefront-ii-ps4ps5",
+      "expires_at": "2026-11-09T02:00:00Z",
+      "published_at": "2026-11-08T02:02:30Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 100,
+          "21": 100,
+          "28": 100
+        },
+        "p3": {
+          "7": 200,
+          "14": 200,
+          "21": 200,
+          "28": 200
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 100,
+        "21": 100,
+        "28": 100
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Бой за Звёздные Войны - как в фильме, без лишних слов.  \nВыбирайте роль, стройте команду и вступайте в бой - только на PS4/PS5."
+    }
+  ],
+  "history": [
     {
       "slug": "lego-ninjago-ps4-ps5",
       "title": "LEGO NINJAGO PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "sMFi8heVVLnuctFb4EMk",
       "url": "http://arenapsgm.ru/tproduct/464586936482-lego-ninjago-ps4ps5",
-      "expires_at": "2026-11-08T02:00:00Z",
       "published_at": "2026-11-07T02:02:36Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 100,
-          "21": 100,
-          "28": 100
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 200,
-          "21": 200,
-          "28": 200
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 100,
-        "21": 100,
-        "28": 100
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Найдите своих ниндзя-героев - вы прямо в сердце мира Ниндзяго.  \nЗащищайте остров от Гармадона, растёте как ниндза и боритесь на 8 локациях, где каждый уровень - как в фильме."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "jurassic-world-evolution-jurassic-park-edition-ps4-ps5",
       "title": "Jurassic World Evolution: Jurassic Park Edition PS4/PS5",
@@ -2980,56 +3030,6 @@
       "p3_extra": 0,
       "is_game_day": false,
       "short_description": "Бэк 4 Блуд - шутер с душой, где вы и команда боретесь с одержимыми в живом, изменяющемся мире.  \n\nВыбираете персонажа, оружие, стиль - каждый бой как новая история. Играть можно онлайн или в кооперативе на PS4/PS5."
-    },
-    {
-      "slug": "slime-rancher-2-ps5",
-      "title": "Slime Rancher 2 PS5",
-      "description": "Slime Rancher 2 - продолжение любимой игры, в которую влюбились более 15 миллионов человек. Теперь вы на Радужном острове с Беатрикс Лебо, где всё зажигает: от дрожащих слаймов до неизведанных ресурсов и древних технологий.\n\nПостройте своё ранчо, разведите слаймы и наслаждайтесь фермерством в оранжерее - сверкающие стены открывают вид на призматический рай, который теперь стал домом Беатрикс.\n\nИсследуйте новый мир. Строите, растите, играете и разгадываете тайны острова вместе с Беатрикс.",
-      "image_url": "https://static.tildacdn.com/stor3165-3361-4336-b638-653661353364/41403782.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1322/900653ee6c9f933cb7308c91df5a8b112a5ab9bf03ebb5d3.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1322/812f7192761d9da3e83d64a524057bfda75d7559e5aea0d6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202509/1122/41c72c57032c1d372e7dfba88aeb00b3900341202e544523.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202509/1122/fc7e11fbb99af1b969b033fc2ae7571b98ef518228e59da5.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202404/0820/cd727fdae02fcded9b002c2f0a3c8b3a1e8f21691fa2c9d8.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202412/0522/b184643a7362201f303a8c0c709c3a3bd62ae82a797b4455.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202404/0820/a46d564b566d52549514723c7105491d22937448ab055f99.jpg"
-      ],
-      "release_date": "7/6/2024",
-      "publisher": "Monomi Park, LLC",
-      "platforms": "PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.34,
-      "store_url": "https://store.playstation.com/en-tr/concept/10009803",
-      "tilda_uid": "340657682382",
-      "sku": "",
-      "external_id": "uDMNk6BPBzpbPeus4VL1",
-      "url": "http://arenapsgm.ru/tproduct/340657682382-slime-rancher-2-ps5",
-      "published_at": "2026-09-10T02:00:37Z",
-      "prices": {
-        "p2": {
-          "7": 359,
-          "14": 499,
-          "21": 545,
-          "28": 645
-        },
-        "p3": {
-          "7": 459,
-          "14": 599,
-          "21": 645,
-          "28": 745
-        }
-      },
-      "prices_p2": {
-        "7": 359,
-        "14": 499,
-        "21": 545,
-        "28": 645
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Slime Rancher 2 вышла - новая глава для любителей слаймов.  \nРадужный остров, дрожащие слаймы и древние технологии - всё в одном приключении."
     }
   ]
 }
