@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-08T12:50:58+03:00",
-  "updated_at_msk": "08.11.2026 12:50",
+  "updated_at": "2026-11-08T13:51:07+03:00",
+  "updated_at_msk": "08.11.2026 13:51",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2455,
+  "total": 2457,
   "unique_games": 902,
   "in_demand": 156,
   "one_off": 611,
@@ -341,7 +341,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru",
-      "count": 94,
+      "count": 95,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -530,7 +530,7 @@
         92,
         92,
         94,
-        94
+        95
       ],
       "hourly": [
         0,
@@ -693,7 +693,7 @@
         1,
         0,
         2,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -859,14 +859,14 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-11-07T13:38:36+03:00"
+      "last_at": "2026-11-08T13:19:03+03:00"
     },
     {
       "id": "ea-sports-fctm-27-ps4-ps5",
       "title": "EA sports fctm 27 PS4/PS5",
       "item_id": "8314561277",
-      "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/ea_sports_fctm_27_ps4ps5_8314561277",
-      "count": 86,
+      "url": "https://avito.ru",
+      "count": 87,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1055,7 +1055,7 @@
         86,
         86,
         86,
-        86
+        87
       ],
       "hourly": [
         0,
@@ -1218,7 +1218,7 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -1384,7 +1384,7 @@
         257
       ],
       "first_at": "2026-09-20T15:39:04+03:00",
-      "last_at": "2026-10-04T13:17:19+03:00"
+      "last_at": "2026-11-08T13:47:28+03:00"
     },
     {
       "id": "call-of-duty-modern-warfare-4-vault-edition-ps5",
@@ -457900,6 +457900,18 @@
   ],
   "recent": [
     {
+      "title": "EA sports fctm 27 PS4/PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-08T13:47:28+03:00"
+    },
+    {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-08T13:19:03+03:00"
+    },
+    {
       "title": "Just Dance 2026 Edition PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -458126,18 +458138,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-07T16:10:02+03:00"
-    },
-    {
-      "title": "The Walking Dead: Streets of Survival - Deluxe Edition PS5",
-      "price": 390,
-      "price_string": "390 ₽",
-      "at": "2026-11-07T16:03:11+03:00"
-    },
-    {
-      "title": "The Binding of Isaac: Repentance PS5",
-      "price": 392,
-      "price_string": "392 ₽",
-      "at": "2026-11-07T15:55:16+03:00"
     }
   ]
 }
