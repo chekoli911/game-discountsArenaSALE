@@ -1,0 +1,1727 @@
+<div id="discounts-widget">
+<style>
+  #discounts-widget {
+    background-color: #3c3c3c;
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  #discounts-widget select, 
+  #discounts-widget input[type="text"] {
+    background-color: #1e1e1e;
+    color: white;
+    border: 2px solid #ffa500;
+    border-radius: 8px;
+  }
+  #discounts-widget #catalog {
+    background-color: #3a3a3a;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+  }
+  #discounts-widget h3, 
+  #discounts-widget p {
+    color: white;
+  }
+  #discounts-widget * {
+    box-shadow: none !important;
+  }
+  #discounts-widget .pagination {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px auto;
+    justify-content: center;
+    max-width: 500px;
+  }
+  #discounts-widget #paginationTop {
+    margin-top: 4px;
+    margin-bottom: 16px;
+  }
+  #discounts-widget .pagination button {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    border: 2px solid #ffa500;
+    border-radius: 12px;
+    padding: 8px 12px;
+    cursor: pointer;
+    min-width: 40px;
+  }
+  #discounts-widget .pagination button:disabled,
+  #discounts-widget .pagination a.pagination-link[aria-current="page"] {
+    background-color: #444;
+    cursor: not-allowed;
+  }
+  #discounts-widget .pagination a.pagination-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 40px;
+    padding: 8px 12px;
+    border-radius: 12px;
+    background-color: #1e1e1e;
+    color: #ffffff;
+    border: 2px solid #ffa500;
+    text-decoration: none;
+    cursor: pointer;
+    font: inherit;
+    box-sizing: border-box;
+  }
+  #discounts-widget .pagination a.pagination-link:hover:not([aria-current="page"]) {
+    background-color: #333;
+  }
+  #discounts-widget .pagination a.pagination-link[aria-current="page"] {
+    background-color: #ffa500;
+    pointer-events: none;
+  }
+  @media (max-width: 768px) {
+    #discounts-widget #catalog {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    #discounts-widget .pagination {
+      max-width: 320px;
+    }
+    #discounts-widget .pagination button {
+      flex: 0 0 calc(20% - 8px);
+      text-align: center;
+    }
+    #discounts-widget .card-buy-wrap .buy-now-button {
+      display: block !important;
+      text-align: center !important;
+      border-radius: 12px !important;
+      margin: 10px auto 0 auto !important;
+      max-width: 100% !important;
+    }
+  }
+  #discounts-widget .card-buy-wrap {
+    padding: 0 12px 12px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  #discounts-widget a.buy-now-button,
+  #discounts-widget button.buy-now-button {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    padding: 10px 12px;
+    background-color: #76ff03;
+    color: black;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px auto 0;
+    box-sizing: border-box;
+    font: inherit;
+    line-height: 1.25;
+    word-break: break-word;
+  }
+  #discounts-widget .buy-now-button.is-added {
+    background-color: #ffa500;
+    color: #000;
+  }
+  #discounts-widget .catalog-card {
+    cursor: pointer;
+  }
+  #discounts-widget .card-media {
+    position: relative;
+  }
+  #discounts-widget .card-cart-btn {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: rgba(30, 30, 30, 0.9);
+    border: 2px solid #76ff03;
+    color: #76ff03;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    z-index: 2;
+    box-sizing: border-box;
+    transition: background 0.2s, transform 0.15s;
+  }
+  #discounts-widget .card-cart-btn:hover {
+    background: #76ff03;
+    color: #000;
+    transform: scale(1.05);
+  }
+  #discounts-widget .card-cart-btn svg {
+    display: block;
+    width: 18px;
+    height: 18px;
+    fill: currentColor;
+  }
+  #discounts-widget .card-cart-btn.is-added {
+    background: #ffa500;
+    border-color: #ffa500;
+    color: #000;
+  }
+  #lightbox-overlay .lightbox-buy-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+    margin-top: 12px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  #lightbox-overlay .lightbox-buy-wrap .buy-now-button {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  #discounts-widget .card-cover {
+    cursor: pointer;
+    width: 100%;
+    height: 240px;
+    object-fit: contain;
+    background-color: #222;
+  }
+  #lightbox-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.95);
+    z-index: 9900;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 16px;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  #lightbox-overlay.is-open {
+    display: flex;
+  }
+  #lightbox-overlay .lightbox-slide {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    transition: transform 0.35s ease-out;
+    will-change: transform;
+  }
+  #lightbox-overlay .lightbox-slide.dragging {
+    transition: none;
+  }
+  #lightbox-overlay .lightbox-nav.hidden-by-swipe {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition: opacity 0.2s, visibility 0.2s;
+  }
+  #lightbox-overlay .lightbox-image-wrap {
+    flex: 1 1 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 0;
+    max-width: 100%;
+  }
+  #lightbox-overlay .lightbox-image-wrap img {
+    max-width: 90vw;
+    max-height: 55vh;
+    object-fit: contain;
+    border-radius: 8px;
+  }
+  #lightbox-overlay .lightbox-info {
+    background: #1e1e1e;
+    color: #fff;
+    padding: 16px;
+    border-radius: 12px;
+    margin-top: 16px;
+    max-width: 90vw;
+    width: 400px;
+    text-align: left;
+  }
+  #lightbox-overlay .lightbox-info h3 { margin: 0 0 8px; font-size: 18px; }
+  #lightbox-overlay .lightbox-info p { margin: 4px 0; font-size: 14px; }
+  #lightbox-overlay .lightbox-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 48px;
+    height: 48px;
+    min-width: 48px;
+    min-height: 48px;
+    border-radius: 50%;
+    border: 2px solid #ffa500;
+    background: rgba(30,30,30,0.9);
+    color: #fff;
+    font-size: 24px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-tap-highlight-color: transparent;
+  }
+  #lightbox-overlay .lightbox-nav:hover { background: #ffa500; color: #000; }
+  #lightbox-overlay .lightbox-nav.prev { left: 12px; }
+  #lightbox-overlay .lightbox-nav.next { right: 12px; }
+  #lightbox-overlay .lightbox-close {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    font-size: 24px;
+    cursor: pointer;
+    line-height: 1;
+    -webkit-tap-highlight-color: transparent;
+  }
+  #lightbox-overlay .lightbox-close:hover { background: #fff; color: #000; }
+  #lightbox-overlay .lightbox-swipe-message {
+    position: fixed;
+    bottom: 24px;
+    left: 16px;
+    right: 16px;
+    padding: 14px 18px;
+    background: rgba(30,30,30,0.95);
+    border: 2px solid #76ff03;
+    border-radius: 16px;
+    color: #fff;
+    font-size: 15px;
+    line-height: 1.4;
+    text-align: center;
+    z-index: 100000;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.35s ease, transform 0.35s ease;
+    pointer-events: none;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+  }
+  #lightbox-overlay .lightbox-swipe-message.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  #lightbox-overlay .lightbox-swipe-message strong { color: #76ff03; }
+  #lightbox-overlay .lightbox-random-prompt {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.88);
+    z-index: 100001;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    box-sizing: border-box;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+  }
+  #lightbox-overlay .lightbox-random-prompt.visible {
+    opacity: 1;
+    visibility: visible;
+  }
+  #lightbox-overlay .lightbox-random-prompt-text {
+    color: #fff;
+    font-size: 20px;
+    line-height: 1.45;
+    text-align: center;
+    margin: 0 0 28px 0;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    max-width: 320px;
+  }
+  #lightbox-overlay .lightbox-random-prompt-buttons {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #lightbox-overlay .lightbox-random-btn {
+    min-width: 100px;
+    padding: 14px 28px;
+    border: none;
+    border-radius: 12px;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    color: #fff;
+    transition: transform 0.15s, box-shadow 0.2s;
+  }
+  #lightbox-overlay .lightbox-random-btn:hover { transform: scale(1.05); }
+  #lightbox-overlay .lightbox-random-btn-yes {
+    background: #76ff03;
+    color: #000;
+  }
+  #lightbox-overlay .lightbox-random-btn-no {
+    background: #e53935;
+    color: #fff;
+  }
+  @media (max-width: 768px) {
+    #lightbox-overlay .lightbox-nav {
+      width: 44px;
+      height: 44px;
+      min-width: 44px;
+      min-height: 44px;
+      font-size: 22px;
+      z-index: 10;
+      position: fixed;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+    #lightbox-overlay .lightbox-nav.prev {
+      left: 8px;
+      right: auto;
+    }
+    #lightbox-overlay .lightbox-nav.next {
+      right: 8px;
+      left: auto;
+    }
+    #lightbox-overlay .lightbox-info { width: 100%; padding: 12px; }
+    #discounts-widget #paginationTop { display: none !important; }
+  }
+
+  /* ===== Product detail (gamerentps-like) ===== */
+  #lightbox-overlay{
+    background: color-mix(in srgb, #e8eef8 82%, transparent);
+    backdrop-filter: blur(18px) saturate(1.25);
+    -webkit-backdrop-filter: blur(18px) saturate(1.25);
+    padding: 0;
+    align-items: stretch;
+    justify-content: stretch;
+  }
+  #lightbox-overlay .lightbox-slide{
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    justify-content: flex-start;
+  }
+  #lightbox-overlay .lb-pd{
+    width: min(1180px, 100%);
+    margin: 0 auto;
+    padding: 56px 18px 40px;
+    display: grid;
+    gap: 18px;
+    color: #141820;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+  @media(min-width:900px){
+    #lightbox-overlay .lb-pd{
+      grid-template-columns: minmax(0,1fr) minmax(300px,360px);
+      grid-template-areas: "media side" "desc side";
+      gap: 22px 28px;
+      align-items: start;
+      padding-top: 48px;
+    }
+    #lightbox-overlay .lb-media{grid-area:media}
+    #lightbox-overlay .lb-side{grid-area:side; position:sticky; top:18px}
+    #lightbox-overlay .lb-desc{grid-area:desc}
+  }
+  #lightbox-overlay .lb-hero{
+    position:relative;
+    aspect-ratio:1/1;
+    border-radius:22px;
+    overflow:hidden;
+    background:#0d0f18;
+    border:1px solid rgba(37,99,235,.14);
+    box-shadow:0 18px 40px rgba(15,23,42,.14);
+  }
+  #lightbox-overlay .lb-hero img{
+    width:100%; height:100%; object-fit:cover; display:block;
+    max-width:none; max-height:none; border-radius:0;
+  }
+  #lightbox-overlay .lb-shot-nav{
+    position:absolute; top:50%; z-index:3; width:42px; height:42px; margin-top:-21px;
+    border-radius:50%; border:1px solid rgba(255,255,255,.28);
+    background:rgba(8,10,18,.62); color:#fff; font-size:26px; cursor:pointer;
+    display:flex; align-items:center; justify-content:center;
+  }
+  #lightbox-overlay .lb-shot-nav.prev{left:10px}
+  #lightbox-overlay .lb-shot-nav.next{right:10px}
+  #lightbox-overlay .lb-shot-nav[hidden]{display:none!important}
+  #lightbox-overlay .lb-shot-count{
+    position:absolute; right:10px; bottom:10px; z-index:3;
+    padding:4px 9px; border-radius:999px; background:rgba(0,0,0,.55); color:#fff;
+    font-size:12px; font-weight:800;
+  }
+  #lightbox-overlay .lb-shots{
+    display:flex; gap:8px; overflow-x:auto; padding:10px 2px 2px;
+    scrollbar-width:none;
+  }
+  #lightbox-overlay .lb-shots::-webkit-scrollbar{display:none}
+  #lightbox-overlay .lb-shot{
+    flex:0 0 72px; width:72px; height:72px; padding:0; border-radius:12px; overflow:hidden;
+    border:2px solid transparent; background:#111; cursor:pointer;
+  }
+  #lightbox-overlay .lb-shot.is-on{border-color:rgba(37,99,235,.75)}
+  #lightbox-overlay .lb-shot img{width:100%; height:100%; object-fit:cover; display:block}
+  #lightbox-overlay .lb-side{
+    padding:18px; border-radius:22px;
+    border:1px solid rgba(255,255,255,.48);
+    background:rgba(255,255,255,.55);
+    box-shadow:0 12px 32px rgba(15,23,42,.08);
+  }
+  #lightbox-overlay .lb-side h3{
+    margin:0 0 8px; font-size:clamp(1.2rem,2vw,1.55rem); font-weight:800; line-height:1.15; color:#141820;
+  }
+  #lightbox-overlay .lb-rating{color:#f5b301; font-weight:800; font-size:.9rem; margin-bottom:6px}
+  #lightbox-overlay .lb-sub{margin:0 0 12px; color:#5a6478; font-size:.88rem; font-weight:650}
+  #lightbox-overlay .lb-specs{
+    display:flex; flex-direction:column; border-radius:14px; overflow:hidden;
+    border:1px solid rgba(20,24,32,.08); background:rgba(255,255,255,.45); margin-bottom:14px;
+  }
+  #lightbox-overlay .lb-spec{
+    display:flex; justify-content:space-between; gap:10px; padding:9px 12px;
+    border-bottom:1px solid rgba(20,24,32,.06); font-size:.82rem;
+  }
+  #lightbox-overlay .lb-spec:last-child{border-bottom:none}
+  #lightbox-overlay .lb-spec span:first-child{color:#6b7589}
+  #lightbox-overlay .lb-spec span:last-child{font-weight:750; text-align:right; color:#141820}
+  #lightbox-overlay .lb-pricebox{margin:0 0 12px}
+  #lightbox-overlay .lb-discount{
+    display:inline-flex; padding:4px 10px; border-radius:999px; background:#F15A22; color:#fff;
+    font-size:.78rem; font-weight:800; margin-bottom:8px;
+  }
+  #lightbox-overlay .lb-price-old{color:#8b93a7; text-decoration:line-through; font-size:.9rem; margin:0 0 2px}
+  #lightbox-overlay .lb-price{color:#047857; font-size:1.55rem; font-weight:900; margin:0}
+  #lightbox-overlay .lightbox-buy-wrap{margin:0}
+  #lightbox-overlay #lightbox-buy.buy-now-button{
+    width:100%; min-height:48px; border:none; border-radius:14px; cursor:pointer;
+    background:linear-gradient(135deg,#22d3ee,#3d8bfd 45%,#8b5cf6); color:#fff;
+    font-size:1rem; font-weight:800;
+  }
+  #lightbox-overlay .lb-note{margin:10px 0 0; color:#6b7589; font-size:.78rem; font-weight:650}
+  #lightbox-overlay .lb-desc{
+    padding:18px 20px; border-radius:20px;
+    border:1px solid rgba(255,255,255,.48); background:rgba(255,255,255,.5);
+  }
+  #lightbox-overlay .lb-desc h4{margin:0 0 10px; color:#5a6478; font-size:1rem}
+  #lightbox-overlay .lb-desc #lightbox-desc{
+    color:#3d4658; font-size:.95rem; line-height:1.65; white-space:pre-wrap;
+  }
+  #lightbox-overlay .lightbox-info{display:none!important}
+  #lightbox-overlay .lightbox-image-wrap{display:none!important}
+  #lightbox-overlay .lightbox-close{
+    top: max(10px, env(safe-area-inset-top)); right: max(10px, env(safe-area-inset-right));
+    z-index:5; border:1px solid rgba(20,24,32,.12); background:rgba(255,255,255,.85); color:#141820;
+  }
+  #lightbox-overlay .lightbox-nav{
+    border:1px solid rgba(20,24,32,.12); background:rgba(255,255,255,.88); color:#141820;
+  }
+  #lightbox-overlay .lightbox-nav:hover{background:#F15A22; color:#fff; border-color:transparent}
+  @media(max-width:899px){
+    #lightbox-overlay .lb-pd{padding:52px 14px 28px}
+    #lightbox-overlay .lb-hero{aspect-ratio:1/1; max-width:100%; margin:0 auto}
+    #lightbox-overlay .lightbox-nav{display:none}
+  }
+
+  /* Light catalog shell closer to gamerentps */
+  #discounts-widget{
+    background:
+      radial-gradient(ellipse 90% 55% at 8% -8%, rgba(147,197,253,.45), transparent 58%),
+      radial-gradient(ellipse 70% 45% at 92% 0%, rgba(191,219,254,.35), transparent 52%),
+      #e8eef8 !important;
+    color:#141820 !important;
+    border-radius:0;
+    padding:8px 0 28px;
+  }
+  #discounts-widget h3, #discounts-widget p, #discounts-widget #counter{color:#141820 !important}
+  #discounts-widget select,
+  #discounts-widget input[type="text"]{
+    background:#fff !important; color:#141820 !important; border:1px solid rgba(37,99,235,.22) !important;
+  }
+  #discounts-widget #catalog{
+    background:transparent !important;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)) !important;
+    gap:14px !important;
+  }
+  #discounts-widget .pagination button,
+  #discounts-widget .pagination a.pagination-link{
+    background:#fff !important; color:#141820 !important; border:1px solid rgba(37,99,235,.22) !important;
+  }
+</style>
+
+<div id="filters-bar" class="filters-bar" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <input type="text" id="searchInput" placeholder="Поиск по названию игры..."
+    style="width: 100%; max-width: 400px; padding: 12px; font-size: 16px;">
+
+  <label>Цена от:
+    <select id="minPrice">
+      <option value="0">0</option>
+      <option value="100">100</option>
+      <option value="300">300</option>
+      <option value="500">500</option>
+      <option value="700">700</option>
+      <option value="900">900</option>
+      <option value="1000">1000</option>
+      <option value="2000">2000</option>
+      <option value="3000">3000</option>
+      <option value="4000">4000</option>
+      <option value="5000">5000</option>
+      <option value="7000">7000</option>
+    </select>
+  </label>
+
+  <label>до:
+    <select id="maxPrice">
+      <option value="500">500</option>
+      <option value="700">700</option>
+      <option value="900">900</option>
+      <option value="1000">1000</option>
+      <option value="2000">2000</option>
+      <option value="3000">3000</option>
+      <option value="4000">4000</option>
+      <option value="5000">5000</option>
+      <option value="7000">7000</option>
+      <option value="9000">9000</option>
+      <option value="12000">12000</option>
+      <option value="15000">15000</option>
+      <option value="999999" selected>неограничено</option>
+    </select>
+  </label>
+
+  <label>Платформа:
+    <select id="platformFilter">
+      <option value="all">Все</option>
+      <option value="PS5">Только PS5</option>
+      <option value="PS4">Только PS4</option>
+      <option value="PS4/PS5">PS4/PS5</option>
+    </select>
+  </label>
+
+  <label>Сортировка:
+    <select id="sortSelect">
+      <option value="none">Без сортировки</option>
+      <option value="price_asc">Цена ↑</option>
+      <option value="price_desc">Цена ↓</option>
+      <option value="alpha_asc">По алфавиту A→Z</option>
+      <option value="alpha_desc">По алфавиту Z→A</option>
+      <option value="discount_desc">Скидка ↓</option>
+    </select>
+  </label>
+
+  <button onclick="resetFilters()" style="padding: 10px 16px; background-color: #444; color: white; border: 2px solid #ffa500; border-radius: 8px; cursor: pointer;">Сбросить фильтры</button>
+</div>
+
+<div id="catalog-main">
+<p id="counter" style="margin: 10px 0; font-size: 16px; color: #fff; font-weight: bold;"></p>
+<p id="pageIndicator" style="margin: 0 0 12px 0; font-size: 14px; color: #ffa500; font-weight: bold;"></p>
+<div id="paginationTop" class="pagination"></div>
+
+<div id="catalog"></div>
+<div id="pagination" class="pagination"></div>
+</div>
+
+<div id="lightbox-overlay" class="" role="dialog" aria-modal="true" aria-label="Карточка игры">
+  <button type="button" class="lightbox-close" aria-label="Закрыть">×</button>
+  <button type="button" class="lightbox-nav prev" aria-label="Предыдущая">‹</button>
+  <button type="button" class="lightbox-nav next" aria-label="Следующая">›</button>
+  <div class="lightbox-slide">
+    <div class="lb-pd">
+      <div class="lb-media">
+        <div class="lb-hero">
+          <img id="lightbox-hero" src="" alt="">
+          <button type="button" class="lb-shot-nav prev" id="lightbox-shot-prev" aria-label="Предыдущий скриншот">‹</button>
+          <button type="button" class="lb-shot-nav next" id="lightbox-shot-next" aria-label="Следующий скриншот">›</button>
+          <div class="lb-shot-count" id="lightbox-shot-count"></div>
+        </div>
+        <div class="lb-shots" id="lightbox-shots"></div>
+      </div>
+      <aside class="lb-side">
+        <h3 id="lightbox-title"></h3>
+        <div class="lb-rating" id="lightbox-rating"></div>
+        <p class="lb-sub" id="lightbox-platform"></p>
+        <div class="lb-specs" id="lightbox-specs"></div>
+        <div class="lb-pricebox">
+          <div class="lb-discount" id="lightbox-discount"></div>
+          <div class="lb-price-old" id="lightbox-price-old"></div>
+          <div class="lb-price" id="lightbox-price"></div>
+        </div>
+        <div class="lightbox-buy-wrap">
+          <button type="button" id="lightbox-buy" class="buy-now-button">Купить</button>
+        </div>
+        <p class="lb-note">Покупка игры · выдача на турецкий профиль</p>
+      </aside>
+      <div class="lb-desc">
+        <h4>Об игре</h4>
+        <div id="lightbox-desc">Загрузка описания…</div>
+      </div>
+    </div>
+  </div>
+  <div id="lightbox-swipe-message" class="lightbox-swipe-message" aria-live="polite"></div>
+  <div id="lightbox-random-prompt" class="lightbox-random-prompt" role="dialog" aria-modal="true" aria-labelledby="random-prompt-title" aria-hidden="true">
+    <p id="random-prompt-title" class="lightbox-random-prompt-text">Продолжить далее просмотр в случайном порядке?</p>
+    <div class="lightbox-random-prompt-buttons">
+      <button type="button" id="lightbox-random-yes" class="lightbox-random-btn lightbox-random-btn-yes">Да</button>
+      <button type="button" id="lightbox-random-no" class="lightbox-random-btn lightbox-random-btn-no">Нет</button>
+    </div>
+  </div>
+</div>
+
+<script>
+let allCards = [];
+let currentPage = 1;
+const CARDS_PER_PAGE_DESKTOP = 100;
+const CARDS_PER_PAGE_MOBILE = 44;
+function getCardsPerPage() {
+  return window.innerWidth <= 768 ? CARDS_PER_PAGE_MOBILE : CARDS_PER_PAGE_DESKTOP;
+}
+let currentPageCards = [];
+let currentFilteredCards = [];
+let lightboxIndex = 0;
+let lightboxSwipesThisSession = 0;
+let lightboxRandomPromptShown = false;
+let lightboxRandomMode = false;
+let touchStartY = 0, touchStartX = 0;
+const SWIPE_THRESHOLD = 60;
+const SWIPE_NAV_HIDE_THRESHOLD = 20;
+const PRELOAD_RANDOM_COUNT = 10;
+const SWIPE_MILESTONES = [10, 25, 35, 45, 60, 70, 90, 120, 160, 180];
+const SWIPE_MESSAGE_DURATION = 4500;
+let swipeMessageTimer = null;
+
+function getSwipedToday() {
+  const key = "lightbox_swipes_" + new Date().toISOString().slice(0, 10);
+  return parseInt(localStorage.getItem(key) || "0", 10);
+}
+function setSwipedToday(count) {
+  const key = "lightbox_swipes_" + new Date().toISOString().slice(0, 10);
+  localStorage.setItem(key, String(count));
+}
+
+const SWIPE_MILESTONE_MESSAGES = {
+  10: [
+    "Вы пролистали <strong>10</strong> карточек! Отличное начало, так держать!",
+    "Уже <strong>10</strong> карточек за сегодня — вы на верном пути!",
+    "<strong>10</strong> карточек просмотрено! Продолжайте в том же духе!"
+  ],
+  25: [
+    "Целых <strong>25</strong> карточек! Вы сегодня в форме!",
+    "<strong>25</strong> карточек за сегодня — так держать, не останавливайтесь!",
+    "Вы пролистали <strong>25</strong> карточек — половина пользователей смотрит меньше!"
+  ],
+  35: [
+    "<strong>35</strong> карточек! Вы уже обогнали многих пользователей сегодня.",
+    "Невероятно: <strong>35</strong> карточек за сегодня. Вы молодец!",
+    "Вы просмотрели <strong>35</strong> карточек — продолжайте, вы на подъёме!"
+  ],
+  45: [
+    "Почти полсотни — <strong>45</strong> карточек! Вы сегодня в топе!",
+    "<strong>45</strong> карточек за день — так держать, вы круче половины юзеров!",
+    "Вы пролистали <strong>45</strong> карточек. Сегодня вы явно в ударе!"
+  ],
+  60: [
+    "Уже <strong>60</strong> карточек! Вы сегодня настоящий исследователь скидок.",
+    "<strong>60</strong> карточек — вы пролистали больше, чем большинство за весь день!",
+    "Шестьдесят карточек за сегодня! Вы молодец, не сбавляйте темп!"
+  ],
+  70: [
+    "<strong>70</strong> карточек! Вы в числе самых активных сегодня.",
+    "Вы просмотрели <strong>70</strong> карточек — сегодня вы точно найдёте своё!",
+    "Семьдесят карточек! Так держать, вы уже обогнали больше половины пользователей!"
+  ],
+  90: [
+    "Почти сотня — <strong>90</strong> карточек! Вы невероятно активны сегодня.",
+    "<strong>90</strong> карточек за сегодня — вы в топе активных пользователей!",
+    "Девяносто карточек! Продолжайте — вы уже среди лучших по активности!"
+  ],
+  120: [
+    "Больше сотни — <strong>120</strong> карточек! Вы сегодня чемпион по свайпам.",
+    "<strong>120</strong> карточек за день! Такой результат — у единиц. Вы круты!",
+    "Вы пролистали <strong>120</strong> карточек. Сегодня вы впереди почти всех!"
+  ],
+  160: [
+    "<strong>160</strong> карточек! Вы в элите — так листают только самые упорные.",
+    "Сто шестьдесят карточек за сегодня! Вы не сдаётесь — мы вами гордимся!",
+    "Вы просмотрели <strong>160</strong> карточек. Продолжайте — вы на отличном счету!"
+  ],
+  180: [
+    "<strong>180</strong> карточек за день! Вы сегодня побили рекорд по активности!",
+    "Восемнадцать десятков карточек! Вы в топ-1% по свайпам сегодня. Легенда!",
+    "Вы пролистали <strong>180</strong> карточек — такого результата достигают единицы. Вы супер!"
+  ]
+};
+
+function showSwipeMilestoneMessage(count) {
+  const pool = SWIPE_MILESTONE_MESSAGES[count];
+  if (!pool || !pool.length) return;
+  const el = document.getElementById("lightbox-swipe-message");
+  if (!el) return;
+  if (swipeMessageTimer) clearTimeout(swipeMessageTimer);
+  el.innerHTML = pool[Math.floor(Math.random() * pool.length)];
+  el.classList.add("visible");
+  swipeMessageTimer = setTimeout(() => {
+    el.classList.remove("visible");
+    swipeMessageTimer = null;
+  }, SWIPE_MESSAGE_DURATION);
+}
+
+const ruToEnLayout = {
+  'й':'q','ц':'w','у':'e','к':'r','е':'t','н':'y','г':'u','ш':'i','щ':'o','з':'p','х':'[','ъ':']','ё':'`',
+  'ф':'a','ы':'s','в':'d','а':'f','п':'g','р':'h','о':'j','л':'k','д':'l','ж':';','э':"'",
+  'я':'z','ч':'x','с':'c','м':'v','и':'b','т':'n','ь':'m','б':',','ю':'.'
+};
+function layoutRuToEn(str) {
+  return str.toLowerCase().split('').map(ch => ruToEnLayout[ch] || ch).join('');
+}
+
+function getProductUidFromUrl(url) {
+  const s = url || "";
+  let m = s.match(/tproduct\/(\d+)/i);
+  if (m) return m[1];
+  m = s.match(/[#&]game=(\d+)/i);
+  return m ? m[1] : null;
+}
+
+function getGameId(item) {
+  return getProductUidFromUrl(item && item.url) || null;
+}
+
+/** Только реальная ссылка tproduct из JSON (не собираем URL сами). */
+function getRealTildaProductUrl(item) {
+  if (!item) return "";
+  const raw = item.tilda_url || item.url || "";
+  if (/tproduct\//i.test(raw)) {
+    return raw.split("#")[0].split("?")[0];
+  }
+  return "";
+}
+
+/** Ссылка на карточку в каталоге (текущая страница + #game=). */
+function getCatalogShareUrl(item) {
+  const uid = getGameId(item);
+  if (!uid) return (item && item.url) || "";
+  const path = location.pathname || "/whattobuysale";
+  return location.origin + path + "#game=" + uid;
+}
+
+/** Процент скидки по ценам «было» / «сейчас», если обе цены заданы */
+function calcDiscountPercent(item) {
+  const oldP = Number(item && item.price_old);
+  const newP = Number(item && item.price);
+  if (oldP > 0 && newP >= 0 && newP < oldP) {
+    return Math.round((1 - newP / oldP) * 100);
+  }
+  if (oldP > 0 && newP >= oldP) return 0;
+  const fromData = Number(item && item.discount);
+  return isFinite(fromData) && fromData >= 0 ? Math.round(fromData) : 0;
+}
+
+function normalizeCardPrices(card) {
+  const c = Object.assign({}, card);
+  c.discount = calcDiscountPercent(c);
+  return c;
+}
+
+function getGameFromHash() {
+  const m = location.hash.match(/[#&]game=(\d+)/i);
+  return m ? m[1] : null;
+}
+
+function getPageFromHash() {
+  const m = location.hash.match(/[#&]page=(\d+)/i) || location.hash.match(/[#&]p=(\d+)/i);
+  return m ? parseInt(m[1], 10) : null;
+}
+
+function buildHash(params) {
+  return Object.keys(params).filter(k => params[k] != null && params[k] !== "").map(k => k + "=" + encodeURIComponent(params[k])).join("&");
+}
+
+function updateHashForPage(page, gameUid) {
+  const parts = {};
+  if (gameUid) parts.game = gameUid;
+  else if (page > 1) parts.page = page;
+  const hash = buildHash(parts);
+  const target = hash ? "#" + hash : "";
+  if (location.hash !== target) {
+    try { history.replaceState(null, "", location.pathname + location.search + target); } catch (e) { location.hash = hash || ""; }
+  }
+}
+
+function findCardByUid(uid) {
+  if (!uid || !allCards.length) return null;
+  return allCards.find(c => getProductUidFromUrl(c.url) === String(uid)) || null;
+}
+
+function isLightboxOpen() {
+  const el = document.getElementById("lightbox-overlay");
+  return el && el.classList.contains("is-open");
+}
+
+function isTildaCheckoutVisible() {
+  const cart = document.querySelector(".t706");
+  if (!cart) return false;
+  const form = cart.querySelector(".t-form__inputsbox");
+  if (form) {
+    const st = getComputedStyle(form);
+    if (st.display !== "none" && st.visibility !== "hidden" && form.offsetParent !== null) return true;
+  }
+  const products = cart.querySelector(".t706__cartwin-products");
+  if (products) {
+    const pst = getComputedStyle(products);
+    if (pst.display === "none") return true;
+  }
+  return false;
+}
+
+function setupLightboxCloseOnTildaCart() {
+  document.addEventListener("click", function(e) {
+    if (!isLightboxOpen()) return;
+    if (!e.target.closest || !e.target.closest(".t706")) return;
+    const btn = e.target.closest("button, a, .t-submit, [type=submit]");
+    if (!btn) return;
+    const text = (btn.textContent || "").replace(/\s+/g, " ").trim().toLowerCase();
+    if (/оформ|checkout|заказ|оплат|перейти к оформ/i.test(text)) {
+      closeLightbox();
+      /* не вызываем preventDefault/stopPropagation — Tilda должна открыть оплату */
+    }
+  }, false);
+
+  const checkCheckout = function() {
+    if (isLightboxOpen() && isTildaCheckoutVisible()) closeLightbox();
+  };
+
+  const attachObserver = function(root) {
+    if (!root || root.__discountsCartObs) return;
+    const obs = new MutationObserver(checkCheckout);
+    obs.observe(root, { attributes: true, childList: true, subtree: true, attributeFilter: ["style", "class"] });
+    root.__discountsCartObs = obs;
+  };
+
+  const findAndObserve = function() {
+    document.querySelectorAll(".t706").forEach(attachObserver);
+    checkCheckout();
+  };
+
+  findAndObserve();
+  setInterval(findAndObserve, 1500);
+}
+
+function openTildaCart() {
+  if (typeof window.tcart__openCart === "function") {
+    window.tcart__openCart();
+    return;
+  }
+  if (typeof window.tcart__showCart === "function") {
+    window.tcart__showCart();
+    return;
+  }
+  const cartIcon = document.querySelector(".t706__carticon-wrapper a, .t706__carticon, a.t706__carticon, [href=\"#opencart\"]");
+  if (cartIcon) cartIcon.click();
+}
+
+function markCartButtonAdded(btn) {
+  if (!btn) return;
+  btn.classList.add("is-added");
+  const isIcon = btn.classList.contains("card-cart-btn");
+  if (!isIcon) {
+    const prev = btn.textContent;
+    btn.textContent = "В корзине ✓";
+    setTimeout(() => { btn.classList.remove("is-added"); btn.textContent = prev; }, 2000);
+  } else {
+    setTimeout(() => btn.classList.remove("is-added"), 2000);
+  }
+}
+
+function addItemToTildaCart(item, btn) {
+  if (!item) return false;
+
+  const realTilda = getRealTildaProductUrl(item);
+  const catalogUrl = getCatalogShareUrl(item);
+  const lineName = [item.title, item.platform, "ПОКУПКА"].filter(Boolean).join(" ");
+  const price = Number(item.price) || 0;
+
+  if (realTilda) {
+    window.location.href = realTilda;
+    return false;
+  }
+
+  const product = {
+    name: lineName,
+    price: price,
+    img: item.image || "",
+    url: catalogUrl || location.href.split("#")[0]
+  };
+
+  if (typeof window.tcart__addProduct === "function") {
+    try {
+      window.tcart__addProduct(product);
+      if (typeof window.tcart__saveLocalObj === "function") window.tcart__saveLocalObj();
+      openTildaCart();
+      markCartButtonAdded(btn);
+      return true;
+    } catch (err) {
+      console.warn("tcart__addProduct:", err);
+    }
+  }
+
+  const safeTitle = lineName.replace(/=/g, " ");
+  const imgPart = item.image ? ":::image=" + item.image : "";
+  location.hash = "order:" + safeTitle + "=" + price + imgPart;
+  openTildaCart();
+  markCartButtonAdded(btn);
+  return true;
+}
+
+/** «Купить» — добавить в корзину Tilda (без ухода со страницы каталога). */
+function bindBuyButton(btn, item) {
+  if (!btn || !item) {
+    if (btn) btn.style.display = "none";
+    return;
+  }
+  if (!item.title && !getGameId(item) && !getRealTildaProductUrl(item)) {
+    btn.style.display = "none";
+    return;
+  }
+  btn.style.display = "";
+  btn.onclick = function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    addItemToTildaCart(item, btn);
+  };
+}
+
+const CART_ICON_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zm10 0c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2zM7.16 14l.84-2h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49A1 1 0 0 0 20.01 4H5.21L4.27 2H1v2h2l3.6 7.59-1.35 2.44C4.52 15.37 5.48 17 7 17h12v-2H7.42l-.26-.48z"/></svg>';
+
+let lightboxStandalone = false;
+
+function isStalkerTitle(title) {
+  return /S\.T\.A\.L\.K\.E\.R\./i.test(title || "");
+}
+
+function getCatalogCards(cards) {
+  return (cards || []).filter(c => !isStalkerTitle(c.title));
+}
+
+function bindCartIconButton(btn, item) {
+  if (!btn || !item) {
+    if (btn) btn.style.display = "none";
+    return;
+  }
+  btn.style.display = "";
+  btn.innerHTML = CART_ICON_SVG;
+  btn.onclick = function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    addItemToTildaCart(item, btn);
+  };
+}
+
+function openLightboxByUid(uid, updateHistory) {
+  const item = findCardByUid(uid);
+  if (!item) return false;
+  if (isStalkerTitle(item.title)) {
+    if (updateHistory !== false) updateHashForPage(currentPage > 1 ? currentPage : null, null);
+    return false;
+  }
+  lightboxStandalone = false;
+  const idx = currentFilteredCards.findIndex(c => getProductUidFromUrl(c.url) === String(uid));
+  if (idx >= 0) {
+    const perPage = getCardsPerPage();
+    const targetPage = Math.floor(idx / perPage) + 1;
+    if (targetPage !== currentPage) {
+      currentPage = targetPage;
+      filterAndRender();
+    }
+    const pageIdx = currentPageCards.findIndex(c => getProductUidFromUrl(c.url) === String(uid));
+    openLightbox(pageIdx >= 0 ? pageIdx : 0, updateHistory);
+    return true;
+  }
+  lightboxStandalone = true;
+  currentPageCards = [item];
+  openLightbox(0, updateHistory);
+  return true;
+}
+
+function applyHashRouting() {
+  const gameUid = getGameFromHash();
+  if (gameUid) {
+    if (allCards.length) openLightboxByUid(gameUid, false);
+    return;
+  }
+  const overlay = document.getElementById("lightbox-overlay");
+  if (overlay && overlay.classList.contains("is-open")) closeLightbox();
+  const p = getPageFromHash();
+  if (p != null && p >= 1 && p !== currentPage) {
+    currentPage = p;
+    filterAndRender();
+  }
+}
+
+async function loadCards() {
+  const res = await fetch("https://raw.githubusercontent.com/chekoli911/game-discountsArenaSALE/main/discounts_full_with_platform_final_with_url_FIXED_v3.json");
+  const data = await res.json();
+  allCards = data.map(normalizeCardPrices);
+  filterAndRender();
+  const gameUid = getGameFromHash();
+  if (gameUid) {
+    openLightboxByUid(gameUid, false);
+    return;
+  }
+  const pageFromHash = getPageFromHash();
+  if (pageFromHash != null && pageFromHash >= 1) currentPage = pageFromHash;
+  filterAndRender();
+  if (pageFromHash != null) setTimeout(() => scrollToPageTop(), 100);
+}
+
+function filterAndRender() {
+  const query = document.getElementById("searchInput").value.toLowerCase();
+  const queryEn = layoutRuToEn(query);
+  const minPrice = parseInt(document.getElementById("minPrice").value);
+  const maxPrice = parseInt(document.getElementById("maxPrice").value);
+  const platformValue = document.getElementById("platformFilter").value;
+  const sortValue = document.getElementById("sortSelect").value;
+
+  const catalogPool = getCatalogCards(allCards);
+  let filtered = catalogPool.filter(card => {
+    const matchPlatform = platformValue === "all" || card.platform.toLowerCase().includes(platformValue.toLowerCase());
+    const title = card.title.toLowerCase();
+    const matchSearch = !query || title.includes(query) || (queryEn !== query && title.includes(queryEn));
+    return (
+      matchSearch &&
+      card.price >= minPrice &&
+      card.price <= maxPrice &&
+      matchPlatform
+    );
+  });
+
+  if (sortValue === "price_asc") {
+    filtered.sort((a, b) => a.price - b.price);
+  } else if (sortValue === "price_desc") {
+    filtered.sort((a, b) => b.price - a.price);
+  } else if (sortValue === "alpha_asc") {
+    filtered.sort((a, b) => a.title.localeCompare(b.title, 'ru', { numeric: true, sensitivity: 'base' }));
+  } else if (sortValue === "alpha_desc") {
+    filtered.sort((a, b) => b.title.localeCompare(a.title, 'ru', { numeric: true, sensitivity: 'base' }));
+  } else if (sortValue === "discount_desc") {
+    filtered.sort((a, b) => calcDiscountPercent(b) - calcDiscountPercent(a));
+  }
+
+  currentFilteredCards = filtered;
+  const totalPages = Math.ceil(filtered.length / getCardsPerPage()) || 1;
+  currentPage = Math.max(1, Math.min(currentPage, totalPages));
+  if (!getGameFromHash()) updateHashForPage(currentPage, null);
+
+  renderCards(filtered);
+  updatePagination(filtered);
+  document.getElementById("counter").innerText = `Найдено игр: ${filtered.length} из ${catalogPool.length}`;
+  document.getElementById("pageIndicator").innerText = totalPages > 0 ? `Страница ${currentPage} из ${totalPages}` : "";
+}
+
+function renderCards(cards) {
+  const catalog = document.getElementById("catalog");
+  catalog.innerHTML = "";
+  const perPage = getCardsPerPage();
+  const startIndex = (currentPage - 1) * perPage;
+  const endIndex = startIndex + perPage;
+  const paginatedCards = cards.slice(startIndex, endIndex);
+  currentPageCards = paginatedCards;
+
+  paginatedCards.forEach((item, index) => {
+    const card = document.createElement("div");
+    card.className = "catalog-card";
+    card.style = "background: #1e1e1e; border-radius: 12px; color: white; box-shadow: 0 2px 6px rgba(0,0,0,0.6); display: flex; flex-direction: column; justify-content: space-between; overflow: hidden;";
+    card.innerHTML = `
+      <div class="card-media">
+        <img class="card-cover" src="${item.image}" alt="${item.title.replace(/"/g, '&quot;')}" data-index="${index}">
+        ${item.url ? `<button type="button" class="card-cart-btn" aria-label="Добавить в корзину">${CART_ICON_SVG}</button>` : ""}
+      </div>
+      <div style="padding: 12px;">
+        <h3 style="font-size: 15px; font-weight: bold; margin: 0 0 6px;">${item.title}</h3>
+        <p style="color: #ffa500; margin: 0;">Скидка: ${calcDiscountPercent(item)}%</p>
+        <p style="text-decoration: line-through; color: #888; margin: 0;">Было: ${item.price_old}₽</p>
+        <p style="color: #76ff03; font-weight: bold; margin: 0;">Сейчас: ${item.price}₽</p>
+        <p style="color: #aaa; font-size: 13px; margin: 4px 0 0 0;">Перевод: ${item.subtitles || '-'}</p>
+        <p style="color: #aaa; font-size: 13px; margin: 0 0 4px 0;">Озвучка: ${item.voice || '-'}</p>
+        <p style="color: #76baff; font-size: 13px; margin: 0 0 8px 0;">Платформа: ${item.platform || '-'}</p>
+        <div class="card-buy-wrap">
+          ${item.url ? `<button type="button" class="buy-now-button">Купить</button>` : ""}
+        </div>
+      </div>
+    `;
+    card.addEventListener("click", (e) => {
+      if (e.target.closest(".buy-now-button, .card-cart-btn")) return;
+      openLightbox(index, true);
+    });
+    const cover = card.querySelector(".card-cover");
+    if (cover) {
+      cover.style.cursor = "pointer";
+    }
+    const buyBtn = card.querySelector(".buy-now-button");
+    if (buyBtn) bindBuyButton(buyBtn, item);
+    const cartBtn = card.querySelector(".card-cart-btn");
+    if (cartBtn) bindCartIconButton(cartBtn, item);
+    catalog.appendChild(card);
+  });
+}
+
+function getLightboxEls() {
+  const overlay = document.getElementById("lightbox-overlay");
+  return {
+    overlay,
+    slide: overlay.querySelector(".lightbox-slide"),
+    prevBtn: overlay.querySelector(".lightbox-nav.prev"),
+    nextBtn: overlay.querySelector(".lightbox-nav.next")
+  };
+}
+
+
+let lightboxShotIdx = 0;
+let lightboxShotList = [];
+const __descCache = Object.create(null);
+let __searchIndex = null;
+const __chunkCache = Object.create(null);
+
+function normTitle(s){
+  return String(s||'').toLowerCase().replace(/[™®©]/g,'').replace(/[^a-z0-9а-яё]+/gi,' ').replace(/\s+/g,' ').trim();
+}
+function stripRentCopy(text){
+  let t = String(text||'');
+  t = t.replace(/для аренды[\s\S]*$/i,'').replace(/аренда[\s\S]{0,40}/gi,'');
+  t = t.replace(/\bп2\b|\bп3\b|p2|p3/gi,'');
+  t = t.replace(/@ArenaPSGMadmin/gi,'').replace(/ССЫЛКА/g,'');
+  return t.replace(/\n{3,}/g,'\n\n').trim();
+}
+function starsText(r){
+  const v = Math.max(0, Math.min(5, Number(r)||0));
+  const full = Math.round(v);
+  return '★'.repeat(full) + '☆'.repeat(5-full) + (v ? ` ${v.toFixed(1)}` : '');
+}
+function shotsOf(item){
+  const arr = Array.isArray(item.images) ? item.images.filter(Boolean) : [];
+  if (arr.length) return arr;
+  return item.image ? [item.image] : [];
+}
+async function fetchJsonFirst(urls){
+  let last;
+  for (const u of urls){
+    try{
+      const r = await fetch(u + (u.includes('?')?'&':'?') + 't=' + Date.now(), {cache:'no-store'});
+      if (!r.ok) throw new Error('HTTP '+r.status);
+      return await r.json();
+    }catch(e){ last=e; }
+  }
+  throw last || new Error('fetch failed');
+}
+async function getSearchIndex(){
+  if (__searchIndex) return __searchIndex;
+  __searchIndex = await fetchJsonFirst([
+    'https://raw.githubusercontent.com/chekoli911/game-discountsArenaSALE/refs/heads/main/rent-catalog/rent_catalog_search.json',
+    'https://raw.githubusercontent.com/chekoli911/game-discountsArenaSALE/main/rent-catalog/rent_catalog_search.json',
+    'https://cdn.jsdelivr.net/gh/chekoli911/game-discountsArenaSALE@main/rent-catalog/rent_catalog_search.json'
+  ]);
+  return __searchIndex;
+}
+async function getChunk(n){
+  const key = String(n);
+  if (__chunkCache[key]) return __chunkCache[key];
+  const name = 'rent_catalog_chunk_' + String(n).padStart(3,'0') + '.json';
+  const doc = await fetchJsonFirst([
+    'https://raw.githubusercontent.com/chekoli911/game-discountsArenaSALE/refs/heads/main/rent-catalog/' + name,
+    'https://raw.githubusercontent.com/chekoli911/game-discountsArenaSALE/main/rent-catalog/' + name,
+    'https://cdn.jsdelivr.net/gh/chekoli911/game-discountsArenaSALE@main/rent-catalog/' + name
+  ]);
+  __chunkCache[key] = doc;
+  return doc;
+}
+async function resolveDescription(item){
+  const key = item.url || item.title;
+  if (__descCache[key]) return __descCache[key];
+  if (item.description) {
+    __descCache[key] = stripRentCopy(item.description);
+    return __descCache[key];
+  }
+  try{
+    const idx = await getSearchIndex();
+    const nt = normTitle(item.title);
+    let best = null;
+    for (const row of idx){
+      const rt = normTitle(row.title);
+      if (!rt || !nt) continue;
+      if (rt === nt || rt.includes(nt) || nt.includes(rt)) { best = row; break; }
+    }
+    if (!best) {
+      __descCache[key] = '';
+      return '';
+    }
+    const chunk = await getChunk(best.chunk);
+    const items = (chunk && chunk.items) || [];
+    const hit = items.find(it => (it.slug === best.slug) || normTitle(it.title) === normTitle(best.title)) || items.find(it => normTitle(it.title).includes(nt));
+    const desc = stripRentCopy((hit && (hit.description || hit.descr || hit.text)) || '');
+    __descCache[key] = desc;
+    return desc;
+  }catch(e){
+    __descCache[key] = '';
+    return '';
+  }
+}
+function renderLightboxShots(){
+  const hero = document.getElementById('lightbox-hero');
+  const shotsEl = document.getElementById('lightbox-shots');
+  const countEl = document.getElementById('lightbox-shot-count');
+  const prev = document.getElementById('lightbox-shot-prev');
+  const next = document.getElementById('lightbox-shot-next');
+  if (!hero || !shotsEl) return;
+  const list = lightboxShotList;
+  const i = Math.max(0, Math.min(lightboxShotIdx, Math.max(0, list.length-1)));
+  lightboxShotIdx = i;
+  hero.src = list[i] || '';
+  hero.alt = document.getElementById('lightbox-title')?.textContent || '';
+  if (countEl) countEl.textContent = list.length ? ((i+1) + ' / ' + list.length) : '';
+  if (prev) prev.hidden = list.length < 2;
+  if (next) next.hidden = list.length < 2;
+  shotsEl.innerHTML = list.map((u, idx) => (
+    '<button type="button" class="lb-shot'+(idx===i?' is-on':'')+'" data-shot="'+idx+'"><img src="'+u.replace(/"/g,'&quot;')+'" alt=""></button>'
+  )).join('');
+  shotsEl.querySelectorAll('[data-shot]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      lightboxShotIdx = +btn.getAttribute('data-shot') || 0;
+      renderLightboxShots();
+    });
+  });
+}
+function bindLightboxShotNavOnce(){
+  if (bindLightboxShotNavOnce.done) return;
+  bindLightboxShotNavOnce.done = true;
+  document.getElementById('lightbox-shot-prev')?.addEventListener('click', (e) => {
+    e.stopPropagation();
+    if (!lightboxShotList.length) return;
+    lightboxShotIdx = (lightboxShotIdx - 1 + lightboxShotList.length) % lightboxShotList.length;
+    renderLightboxShots();
+  });
+  document.getElementById('lightbox-shot-next')?.addEventListener('click', (e) => {
+    e.stopPropagation();
+    if (!lightboxShotList.length) return;
+    lightboxShotIdx = (lightboxShotIdx + 1) % lightboxShotList.length;
+    renderLightboxShots();
+  });
+}
+
+function setLightboxContent(index) {
+  if (!currentPageCards.length) return;
+  const item = currentPageCards[index];
+  const overlay = document.getElementById("lightbox-overlay");
+  bindLightboxShotNavOnce();
+  lightboxShotList = shotsOf(item);
+  lightboxShotIdx = 0;
+  document.getElementById("lightbox-title").textContent = item.title;
+  const ratingEl = document.getElementById('lightbox-rating');
+  if (ratingEl) ratingEl.textContent = item.rating ? starsText(item.rating) : '';
+  document.getElementById("lightbox-discount").textContent = `−${calcDiscountPercent(item)}%`;
+  document.getElementById("lightbox-price-old").textContent = `Было: ${item.price_old}₽`;
+  document.getElementById("lightbox-price").textContent = `${item.price}₽`;
+  document.getElementById("lightbox-platform").textContent = `${item.platform || item.platforms || 'PS5'} · Покупка`;
+  const specs = document.getElementById('lightbox-specs');
+  if (specs) {
+    const rows = [
+      ['Жанр', item.genre],
+      ['Издатель', item.publisher],
+      ['Релиз', item.release_date],
+      ['Перевод', item.subtitles || item.text_translation],
+      ['Озвучка', item.voice],
+      ['Платформа', item.platform || item.platforms]
+    ].filter(x => x[1]);
+    specs.innerHTML = rows.map(([k,v]) => `<div class="lb-spec"><span>${k}</span><span>${String(v)}</span></div>`).join('');
+  }
+  renderLightboxShots();
+  const descEl = document.getElementById('lightbox-desc');
+  if (descEl) {
+    descEl.textContent = 'Загрузка описания…';
+    resolveDescription(item).then(desc => {
+      if (document.getElementById('lightbox-title')?.textContent !== item.title) return;
+      descEl.textContent = desc || 'Описание скоро появится. Оформите покупку — игра будет выдана на турецкий профиль.';
+    });
+  }
+  const buyLink = document.getElementById("lightbox-buy");
+  if (item.url) {
+    bindBuyButton(buyLink, item);
+    buyLink.style.display = "";
+  } else {
+    buyLink.style.display = "none";
+    buyLink.onclick = null;
+  }
+  const uid = getProductUidFromUrl(item.url);
+  if (uid && document.getElementById("lightbox-overlay").classList.contains("is-open")) {
+    updateHashForPage(null, uid);
+  }
+  overlay.querySelector(".lightbox-nav.prev").style.visibility = index === 0 ? "hidden" : "visible";
+  overlay.querySelector(".lightbox-nav.next").style.visibility = index === currentPageCards.length - 1 ? "hidden" : "visible";
+}
+
+
+function resetSlideTransform() {
+  const { slide } = getLightboxEls();
+  if (!slide) return;
+  slide.classList.remove("dragging");
+  slide.style.transition = "";
+  slide.style.transform = "";
+}
+
+function openLightbox(index, updateHistory) {
+  if (!currentPageCards.length) return;
+  lightboxIndex = Math.max(0, Math.min(index, currentPageCards.length - 1));
+  lightboxSwipesThisSession = 0;
+  lightboxRandomPromptShown = false;
+  const { overlay, slide, prevBtn, nextBtn } = getLightboxEls();
+  prevBtn.classList.remove("hidden-by-swipe");
+  nextBtn.classList.remove("hidden-by-swipe");
+  resetSlideTransform();
+  overlay.classList.add("is-open");
+  document.body.style.overflow = "hidden";
+  hideRandomOrderPrompt();
+  setLightboxContent(lightboxIndex);
+  if (updateHistory !== false) {
+    const item = currentPageCards[lightboxIndex];
+    const uid = getProductUidFromUrl(item && item.url);
+    if (uid && !isStalkerTitle(item.title)) updateHashForPage(null, uid);
+  }
+}
+
+function showRandomOrderPrompt() {
+  const el = document.getElementById("lightbox-random-prompt");
+  if (el) { el.classList.add("visible"); el.setAttribute("aria-hidden", "false"); }
+}
+function hideRandomOrderPrompt() {
+  const el = document.getElementById("lightbox-random-prompt");
+  if (el) { el.classList.remove("visible"); el.setAttribute("aria-hidden", "true"); }
+}
+
+function preloadRandomCards(count) {
+  if (!currentFilteredCards.length) return;
+  const total = currentFilteredCards.length;
+  const indices = new Set();
+  while (indices.size < Math.min(count, total)) {
+    indices.add(Math.floor(Math.random() * total));
+  }
+  indices.forEach(idx => {
+    const item = currentFilteredCards[idx];
+    if (item && item.image) {
+      const img = new Image();
+      img.src = item.image;
+    }
+  });
+}
+
+function closeLightbox() {
+  document.getElementById("lightbox-overlay").classList.remove("is-open");
+  document.body.style.overflow = "";
+  resetSlideTransform();
+  if (lightboxStandalone) {
+    lightboxStandalone = false;
+    filterAndRender();
+  }
+  if (getGameFromHash()) updateHashForPage(currentPage > 1 ? currentPage : null, null);
+}
+
+function canGoPrev() {
+  return lightboxIndex > 0 || (lightboxIndex === 0 && currentPage > 1);
+}
+function canGoNext() {
+  if (lightboxRandomMode && currentFilteredCards.length > 0) return true;
+  const perPage = getCardsPerPage();
+  return lightboxIndex < currentPageCards.length - 1 ||
+    (lightboxIndex === currentPageCards.length - 1 && currentPage * perPage < currentFilteredCards.length);
+}
+function applyPrevCard() {
+  lightboxSwipesThisSession++;
+  if (lightboxSwipesThisSession === 3 && !lightboxRandomPromptShown) {
+    showRandomOrderPrompt();
+    lightboxRandomPromptShown = true;
+    return;
+  }
+  if (lightboxIndex > 0) {
+    lightboxIndex--;
+    setLightboxContent(lightboxIndex);
+    return;
+  }
+  if (lightboxIndex === 0 && currentPage > 1) {
+    currentPage--;
+    filterAndRender();
+    lightboxIndex = currentPageCards.length - 1;
+    setLightboxContent(lightboxIndex);
+  }
+}
+function applyNextCard() {
+  lightboxSwipesThisSession++;
+  if (lightboxSwipesThisSession === 3 && !lightboxRandomPromptShown) {
+    showRandomOrderPrompt();
+    lightboxRandomPromptShown = true;
+    return;
+  }
+  const prevCount = getSwipedToday();
+  const newCount = prevCount + 1;
+  setSwipedToday(newCount);
+  if (SWIPE_MILESTONES.includes(newCount)) showSwipeMilestoneMessage(newCount);
+
+  const perPage = getCardsPerPage();
+  if (lightboxRandomMode && currentFilteredCards.length > 0) {
+    const randomIndex = Math.floor(Math.random() * currentFilteredCards.length);
+    currentPage = Math.floor(randomIndex / perPage) + 1;
+    filterAndRender();
+    lightboxIndex = randomIndex % perPage;
+    setLightboxContent(lightboxIndex);
+    preloadRandomCards(PRELOAD_RANDOM_COUNT);
+    return;
+  }
+  if (lightboxIndex < currentPageCards.length - 1) {
+    lightboxIndex++;
+    setLightboxContent(lightboxIndex);
+    return;
+  }
+  if (lightboxIndex === currentPageCards.length - 1 && currentPage * perPage < currentFilteredCards.length) {
+    currentPage++;
+    filterAndRender();
+    lightboxIndex = 0;
+    setLightboxContent(0);
+  }
+}
+
+function lightboxPrev() {
+  if (!canGoPrev()) return;
+  const { slide } = getLightboxEls();
+  slide.classList.remove("dragging");
+  slide.style.transition = "transform 0.35s ease-out";
+  slide.style.transform = "translateX(100vw)";
+  const onEnd = () => {
+    slide.removeEventListener("transitionend", onEnd);
+    applyPrevCard();
+    slide.style.transition = "none";
+    slide.style.transform = "translateX(-100vw)";
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        slide.style.transition = "transform 0.35s ease-out";
+        slide.style.transform = "translateX(0)";
+      });
+    });
+    const onEnterEnd = () => {
+      slide.removeEventListener("transitionend", onEnterEnd);
+      slide.style.transition = "";
+      slide.style.transform = "";
+    };
+    slide.addEventListener("transitionend", onEnterEnd);
+  };
+  slide.addEventListener("transitionend", onEnd);
+}
+
+function lightboxNext() {
+  if (!canGoNext()) return;
+  const { slide } = getLightboxEls();
+  slide.classList.remove("dragging");
+  slide.style.transition = "transform 0.35s ease-out";
+  slide.style.transform = "translateX(-100vw)";
+  const onEnd = () => {
+    slide.removeEventListener("transitionend", onEnd);
+    applyNextCard();
+    slide.style.transition = "none";
+    slide.style.transform = "translateX(100vw)";
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        slide.style.transition = "transform 0.35s ease-out";
+        slide.style.transform = "translateX(0)";
+      });
+    });
+    const onEnterEnd = () => {
+      slide.removeEventListener("transitionend", onEnterEnd);
+      slide.style.transition = "";
+      slide.style.transform = "";
+    };
+    slide.addEventListener("transitionend", onEnterEnd);
+  };
+  slide.addEventListener("transitionend", onEnd);
+}
+
+function lightboxSwipeTo(direction) {
+  if (direction === "next" && !canGoNext()) return;
+  if (direction === "prev" && !canGoPrev()) return;
+  const { slide } = getLightboxEls();
+  slide.classList.remove("dragging");
+  slide.style.transition = "transform 0.35s ease-out";
+  const exitY = direction === "next" ? "-100vh" : "100vh";
+  slide.style.transform = `translateY(${exitY})`;
+  const onExitEnd = () => {
+    slide.removeEventListener("transitionend", onExitEnd);
+    if (direction === "next") applyNextCard(); else applyPrevCard();
+    const enterFrom = direction === "next" ? "100vh" : "-100vh";
+    slide.style.transition = "none";
+    slide.style.transform = `translateY(${enterFrom})`;
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        slide.style.transition = "transform 0.35s ease-out";
+        slide.style.transform = "translateY(0)";
+      });
+    });
+    const onEnterEnd = () => {
+      slide.removeEventListener("transitionend", onEnterEnd);
+      slide.style.transition = "";
+      slide.style.transform = "";
+    };
+    slide.addEventListener("transitionend", onEnterEnd);
+  };
+  slide.addEventListener("transitionend", onExitEnd);
+}
+
+function scrollToPageTop() {
+  const widget = document.getElementById("discounts-widget");
+  if (widget) widget.scrollIntoView({ behavior: "smooth", block: "start" });
+  else window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function getVisiblePages(totalPages, current) {
+  if (totalPages <= 7) return Array.from({ length: totalPages }, (_, i) => i + 1);
+  const pages = new Set([1, totalPages]);
+  const half = 2;
+  for (let i = Math.max(1, current - half); i <= Math.min(totalPages, current + half); i++) pages.add(i);
+  const sorted = [...pages].sort((a, b) => a - b);
+  const result = [];
+  for (let i = 0; i < sorted.length; i++) {
+    if (i > 0 && sorted[i] - sorted[i - 1] > 1) result.push("…");
+    result.push(sorted[i]);
+  }
+  return result;
+}
+
+function fillPaginationContainer(container, totalPages) {
+  container.innerHTML = "";
+  const go = (action) => {
+    action();
+    filterAndRender();
+    scrollToPageTop();
+  };
+  const prevButton = document.createElement("button");
+  prevButton.innerText = "←";
+  prevButton.title = "Предыдущая страница";
+  prevButton.disabled = currentPage === 1;
+  prevButton.onclick = () => { if (currentPage > 1) go(() => currentPage--); };
+  container.appendChild(prevButton);
+
+  const visible = getVisiblePages(totalPages, currentPage);
+  for (const item of visible) {
+    if (item === "…") {
+      const span = document.createElement("span");
+      span.innerText = " … ";
+      span.style.cssText = "color: #888; padding: 0 4px; user-select: none;";
+      container.appendChild(span);
+    } else {
+      const pageLink = document.createElement("a");
+      pageLink.href = "#page=" + item;
+      pageLink.className = "pagination-link";
+      pageLink.innerText = item;
+      pageLink.setAttribute("aria-current", currentPage === item ? "page" : "false");
+      pageLink.onclick = (e) => { e.preventDefault(); go(() => currentPage = item); };
+      container.appendChild(pageLink);
+    }
+  }
+
+  const nextButton = document.createElement("button");
+  nextButton.innerText = "→";
+  nextButton.title = "Следующая страница";
+  nextButton.disabled = currentPage === totalPages;
+  nextButton.onclick = () => { if (currentPage < totalPages) go(() => currentPage++); };
+  container.appendChild(nextButton);
+}
+
+function updatePagination(cards) {
+  const totalPages = Math.ceil(cards.length / getCardsPerPage());
+  if (totalPages <= 0) return;
+  fillPaginationContainer(document.getElementById("paginationTop"), totalPages);
+  fillPaginationContainer(document.getElementById("pagination"), totalPages);
+}
+
+function resetFilters() {
+  document.getElementById("searchInput").value = "";
+  document.getElementById("minPrice").value = "0";
+  document.getElementById("maxPrice").value = "999999";
+  document.getElementById("platformFilter").value = "all";
+  document.getElementById("sortSelect").value = "none";
+  currentPage = 1;
+  filterAndRender();
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  setupLightboxCloseOnTildaCart();
+  loadCards();
+  document.getElementById("searchInput").addEventListener("input", filterAndRender);
+  document.getElementById("minPrice").addEventListener("change", filterAndRender);
+  document.getElementById("maxPrice").addEventListener("change", filterAndRender);
+  document.getElementById("platformFilter").addEventListener("change", filterAndRender);
+  document.getElementById("sortSelect").addEventListener("change", filterAndRender);
+  let resizeTimer;
+  window.addEventListener("resize", () => {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(filterAndRender, 150);
+  });
+  window.addEventListener("hashchange", applyHashRouting);
+
+  const overlay = document.getElementById("lightbox-overlay");
+  const slideEl = overlay.querySelector(".lightbox-slide");
+  const prevBtn = overlay.querySelector(".lightbox-nav.prev");
+  const nextBtn = overlay.querySelector(".lightbox-nav.next");
+  overlay.querySelector(".lightbox-close").addEventListener("click", closeLightbox);
+  prevBtn.addEventListener("click", lightboxPrev);
+  nextBtn.addEventListener("click", lightboxNext);
+  overlay.addEventListener("click", (e) => { if (e.target === overlay) closeLightbox(); });
+  document.getElementById("lightbox-random-yes").addEventListener("click", () => {
+    lightboxRandomMode = true;
+    hideRandomOrderPrompt();
+    preloadRandomCards(PRELOAD_RANDOM_COUNT);
+  });
+  document.getElementById("lightbox-random-no").addEventListener("click", () => {
+    lightboxRandomMode = false;
+    hideRandomOrderPrompt();
+  });
+
+  overlay.addEventListener("touchstart", (e) => {
+    if (!overlay.classList.contains("is-open") || !e.touches.length) return;
+    touchStartY = e.touches[0].clientY;
+    touchStartX = e.touches[0].clientX;
+    slideEl.classList.add("dragging");
+    slideEl.style.transition = "none";
+  }, { passive: true });
+  overlay.addEventListener("touchmove", (e) => {
+    if (!overlay.classList.contains("is-open") || !e.touches.length) return;
+    const deltaY = e.touches[0].clientY - touchStartY;
+    const deltaX = e.touches[0].clientX - touchStartX;
+    if (Math.abs(deltaY) > SWIPE_NAV_HIDE_THRESHOLD) {
+      prevBtn.classList.add("hidden-by-swipe");
+      nextBtn.classList.add("hidden-by-swipe");
+    }
+    slideEl.style.transform = `translateY(${deltaY}px)`;
+    if (Math.abs(deltaY) > Math.abs(deltaX) && Math.abs(deltaY) > 8) e.preventDefault();
+  }, { passive: false });
+  overlay.addEventListener("touchend", (e) => {
+    if (!overlay.classList.contains("is-open")) return;
+    const deltaY = e.changedTouches[0].clientY - touchStartY;
+    if (Math.abs(deltaY) > SWIPE_THRESHOLD) {
+      lightboxSwipeTo(deltaY < 0 ? "next" : "prev");
+    } else {
+      slideEl.classList.remove("dragging");
+      slideEl.style.transition = "transform 0.35s ease-out";
+      slideEl.style.transform = "translateY(0)";
+      const onBack = () => {
+        slideEl.removeEventListener("transitionend", onBack);
+        slideEl.style.transition = "";
+        slideEl.style.transform = "";
+      };
+      slideEl.addEventListener("transitionend", onBack);
+    }
+  }, { passive: true });
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeLightbox();
+    if (overlay.classList.contains("is-open") && !["INPUT","TEXTAREA","SELECT"].includes(document.activeElement.tagName)) {
+      if (e.key === "ArrowLeft") { e.preventDefault(); lightboxPrev(); }
+      if (e.key === "ArrowRight") { e.preventDefault(); lightboxNext(); }
+    }
+  });
+});
+</script>
+</div>
