@@ -411,7 +411,7 @@
     padding: 56px 18px 40px;
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-areas: "media" "side";
+    grid-template-areas: "media" "side" "recs";
     gap: 18px;
     color: #141820;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -420,10 +420,11 @@
   }
   #lightbox-overlay .lb-media{grid-area:media; min-width:0}
   #lightbox-overlay .lb-side{grid-area:side; min-width:0}
+  #lightbox-overlay .lb-recs{grid-area:recs; min-width:0}
   @media(min-width:900px){
     #lightbox-overlay .lb-pd{
       grid-template-columns: minmax(0,1.05fr) minmax(320px,400px);
-      grid-template-areas: "media side";
+      grid-template-areas: "media side" "recs recs";
       gap: 22px 28px;
       padding-top: 48px;
     }
@@ -835,6 +836,85 @@
     #lightbox-overlay .lb-side h3{font-size:1.08rem}
     #lightbox-overlay .sale-countdown__num{font-size:1rem}
   }
+
+  /* Recommendations under opened card */
+  #lightbox-overlay .lb-recs{
+    margin-top:8px;
+    padding:18px 16px 8px;
+    border-radius:20px;
+    border:1px solid rgba(255,255,255,.48);
+    background:rgba(255,255,255,.55);
+    box-shadow:0 12px 32px rgba(15,23,42,.06);
+  }
+  #lightbox-overlay .lb-recs__title{
+    margin:0 0 14px;
+    font-size:1.05rem;
+    font-weight:800;
+    color:#141820;
+  }
+  #lightbox-overlay .lb-recs-grid{
+    display:grid;
+    grid-template-columns:repeat(4, minmax(0, 1fr));
+    gap:12px;
+  }
+  #lightbox-overlay .lb-rec-card{
+    display:flex;
+    flex-direction:column;
+    border:0;
+    padding:0;
+    text-align:left;
+    border-radius:14px;
+    overflow:hidden;
+    background:rgba(255,255,255,.72);
+    border:1px solid rgba(37,99,235,.12);
+    cursor:pointer;
+    color:inherit;
+    font:inherit;
+    box-shadow:0 8px 20px rgba(15,23,42,.06);
+    transition:transform .2s, box-shadow .2s;
+  }
+  #lightbox-overlay .lb-rec-card:hover{
+    transform:translateY(-3px);
+    box-shadow:0 12px 28px rgba(15,23,42,.12);
+  }
+  #lightbox-overlay .lb-rec-media{
+    position:relative;
+    aspect-ratio:1/1;
+    background:#0d0f18;
+    overflow:hidden;
+  }
+  #lightbox-overlay .lb-rec-media img{
+    width:100%; height:100%; object-fit:cover; display:block;
+  }
+  #lightbox-overlay .lb-rec-badge{
+    position:absolute; left:6px; bottom:6px;
+    padding:3px 7px; border-radius:999px;
+    background:linear-gradient(135deg,#f59e0b,#ef4444);
+    color:#fff; font-size:.58rem; font-weight:800;
+  }
+  #lightbox-overlay .lb-rec-body{padding:8px 9px 10px}
+  #lightbox-overlay .lb-rec-name{
+    margin:0 0 4px;
+    font-size:.72rem; font-weight:800; line-height:1.25;
+    display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical;
+    overflow:hidden; min-height:calc(1.25em * 2); max-height:calc(1.25em * 2);
+    color:#141820;
+  }
+  #lightbox-overlay .lb-rec-price{
+    margin:0; font-size:.78rem; font-weight:900; color:#047857;
+  }
+  #lightbox-overlay .lb-rec-old{
+    margin:0 0 0 6px; font-size:.65rem; color:#8b93a7; text-decoration:line-through; font-weight:650;
+  }
+  @media (max-width:899px){
+    #lightbox-overlay .lb-recs-grid{grid-template-columns:repeat(3, minmax(0, 1fr)); gap:10px}
+  }
+  @media (max-width:560px){
+    #lightbox-overlay .lb-recs{padding:14px 12px 6px; border-radius:16px}
+    #lightbox-overlay .lb-recs__title{font-size:.95rem; margin-bottom:10px}
+    #lightbox-overlay .lb-recs-grid{grid-template-columns:repeat(2, minmax(0, 1fr)); gap:8px}
+    #lightbox-overlay .lb-rec-name{font-size:.68rem}
+  }
 </style>
 
 <div class="wtb-sale-bar" id="wtb-sale-bar">
@@ -957,6 +1037,10 @@
         </div>
         <p class="lb-note">Покупка игры · выдача на турецкий профиль</p>
       </aside>
+      <section class="lb-recs" id="lightbox-recs-wrap" aria-label="Рекомендации">
+        <h4 class="lb-recs__title">Вам также может понравиться</h4>
+        <div class="lb-recs-grid" id="lightbox-recs"></div>
+      </section>
     </div>
   </div>
   <div id="lightbox-swipe-message" class="lightbox-swipe-message" aria-live="polite"></div>
@@ -1682,11 +1766,129 @@ function bindLightboxShotNavOnce(){
   });
 }
 
+function cardKey(item){
+  return String(getProductUidFromUrl(item && item.url) || item && item.url || item && item.title || '');
+}
+function shuffleInPlace(arr){
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    const t = arr[i]; arr[i] = arr[j]; arr[j] = t;
+  }
+  return arr;
+}
+function pickRecommendations(current, count){
+  count = count || 16;
+  const exclude = cardKey(current);
+  const pool = getCatalogCards(allCards).filter(it => cardKey(it) && cardKey(it) !== exclude);
+  const genre = String(current && current.genre || '').toLowerCase().trim();
+  const platform = String(current && (current.platform || current.platforms) || '').toLowerCase().trim();
+  const sameGenre = [];
+  const samePlatform = [];
+  const rest = [];
+  for (const it of pool) {
+    const g = String(it.genre || '').toLowerCase().trim();
+    const p = String(it.platform || it.platforms || '').toLowerCase().trim();
+    if (genre && g && (g === genre || g.includes(genre) || genre.includes(g))) sameGenre.push(it);
+    else if (platform && p && (p === platform || p.includes(platform) || platform.includes(p))) samePlatform.push(it);
+    else rest.push(it);
+  }
+  shuffleInPlace(sameGenre);
+  shuffleInPlace(samePlatform);
+  shuffleInPlace(rest);
+  const picked = [];
+  const used = new Set();
+  const take = (list) => {
+    for (const it of list) {
+      if (picked.length >= count) break;
+      const k = cardKey(it);
+      if (!k || used.has(k)) continue;
+      used.add(k);
+      picked.push(it);
+    }
+  };
+  take(sameGenre);
+  take(samePlatform);
+  take(rest);
+  return picked;
+}
+function escHtml(s){
+  return String(s || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+function renderLightboxRecommendations(current){
+  const grid = document.getElementById('lightbox-recs');
+  const wrap = document.getElementById('lightbox-recs-wrap');
+  if (!grid || !wrap) return;
+  const recs = pickRecommendations(current, 16);
+  if (!recs.length) {
+    wrap.style.display = 'none';
+    grid.innerHTML = '';
+    return;
+  }
+  wrap.style.display = '';
+  grid.innerHTML = recs.map((it) => {
+    const disc = calcDiscountPercent(it);
+    const uid = getProductUidFromUrl(it.url) || '';
+    return `<button type="button" class="lb-rec-card" data-rec-uid="${escHtml(uid)}" data-rec-title="${escHtml(it.title)}">
+      <span class="lb-rec-media">
+        <img loading="lazy" decoding="async" src="${escHtml(it.image || '')}" alt="${escHtml(it.title)}">
+        ${disc ? `<span class="lb-rec-badge">−${disc}%</span>` : ''}
+      </span>
+      <span class="lb-rec-body">
+        <span class="lb-rec-name">${escHtml(it.title)}</span>
+        <span class="lb-rec-price">${escHtml(it.price)}₽${it.price_old ? `<span class="lb-rec-old">${escHtml(it.price_old)}₽</span>` : ''}</span>
+      </span>
+    </button>`;
+  }).join('');
+}
+function bindLightboxRecsOnce(){
+  if (bindLightboxRecsOnce.done) return;
+  bindLightboxRecsOnce.done = true;
+  const grid = document.getElementById('lightbox-recs');
+  if (!grid) return;
+  grid.addEventListener('click', (e) => {
+    const card = e.target.closest('.lb-rec-card');
+    if (!card) return;
+    e.preventDefault();
+    e.stopPropagation();
+    const uid = card.getAttribute('data-rec-uid');
+    if (uid) {
+      const slide = document.querySelector('#lightbox-overlay .lightbox-slide');
+      if (slide) slide.scrollTop = 0;
+      openLightboxByUid(uid, true);
+      return;
+    }
+    const title = card.getAttribute('data-rec-title') || '';
+    const item = getCatalogCards(allCards).find(it => it.title === title);
+    if (!item) return;
+    const idx = currentFilteredCards.indexOf(item);
+    if (idx >= 0) {
+      const perPage = getCardsPerPage();
+      currentPage = Math.floor(idx / perPage) + 1;
+      filterAndRender();
+      const pageIdx = currentPageCards.findIndex(c => c.title === title);
+      const slide = document.querySelector('#lightbox-overlay .lightbox-slide');
+      if (slide) slide.scrollTop = 0;
+      openLightbox(pageIdx >= 0 ? pageIdx : 0, true);
+    } else {
+      lightboxStandalone = true;
+      currentPageCards = [item];
+      const slide = document.querySelector('#lightbox-overlay .lightbox-slide');
+      if (slide) slide.scrollTop = 0;
+      openLightbox(0, true);
+    }
+  });
+}
+
 function setLightboxContent(index) {
   if (!currentPageCards.length) return;
   const item = currentPageCards[index];
   const overlay = document.getElementById("lightbox-overlay");
   bindLightboxShotNavOnce();
+  bindLightboxRecsOnce();
   lightboxShotList = shotsOf(item);
   lightboxShotIdx = 0;
   document.getElementById("lightbox-title").textContent = item.title;
@@ -1741,6 +1943,7 @@ function setLightboxContent(index) {
   }
   overlay.querySelector(".lightbox-nav.prev").style.visibility = index === 0 ? "hidden" : "visible";
   overlay.querySelector(".lightbox-nav.next").style.visibility = index === currentPageCards.length - 1 ? "hidden" : "visible";
+  renderLightboxRecommendations(item);
 }
 
 
