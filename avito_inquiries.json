@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-09T16:57:39+03:00",
-  "updated_at_msk": "09.11.2026 16:57",
+  "updated_at": "2026-11-09T17:57:55+03:00",
+  "updated_at_msk": "09.11.2026 17:57",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2493,
+  "total": 2495,
   "unique_games": 915,
   "in_demand": 159,
   "one_off": 621,
@@ -2983,7 +2983,7 @@
       "title": "NBA 2K27 Ultra Edition PS5",
       "item_id": "8276992073",
       "url": "https://avito.ru",
-      "count": 45,
+      "count": 46,
       "demand": "high",
       "avg_price": 277,
       "min_price": 257,
@@ -3173,7 +3173,7 @@
         44,
         44,
         44,
-        45
+        46
       ],
       "hourly": [
         0,
@@ -3337,7 +3337,7 @@
         1,
         0,
         0,
-        1
+        2
       ],
       "price_series": [
         null,
@@ -3504,7 +3504,7 @@
         257
       ],
       "first_at": "2026-08-20T13:33:54+03:00",
-      "last_at": "2026-11-09T12:49:44+03:00"
+      "last_at": "2026-11-09T17:30:45+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -7207,7 +7207,7 @@
       "title": "UFC 6 Ultimate Edition PS5",
       "item_id": "8277145222",
       "url": "https://avito.ru",
-      "count": 24,
+      "count": 25,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -7397,7 +7397,7 @@
         23,
         24,
         24,
-        24
+        25
       ],
       "hourly": [
         0,
@@ -7561,7 +7561,7 @@
         1,
         1,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -7728,7 +7728,7 @@
         257
       ],
       "first_at": "2026-08-18T10:07:46+03:00",
-      "last_at": "2026-11-07T20:17:56+03:00"
+      "last_at": "2026-11-09T17:14:27+03:00"
     },
     {
       "id": "microsoft-flight-simulator-2024-ps5",
@@ -467241,6 +467241,18 @@
   ],
   "recent": [
     {
+      "title": "NBA 2K27 Ultra Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-09T17:30:45+03:00"
+    },
+    {
+      "title": "UFC 6 Ultimate Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-09T17:14:27+03:00"
+    },
+    {
       "title": "Forza Horizon 6 Premium Edition PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -467467,18 +467479,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-08T13:19:03+03:00"
-    },
-    {
-      "title": "Just Dance 2026 Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-08T12:44:51+03:00"
-    },
-    {
-      "title": "Medieval Dynasty PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-08T12:23:31+03:00"
     }
   ]
 }
