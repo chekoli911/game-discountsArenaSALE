@@ -549,7 +549,50 @@
   }
   #lightbox-overlay #lightbox-buy.buy-now-button:active{transform:translateY(1px)}
   #lightbox-overlay .lightbox-buy-wrap{display:none!important}
-  #lightbox-overlay .lb-note{margin:0; color:#6b7589; font-size:.78rem; font-weight:650}
+  #lightbox-overlay .lb-note{margin:0; color:#6b7589; font-size:.78rem; font-weight:650; text-align:center}
+  #lightbox-overlay .lb-acc{
+    display:flex; flex-direction:column; gap:8px; margin:0;
+  }
+  #lightbox-overlay .lb-acc__opt{
+    display:flex; align-items:flex-start; gap:10px;
+    padding:11px 12px; border-radius:14px; cursor:pointer;
+    border:1px solid rgba(20,24,32,.10);
+    background:rgba(255,255,255,.62);
+    transition:border-color .15s ease, background .15s ease, box-shadow .15s ease;
+  }
+  #lightbox-overlay .lb-acc__opt:hover{
+    border-color:rgba(37,99,235,.28);
+    background:rgba(255,255,255,.82);
+  }
+  #lightbox-overlay .lb-acc__opt.is-on{
+    border-color:rgba(37,99,235,.55);
+    background:rgba(37,99,235,.08);
+    box-shadow:0 0 0 3px rgba(37,99,235,.10);
+  }
+  #lightbox-overlay .lb-acc__opt input{
+    position:absolute; opacity:0; pointer-events:none; width:0; height:0;
+  }
+  #lightbox-overlay .lb-acc__mark{
+    flex:0 0 auto; width:22px; height:22px; margin-top:1px;
+    border-radius:7px; border:2px solid rgba(37,99,235,.45);
+    background:#fff; position:relative;
+    box-sizing:border-box;
+  }
+  #lightbox-overlay .lb-acc__opt.is-on .lb-acc__mark{
+    border-color:#2563eb; background:#2563eb;
+  }
+  #lightbox-overlay .lb-acc__opt.is-on .lb-acc__mark::after{
+    content:""; position:absolute; left:6px; top:2px;
+    width:6px; height:11px; border:solid #fff; border-width:0 2.5px 2.5px 0;
+    transform:rotate(45deg);
+  }
+  #lightbox-overlay .lb-acc__text{
+    flex:1 1 auto; min-width:0; color:#141820;
+    font-size:.84rem; font-weight:700; line-height:1.35;
+  }
+  #lightbox-overlay .lb-acc__text em{
+    font-style:normal; color:#2563eb; font-weight:850; white-space:nowrap;
+  }
   #lightbox-overlay .lb-desc{
     padding:16px 18px; border-radius:18px;
     border:1px solid rgba(255,255,255,.48); background:rgba(255,255,255,.5);
@@ -1074,7 +1117,19 @@
             <div class="sale-countdown__grid" id="lightbox-countdown-grid"></div>
           </div>
         </div>
-        <p class="lb-note">Покупка игры · выдача на турецкий профиль</p>
+        <p class="lb-note">Покупка игры на турецкий профиль</p>
+        <div class="lb-acc" id="lightbox-acc" role="radiogroup" aria-label="Турецкий аккаунт">
+          <label class="lb-acc__opt is-on" data-acc="own">
+            <input type="checkbox" name="lb-tr-acc" id="lb-acc-own" value="own" checked>
+            <span class="lb-acc__mark" aria-hidden="true"></span>
+            <span class="lb-acc__text">У меня есть свой Турецкий аккаунт</span>
+          </label>
+          <label class="lb-acc__opt" data-acc="empty">
+            <input type="checkbox" name="lb-tr-acc" id="lb-acc-empty" value="empty">
+            <span class="lb-acc__mark" aria-hidden="true"></span>
+            <span class="lb-acc__text">Мне нужен пустой Турецкий аккаунт <em>+750₽</em></span>
+          </label>
+        </div>
         <div class="lb-desc" id="lightbox-desc-wrap">
           <h4>Об игре</h4>
           <div id="lightbox-desc">Загрузка описания…</div>
@@ -1522,13 +1577,67 @@ function markCartButtonAdded(btn) {
   }
 }
 
-function addItemToTildaCart(item, btn) {
+const EMPTY_TR_ACCOUNT_FEE = 750;
+
+function getLightboxAccountOption() {
+  const empty = document.getElementById("lb-acc-empty");
+  return empty && empty.checked ? "empty" : "own";
+}
+
+function setLightboxAccountOption(opt) {
+  const own = document.getElementById("lb-acc-own");
+  const empty = document.getElementById("lb-acc-empty");
+  const wantEmpty = opt === "empty";
+  if (own) own.checked = !wantEmpty;
+  if (empty) empty.checked = wantEmpty;
+  document.querySelectorAll("#lightbox-acc .lb-acc__opt").forEach((el) => {
+    el.classList.toggle("is-on", el.getAttribute("data-acc") === (wantEmpty ? "empty" : "own"));
+  });
+  refreshLightboxPriceForAccount();
+}
+
+function refreshLightboxPriceForAccount() {
+  const priceEl = document.getElementById("lightbox-price");
+  const titleEl = document.getElementById("lightbox-title");
+  if (!priceEl || !titleEl) return;
+  const item = (currentPageCards || []).find((c) => c && c.title === titleEl.textContent)
+    || (currentPageCards || [])[lightboxIndex];
+  if (!item) return;
+  const base = Number(item.price) || 0;
+  const needEmpty = getLightboxAccountOption() === "empty";
+  const total = base + (needEmpty ? EMPTY_TR_ACCOUNT_FEE : 0);
+  priceEl.textContent = needEmpty
+    ? `${total}₽`
+    : `${base}₽`;
+}
+
+function bindLightboxAccountOptionsOnce() {
+  if (bindLightboxAccountOptionsOnce.done) return;
+  const wrap = document.getElementById("lightbox-acc");
+  if (!wrap) return;
+  bindLightboxAccountOptionsOnce.done = true;
+  wrap.addEventListener("click", (e) => {
+    const opt = e.target.closest(".lb-acc__opt");
+    if (!opt) return;
+    e.preventDefault();
+    setLightboxAccountOption(opt.getAttribute("data-acc") || "own");
+  });
+}
+
+function addItemToTildaCart(item, btn, opts) {
   if (!item) return false;
+  opts = opts || {};
 
   const realTilda = getRealTildaProductUrl(item);
   const catalogUrl = getCatalogShareUrl(item);
-  const lineName = [item.title, item.platform, "ПОКУПКА"].filter(Boolean).join(" ");
-  const price = Number(item.price) || 0;
+  const account = opts.account || "own";
+  const needEmpty = account === "empty";
+  const basePrice = Number(item.price) || 0;
+  const price = basePrice + (needEmpty ? EMPTY_TR_ACCOUNT_FEE : 0);
+  const accLabel = needEmpty
+    ? "Нужен пустой турецкий аккаунт (+750₽)"
+    : "Свой турецкий аккаунт";
+  const lineName = [item.title, item.platform, "ПОКУПКА", "·", accLabel].filter(Boolean).join(" ");
 
   if (realTilda) {
     window.location.href = realTilda;
@@ -1563,7 +1672,7 @@ function addItemToTildaCart(item, btn) {
 }
 
 /** «Купить» — добавить в корзину Tilda (без ухода со страницы каталога). */
-function bindBuyButton(btn, item) {
+function bindBuyButton(btn, item, opts) {
   if (!btn || !item) {
     if (btn) btn.style.display = "none";
     return;
@@ -1573,10 +1682,12 @@ function bindBuyButton(btn, item) {
     return;
   }
   btn.style.display = "";
+  const fromLightbox = !!(opts && opts.fromLightbox);
   btn.onclick = function(e) {
     e.preventDefault();
     e.stopPropagation();
-    addItemToTildaCart(item, btn);
+    const account = fromLightbox ? getLightboxAccountOption() : "own";
+    addItemToTildaCart(item, btn, { account: account });
   };
 }
 
@@ -2060,6 +2171,7 @@ function setLightboxContent(index) {
   const overlay = document.getElementById("lightbox-overlay");
   bindLightboxShotNavOnce();
   bindLightboxRecsOnce();
+  bindLightboxAccountOptionsOnce();
   lightboxShotList = shotsOf(item);
   lightboxShotIdx = 0;
   document.getElementById("lightbox-title").textContent = item.title;
@@ -2069,6 +2181,7 @@ function setLightboxContent(index) {
   document.getElementById("lightbox-price").textContent = `${item.price}₽`;
   document.getElementById("lightbox-price-old").textContent = `Было: ${item.price_old}₽`;
   document.getElementById("lightbox-platform").textContent = `${item.platform || item.platforms || 'PS5'} · Покупка`;
+  setLightboxAccountOption('own');
   const specs = document.getElementById('lightbox-specs');
   if (specs) {
     const rows = [
@@ -2111,7 +2224,7 @@ function setLightboxContent(index) {
   if (descWrap) descWrap.style.display = "";
   const buyLink = document.getElementById("lightbox-buy");
   if (item.url) {
-    bindBuyButton(buyLink, item);
+    bindBuyButton(buyLink, item, { fromLightbox: true });
     buyLink.style.display = "";
   } else {
     buyLink.style.display = "none";
