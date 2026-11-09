@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-09T08:55:05+03:00",
-  "updated_at_msk": "09.11.2026 08:55",
+  "updated_at": "2026-11-09T09:55:22+03:00",
+  "updated_at_msk": "09.11.2026 09:55",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2482,
+  "total": 2483,
   "unique_games": 913,
   "in_demand": 158,
   "one_off": 620,
@@ -343,7 +343,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru",
-      "count": 96,
+      "count": 97,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -533,7 +533,7 @@
         92,
         94,
         96,
-        96
+        97
       ],
       "hourly": [
         0,
@@ -697,7 +697,7 @@
         0,
         2,
         2,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -864,7 +864,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-11-08T18:08:15+03:00"
+      "last_at": "2026-11-09T09:10:41+03:00"
     },
     {
       "id": "ea-sports-fctm-27-ps4-ps5",
@@ -466218,6 +466218,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-09T09:10:41+03:00"
+    },
+    {
       "title": "Cash Cleaner Simulator PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -466450,12 +466456,6 @@
       "price": 280,
       "price_string": "280 ₽",
       "at": "2026-11-08T01:27:48+03:00"
-    },
-    {
-      "title": "Grand Theft Auto V (PlayStation5) PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-08T00:28:52+03:00"
     }
   ]
 }
