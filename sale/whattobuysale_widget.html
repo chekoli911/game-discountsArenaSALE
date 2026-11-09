@@ -496,21 +496,44 @@
     font-weight:750; text-align:right; color:#141820; flex:1 1 auto; min-width:0;
     white-space:normal; overflow-wrap:anywhere;
   }
-  #lightbox-overlay .lb-pricebox{
-    margin:0;
+  #lightbox-overlay .lb-buy-row{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:12px;
+    flex-wrap:wrap;
     position:relative;
     z-index:1;
+  }
+  #lightbox-overlay .lb-pricebox{
+    margin:0;
+    flex:1 1 auto;
+    min-width:0;
     display:flex;
     flex-direction:column;
     align-items:flex-start;
-    gap:4px;
+    gap:6px;
   }
   #lightbox-overlay .lb-discount{
     display:inline-flex; padding:4px 10px; border-radius:999px; background:#F15A22; color:#fff;
     font-size:.78rem; font-weight:800;
   }
+  #lightbox-overlay .lb-price-line{
+    display:flex; align-items:baseline; gap:10px; flex-wrap:wrap;
+  }
   #lightbox-overlay .lb-price-old{color:#8b93a7; text-decoration:line-through; font-size:.9rem; margin:0}
   #lightbox-overlay .lb-price{color:#047857; font-size:1.55rem; font-weight:900; margin:0; line-height:1.15}
+  #lightbox-overlay .lb-buy-row #lightbox-buy.buy-now-button{
+    flex:0 0 auto;
+    width:auto;
+    min-width:132px;
+    min-height:48px;
+    margin:0;
+    padding:12px 20px;
+    border:none; border-radius:14px; cursor:pointer;
+    background:linear-gradient(135deg,#22d3ee,#3d8bfd 45%,#8b5cf6); color:#fff;
+    font-size:1rem; font-weight:800;
+  }
   #lightbox-overlay .lightbox-buy-wrap{
     margin:0;
     position:relative;
@@ -523,6 +546,15 @@
     width:100%; min-height:48px; border:none; border-radius:14px; cursor:pointer;
     background:linear-gradient(135deg,#22d3ee,#3d8bfd 45%,#8b5cf6); color:#fff;
     font-size:1rem; font-weight:800;
+  }
+  #lightbox-overlay .lb-media .lb-desc{
+    margin-top:12px;
+  }
+  @media (max-width:560px){
+    #lightbox-overlay .lb-buy-row{align-items:stretch}
+    #lightbox-overlay .lb-buy-row #lightbox-buy.buy-now-button{
+      width:100%; min-width:0;
+    }
   }
   #lightbox-overlay .lb-note{margin:0; color:#6b7589; font-size:.78rem; font-weight:650}
   #lightbox-overlay .lb-desc{
@@ -769,7 +801,7 @@
     line-height:1.55;
     white-space:pre-wrap;
     overflow-wrap:anywhere;
-    max-height:min(28vh, 220px);
+    max-height:min(36vh, 320px);
     overflow:auto;
     -webkit-overflow-scrolling:touch;
   }
@@ -1013,27 +1045,31 @@
           <div class="lb-shot-count" id="lightbox-shot-count"></div>
         </div>
         <div class="lb-shots" id="lightbox-shots"></div>
+        <div class="lb-desc" id="lightbox-desc-wrap">
+          <h4>Об игре</h4>
+          <div id="lightbox-desc">Загрузка описания…</div>
+        </div>
       </div>
       <aside class="lb-side">
         <h3 id="lightbox-title"></h3>
         <div class="lb-rating" id="lightbox-rating"></div>
         <p class="lb-sub" id="lightbox-platform"></p>
         <div class="lb-specs" id="lightbox-specs"></div>
-        <div class="lb-pricebox">
-          <div class="lb-discount" id="lightbox-discount"></div>
-          <div class="lb-price-old" id="lightbox-price-old"></div>
-          <div class="lb-price" id="lightbox-price"></div>
+        <div class="lb-buy-row">
+          <div class="lb-pricebox">
+            <div class="lb-discount" id="lightbox-discount"></div>
+            <div class="lb-price-line">
+              <span class="lb-price-old" id="lightbox-price-old"></span>
+              <span class="lb-price" id="lightbox-price"></span>
+            </div>
+          </div>
+          <button type="button" id="lightbox-buy" class="buy-now-button">Купить</button>
         </div>
         <div class="lightbox-buy-wrap">
           <div class="sale-countdown" id="lightbox-countdown" aria-live="polite">
             <div class="sale-countdown__label">До конца скидки</div>
             <div class="sale-countdown__grid" id="lightbox-countdown-grid"></div>
           </div>
-          <button type="button" id="lightbox-buy" class="buy-now-button">Купить</button>
-        </div>
-        <div class="lb-desc" id="lightbox-desc-wrap">
-          <h4>Об игре</h4>
-          <div id="lightbox-desc">Загрузка описания…</div>
         </div>
         <p class="lb-note">Покупка игры · выдача на турецкий профиль</p>
       </aside>
@@ -1075,11 +1111,73 @@ const SWIPE_MILESTONES = [10, 25, 35, 45, 60, 70, 90, 120, 160, 180];
 const SWIPE_MESSAGE_DURATION = 4500;
 let swipeMessageTimer = null;
 
-/* Global sale window (MSK). Progress bar depletes from START → DEADLINE. */
-const SALE_DEADLINE_TS = new Date("2026-11-26T00:00:00+03:00").getTime();
-const SALE_START_TS = new Date("2026-11-05T00:00:00+03:00").getTime();
+/* Global sale window (MSK). Deadline is detected from cards' sale_until. */
+let SALE_DEADLINE_TS = new Date("2026-11-22T00:00:00+03:00").getTime();
+let SALE_START_TS = SALE_DEADLINE_TS - 21 * 24 * 3600 * 1000;
 let __saleBarTimer = null;
 let __lbCdTimer = null;
+let __saleDeadlineLabel = "";
+
+function parseSaleUntilToTs(raw){
+  const s = String(raw || '').trim();
+  let m = s.match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/);
+  if (!m) m = s.match(/^(\d{4})-(\d{1,2})-(\d{1,2})$/);
+  if (!m) return null;
+  let d, mo, y;
+  if (m[1].length === 4) { y = +m[1]; mo = +m[2]; d = +m[3]; }
+  else { d = +m[1]; mo = +m[2]; y = +m[3]; }
+  if (!y || !mo || !d) return null;
+  // "до DD.MM.YYYY" = inclusive end of that day → next midnight MSK
+  const iso = y + '-' + String(mo).padStart(2,'0') + '-' + String(d).padStart(2,'0') + 'T00:00:00+03:00';
+  const startDay = new Date(iso).getTime();
+  if (!Number.isFinite(startDay)) return null;
+  return startDay + 24 * 3600 * 1000;
+}
+function detectSaleDeadlineFromCards(cards){
+  const pool = (cards || []).map(c => String(c && c.sale_until || '').trim()).filter(Boolean);
+  if (!pool.length) return null;
+  const sampleN = Math.min(5, pool.length);
+  const picks = [];
+  const used = new Set();
+  while (picks.length < sampleN) {
+    const i = Math.floor(Math.random() * pool.length);
+    if (used.has(i)) continue;
+    used.add(i);
+    picks.push(pool[i]);
+  }
+  const counts = Object.create(null);
+  for (const d of picks) counts[d] = (counts[d] || 0) + 1;
+  let best = null, bestN = 0;
+  for (const [d, n] of Object.entries(counts)) {
+    if (n > bestN) { best = d; bestN = n; }
+  }
+  // If 5 random cards share one date (or majority ≥3 / all when fewer), use it
+  const need = sampleN >= 5 ? 5 : sampleN;
+  if (bestN >= need || (sampleN >= 3 && bestN >= 3) || (sampleN < 3 && bestN === sampleN)) {
+    return best;
+  }
+  // Fallback: mode of whole catalog
+  const all = Object.create(null);
+  for (const d of pool) all[d] = (all[d] || 0) + 1;
+  best = null; bestN = 0;
+  for (const [d, n] of Object.entries(all)) {
+    if (n > bestN) { best = d; bestN = n; }
+  }
+  return best;
+}
+function applySaleDeadline(dateStr){
+  const ts = parseSaleUntilToTs(dateStr);
+  if (!ts) return false;
+  SALE_DEADLINE_TS = ts;
+  // Progress starts 21 days before deadline (or now if closer)
+  const span = 21 * 24 * 3600 * 1000;
+  SALE_START_TS = Math.min(Date.now(), SALE_DEADLINE_TS - span);
+  if (SALE_START_TS >= SALE_DEADLINE_TS) SALE_START_TS = SALE_DEADLINE_TS - span;
+  __saleDeadlineLabel = dateStr;
+  const title = document.querySelector('#wtb-sale-bar .title');
+  if (title) title.textContent = 'Время до завершения скидок (до ' + dateStr + ')';
+  return true;
+}
 
 function pad2Sale(n){ return n < 10 ? "0" + n : String(n); }
 function formatSaleDHMS(ms){
@@ -1520,6 +1618,9 @@ async function loadCards() {
   const res = await fetch("https://raw.githubusercontent.com/chekoli911/game-discountsArenaSALE/main/discounts_full_with_platform_final_with_url_FIXED_v3.json");
   const data = await res.json();
   allCards = data.map(normalizeCardPrices);
+  const detected = detectSaleDeadlineFromCards(allCards);
+  if (detected) applySaleDeadline(detected);
+  startSaleBar();
   filterAndRender();
   const gameUid = getGameFromHash();
   if (gameUid) {
@@ -2240,7 +2341,6 @@ function bootWhattobuysale() {
   if (window.__wtbBooted) return;
   window.__wtbBooted = true;
   setupLightboxCloseOnTildaCart();
-  startSaleBar();
   loadCards();
   document.getElementById("searchInput").addEventListener("input", filterAndRender);
   document.getElementById("minPrice").addEventListener("change", filterAndRender);
