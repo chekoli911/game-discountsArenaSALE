@@ -1,0 +1,386 @@
+<!-- ARENA PSGM — баннер предзаказов (карусель справа→налево, бесконечная).
+     Вставь этот блок в Tilda Zero / HTML.
+     JSON: https://raw.githubusercontent.com/chekoli911/game-discountsArenaSALE/main/rent-catalog/preorder_banner.json
+     Клик: url из JSON (карточка из vserent) или https://arenapsgm.ru/newgame
+     Десктоп + мобильный: автопрокрутка RTL + свайп/drag без scrollbar. -->
+<div id="arena-preorder-banner" aria-label="Предзаказы"></div>
+<style id="arena-preorder-banner-styles">
+#arena-preorder-banner{
+  --apb-bg:#ffffff;
+  --apb-ink:#1a1a1a;
+  --apb-muted:#6b6b6b;
+  --apb-title:#F01414;
+  --apb-card:#f3f3f3;
+  --apb-line:rgba(0,0,0,.08);
+  --apb-size:220px;
+  --apb-gap:20px;
+  --apb-speed-px:42;
+  box-sizing:border-box;
+  width:100%;
+  margin:0;
+  padding:24px 0 28px;
+  background:var(--apb-bg);
+  color:var(--apb-ink);
+  font-family:"Segoe UI",system-ui,-apple-system,sans-serif;
+  overflow:hidden;
+  position:relative;
+  display:none;
+}
+#arena-preorder-banner *{box-sizing:border-box}
+#arena-preorder-banner.is-ready{display:block}
+#arena-preorder-banner .apb-head{
+  display:flex;align-items:baseline;justify-content:flex-start;gap:12px;
+  padding:0 18px 14px calc(32px + 5.2ch);max-width:1400px;margin:0 auto;
+}
+#arena-preorder-banner .apb-title{
+  margin:0;font-size:clamp(18px,2.4vw,24px);font-weight:800;letter-spacing:.01em;
+  text-transform:none;color:var(--apb-title);
+}
+#arena-preorder-banner .apb-viewport{
+  position:relative;width:100%;overflow:hidden;
+  touch-action:pan-y;
+  cursor:grab;
+  mask-image:linear-gradient(90deg,transparent,#000 2.5%,#000 97.5%,transparent);
+  -webkit-mask-image:linear-gradient(90deg,transparent,#000 2.5%,#000 97.5%,transparent);
+  /* на случай native scroll — полосу не показываем */
+  scrollbar-width:none;
+  -ms-overflow-style:none;
+}
+#arena-preorder-banner .apb-viewport::-webkit-scrollbar{display:none;width:0;height:0}
+#arena-preorder-banner .apb-viewport.is-dragging{cursor:grabbing}
+#arena-preorder-banner .apb-track{
+  display:flex;width:max-content;gap:0;
+  will-change:transform;
+  padding:4px 0 2px;
+  user-select:none;
+  -webkit-user-select:none;
+}
+#arena-preorder-banner .apb-seq{
+  display:flex;flex:0 0 auto;gap:var(--apb-gap);
+  padding-right:var(--apb-gap);
+}
+#arena-preorder-banner .apb-card{
+  flex:0 0 var(--apb-size);width:var(--apb-size);
+  text-decoration:none;color:inherit;display:block;
+  -webkit-tap-highlight-color:transparent;
+}
+#arena-preorder-banner .apb-cover{
+  width:var(--apb-size);height:var(--apb-size);border-radius:16px;
+  overflow:hidden;background:var(--apb-card);
+  border:1px solid var(--apb-line);
+  box-shadow:0 6px 16px rgba(0,0,0,.08);
+  position:relative;
+  transition:transform .25s ease, box-shadow .25s ease;
+}
+#arena-preorder-banner .apb-card:hover .apb-cover{
+  transform:translateY(-2px) scale(1.02);
+  box-shadow:0 10px 20px rgba(0,0,0,.12);
+}
+#arena-preorder-banner .apb-cover img{
+  width:100%;height:100%;object-fit:cover;display:block;
+  background:#ececec;pointer-events:none;
+}
+  #arena-preorder-banner .apb-name{
+  margin:10px 2px 0;font-size:14px;line-height:1.25;font-weight:650;
+  color:var(--apb-ink);
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+  min-height:2.5em;
+}
+#arena-preorder-banner .apb-meta{
+  margin:2px 2px 0;font-size:11px;color:var(--apb-muted);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+@media (max-width:640px){
+  #arena-preorder-banner{
+    --apb-size:172px;--apb-gap:16px;--apb-speed-px:36;
+    padding:18px 0 22px;
+  }
+  #arena-preorder-banner .apb-head{padding:0 12px 10px 20px}
+  #arena-preorder-banner .apb-name{font-size:13px;margin-top:9px}
+  #arena-preorder-banner .apb-cover{border-radius:16px}
+}
+@media (prefers-reduced-motion:reduce){
+  #arena-preorder-banner[data-reduce="1"] .apb-viewport{overflow-x:auto;touch-action:pan-x}
+  #arena-preorder-banner[data-reduce="1"] .apb-track{transform:none !important;flex-wrap:wrap;width:100%;justify-content:center;padding:0 12px}
+  #arena-preorder-banner[data-reduce="1"] .apb-seq{flex-wrap:wrap;justify-content:center;padding-right:0}
+}
+</style>
+<script id="arena-preorder-banner-js">
+(function(){
+  var ROOT_ID="arena-preorder-banner";
+  var CLICK_URL=window.ARENA_PREORDER_BANNER_CLICK||"https://arenapsgm.ru/newgame";
+  var KEEP_DAYS=typeof window.ARENA_PREORDER_BANNER_KEEP_DAYS==="number"?window.ARENA_PREORDER_BANNER_KEEP_DAYS:1;
+  var base=window.ARENA_PREORDER_BANNER_JSON||"https://raw.githubusercontent.com/chekoli911/game-discountsArenaSALE/main/rent-catalog/preorder_banner.json";
+  var JSON_URL=base+(base.indexOf("?")>=0?"&":"?")+"t="+Date.now();
+
+  function esc(s){
+    return String(s||"").replace(/[&<>"']/g,function(c){
+      return ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"})[c];
+    });
+  }
+  function pickImage(item){
+    return (item&& (item.image_url||item.image||item.cover||""))||"";
+  }
+  function pickTitle(item){
+    return (item&& (item.title||item.name||""))||"";
+  }
+  function pickHref(item){
+    var u=(item&& (item.url||item.link||item.rent_url||""))||"";
+    u=String(u).trim();
+    if(u && u!=="#") return u;
+    return CLICK_URL;
+  }
+  function pickMeta(item){
+    var bits=[];
+    if(item&&item.platforms) bits.push(String(item.platforms));
+    if(item&&item.release_date) bits.push(String(item.release_date));
+    return bits.join(" · ");
+  }
+  function parseRelease(raw){
+    var s=String(raw||"").trim();
+    if(!s) return null;
+    var m=s.match(/^(\d{1,2})[./](\d{1,2})[./](\d{4})$/);
+    if(m){
+      var d=new Date(Number(m[3]), Number(m[2])-1, Number(m[1]));
+      return isNaN(d.getTime())?null:d;
+    }
+    m=s.match(/^(\d{4})-(\d{1,2})-(\d{1,2})/);
+    if(m){
+      d=new Date(Number(m[1]), Number(m[2])-1, Number(m[3]));
+      return isNaN(d.getTime())?null:d;
+    }
+    return null;
+  }
+  function isExpired(item){
+    var rd=parseRelease(item&&item.release_date);
+    if(!rd) return false;
+    var keep=Math.max(0, Number(KEEP_DAYS)||0);
+    var limit=new Date(rd.getFullYear(), rd.getMonth(), rd.getDate()+keep);
+    var today=new Date();
+    today=new Date(today.getFullYear(), today.getMonth(), today.getDate());
+    return today>limit;
+  }
+  function cardHtml(item){
+    var title=pickTitle(item);
+    var img=pickImage(item);
+    var href=pickHref(item);
+    var meta=pickMeta(item);
+    return (
+      '<a class="apb-card" href="'+esc(href)+'" draggable="false">'+
+        '<div class="apb-cover">'+
+          (img?'<img src="'+esc(img)+'" alt="'+esc(title)+'" loading="lazy" decoding="async" draggable="false">':'')+
+        '</div>'+
+        '<div class="apb-name">'+esc(title)+'</div>'+
+        (meta?'<div class="apb-meta">'+esc(meta)+'</div>':'')+
+      '</a>'
+    );
+  }
+  function normalizeItems(data){
+    if(!data) return [];
+    if(Array.isArray(data)) return data;
+    if(Array.isArray(data.items)) return data.items;
+    return [];
+  }
+
+  function itemKey(item){
+    return String((item && (item.id || item.title || item.name)) || "").trim().toLowerCase();
+  }
+
+  function shuffleItems(list){
+    var arr = list.slice();
+    for(var i = arr.length - 1; i > 0; i--){
+      var j = Math.floor(Math.random() * (i + 1));
+      var tmp = arr[i];
+      arr[i] = arr[j];
+      arr[j] = tmp;
+    }
+    // для бесшовного цикла: последняя ≠ первая (иначе при дубле сегмента повтор рядом)
+    if(arr.length > 1){
+      var guard = 0;
+      while(itemKey(arr[0]) === itemKey(arr[arr.length - 1]) && guard < arr.length){
+        arr.push(arr.shift());
+        guard++;
+      }
+    }
+    return arr;
+  }
+
+  function buildSeqHtml(list){
+    return list.map(cardHtml).join("");
+  }
+
+  function startMarquee(root, viewport, track){
+    var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if(reduce){
+      root.setAttribute("data-reduce","1");
+      return;
+    }
+    var seq = track.querySelector(".apb-seq");
+    if(!seq) return;
+
+    var offset = 0;
+    var loopW = 0;
+    var speed = Number(getComputedStyle(root).getPropertyValue("--apb-speed-px")) || 42;
+    var paused = false;
+    var dragging = false;
+    var lastX = 0;
+    var lastT = 0;
+    var moved = 0;
+    var activePointer = null;
+    var suppressClick = false;
+    var DRAG_THRESHOLD = 10;
+
+    function measure(){
+      loopW = seq.getBoundingClientRect().width;
+      // добираем копии, чтобы лента всегда шире экрана ×2 (без дыр)
+      var guard = 0;
+      while(track.scrollWidth < viewport.clientWidth * 2 + 80 && guard < 16){
+        track.appendChild(seq.cloneNode(true));
+        guard++;
+      }
+      loopW = seq.getBoundingClientRect().width;
+      if(loopW > 0){
+        while(offset <= -loopW) offset += loopW;
+        while(offset > 0) offset -= loopW;
+      }
+      track.style.transform = "translate3d("+offset+"px,0,0)";
+    }
+
+    function wrap(){
+      if(loopW <= 0) return;
+      while(offset <= -loopW) offset += loopW;
+      while(offset > 0) offset -= loopW;
+    }
+
+    function apply(){
+      wrap();
+      track.style.transform = "translate3d("+offset+"px,0,0)";
+    }
+
+    function tick(t){
+      if(!lastT) lastT = t;
+      var dt = Math.min(0.05, (t - lastT) / 1000);
+      lastT = t;
+      if(!paused && !dragging && loopW > 0){
+        offset -= speed * dt;
+        apply();
+      }
+      requestAnimationFrame(tick);
+    }
+
+    function endPointer(e){
+      if(activePointer != null && e && e.pointerId !== activePointer) return;
+      dragging = false;
+      activePointer = null;
+      viewport.classList.remove("is-dragging");
+      // suppressClick сбрасываем после click (в обработчике ниже)
+    }
+
+    // Drag начинаем только после порога — иначе клик по <a> на десктопе ломается
+    viewport.addEventListener("pointerdown", function(e){
+      if(e.pointerType === "mouse" && e.button !== 0) return;
+      moved = 0;
+      suppressClick = false;
+      dragging = false;
+      activePointer = e.pointerId;
+      lastX = e.clientX;
+    });
+
+    viewport.addEventListener("pointermove", function(e){
+      if(activePointer == null || e.pointerId !== activePointer) return;
+      var dx = e.clientX - lastX;
+      lastX = e.clientX;
+      moved += Math.abs(dx || 0);
+      if(moved < DRAG_THRESHOLD) return;
+      if(!dragging){
+        dragging = true;
+        suppressClick = true;
+        viewport.classList.add("is-dragging");
+        try{ viewport.setPointerCapture(e.pointerId); }catch(_){}
+      }
+      if(dx){
+        offset += dx;
+        apply();
+      }
+      try{ e.preventDefault(); }catch(_){}
+    }, {passive:false});
+
+    viewport.addEventListener("pointerup", endPointer);
+    viewport.addEventListener("pointercancel", endPointer);
+
+    // после реального drag не открывать ссылку
+    track.addEventListener("click", function(e){
+      if(suppressClick){
+        e.preventDefault();
+        e.stopPropagation();
+        suppressClick = false;
+      }
+    }, true);
+
+    viewport.addEventListener("mouseenter", function(){ paused = true; });
+    viewport.addEventListener("mouseleave", function(){
+      paused = false;
+      if(dragging) endPointer();
+    });
+
+    document.addEventListener("visibilitychange", function(){
+      if(document.hidden) paused = true;
+      else if(!viewport.matches(":hover")) paused = false;
+    });
+
+    window.addEventListener("resize", function(){
+      measure();
+    });
+
+    measure();
+    requestAnimationFrame(function(){
+      measure();
+      lastT = 0;
+      requestAnimationFrame(tick);
+    });
+    setTimeout(measure, 400);
+  }
+
+  function mount(items){
+    var root=document.getElementById(ROOT_ID);
+    if(!root) return;
+    items=normalizeItems(items).filter(function(it){
+      return pickTitle(it)&&pickImage(it)&&!isExpired(it);
+    });
+    if(!items.length){
+      root.classList.remove("is-ready");
+      root.innerHTML="";
+      return;
+    }
+    // каждый заход — новый случайный порядок; без одинаковых рядом на стыке цикла
+    var order = shuffleItems(items);
+    var cards = buildSeqHtml(order);
+    root.innerHTML=
+      '<div class="apb-head">'+
+        '<h2 class="apb-title">Предзаказы</h2>'+
+      '</div>'+
+      '<div class="apb-viewport" aria-hidden="false">'+
+        '<div class="apb-track">'+
+          '<div class="apb-seq">'+cards+'</div>'+
+          '<div class="apb-seq">'+cards+'</div>'+
+        '</div>'+
+      '</div>';
+    root.classList.add("is-ready");
+    var viewport=root.querySelector(".apb-viewport");
+    var track=root.querySelector(".apb-track");
+    startMarquee(root, viewport, track);
+  }
+  function boot(){
+    fetch(JSON_URL,{cache:"no-store"})
+      .then(function(r){ if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
+      .then(mount)
+      .catch(function(err){
+        console.warn("[arena-preorder-banner]", err);
+        var root=document.getElementById(ROOT_ID);
+        if(root){ root.classList.remove("is-ready"); root.innerHTML=""; }
+      });
+  }
+  if(document.readyState==="loading") document.addEventListener("DOMContentLoaded", boot);
+  else boot();
+})();
+</script>
