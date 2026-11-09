@@ -18,9 +18,9 @@
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     gap: 20px;
   }
-  #discounts-widget h3, 
+  #discounts-widget h3,
   #discounts-widget p {
-    color: white;
+    color: inherit;
   }
   #discounts-widget * {
     box-shadow: none !important;
@@ -416,15 +416,14 @@
   }
   @media(min-width:900px){
     #lightbox-overlay .lb-pd{
-      grid-template-columns: minmax(0,1fr) minmax(300px,360px);
-      grid-template-areas: "media side" "desc side";
+      grid-template-columns: minmax(0,1.05fr) minmax(320px,400px);
+      grid-template-areas: "media side";
       gap: 22px 28px;
       align-items: start;
       padding-top: 48px;
     }
     #lightbox-overlay .lb-media{grid-area:media}
     #lightbox-overlay .lb-side{grid-area:side; position:sticky; top:18px}
-    #lightbox-overlay .lb-desc{grid-area:desc}
   }
   #lightbox-overlay .lb-hero{
     position:relative;
@@ -526,29 +525,220 @@
 
   /* Light catalog shell closer to gamerentps */
   #discounts-widget{
+    --wtb-text:#141820;
+    --wtb-sub:#5a6478;
+    --wtb-accent:#2563eb;
+    --wtb-line:rgba(37,99,235,.16);
+    --wtb-glass:rgba(255,255,255,.72);
     background:
       radial-gradient(ellipse 90% 55% at 8% -8%, rgba(147,197,253,.45), transparent 58%),
       radial-gradient(ellipse 70% 45% at 92% 0%, rgba(191,219,254,.35), transparent 52%),
       #e8eef8 !important;
-    color:#141820 !important;
+    color:var(--wtb-text) !important;
     border-radius:0;
-    padding:8px 0 28px;
+    padding:8px 12px 28px;
+    box-sizing:border-box;
   }
-  #discounts-widget h3, #discounts-widget p, #discounts-widget #counter{color:#141820 !important}
+  #discounts-widget #counter,
+  #discounts-widget #pageIndicator{color:var(--wtb-text) !important}
+  #discounts-widget #pageIndicator{color:var(--wtb-accent) !important}
   #discounts-widget select,
   #discounts-widget input[type="text"]{
-    background:#fff !important; color:#141820 !important; border:1px solid rgba(37,99,235,.22) !important;
+    background:#fff !important; color:var(--wtb-text) !important; border:1px solid var(--wtb-line) !important;
   }
   #discounts-widget #catalog{
     background:transparent !important;
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)) !important;
+    grid-template-columns: repeat(auto-fill, minmax(168px, 1fr)) !important;
     gap:14px !important;
+    align-items:stretch;
   }
   #discounts-widget .pagination button,
   #discounts-widget .pagination a.pagination-link{
-    background:#fff !important; color:#141820 !important; border:1px solid rgba(37,99,235,.22) !important;
+    background:#fff !important; color:var(--wtb-text) !important; border:1px solid var(--wtb-line) !important;
+  }
+  #discounts-widget .filters-bar button{
+    background:#fff !important; color:var(--wtb-text) !important;
+    border:1px solid var(--wtb-line) !important; border-radius:10px !important;
+  }
+
+  /* gamerentps-like cards */
+  #discounts-widget .catalog-card{
+    background:var(--wtb-glass) !important;
+    border:1px solid rgba(255,255,255,.55) !important;
+    border-radius:16px !important;
+    color:var(--wtb-text) !important;
+    box-shadow:0 10px 28px rgba(15,23,42,.08) !important;
+    display:flex !important;
+    flex-direction:column !important;
+    overflow:hidden !important;
+    transition:transform .25s, box-shadow .25s;
+  }
+  #discounts-widget .catalog-card:hover{
+    transform:translateY(-4px);
+    box-shadow:0 16px 36px rgba(15,23,42,.14) !important;
+  }
+  #discounts-widget .card-media{
+    position:relative;
+    aspect-ratio:1/1;
+    background:#0d0f18;
+    overflow:hidden;
+    flex:0 0 auto;
+  }
+  #discounts-widget .card-cover{
+    width:100% !important;
+    height:100% !important;
+    object-fit:cover !important;
+    background:#0d0f18 !important;
+    display:block;
+  }
+  #discounts-widget .catalog-card:hover .card-cover{transform:scale(1.03); transition:transform .35s}
+  #discounts-widget .card-ribbon{
+    position:absolute; left:8px; bottom:8px; z-index:2;
+    padding:4px 9px; border-radius:999px; font-size:.62rem; font-weight:800;
+    color:#fff; background:linear-gradient(135deg,#f59e0b,#ef4444);
+  }
+  #discounts-widget .card-body{
+    padding:8px 10px 12px;
+    display:flex; flex-direction:column; gap:4px; flex:1;
+    background:transparent;
+  }
+  #discounts-widget .card-title{
+    margin:0 !important;
+    font-size:.78rem !important;
+    font-weight:800 !important;
+    line-height:1.25 !important;
+    color:var(--wtb-text) !important;
+    display:-webkit-box;
+    -webkit-line-clamp:2;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+    min-height:calc(1.25em * 2);
+    max-height:calc(1.25em * 2);
+    height:calc(1.25em * 2);
+    word-break:break-word;
+  }
+  #discounts-widget .card-meta{
+    margin:0; font-size:.68rem; font-weight:700; color:var(--wtb-sub);
+  }
+  #discounts-widget .card-prices{margin:2px 0 0; display:flex; flex-wrap:wrap; align-items:baseline; gap:6px}
+  #discounts-widget .card-price-old{
+    margin:0; font-size:.68rem; color:#8b93a7; text-decoration:line-through;
+  }
+  #discounts-widget .card-price{
+    margin:0; font-size:.82rem; font-weight:900; color:#047857;
+  }
+  #discounts-widget .card-buy-wrap{padding:8px 10px 10px; margin-top:auto}
+  #discounts-widget a.buy-now-button,
+  #discounts-widget button.buy-now-button{
+    background:linear-gradient(135deg,#22d3ee,#3d8bfd 45%,#8b5cf6) !important;
+    color:#fff !important; border-radius:12px !important; margin:0 !important;
+    font-size:.82rem !important; font-weight:800 !important;
+  }
+
+  /* Page countdown bar */
+  #discounts-widget .wtb-sale-bar{
+    margin:8px auto 18px; max-width:920px;
+  }
+  #discounts-widget .wtb-sale-bar .wrap{
+    background:rgba(255,255,255,.7);
+    border:1px solid rgba(37,99,235,.14);
+    border-radius:18px;
+    box-shadow:0 12px 30px rgba(15,23,42,.08);
+    padding:16px 18px;
+    color:var(--wtb-text);
+  }
+  #discounts-widget .wtb-sale-bar .title{
+    margin:0 0 10px; font-size:14px; font-weight:750; color:var(--wtb-sub); text-align:center;
+  }
+  #discounts-widget .wtb-sale-bar .track{
+    position:relative; width:100%; height:48px; border-radius:14px; overflow:hidden;
+    background:linear-gradient(180deg, rgba(37,99,235,.08), rgba(37,99,235,.03));
+    border:1px solid rgba(37,99,235,.12);
+  }
+  #discounts-widget .wtb-sale-bar .fill{
+    position:absolute; left:0; top:0; bottom:0; width:100%;
+    background:linear-gradient(90deg,#2563eb 0%, #22d3ee 55%, #76e4ff 100%);
+    transition:width .6s cubic-bezier(.22,.8,.2,1);
+  }
+  #discounts-widget .wtb-sale-bar .fill::after{
+    content:""; position:absolute; inset:0 0 auto 0; height:42%;
+    background:linear-gradient(180deg, rgba(255,255,255,.28), transparent);
+  }
+  #discounts-widget .wtb-sale-bar .remaining{
+    position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
+    font-variant-numeric:tabular-nums; font-weight:900; font-size:20px; color:#0f172a;
+    text-shadow:0 1px 0 rgba(255,255,255,.35);
+  }
+  #discounts-widget .wtb-sale-bar .expired{
+    display:none; margin-top:8px; text-align:center; font-size:14px; font-weight:700; color:#dc2626;
+  }
+  @media (max-width:560px){
+    #discounts-widget .wtb-sale-bar .track{height:44px}
+    #discounts-widget .wtb-sale-bar .remaining{font-size:16px}
+  }
+
+  /* Lightbox: description to the right of media */
+  @media(min-width:900px){
+    #lightbox-overlay .lb-pd{
+      grid-template-columns: minmax(0,1.05fr) minmax(320px,400px) !important;
+      grid-template-areas: "media side" !important;
+    }
+    #lightbox-overlay .lb-desc{grid-area:unset}
+  }
+  #lightbox-overlay .lb-side{
+    display:flex; flex-direction:column; gap:10px; max-height:min(86vh, 920px); overflow:auto;
+  }
+  #lightbox-overlay .lb-desc{
+    padding:14px 14px; border-radius:16px; margin:0;
+    border:1px solid rgba(20,24,32,.08); background:rgba(255,255,255,.55);
+    order:3;
+  }
+  #lightbox-overlay .lb-desc h4{margin:0 0 8px; color:#5a6478; font-size:.88rem}
+  #lightbox-overlay .lb-desc #lightbox-desc{
+    color:#3d4658; font-size:.9rem; line-height:1.55; white-space:pre-wrap;
+    max-height:220px; overflow:auto;
+  }
+  #lightbox-overlay .lb-pricebox{order:4}
+  #lightbox-overlay .lightbox-buy-wrap{order:5; gap:10px}
+  #lightbox-overlay .lb-note{order:6}
+  #lightbox-overlay .lb-side h3,
+  #lightbox-overlay .lb-rating,
+  #lightbox-overlay .lb-sub,
+  #lightbox-overlay .lb-specs{order:1}
+  #lightbox-overlay .sale-countdown{
+    margin:0; padding:12px; border-radius:14px; text-align:center;
+    background:linear-gradient(135deg,rgba(37,99,235,.10),rgba(34,211,238,.10));
+    border:1px solid rgba(37,99,235,.18);
+  }
+  #lightbox-overlay .sale-countdown__label{
+    font-size:.68rem; font-weight:800; letter-spacing:.06em; text-transform:uppercase;
+    color:#2563eb; margin-bottom:8px;
+  }
+  #lightbox-overlay .sale-countdown__grid{
+    display:flex; align-items:center; justify-content:center; gap:2px;
+  }
+  #lightbox-overlay .sale-countdown__cell{display:flex; flex-direction:column; align-items:center; min-width:2.2em}
+  #lightbox-overlay .sale-countdown__num{
+    font-size:1.35rem; font-weight:900; color:#0f172a; line-height:1; font-variant-numeric:tabular-nums;
+  }
+  #lightbox-overlay .sale-countdown__cap{
+    font-size:.48rem; font-weight:700; color:#6b7589; margin-top:2px; text-transform:lowercase;
+  }
+  #lightbox-overlay .sale-countdown__sep{
+    font-size:.95rem; font-weight:800; color:rgba(37,99,235,.45); margin-top:-10px; padding:0 2px;
   }
 </style>
+
+<div class="wtb-sale-bar" id="wtb-sale-bar">
+  <div class="wrap" role="timer" aria-live="polite">
+    <div class="title">Время до завершения скидок</div>
+    <div class="track" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="100">
+      <div class="fill" id="wtb-sale-fill"></div>
+      <div class="remaining" id="wtb-sale-remaining">Загрузка…</div>
+    </div>
+    <div class="expired" id="wtb-sale-expired">Скидки завершены</div>
+  </div>
+</div>
 
 <div id="filters-bar" class="filters-bar" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <input type="text" id="searchInput" placeholder="Поиск по названию игры..."
@@ -641,20 +831,24 @@
         <div class="lb-rating" id="lightbox-rating"></div>
         <p class="lb-sub" id="lightbox-platform"></p>
         <div class="lb-specs" id="lightbox-specs"></div>
+        <div class="lb-desc" id="lightbox-desc-wrap">
+          <h4>Об игре</h4>
+          <div id="lightbox-desc">Загрузка описания…</div>
+        </div>
         <div class="lb-pricebox">
           <div class="lb-discount" id="lightbox-discount"></div>
           <div class="lb-price-old" id="lightbox-price-old"></div>
           <div class="lb-price" id="lightbox-price"></div>
         </div>
         <div class="lightbox-buy-wrap">
+          <div class="sale-countdown" id="lightbox-countdown" aria-live="polite">
+            <div class="sale-countdown__label">До конца скидки</div>
+            <div class="sale-countdown__grid" id="lightbox-countdown-grid"></div>
+          </div>
           <button type="button" id="lightbox-buy" class="buy-now-button">Купить</button>
         </div>
         <p class="lb-note">Покупка игры · выдача на турецкий профиль</p>
       </aside>
-      <div class="lb-desc">
-        <h4>Об игре</h4>
-        <div id="lightbox-desc">Загрузка описания…</div>
-      </div>
     </div>
   </div>
   <div id="lightbox-swipe-message" class="lightbox-swipe-message" aria-live="polite"></div>
@@ -688,6 +882,79 @@ const PRELOAD_RANDOM_COUNT = 10;
 const SWIPE_MILESTONES = [10, 25, 35, 45, 60, 70, 90, 120, 160, 180];
 const SWIPE_MESSAGE_DURATION = 4500;
 let swipeMessageTimer = null;
+
+/* Global sale window (MSK). Progress bar depletes from START → DEADLINE. */
+const SALE_DEADLINE_TS = new Date("2026-11-26T00:00:00+03:00").getTime();
+const SALE_START_TS = new Date("2026-11-05T00:00:00+03:00").getTime();
+let __saleBarTimer = null;
+let __lbCdTimer = null;
+
+function pad2Sale(n){ return n < 10 ? "0" + n : String(n); }
+function formatSaleDHMS(ms){
+  const d = Math.floor(ms / 86400000);
+  const h = Math.floor((ms % 86400000) / 3600000);
+  const m = Math.floor((ms % 3600000) / 60000);
+  const s = Math.floor((ms % 60000) / 1000);
+  if (d > 0) return pad2Sale(d) + "д " + pad2Sale(h) + "ч " + pad2Sale(m) + "м " + pad2Sale(s) + "с";
+  if (h > 0) return pad2Sale(h) + "ч " + pad2Sale(m) + "м " + pad2Sale(s) + "с";
+  return pad2Sale(m) + "м " + pad2Sale(s) + "с";
+}
+function saleParts(ms){
+  const left = Math.max(0, ms);
+  return {
+    d: Math.floor(left / 86400000),
+    h: Math.floor((left % 86400000) / 3600000),
+    m: Math.floor((left % 3600000) / 60000),
+    s: Math.floor((left % 60000) / 1000)
+  };
+}
+function saleProgressPct(now){
+  const total = Math.max(SALE_DEADLINE_TS - SALE_START_TS, 1);
+  const left = SALE_DEADLINE_TS - now;
+  if (left <= 0) return 0;
+  if (now <= SALE_START_TS) return 100;
+  return Math.min(100, Math.max(0, (left / total) * 100));
+}
+function tickSaleBar(){
+  const fill = document.getElementById("wtb-sale-fill");
+  const remain = document.getElementById("wtb-sale-remaining");
+  const expired = document.getElementById("wtb-sale-expired");
+  const track = fill && fill.parentElement;
+  if (!fill || !remain) return;
+  const now = Date.now();
+  const left = SALE_DEADLINE_TS - now;
+  const pct = saleProgressPct(now);
+  fill.style.width = pct.toFixed(2) + "%";
+  if (track) track.setAttribute("aria-valuenow", String(Math.round(pct)));
+  if (left <= 0){
+    remain.textContent = "00м 00с";
+    if (expired) expired.style.display = "block";
+    if (__saleBarTimer){ clearInterval(__saleBarTimer); __saleBarTimer = null; }
+    return;
+  }
+  if (expired) expired.style.display = "none";
+  remain.textContent = formatSaleDHMS(left);
+}
+function startSaleBar(){
+  tickSaleBar();
+  if (__saleBarTimer) clearInterval(__saleBarTimer);
+  __saleBarTimer = setInterval(tickSaleBar, 1000);
+}
+function renderLightboxCountdownGrid(){
+  const grid = document.getElementById("lightbox-countdown-grid");
+  if (!grid) return;
+  const cell = (n, cap) => '<div class="sale-countdown__cell"><div class="sale-countdown__num">' + pad2Sale(n) + '</div><div class="sale-countdown__cap">' + cap + '</div></div>';
+  const p = saleParts(SALE_DEADLINE_TS - Date.now());
+  grid.innerHTML = cell(p.d,'дн') + '<div class="sale-countdown__sep">:</div>' + cell(p.h,'ч') + '<div class="sale-countdown__sep">:</div>' + cell(p.m,'мин') + '<div class="sale-countdown__sep">:</div>' + cell(p.s,'сек');
+}
+function startLightboxCountdown(){
+  renderLightboxCountdownGrid();
+  if (__lbCdTimer) clearInterval(__lbCdTimer);
+  __lbCdTimer = setInterval(renderLightboxCountdownGrid, 1000);
+}
+function stopLightboxCountdown(){
+  if (__lbCdTimer){ clearInterval(__lbCdTimer); __lbCdTimer = null; }
+}
 
 function getSwipedToday() {
   const key = "lightbox_swipes_" + new Date().toISOString().slice(0, 10);
@@ -1129,23 +1396,24 @@ function renderCards(cards) {
   paginatedCards.forEach((item, index) => {
     const card = document.createElement("div");
     card.className = "catalog-card";
-    card.style = "background: #1e1e1e; border-radius: 12px; color: white; box-shadow: 0 2px 6px rgba(0,0,0,0.6); display: flex; flex-direction: column; justify-content: space-between; overflow: hidden;";
+    const safeTitle = String(item.title || "").replace(/"/g, "&quot;");
+    const disc = calcDiscountPercent(item);
     card.innerHTML = `
       <div class="card-media">
-        <img class="card-cover" src="${item.image}" alt="${item.title.replace(/"/g, '&quot;')}" data-index="${index}">
+        <img class="card-cover" src="${item.image}" alt="${safeTitle}" data-index="${index}" loading="lazy" decoding="async">
+        ${disc ? `<span class="card-ribbon">−${disc}%</span>` : ""}
         ${item.url ? `<button type="button" class="card-cart-btn" aria-label="Добавить в корзину">${CART_ICON_SVG}</button>` : ""}
       </div>
-      <div style="padding: 12px;">
-        <h3 style="font-size: 15px; font-weight: bold; margin: 0 0 6px;">${item.title}</h3>
-        <p style="color: #ffa500; margin: 0;">Скидка: ${calcDiscountPercent(item)}%</p>
-        <p style="text-decoration: line-through; color: #888; margin: 0;">Было: ${item.price_old}₽</p>
-        <p style="color: #76ff03; font-weight: bold; margin: 0;">Сейчас: ${item.price}₽</p>
-        <p style="color: #aaa; font-size: 13px; margin: 4px 0 0 0;">Перевод: ${item.subtitles || '-'}</p>
-        <p style="color: #aaa; font-size: 13px; margin: 0 0 4px 0;">Озвучка: ${item.voice || '-'}</p>
-        <p style="color: #76baff; font-size: 13px; margin: 0 0 8px 0;">Платформа: ${item.platform || '-'}</p>
-        <div class="card-buy-wrap">
-          ${item.url ? `<button type="button" class="buy-now-button">Купить</button>` : ""}
+      <div class="card-body">
+        <h3 class="card-title">${item.title}</h3>
+        <p class="card-meta">${item.platform || item.platforms || "PS"} · покупка</p>
+        <div class="card-prices">
+          <span class="card-price-old">${item.price_old}₽</span>
+          <span class="card-price">${item.price}₽</span>
         </div>
+      </div>
+      <div class="card-buy-wrap">
+        ${item.url ? `<button type="button" class="buy-now-button">Купить</button>` : ""}
       </div>
     `;
     card.addEventListener("click", (e) => {
@@ -1338,9 +1606,19 @@ function setLightboxContent(index) {
     descEl.textContent = 'Загрузка описания…';
     resolveDescription(item).then(desc => {
       if (document.getElementById('lightbox-title')?.textContent !== item.title) return;
-      descEl.textContent = desc || 'Описание скоро появится. Оформите покупку — игра будет выдана на турецкий профиль.';
+      const wrap = document.getElementById('lightbox-desc-wrap');
+      if (!desc) {
+        if (wrap) wrap.style.display = 'none';
+        descEl.textContent = '';
+        return;
+      }
+      if (wrap) wrap.style.display = '';
+      descEl.textContent = desc;
     });
   }
+  startLightboxCountdown();
+  const descWrap = document.getElementById("lightbox-desc-wrap");
+  if (descWrap) descWrap.style.display = "";
   const buyLink = document.getElementById("lightbox-buy");
   if (item.url) {
     bindBuyButton(buyLink, item);
@@ -1412,6 +1690,7 @@ function preloadRandomCards(count) {
 }
 
 function closeLightbox() {
+  stopLightboxCountdown();
   document.getElementById("lightbox-overlay").classList.remove("is-open");
   document.body.style.overflow = "";
   resetSlideTransform();
@@ -1650,6 +1929,7 @@ function bootWhattobuysale() {
   if (window.__wtbBooted) return;
   window.__wtbBooted = true;
   setupLightboxCloseOnTildaCart();
+  startSaleBar();
   loadCards();
   document.getElementById("searchInput").addEventListener("input", filterAndRender);
   document.getElementById("minPrice").addEventListener("change", filterAndRender);
