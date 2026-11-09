@@ -410,20 +410,24 @@
     margin: 0 auto;
     padding: 56px 18px 40px;
     display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas: "media" "side";
     gap: 18px;
     color: #141820;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    align-items: start;
+    box-sizing: border-box;
   }
+  #lightbox-overlay .lb-media{grid-area:media; min-width:0}
+  #lightbox-overlay .lb-side{grid-area:side; min-width:0}
   @media(min-width:900px){
     #lightbox-overlay .lb-pd{
       grid-template-columns: minmax(0,1.05fr) minmax(320px,400px);
       grid-template-areas: "media side";
       gap: 22px 28px;
-      align-items: start;
       padding-top: 48px;
     }
-    #lightbox-overlay .lb-media{grid-area:media}
-    #lightbox-overlay .lb-side{grid-area:side; position:sticky; top:18px}
+    #lightbox-overlay .lb-side{position:sticky; top:18px}
   }
   #lightbox-overlay .lb-hero{
     position:relative;
@@ -490,23 +494,40 @@
     font-weight:750; text-align:right; color:#141820; flex:1 1 auto; min-width:0;
     white-space:normal; overflow-wrap:anywhere;
   }
-  #lightbox-overlay .lb-pricebox{margin:0 0 12px}
+  #lightbox-overlay .lb-pricebox{
+    margin:0;
+    position:relative;
+    z-index:1;
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    gap:4px;
+  }
   #lightbox-overlay .lb-discount{
     display:inline-flex; padding:4px 10px; border-radius:999px; background:#F15A22; color:#fff;
-    font-size:.78rem; font-weight:800; margin-bottom:8px;
+    font-size:.78rem; font-weight:800;
   }
-  #lightbox-overlay .lb-price-old{color:#8b93a7; text-decoration:line-through; font-size:.9rem; margin:0 0 2px}
-  #lightbox-overlay .lb-price{color:#047857; font-size:1.55rem; font-weight:900; margin:0}
-  #lightbox-overlay .lightbox-buy-wrap{margin:0}
+  #lightbox-overlay .lb-price-old{color:#8b93a7; text-decoration:line-through; font-size:.9rem; margin:0}
+  #lightbox-overlay .lb-price{color:#047857; font-size:1.55rem; font-weight:900; margin:0; line-height:1.15}
+  #lightbox-overlay .lightbox-buy-wrap{
+    margin:0;
+    position:relative;
+    z-index:1;
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+  }
   #lightbox-overlay #lightbox-buy.buy-now-button{
     width:100%; min-height:48px; border:none; border-radius:14px; cursor:pointer;
     background:linear-gradient(135deg,#22d3ee,#3d8bfd 45%,#8b5cf6); color:#fff;
     font-size:1rem; font-weight:800;
   }
-  #lightbox-overlay .lb-note{margin:10px 0 0; color:#6b7589; font-size:.78rem; font-weight:650}
+  #lightbox-overlay .lb-note{margin:0; color:#6b7589; font-size:.78rem; font-weight:650}
   #lightbox-overlay .lb-desc{
     padding:18px 20px; border-radius:20px;
     border:1px solid rgba(255,255,255,.48); background:rgba(255,255,255,.5);
+    position:relative;
+    z-index:0;
   }
   #lightbox-overlay .lb-desc h4{margin:0 0 10px; color:#5a6478; font-size:1rem}
   #lightbox-overlay .lb-desc #lightbox-desc{
@@ -523,9 +544,43 @@
   }
   #lightbox-overlay .lightbox-nav:hover{background:#F15A22; color:#fff; border-color:transparent}
   @media(max-width:899px){
-    #lightbox-overlay .lb-pd{padding:52px 14px 28px}
-    #lightbox-overlay .lb-hero{aspect-ratio:1/1; max-width:100%; margin:0 auto}
+    #lightbox-overlay{
+      align-items:stretch;
+      padding:0;
+    }
+    #lightbox-overlay .lightbox-slide{
+      display:block;
+      height:100%;
+      overflow:auto;
+      -webkit-overflow-scrolling:touch;
+    }
+    #lightbox-overlay .lb-pd{
+      width:100%;
+      max-width:100%;
+      padding: calc(12px + env(safe-area-inset-top, 0px)) 14px calc(28px + env(safe-area-inset-bottom, 0px));
+      gap:14px;
+    }
+    #lightbox-overlay .lb-hero{
+      aspect-ratio:1/1;
+      max-width:100%;
+      margin:0 auto;
+      border-radius:18px;
+    }
+    #lightbox-overlay .lb-shots{padding-top:8px}
+    #lightbox-overlay .lb-shot{flex:0 0 64px; width:64px; height:64px; border-radius:10px}
+    #lightbox-overlay .lb-side{
+      position:static !important;
+      max-height:none !important;
+      overflow:visible !important;
+      padding:16px;
+      border-radius:18px;
+    }
+    #lightbox-overlay .lb-side h3{font-size:1.2rem}
+    #lightbox-overlay .lb-price{font-size:1.35rem}
     #lightbox-overlay .lightbox-nav{display:none}
+    #lightbox-overlay .lightbox-close{
+      width:42px; height:42px; font-size:28px;
+    }
   }
 
   /* Light catalog shell closer to gamerentps */
@@ -682,42 +737,41 @@
     #discounts-widget .wtb-sale-bar .remaining{font-size:16px}
   }
 
-  /* Lightbox: description to the right of media */
-  @media(min-width:900px){
-    #lightbox-overlay .lb-pd{
-      grid-template-columns: minmax(0,1.05fr) minmax(320px,400px) !important;
-      grid-template-areas: "media side" !important;
-    }
-    #lightbox-overlay .lb-desc{grid-area:unset}
-  }
+  /* Lightbox side column: every block keeps its own space, no overlap */
   #lightbox-overlay .lb-side{
-    display:flex; flex-direction:column; gap:10px;
-    max-height:min(86vh, 920px); overflow:auto;
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+    max-height:min(86vh, 920px);
+    overflow:auto;
     overscroll-behavior:contain;
+    -webkit-overflow-scrolling:touch;
   }
-  /* Do not let flex squash title / specs / price / buy — only the side panel scrolls. */
-  #lightbox-overlay .lb-side > h3,
-  #lightbox-overlay .lb-side > .lb-rating,
-  #lightbox-overlay .lb-side > .lb-sub,
-  #lightbox-overlay .lb-side > .lb-specs,
-  #lightbox-overlay .lb-side > .lb-pricebox,
-  #lightbox-overlay .lb-side > .lightbox-buy-wrap,
-  #lightbox-overlay .lb-side > .lb-note{
+  #lightbox-overlay .lb-side > *{
     flex:0 0 auto;
     min-height:auto;
+    max-width:100%;
+    position:relative;
   }
   #lightbox-overlay .lb-desc{
-    padding:14px 14px; border-radius:16px; margin:0;
-    border:1px solid rgba(20,24,32,.08); background:rgba(255,255,255,.55);
-    flex:0 1 auto;
-    min-height:0;
+    padding:14px;
+    border-radius:16px;
+    margin:0;
+    border:1px solid rgba(20,24,32,.08);
+    background:rgba(255,255,255,.55);
+    overflow:hidden;
   }
   #lightbox-overlay .lb-desc h4{margin:0 0 8px; color:#5a6478; font-size:.88rem}
   #lightbox-overlay .lb-desc #lightbox-desc{
-    color:#3d4658; font-size:.9rem; line-height:1.55; white-space:pre-wrap;
-    max-height:180px; overflow:auto;
+    color:#3d4658;
+    font-size:.9rem;
+    line-height:1.55;
+    white-space:pre-wrap;
+    overflow-wrap:anywhere;
+    max-height:min(28vh, 220px);
+    overflow:auto;
+    -webkit-overflow-scrolling:touch;
   }
-  #lightbox-overlay .lightbox-buy-wrap{gap:10px}
   #lightbox-overlay .sale-countdown{
     margin:0; padding:12px; border-radius:14px; text-align:center;
     background:linear-gradient(135deg,rgba(37,99,235,.10),rgba(34,211,238,.10));
@@ -728,7 +782,7 @@
     color:#2563eb; margin-bottom:8px;
   }
   #lightbox-overlay .sale-countdown__grid{
-    display:flex; align-items:center; justify-content:center; gap:2px;
+    display:flex; align-items:center; justify-content:center; gap:2px; flex-wrap:nowrap;
   }
   #lightbox-overlay .sale-countdown__cell{display:flex; flex-direction:column; align-items:center; min-width:2.2em}
   #lightbox-overlay .sale-countdown__num{
@@ -739,6 +793,47 @@
   }
   #lightbox-overlay .sale-countdown__sep{
     font-size:.95rem; font-weight:800; color:rgba(37,99,235,.45); margin-top:-10px; padding:0 2px;
+  }
+
+  /* Mobile catalog + lightbox */
+  @media (max-width:768px){
+    #discounts-widget{padding:6px 8px 24px}
+    #discounts-widget .filters-bar{
+      gap:8px !important;
+    }
+    #discounts-widget .filters-bar input[type="text"]{
+      max-width:100% !important;
+      width:100% !important;
+    }
+    #discounts-widget .filters-bar label{
+      font-size:13px;
+      display:flex;
+      flex-direction:column;
+      gap:4px;
+      flex:1 1 42%;
+      min-width:140px;
+    }
+    #discounts-widget #catalog{
+      grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+      gap:10px !important;
+    }
+    #discounts-widget .card-body{padding:8px}
+    #discounts-widget .card-title{font-size:.72rem !important}
+    #discounts-widget .card-buy-wrap{padding:0 8px 8px}
+    #discounts-widget .buy-now-button{font-size:.75rem !important; padding:8px 10px !important}
+    #lightbox-overlay .lb-desc #lightbox-desc{max-height:min(34vh, 260px)}
+    #lightbox-overlay .sale-countdown{padding:10px}
+    #lightbox-overlay .sale-countdown__num{font-size:1.1rem}
+    #lightbox-overlay .sale-countdown__cell{min-width:1.9em}
+  }
+  @media (max-width:420px){
+    #discounts-widget #catalog{
+      grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+      gap:8px !important;
+    }
+    #lightbox-overlay .lb-side{padding:14px}
+    #lightbox-overlay .lb-side h3{font-size:1.08rem}
+    #lightbox-overlay .sale-countdown__num{font-size:1rem}
   }
 </style>
 
@@ -844,10 +939,6 @@
         <div class="lb-rating" id="lightbox-rating"></div>
         <p class="lb-sub" id="lightbox-platform"></p>
         <div class="lb-specs" id="lightbox-specs"></div>
-        <div class="lb-desc" id="lightbox-desc-wrap">
-          <h4>Об игре</h4>
-          <div id="lightbox-desc">Загрузка описания…</div>
-        </div>
         <div class="lb-pricebox">
           <div class="lb-discount" id="lightbox-discount"></div>
           <div class="lb-price-old" id="lightbox-price-old"></div>
@@ -859,6 +950,10 @@
             <div class="sale-countdown__grid" id="lightbox-countdown-grid"></div>
           </div>
           <button type="button" id="lightbox-buy" class="buy-now-button">Купить</button>
+        </div>
+        <div class="lb-desc" id="lightbox-desc-wrap">
+          <h4>Об игре</h4>
+          <div id="lightbox-desc">Загрузка описания…</div>
         </div>
         <p class="lb-note">Покупка игры · выдача на турецкий профиль</p>
       </aside>
