@@ -1646,7 +1646,9 @@ function resetFilters() {
   filterAndRender();
 }
 
-document.addEventListener("DOMContentLoaded", () => {
+function bootWhattobuysale() {
+  if (window.__wtbBooted) return;
+  window.__wtbBooted = true;
   setupLightboxCloseOnTildaCart();
   loadCards();
   document.getElementById("searchInput").addEventListener("input", filterAndRender);
@@ -1722,6 +1724,12 @@ document.addEventListener("DOMContentLoaded", () => {
       if (e.key === "ArrowRight") { e.preventDefault(); lightboxNext(); }
     }
   });
-});
+}
+// Loader on Tilda injects this HTML after DOMContentLoaded — boot immediately in that case.
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", bootWhattobuysale);
+} else {
+  bootWhattobuysale();
+}
 </script>
 </div>
