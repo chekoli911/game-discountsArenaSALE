@@ -428,7 +428,8 @@
       gap: 22px 28px;
       padding-top: 48px;
     }
-    #lightbox-overlay .lb-side{position:sticky; top:18px}
+    /* No sticky: otherwise the side panel covers recommendations when scrolling down. */
+    #lightbox-overlay .lb-side{position:static}
   }
   #lightbox-overlay .lb-hero{
     position:relative;
@@ -738,15 +739,14 @@
     #discounts-widget .wtb-sale-bar .remaining{font-size:16px}
   }
 
-  /* Lightbox side column: every block keeps its own space, no overlap */
+  /* Lightbox side column: every block keeps its own space, no overlap.
+     Whole lightbox-slide scrolls (incl. recommendations) — no nested side scroll. */
   #lightbox-overlay .lb-side{
     display:flex;
     flex-direction:column;
     gap:12px;
-    max-height:min(86vh, 920px);
-    overflow:auto;
-    overscroll-behavior:contain;
-    -webkit-overflow-scrolling:touch;
+    max-height:none;
+    overflow:visible;
   }
   #lightbox-overlay .lb-side > *{
     flex:0 0 auto;
