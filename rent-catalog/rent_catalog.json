@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-10T00:52:41Z",
-  "generated_at": "2026-11-10T00:55:47Z",
-  "count": 11427,
+  "catalog_id": "2026-11-10T11:56:09Z",
+  "generated_at": "2026-11-10T12:07:30Z",
+  "count": 11428,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3048,8 +3048,8 @@
       "text_translation": "",
       "rating": 0.0,
       "release_date": "10.11.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202601/1916/8faaaa6f62dd1bf493c5d4cef9f62484aaa9c4866220d645.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202610/0108/855c43de2423bcfa236d920ba7127def679f809e2e47f49d.jpg",
@@ -3065,6 +3065,73 @@
       "seo_descr": "Аренда Warhammer Survivors PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-20T13:17:01Z"
+    },
+    {
+      "id": "tanuki-pon-s-summer",
+      "slug": "tanuki-pon-s-summer",
+      "sku": "rent-tanuki-pon-s-summer",
+      "title": "TANUKI: Pon's Summer PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Казуальная",
+      "categories": [],
+      "publisher": "INPLERON LTD",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "10.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0616/3b82c64d2913caa3e953ff250163d5caa740a21b4bd1f9f9.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0212/95fb9a383b99083866c63e4fd282af8a105fd593eb700afc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0212/6d07b0a6c66b5be8471b829e67a82e48e979164f4f5b620b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0212/7c5598c0e0353265fca2f14d465d1dc1f22e19b5fefa3a8a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0212/177e45b1b5108e04f244cebfffa942ea8aca0bd164102cc6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0212/8bfc37189a2611be72e3ec472118b073a23cb2059f59869f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0212/23963de67073c8e22ffee68c19e47704b4161af15e3ccfa6.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019799",
+      "description": "Привет! Танучка наконец-то вышла на полную мощь в виде игры для PlayStation 5. Это не просто аниме, а целое атмосферное путешествие по японскому острову в летний сезон.\n\nТы сможешь увидеть главного героя – маленького демона с хвостом, который обожает лето и готов вступить в борьбу за его сохранение. Сюжет разворачивается очень живо, а графика на PS5 просто потрясающая.\n\nОтлично подходит для тех, кто любит японскую мистику, комедийные ситуации и яркие визуальные эффекты. Скорее ставь на подставку – тебе точно понравится!",
+      "seo_title": "TANUKI: Pon's Summer PS5 аренда игры",
+      "seo_descr": "Аренда TANUKI: Pon's Summer PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-10T11:55:50Z"
     },
     {
       "id": "shrek-2-remastered",
@@ -3115,8 +3182,8 @@
       "text_translation": "",
       "rating": 0.0,
       "release_date": "10.11.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/55a2d8335f4cf30e94ae7747778dc007fda46a2c963e44ac.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/3d498933381ad7558c1b6ae58f29300cdc9c11fcaf55d52e.jpg",
@@ -3202,7 +3269,7 @@
       "seo_title": "Unpetrified: Echoes of Nature PS5 аренда игры",
       "seo_descr": "Аренда Unpetrified: Echoes of Nature PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-10T00:55:35Z"
+      "catalog_added_at": "2026-11-10T00:11:18Z"
     },
     {
       "id": "super-astro-cat-ps4",
@@ -3266,7 +3333,7 @@
       "seo_title": "Super Astro Cat PS4 & PS5 аренда игры",
       "seo_descr": "Аренда Super Astro Cat PS4 & PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-10T00:55:35Z"
+      "catalog_added_at": "2026-11-10T00:11:28Z"
     },
     {
       "id": "hozy",
