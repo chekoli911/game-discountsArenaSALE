@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-10T15:14:34+03:00",
-  "updated_at_msk": "10.11.2026 15:14",
+  "updated_at": "2026-11-10T16:14:55+03:00",
+  "updated_at_msk": "10.11.2026 16:14",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2523,
+  "total": 2525,
   "unique_games": 921,
   "in_demand": 162,
   "one_off": 621,
@@ -2469,7 +2469,7 @@
       "title": "NHL 27 PS5",
       "item_id": "8355713865",
       "url": "https://avito.ru",
-      "count": 66,
+      "count": 67,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -2660,7 +2660,7 @@
         65,
         66,
         66,
-        66
+        67
       ],
       "hourly": [
         0,
@@ -2825,7 +2825,7 @@
         0,
         1,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -2993,7 +2993,7 @@
         257
       ],
       "first_at": "2026-09-05T21:51:28+03:00",
-      "last_at": "2026-11-08T20:57:05+03:00"
+      "last_at": "2026-11-10T15:54:44+03:00"
     },
     {
       "id": "nba-2k27-ultra-edition-ps5",
@@ -7779,15 +7779,15 @@
       "title": "Microsoft Flight Simulator 2024 PS5",
       "item_id": "7797724016",
       "url": "https://avito.ru",
-      "count": 21,
+      "count": 22,
       "demand": "high",
-      "avg_price": 292,
+      "avg_price": 290,
       "min_price": 257,
       "max_price": 499,
       "last_price": 257,
       "prices": [
         499,
-        499,
+        257,
         257,
         257,
         257,
@@ -7970,7 +7970,7 @@
         19,
         19,
         20,
-        21
+        22
       ],
       "hourly": [
         0,
@@ -8135,7 +8135,7 @@
         0,
         0,
         1,
-        1
+        2
       ],
       "price_series": [
         null,
@@ -8303,7 +8303,7 @@
         257
       ],
       "first_at": "2026-06-02T23:25:31+03:00",
-      "last_at": "2026-11-10T11:31:15+03:00"
+      "last_at": "2026-11-10T16:08:02+03:00"
     },
     {
       "id": "the-binding-of-isaac-repentance-ps5",
@@ -473079,6 +473079,18 @@
   ],
   "recent": [
     {
+      "title": "Microsoft Flight Simulator 2024 PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-10T16:08:02+03:00"
+    },
+    {
+      "title": "NHL 27 PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-10T15:54:44+03:00"
+    },
+    {
       "title": "NHL 27 Deluxe Edition PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -473305,18 +473317,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-09T10:47:18+03:00"
-    },
-    {
-      "title": "EA sports FC 27 Ultimate Edition PS4 & PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-09T10:41:51+03:00"
-    },
-    {
-      "title": "NBA 2K27 PS5",
-      "price": 591,
-      "price_string": "591 ₽",
-      "at": "2026-11-09T10:03:12+03:00"
     }
   ]
 }
