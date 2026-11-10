@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "source": "popular_games_10d.json ∩ rent_catalog",
+  "built_date_msk": "2026-11-10",
+  "updated_at": "2026-11-10T13:11:43.684385+03:00",
+  "days": 10,
+  "count": 10,
+  "items": [
+    {
+      "rank": 1,
+      "pct": 15,
+      "title": "Call of Duty: Modern Warfare 4 PS5",
+      "title_src": "Call of Duty: Modern Warfare 4 PS5",
+      "slug": "call-of-duty-modern-warfare-4",
+      "image_url": "https://static.tildacdn.com/stor6165-6633-4335-b232-386263613839/d6965415c9fc80d08757f8613fc5e84a.jpg",
+      "price_min": 1497
+    },
+    {
+      "rank": 2,
+      "pct": 13,
+      "title": "Onimusha: Way of the Sword PS5",
+      "title_src": "Onimusha: Way of the Sword PS5",
+      "slug": "onimusha-way-of-the-sword",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/79a186e6a055909cfeb66264230ad3d76915587b0269cd0d.png",
+      "price_min": 591
+    },
+    {
+      "rank": 3,
+      "pct": 11,
+      "title": "Marvel’s Wolverine PS5",
+      "title_src": "Marvels Wolverine PS5",
+      "slug": "marvel-s-wolverine",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2215/a69481c5fa50fe19f42896d84fb7cbf37ab8646801a93322.png",
+      "price_min": 591
+    },
+    {
+      "rank": 4,
+      "pct": 11,
+      "title": "Phantom Blade Zero PS5",
+      "title_src": "Phantom Blade Zero PS5",
+      "slug": "phantom-blade-zero",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2810/8ea15bce1b7336894aa364867c03a3ea32ecd2f1455a4333.png",
+      "price_min": 591
+    },
+    {
+      "rank": 5,
+      "pct": 9,
+      "title": "REANIMAL PS5",
+      "title_src": "REANIMAL PS5",
+      "slug": "reanimal",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/3574955c64a46d1405b273ce98314c3e29b699be4ad12812.png",
+      "price_min": 279
+    },
+    {
+      "rank": 6,
+      "pct": 9,
+      "title": "007 First Light PS5",
+      "title_src": "007 First Light PS5",
+      "slug": "007-first-light",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0215/f98041a10ccc22d45fc2f6eded09eec50abd106d01547a5d.png",
+      "price_min": 392
+    },
+    {
+      "rank": 7,
+      "pct": 9,
+      "title": "SILENT HILL: Townfall PS5",
+      "title_src": "SILENT HILL: Townfall PS5",
+      "slug": "silent-hill-townfall",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1407/420dcf45979ace1b7c97122a2dc0eb479428590ecab89c2b.png",
+      "price_min": 392
+    },
+    {
+      "rank": 8,
+      "pct": 9,
+      "title": "Call of Duty: Modern Warfare II PS4/PS5",
+      "title_src": "Call of Duty: Modern Warfare II PS4/PS5",
+      "slug": "call-of-duty-modern-warfare-ii",
+      "image_url": "https://static.tildacdn.com/stor3036-6230-4931-b263-636631623364/60345488.jpg",
+      "price_min": 287
+    },
+    {
+      "rank": 9,
+      "pct": 7,
+      "title": "Clive Barker's Hellraiser: Revival PS5",
+      "title_src": "Clive Barkers Hellraiser: Revival PS5",
+      "slug": "clive-barker-s-hellraiser-revival",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/519956b48e154b9614439f012e7a7bb05130ddbdabf600e7.png",
+      "price_min": 831
+    },
+    {
+      "rank": 10,
+      "pct": 7,
+      "title": "EA SPORTS FC 27 PS5",
+      "title_src": "EA SPORTS FC 27 PS5",
+      "slug": "ea-sports-fc-27",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2321/c7c534e1e9b24ccf7ff11c429948f31494ccce402b452647.png",
+      "price_min": 591
+    }
+  ]
+}
