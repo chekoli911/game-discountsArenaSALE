@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-10T11:13:36+03:00",
-  "updated_at_msk": "10.11.2026 11:13",
+  "updated_at": "2026-11-10T12:13:53+03:00",
+  "updated_at_msk": "10.11.2026 12:13",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2516,
+  "total": 2517,
   "unique_games": 921,
   "in_demand": 162,
   "one_off": 622,
@@ -7779,16 +7779,16 @@
       "title": "Microsoft Flight Simulator 2024 PS5",
       "item_id": "7797724016",
       "url": "https://avito.ru",
-      "count": 20,
+      "count": 21,
       "demand": "high",
-      "avg_price": 293,
+      "avg_price": 292,
       "min_price": 257,
       "max_price": 499,
       "last_price": 257,
       "prices": [
         499,
         499,
-        499,
+        257,
         257,
         257,
         257,
@@ -7970,7 +7970,7 @@
         19,
         19,
         20,
-        20
+        21
       ],
       "hourly": [
         0,
@@ -8135,7 +8135,7 @@
         0,
         0,
         1,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -8303,7 +8303,7 @@
         257
       ],
       "first_at": "2026-06-02T23:25:31+03:00",
-      "last_at": "2026-11-09T12:45:21+03:00"
+      "last_at": "2026-11-10T11:31:15+03:00"
     },
     {
       "id": "the-blood-of-dawnwalker-eclipse-edition-ps5",
@@ -473075,6 +473075,12 @@
   ],
   "recent": [
     {
+      "title": "Microsoft Flight Simulator 2024 PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-10T11:31:15+03:00"
+    },
+    {
       "title": "Карта пополнение Польша/ Poland на 50 ZL",
       "price": 1490,
       "price_string": "1 490 ₽",
@@ -473307,12 +473313,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-08T22:19:29+03:00"
-    },
-    {
-      "title": "Moss: The Forgotten Relic PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-08T22:11:28+03:00"
     }
   ]
 }
