@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-11T22:19:37+03:00",
-  "updated_at_msk": "11.11.2026 22:19",
+  "updated_at": "2026-11-11T23:20:07+03:00",
+  "updated_at_msk": "11.11.2026 23:20",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2582,
+  "total": 2583,
   "unique_games": 941,
   "in_demand": 164,
   "one_off": 630,
@@ -3550,18 +3550,17 @@
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
       "title": "Marvel's Avengers Endgame Edition PS4/PS5",
       "item_id": "3893870276",
-      "url": "https://avito.ru/moskva/igry_pristavki_i_programmy/marvels_avengers_endgame_edition_ps4ps5_3893870276",
-      "count": 42,
+      "url": "https://avito.ru",
+      "count": 43,
       "demand": "high",
       "avg_price": 313,
       "min_price": 209,
       "max_price": 350,
-      "last_price": 257,
+      "last_price": 287,
       "prices": [
         350,
         350,
         350,
-        350,
         209,
         209,
         209,
@@ -3577,7 +3576,8 @@
         257,
         257,
         257,
-        257
+        257,
+        287
       ],
       "counts": [
         1,
@@ -3743,7 +3743,7 @@
         42,
         42,
         42,
-        42
+        43
       ],
       "hourly": [
         1,
@@ -3909,7 +3909,7 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "price_series": [
         350,
@@ -4075,10 +4075,10 @@
         257,
         257,
         257,
-        257
+        287
       ],
       "first_at": "2026-06-01T22:20:43+03:00",
-      "last_at": "2026-10-18T20:30:37+03:00"
+      "last_at": "2026-11-11T22:33:31+03:00"
     },
     {
       "id": "bodycamera-shooter-ps5",
@@ -486177,6 +486177,12 @@
   ],
   "recent": [
     {
+      "title": "Marvel's Avengers Endgame Edition PS4/PS5",
+      "price": 287,
+      "price_string": "287 ₽",
+      "at": "2026-11-11T22:33:31+03:00"
+    },
+    {
       "title": "Together: Moon Escape PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -486409,12 +486415,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-10T22:39:48+03:00"
-    },
-    {
-      "title": "Disney Dreamlight Valley PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-10T22:16:06+03:00"
     }
   ]
 }
