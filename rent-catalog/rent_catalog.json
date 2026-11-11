@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-10T11:56:09Z",
-  "generated_at": "2026-11-10T12:07:30Z",
-  "count": 11428,
+  "catalog_id": "2026-11-11T00:52:42Z",
+  "generated_at": "2026-11-11T00:55:22Z",
+  "count": 11432,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3131,7 +3131,7 @@
       "seo_title": "TANUKI: Pon's Summer PS5 аренда игры",
       "seo_descr": "Аренда TANUKI: Pon's Summer PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-10T11:55:50Z"
+      "catalog_added_at": "2026-11-10T12:15:36Z"
     },
     {
       "id": "shrek-2-remastered",
@@ -3201,6 +3201,210 @@
       "seo_descr": "Аренда Shrek 2 Remastered PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-21T07:48:57Z"
+    },
+    {
+      "id": "raccoin-chaos-max-edition",
+      "slug": "raccoin-chaos-max-edition",
+      "sku": "rent-raccoin-chaos-max-edition",
+      "title": "RACCOIN: Chaos Max Edition PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Стратегия",
+      "categories": [],
+      "publisher": "Playstack Limited",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 4.17,
+      "release_date": "10.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0314/ec5f369352542d53b80fbcbd6bfd3525f74be1df7afcae0e.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0217/ceb78c1bbf2f0b45afd783f168d0331b6c7d7d7bc7f6fe1c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0217/a8d6a104324840625acd30d97f7414c2a3d716a5b2cf593b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0217/a67f013a94cc6f80d7366917125bcfca59cfbd1ada1a6ca4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0217/e2754763c2be87765ce5ac5f30837958af3bf7b630fe57f2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0217/8113294dbb24559776b2f716967ec909d5f80802efbd657f.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018482",
+      "description": "В Raccoin: Chaos Max Edition для PS5 происходит настоящая дикая история, где всё может случиться в любой момент. Это не просто игра - это безумие с открытым миром, полным тайн и опасных приключений, которые ждут каждого игрока.\n\nТы столкнешься с бешеным ретро-футуризмом, невероятной динамикой боя и сюжетом, который невозможно предсказать. Здесь каждый шаг может привести к неожиданному повороту или новой угрозе, готовой взорвать твоей плантации на голову.",
+      "seo_title": "RACCOIN: Chaos Max Edition PS5 аренда игры",
+      "seo_descr": "Аренда RACCOIN: Chaos Max Edition PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-10T18:56:43Z"
+    },
+    {
+      "id": "ova-magica",
+      "slug": "ova-magica",
+      "sku": "rent-ova-magica",
+      "title": "Ova Magica PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Приключение, Ролевая игра",
+      "categories": [],
+      "publisher": "TOP HAT STUDIOS, INC.",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "10.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/0ff2bd8d1286b0443054e2aabd237ace87750b64097929e7.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/05dcb906573d78cfc2c3de015f115f2720654657e6f6a050.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/75951fff520fc4469c15d7dbf5e849b0cb8786ed64d3c4da.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/df74b3eb68debfce0d3e83b11c16619dbf04cc0ff0e5965a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/f59725bab7fe5088f43df45030542bfb60cb0b560e680526.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/c0e2dfa024f89a2a410053c1c876d97c9306eff184685bee.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/ac53e436232f162c7a32677a8800e1b743a9e066f0d3089f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/5f084051de08c958155e21d5753cfb078ce161a9faa2fd77.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/22b33b154140c64f12a82c4101db63d398f27a5cd2d60232.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10003488",
+      "description": "В этой игре собраны лучшие сеты аниме-персонажей из популярных произведений. Можно собрать целую команду и отправиться в приключения, решая различные миссии.\n\nОсобенность заключается в том, что каждый персонаж обладает уникальными способностями и разными классами. Игроки могут сами выбирать своего героя, исходя из предпочтений или игровой стратегии.",
+      "seo_title": "Ova Magica PS5 аренда игры",
+      "seo_descr": "Аренда Ova Magica PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-10T18:56:43Z"
+    },
+    {
+      "id": "football-manager-27-console",
+      "slug": "football-manager-27-console",
+      "sku": "rent-football-manager-27-console",
+      "title": "Football Manager 27 Console PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Симулятор",
+      "categories": [],
+      "publisher": "SEGA EUROPE LTD",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 4.72,
+      "release_date": "10.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2211/a25bf91a3bf8cffd8b2d6cb274995bcae29e0bc429a32a5c.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2211/f326aa490815d6e6c680af04be562387dfa54378365bb648.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2211/a20a77462e24b8feb9647b6dd98c5876bc7b7b44b6665013.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2211/cbb29367f12ac4ba7c4b08ff28ce36ead93dcd4c88416396.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2211/18767d3168c774204d98ebabe055fc30dc7c1a5273f21dac.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2211/7e373f097162c400006aae665950d9886e192454a56b1200.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2211/4b856d15b4ccefd2cae61098b8fd8090ae6420fe18f3996c.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2211/bf7180306ceb017972196f4494d42711daab314836cae16a.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2211/a8e8d2f3efb70c076754ccecf75eabc7865f1cf88f8a52b3.jpeg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019108",
+      "description": "Самая ожидаемая стратегическая игра года уже доступна на консоли PlayStation! В Football Manager 27 ты снова получишь полный контроль над каждым аспектом управления командой и развитием футбольной карьеры.\n\nРазработчики обещали глубокий погружение в тактику и реализм, добавив новые механики для построения игрового процесса и улучшив графику до уровня, который впечатлит даже самых требовательных фанатов.\n\nПодготовься к тысячам часов увлекательного симулятора футбола, где каждый твой выбор может изменить историю спорта.",
+      "seo_title": "Football Manager 27 Console PS5 аренда игры",
+      "seo_descr": "Аренда Football Manager 27 Console PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-10T18:56:43Z"
     },
     {
       "id": "unpetrified-echoes-of-nature",
@@ -24080,39 +24284,39 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 1314,
-          "7": 1643,
-          "14": 1718,
-          "21": 1793,
-          "28": 1868,
-          "56": 3362
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
         },
         "p3": {
-          "1": 1434,
-          "7": 1793,
-          "14": 1868,
-          "21": 1943,
-          "28": 2018,
-          "56": 3632
+          "1": 497,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
         }
       },
       "prices_p2": {
-        "1": 1314,
-        "7": 1643,
-        "14": 1718,
-        "21": 1793,
-        "28": 1868,
-        "56": 3362
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
       },
       "prices_p3": {
-        "1": 1434,
-        "7": 1793,
-        "14": 1868,
-        "21": 1943,
-        "28": 2018,
-        "56": 3632
+        "1": 497,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
       },
-      "price_min": 1314,
+      "price_min": 497,
       "lang_label": "",
       "genre": "Шутер, Экшен",
       "categories": [],
@@ -24137,7 +24341,7 @@
       "seo_title": "ACE COMBAT 8: WINGS OF THEVE PS5 аренда игры",
       "seo_descr": "Аренда ACE COMBAT 8: WINGS OF THEVE PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-10-24T09:26:54Z"
+      "catalog_added_at": "2026-11-10T19:32:15Z"
     },
     {
       "id": "voltaire-the-vegan-vampire",
@@ -762028,6 +762232,75 @@
       "seo_descr": "Аренда Sniper Elite: Resistance PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
+    },
+    {
+      "id": "skygrid-courier",
+      "slug": "skygrid-courier",
+      "sku": "rent-skygrid-courier",
+      "title": "Skygrid Courier PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "",
+      "categories": [],
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "",
+      "is_preorder": false,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1504/9e10167f34a6ca54f28afcda7cf8914324709dbbc31b4c7d.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1507/7ec7a31e3397d44d3e667a907c5c6e7706c8f6d3e083840c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1507/44b529b7d9e6eb29d2ec7d81d69e09d3622e5d499632b7d7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1507/a39e80b5003b92eacd75e5759abba1c608a398d0c3fd3e64.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1507/0468e3bfbe3e29954c7fdf6ea4acbd4afc2d4b7f70ceae27.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1507/b47ce1772e2fcc8797b5cf2b4c0244d7a6341823a02608d6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1507/0eea35490c20999442af87bc8ce2e3f7d1f44fdcfad321f9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1507/3b07baf25d9701321469a4044a8063c3fe0dd44a3bdc1a76.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1507/f009b509d7821425b6b64beef4b6a01f479878952b8609db.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020901",
+      "description": "Вы никогда не узнали бы, что такое настоящий экшн, если бы не играли в Skygrid Courier на PlayStation 5. Это не просто ещё один курьерский симулятор - это динамичное приключение, где каждый шаг требует от вас реакции и точности.\n\nВаша задача проста: доставлять посылки по небоскрёбам будущего быстрее, чем они успеют разлететься во все стороны. Но не думайте, что здесь можно расслабиться - суровые боссы, сложные маршруты и ослепительное освещение создают атмосферу настоящего напряжения.\n\nВключите пиксельный стиль графики PS5 - это сразу добавляет игре невероятной атмосферы. Успейте успеть дозвать последние посылки, ведь в Skygrid Courier каждый момент решает всё!",
+      "seo_title": "Skygrid Courier PS5 аренда игры",
+      "seo_descr": "Аренда Skygrid Courier PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-11T00:55:11Z"
     },
     {
       "id": "sims-4",
