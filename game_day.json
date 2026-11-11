@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-11T02:01:56Z",
-  "server_time_utc": "2026-11-11T02:01:56Z",
+  "updated_at": "2026-11-11T02:03:28Z",
+  "server_time_utc": "2026-11-11T02:03:28Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-11T02:00:00Z",
-  "expires_at": "2026-11-11T02:00:00Z",
+  "next_rotation_at": "2026-11-12T02:00:00Z",
+  "expires_at": "2026-11-12T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 100,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-11T02:00:00Z"
+    "next_rotation_at": "2026-11-12T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "serious-sam-siberian-mayhem-ps5",
+      "title": "Serious Sam: Siberian Mayhem PS5",
+      "description": "На PlayStation 5 теперь доступен новый эпизод вселенной Serious Sam - Siberian Mayhem. Это самостоятельное дополнение от Timelock Studio, где «Крутой» Сэм Стоун отправляется в Россию сражаться против Ментала и догонять предателя генерала Брэнда.\n\nДействие разворачивается на суровых просторах страны: тут ждут забытые истории, неизведанные локации и тот самый фирменный стиль приключений Сэма. Путь будет долгим, но совсем не скучным - готовьтесь к ярким битвам против орды врагов!\n\nВсё собрано в удобном комплекте для PS5, чтобы можно было сразу начать новую главу.",
+      "image_url": "https://static.tildacdn.com/stor3632-6232-4433-b064-343930666466/77114067.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202209/1916/7rirCD0yRm5FanT8A9BrseX5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202209/1916/jFrOfpWZ6r7C5fahYUVG84AJ.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202209/1916/A7JNaRqR4JEhC90roMdMDGW9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202209/1916/FRUoNsdR27q5l2l0xUEHWqej.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202209/1916/6A5zNnz4sbFJZ5b2QzWLgUcl.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202210/1019/Bv43YTdG3EMBcPkHgqySxXX3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202210/1019/8XYBGAAPNOSzDYmVfcXT1ZO4.jpg"
+      ],
+      "release_date": "6/10/2022",
+      "publisher": "Devolver Digital",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.01,
+      "store_url": "https://store.playstation.com/en-tr/concept/10004759",
+      "tilda_uid": "499342563512",
+      "sku": "",
+      "external_id": "TTdKRpbxhOB9OPVjPjbH",
+      "url": "http://arenapsgm.ru/tproduct/499342563512-serious-sam-siberian-mayhem-ps5",
+      "expires_at": "2026-11-12T02:00:00Z",
+      "published_at": "2026-11-11T02:03:28Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 100,
+          "21": 100,
+          "28": 100
+        },
+        "p3": {
+          "7": 200,
+          "14": 200,
+          "21": 200,
+          "28": 200
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 100,
+        "21": 100,
+        "28": 100
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "На PlayStation 5 вышел новый эпизод вселенной Serious Sam - Siberian Mayhem от Timelock Studio. Крутой Сэм Стоун отправляется в Россию сражаться против Ментала и догонять предателя генерала Брэнда на суровых просторах страны.\n\nДействие разворачивается среди забытых историй, неизведанных локаций и фирменных битв Сэма против орды врагов, а всё собрано в…"
+    }
+  ],
+  "history": [
     {
       "slug": "tomb-raider-iv-vi-remastered-ps4-ps5",
       "title": "Tomb Raider IV-VI Remastered PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "3GeO2blcKsVFdzvRM3A7",
       "url": "http://arenapsgm.ru/tproduct/566709933972-tomb-raider-iv-vi-remastered-ps4ps5",
-      "expires_at": "2026-11-11T02:00:00Z",
       "published_at": "2026-11-11T02:01:56Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 100,
-          "21": 100,
-          "28": 100
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 200,
-          "21": 200,
-          "28": 200
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 100,
-        "21": 100,
-        "28": 100
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Игра дня - Tomb Raider IV–VI Remastered для PS4 и PS5. Это возвращение легенды с возможностью переключаться между оригинальной графикой и современным рендерингом в реальном времени. Лара снова в приключениях: раскройте тайны своего прошлого и найдите ответы на вопросы, которые оставались без ответа лет назад."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "the-last-guardian-ps4-ps5",
       "title": "The last Guardian PS4/PS5",
@@ -2981,56 +3031,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "В Зоне отчуждения - жутко реальная игра о поиске невесты в Припяти.  \nВыборы, борьба за ресурсы и неизвестность делают каждое прохождение уникальным."
-    },
-    {
-      "slug": "tales-of-arise-ps4-ps5",
-      "title": "Tales of Arise PS4/PS5",
-      "description": "Новая серия Tales на PS4/PS5 - вот где сила, дружба и битвы переплетаются в одну живую историю.  \n\nДва человека из разных мирами встречаются - и понимают: их судьбы связаны с будущим планеты Дахна, где 300 лет назад Рена разграбила мир и уничтожила свободу.  \n\nВ Tales of Arise ты ведёшь бой не только на экране - ты выбираешь, кто будет героем, как погибает сюжет, какие линии раскрываются. Много персонажей, много выборов - и всё это в ярком, динамичном мире.  \n\nДля кого-то это просто адреналин. Для других - путь к новому миру. Игра ждёт тебя.",
-      "image_url": "https://static.tildacdn.com/stor6663-3434-4436-b436-346237323362/43236923.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/ef9044d93a0852c7634456e8007aff621cca53fb1fe85c7f.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/961c09ce0c9eeda593f4fb70ed6f34edfcbfeca03de20456.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/09630e1129835daeff23242db337dfa40544662f9ae32ae2.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/72f35c903aaf463eb620d9816377445cfef492606a7fb8dc.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/50608c7e0a0483762492540cb733064cc2caa1721df92448.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/8124602a111d926fb03af99df94dcf233a31fd482a8a3f88.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/30814843c4a3affaa92b6b70c3e4320847cca4e045c6320e.jpg"
-      ],
-      "release_date": "20/9/2023",
-      "publisher": "BANDAI NAMCO ENTERTAINMENT EUROPE",
-      "platforms": "PS4, PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.56,
-      "store_url": "https://store.playstation.com/en-tr/concept/234823",
-      "tilda_uid": "195261828622",
-      "sku": "",
-      "external_id": "b813goRfRBSbSX0UGEIO",
-      "url": "http://arenapsgm.ru/tproduct/195261828622-tales-of-arise-ps4ps5",
-      "published_at": "2026-09-14T02:00:40Z",
-      "prices": {
-        "p2": {
-          "7": 280,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 380,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 280,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Новая серия Tales на PS4/PS5 - дружба, битвы и судьбы, переплетённые в живую историю.  \n\nТы выбираешь героя, как мир падает, кто умирает - всё зависит от твоих решений в ярком, динамичном мире."
     }
   ]
 }
