@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-12T10:25:44Z",
-  "generated_at": "2026-11-12T10:33:25Z",
-  "count": 11444,
+  "catalog_id": "2026-11-12T14:39:25Z",
+  "generated_at": "2026-11-12T14:45:32Z",
+  "count": 11449,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3067,6 +3067,74 @@
       "catalog_added_at": "2026-10-20T13:23:23Z"
     },
     {
+      "id": "supermarket-tidy-up",
+      "slug": "supermarket-tidy-up",
+      "sku": "rent-supermarket-tidy-up",
+      "title": "Supermarket - Tidy Up! PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "Семейная, Казуальная",
+      "categories": [],
+      "publisher": "BILDNER Verlag GmbH",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0613/745308e463f2541740926c2514c3ffd4d3be575eadf10830.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0613/78e0bedfd3836c668d3e63d750c21ee9f6d1361ffc6deef0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0613/2ce83f6aeb0950e05462f15dcca79b2fac55c28103157f40.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0613/1956a6a0979ac6b4cc764824fc35ffeaa1ae3ac23ef49a8f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0613/3197ee98974979a72a364b44774c1f0c94e62dfe94151c89.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0613/a6c3aad0f9afb2ecc93919b63f86d63221157b56fcde1945.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0613/c63e237615abb16fbeea18b9e8bd6b6894321499d2a28fad.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0613/a6ceecc108fc9d62259615915aabf163ce430c17badae70f.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020899",
+      "description": "В Supermarket - Tidy Up! вы играете за управляющего магазина, которому предстоит восстановить порядок в этой безумной суете. Ваш главный враг - не конкуренты, а бесконечная очередь покупателей и хаос из-за кассы.\n\nЗадача простая: поддерживать чистоту, вовремя забирать товары со стеллажей и выгружать их на прилавки перед тем, как они провалятся. Но времени мало, а покупателей - хоть отбавляй!",
+      "seo_title": "Supermarket - Tidy Up! PS5 аренда игры",
+      "seo_descr": "Аренда Supermarket - Tidy Up! PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-12T14:39:12Z"
+    },
+    {
       "id": "sonic-pico-park",
       "slug": "sonic-pico-park",
       "sku": "rent-sonic-pico-park",
@@ -3134,6 +3202,278 @@
       "seo_descr": "Аренда SONIC PICO PARK PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-12T09:28:36Z"
+    },
+    {
+      "id": "hazard-levels",
+      "slug": "hazard-levels",
+      "sku": "rent-hazard-levels",
+      "title": "Hazard Levels PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен, Приключение, Хоррор",
+      "categories": [],
+      "publisher": "Wales Interactive Limited",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.11,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0813/986be944f49819a8a4e43d722219694204bd5ffa9373ce26.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0512/0f565647b80314c5972ad7feebe7020283f6aeeac222662c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0512/c05ad1060b3e30b42a5f61469474564609c6fe2a9be4ac7c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0512/10f9380273ad5fc0cbcdb4a8a0d023e26183060bc56d7cf3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0512/77863901a1e35d43c80f6d7ff9cf42260cbd177cd0ab2fc9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0512/0fec5927282691f931f29b48cebb888dd5aa05e53d93ad21.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0512/a2c6987ce2c112555e2a180622dd359bc9e24ced627c9f11.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0512/f21b5c4e2cf6a6198e471bb7c49290a2e7c34150759a945a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0512/c149d86e0bb5510321b23ff9a92ef33eacb5768afdcd20b1.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019290",
+      "description": "Если вы любите игры с безумной физикой и абсурдным юмором, то «Hazard Levels» на PS5 - именно то, что вам нужно. Это не просто квест, а настоящий троллинг реальности в стиле нуарного детектива 1980-х годов, где каждый шаг может обернуться катастрофой или смешным эпизодом с друзьями.\n\nВы играете за Грегори, бывшего детектива, который оказался в странном мире после аварии на грузовике. Вокруг вас - завалы из бочек с опасными веществами, мутанты и самые нелепые ситуации, которые вы только могли представить. Атмосфера мрачная, а сюжет развивается по принципу «сделай шаг - получи удивление».\n\nГлавное здесь - это уникальная система уровней опасности. Чем больше вы попадаете в неприятности, тем более безумным становится мир вокруг вас. Игра заставляет расслабиться и смеяться над абсурдом происходящего, предлагая уникальный опыт, который сложно забыть.",
+      "seo_title": "Hazard Levels PS5 аренда игры",
+      "seo_descr": "Аренда Hazard Levels PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-12T14:38:51Z"
+    },
+    {
+      "id": "fakin-it-xl",
+      "slug": "fakin-it-xl",
+      "sku": "rent-fakin-it-xl",
+      "title": "Fakin It XL PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Party",
+      "categories": [],
+      "publisher": "Jack Box Games, Inc.",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0916/1e36e0ddf852e410a681eb377dac735bedd4ed56d8c13889.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0918/7f7404f77aa37f32b55c6800b98fd9bb8062591779bfc736.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0918/b167aca111a0b626c288523bdeed4fb0314a94c133e06890.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0918/65d9f6309396a75696043198f7f88af51519252aaa2f62c8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0918/4edb1ae37d77550e9f5fec403a51aa7efd39d7548892e8a4.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020868",
+      "description": "Слушал(а) легенду о «поддельных» джедаях? Теперь есть шанс проверить, насколько правдивы эти истории.\n\nВ этой игре ты оказываешься в центре взрыва, когда твой собственный пиджак расстегивается на глазах у прохожих. Служба безопасности (или кто-то из твоей семьи) должен найти источник этого шума и приказать тебе зайти внутрь, чтобы проверить обстановку.\n\nГлавная фишка - это полная свобода действий: ты сам(а) выбираешь, где развернуться, как сбежать от преследователей и сколько раз сделать этот самый «взрыв».\n\nКстати, если твоей семье не повезет в первой попытке, она может предложить тебе попробовать снова.",
+      "seo_title": "Fakin It XL PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Fakin It XL PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-12T14:38:33Z"
+    },
+    {
+      "id": "barbie-rewind",
+      "slug": "barbie-rewind",
+      "sku": "rent-barbie-rewind",
+      "title": "Barbie Rewind PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Семейная, Симулятор, Казуальная",
+      "categories": [],
+      "publisher": "Atari Inc.",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0118/f89450abef983274ca59966647499b8bd1d9b521143a6428.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0518/b712705615340dc5f5b0c14b0f3691d4057a0f278c06f5d6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0518/c2e27d135de6846aa88a5f1f19188286fc303df0c4c5a1b2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0518/b567a1ee7c40ec4dd756f62e084e6dba4d7e513b59266c6d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0518/fdf173311c42acb34027350a4e9444998af7376e08281e6d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0518/17796594d382173fc1a40542565942f64aa320d1e60fcb82.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0518/51b06af31934289e85909f81c60a8aa058c011e0dbfb681e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0518/9fdc0525a540e45333a85ba00cff06535994a38205f6655f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/0518/fdbdc2d368839bed65af63978e2750272031265231d12a85.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10017281",
+      "description": "Классика в новом обличии! Сделай себе перерыв из реальной жизни и урони в тот самый, легендарный мир Барби. В «Барби Реванд» ты снова проведешь время вместе с подругами - покажемся на вечеринке, сыграем в прятки или просто поболтаем обо всем на свете.\n\nГлавная фишка здесь - свободное повествование. Никаких строгих правил и шаблонных сценариев: ты сама управляешь сюжетом, создавая свой уникальный фильм из детских воспоминаний и веселых приключений.",
+      "seo_title": "Barbie Rewind PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Barbie Rewind PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-12T14:38:19Z"
+    },
+    {
+      "id": "autobahn-police-simulator-4",
+      "slug": "autobahn-police-simulator-4",
+      "sku": "rent-autobahn-police-simulator-4",
+      "title": "Autobahn Police Simulator 4 PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Симулятор",
+      "categories": [],
+      "publisher": "AEROSOFT GMBH",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1013/fe731ac167f5a4ad28bfb6228f806804bba56d5a54767d3d.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/02b8b0d5de6593e5f2d3adf47bc3733eae96484157851c31.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/37a01aea8527b3fb5472380537fba317865ddefa6881cb0d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/d7b1bb2adc7b9acb41bae9967391cad86c25ab06a7720784.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/1ae8950f7e27e5783964b6c298e31d6f2cf0764c7df05e92.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/30911bde995173980cd79e581784f5abf8a8465ad8d9e3e3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/5a1f5ce3e3a38bf729b49e2ed76c6c3e00b4d028dcd3c07b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/7bb0e9f60b5fd0ae62692a5bfe57ae8b94e3e3e1cbc0527d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/678334d8ec5e9595dd27aaadb415378afe51781fe26ce761.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019974",
+      "description": "Вот тебе крутая игра для тех, кто любит драйв и чистую скорость. Это автогонки от культового разработчика Codemasters в новой части, где ты попадешь прямо на автостраду - как полагается по названию!\n\nТут не только рулить нужно будет мастерски. Включи сирены, задирай музыку и лови всех нарушителей правил дорожного движения на высоких скоростях. Графика впечатляет даже на PS5, а физика машин передает каждый толчок двигателя с невероятной точностью.",
+      "seo_title": "Autobahn Police Simulator 4 PS5 аренда игры",
+      "seo_descr": "Аренда Autobahn Police Simulator 4 PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-12T14:38:01Z"
     },
     {
       "id": "a-pet-shop-after-dark",
@@ -17504,39 +17844,39 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
+          "1": 390,
+          "7": 490,
+          "14": 890,
+          "21": 1190,
+          "28": 1290,
+          "56": 2322
         },
         "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
+          "1": 490,
+          "7": 590,
+          "14": 990,
+          "21": 1190,
+          "28": 1290,
+          "56": 2322
         }
       },
       "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
+        "1": 390,
+        "7": 490,
+        "14": 890,
+        "21": 1190,
+        "28": 1290,
+        "56": 2322
       },
       "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
+        "1": 490,
+        "7": 590,
+        "14": 990,
+        "21": 1190,
+        "28": 1290,
+        "56": 2322
       },
-      "price_min": 697,
+      "price_min": 390,
       "lang_label": "На русском языке! (субтитры)",
       "genre": "Симулятор, Гонки",
       "categories": [],
@@ -17563,7 +17903,7 @@
       "seo_title": "BeamNG.drive PS5 аренда игры",
       "seo_descr": "Аренда BeamNG.drive PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-10-20T13:21:21Z"
+      "catalog_added_at": "2026-11-12T12:03:17Z"
     },
     {
       "id": "island-market-simulator",
@@ -37200,22 +37540,14 @@
       "price_min": 257,
       "lang_label": "На русском языке! (субтитры)",
       "genre": "Шутер",
-      "categories": [
-        "Все игры",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "РПГ",
-        "Платформеры",
-        "Боевики"
-      ],
+      "categories": [],
       "publisher": "Kwalee Ltd",
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "rating": 5.0,
       "release_date": "08.09.2026",
       "is_preorder": false,
-      "is_new": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1611/7f05e28ef2867f6993a708afef1019c96f7b9d392b7435a3.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202602/1711/6b3657eb6638b894779e2a64b184106550eda95672743ab4.jpg",
@@ -37226,10 +37558,10 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202602/1711/53c57def7db92da72cf434a276ce60e148f6b2b932f158a9.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/concept/10017182",
-      "description": "Взрывная FPS-шутер в духе лучших игровых тайтлов 2000-го года - SPRAWL zero. Игра полностью погружает в атмосферу «золотой эпохи», когда шутеры перестали быть просто перестрелками и превращались в эпичные приключения в живых мирах.\n\nВы играете за FIVE, кибернетического суперсолдата под управлением Хунты, чья главная цель - уничтожить лидера секты IMAGO-DEI SILAS. Город оказывается в центре глобальной схватки между известными и теневыми группировками, а ваш путь лежит через хаос.\n\nБои здесь динамичные и умные: враги общаются, координируются и используют фланговые атаки с гранатами, как в классических F.E.A.R. или Halo. Ваша задача - не просто стрелять, а обмануть их, используя гравитационный щит, останавливая время для точных выстрелов или перемещаясь по стенам.",
-      "seo_title": "SPRAWL zero на PS5 аренда игры",
-      "seo_descr": "Аренда SPRAWL zero на PS5. FPS-шутер в стиле культовых консольных игр 2000-х SPRAWL zero— это шутер от первого лица, вдохновением для которого стали консольные игры 2000-х годов. Быстрый доступ после оплаты.",
-      "external_id": "eypEg6LqvdVG_8bI0kVr",
+      "description": "SPRAWL zero - шутер от первого лица, который напоминает о золотой эпохе консольных игр 2000-х.  \n\nВы играете за FIVE - кибернетического суперсолдата, который должен уничтожить SILAS, лидера таинственной технорелигиозной группы. Город погружён в хаос: все группировки бьются за власть.  \n\nВраги не просто стреляют - они общаются, координируют атаки и используют фланговые удары, гранаты, огонь поддержки. Победа требует тактики, а не только скорости.  \n\nГравитационные перчатки, щит и \"Натиск\" дают полный контроль над физикой - вы можете ловить пули, останавливать время или стрелять с небес. Свободно выбирайте стиль: атакуйте, укрывайтесь или ведите бой по законам физики.",
+      "seo_title": "SPRAWL zero PS5 аренда игры",
+      "seo_descr": "Аренда SPRAWL zero PS5 на PlayStation.",
+      "external_id": "",
       "catalog_added_at": "2026-11-12T10:33:21Z"
     },
     {
