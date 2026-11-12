@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-11T16:35:13Z",
-  "generated_at": "2026-11-11T16:39:31Z",
-  "count": 11433,
+  "catalog_id": "2026-11-12T05:36:23Z",
+  "generated_at": "2026-11-12T05:42:31Z",
+  "count": 11440,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -2998,6 +2998,486 @@
       "seo_descr": "Аренда Ranger's Path: National Park Simulator PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-20T13:23:23Z"
+    },
+    {
+      "id": "a-pet-shop-after-dark",
+      "slug": "a-pet-shop-after-dark",
+      "sku": "rent-a-pet-shop-after-dark",
+      "title": "a pet shop after dark PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Хоррор",
+      "categories": [],
+      "publisher": "Viridian Software Limited",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "12.11.2026",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2021/7ad3c88554ade72d7c981ee7ff6cd1c3cc8f5c696dedff4c.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2220/6b6f8eb28d36dd7d5e9a22393f0bc527d74c02299b189ba6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2220/a60e00ff5a9d3c5d1255a8b87360554b0fae214b7f30a7c6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2220/26bd1f8c6f4613d22ffe29a393431d78dab3d79d0f0e51d4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2220/6a815bfcf6a1f1bdf2ab517c3551d6ddf0bc5c7398d93729.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2220/73956393600e01e040359269ab7722c95a06ee20cb28d4cf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2220/2485555033360d405185747ec45749d5d77a3745682f4256.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2220/41e27359a32d7bd36c8ae8a86b2b6551b9c8308616f77f21.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10014055",
+      "description": "Ночной зоомагазин на PlayStation 5. Это мрачная история о том, как сбежал из приюта крошечный котенок и стал главой мафии в маленьком городке.\n\nГлавная героиня - обычная девушка, которая ушла из дома к своему коту. Она должна найти его и вернуть домой, пока не поздно. Но на её пути стоит бандитский клан с жесткими правилами и опасными соперниками.\n\nВ игре много живых персонажей, интересных диалогов и атмосфера настоящего криминального жанра.",
+      "seo_title": "a pet shop after dark PS5 аренда игры",
+      "seo_descr": "Аренда a pet shop after dark PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-12T05:35:06Z"
+    },
+    {
+      "id": "thronefall",
+      "slug": "thronefall",
+      "sku": "rent-thronefall",
+      "title": "Thronefall PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Стратегия",
+      "categories": [],
+      "publisher": "Mythwright Limited",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 4.75,
+      "release_date": "11.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1415/844e354e57b7f3cd82dcbc4e57e07dca827efdc1ff56f995.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1612/cb64d0c46b0a3489b782dc79056bff3233e7ff5f9cca9f38.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1612/da2e6dff220bb694e2df154105c0682367662a78a854d0b8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1612/c8ee844fa6366c02edd263b7351d05aae7a0b83a5c7c4dee.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1612/d6a7a92a2dd4f408260be2e628417c10ef25c0b185157210.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1612/4dbc74ec4cfdd4a1be3b3c33ca1bf683d2edbd087cf1ab97.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1612/f840bfefb017c91758e9e2cbd044440aa06e77a5d1c1e009.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1612/bbf6d7564252d0453456b05ff0a74fa5eec540c25533aa23.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1612/27fc19b500c72842af9529ae7a9840629138b0fc1fbb6449.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018202",
+      "description": "Вот и ты, дружок, на Thronefall на PlayStation 5! Это не просто игра, а настоящий эпический ролевой опыт, где каждый твой выбор меняет ход истории. Ты можешь сыграть за короля, королеву или даже за бунтовщика - мир открыт для всех желающих поднимать шум и менять правила.\n\nСюжет завязан на великих битвах и политическом интриге: враги стоят у ворот твоей страны, а внутри правящий класс готов свергнуть тебя. Здесь нет безопасных зон, только постоянные заговоры, шпионские вылазки и масштабные сражения, где решается судьба целого королевства.\n\nПросто подключись, выбери свою роль и погрузись в этот средневековый хаос, где каждый шаг ведет к новым открытиям или к тому, чтобы стать главным героем (или жертвой) этой истории.",
+      "seo_title": "Thronefall PS5 аренда игры",
+      "seo_descr": "Аренда Thronefall PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-11T17:21:06Z"
+    },
+    {
+      "id": "prinny-party-going-overboard",
+      "slug": "prinny-party-going-overboard",
+      "sku": "rent-prinny-party-going-overboard",
+      "title": "Prinny Party: Going Overboard! PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Party",
+      "categories": [],
+      "publisher": "NIS America",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 2.45,
+      "release_date": "11.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0201/fb353cf1fc9a5b88aa58b6138766cedaa0176f94874b301f.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0201/c03fcdfde7e8d84e9180093fdc0197ea58c871d3f8b0350d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0201/2331671046c10570a326ee41c4000a49701115f33f4c12be.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0201/5b8353a91461e2293f53daaf8ef2afebadb453d537f40ed6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0201/a7a08e2a211f109dbd0a4e2880682b14937c24824c413869.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0201/6cccc6575ee9fbcec1494741c49771ece6dcbb4e76c71fda.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0201/bf65c6d089f82371236eff99648f6d57bf742467042ceb47.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018214",
+      "description": "Вот оно! Принни снова решила сделать праздник «на развал», и на этот раз с очень серьезным блогом о переполненных кораблях и гравитационных аномалиях.\n\nПопытайся выбраться из этого космического хаоса, пока не наступила черная дыра. Но готовься к тому, что враги будут веселиться так же сильно, как и ты в бою.\n\nМини-игры снова ждут тебя, чтобы отвлечься от безумия вокруг.",
+      "seo_title": "Prinny Party: Going Overboard! PS5 аренда игры",
+      "seo_descr": "Аренда Prinny Party: Going Overboard! PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-11T17:21:06Z"
+    },
+    {
+      "id": "console-archives-oda-nobunaga-den",
+      "slug": "console-archives-oda-nobunaga-den",
+      "sku": "rent-console-archives-oda-nobunaga-den",
+      "title": "Console Archives Oda Nobunaga Den PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Симулятор",
+      "categories": [],
+      "publisher": "HAMSTER CORPORATION",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "11.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2905/71c61e843df3ab5819d5208dcd6d4c0c23f997d18bebbb43.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2906/cb9b1ad3681be1b04a1fed12f84122d145e7b63b0bb6e09d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2906/740aeb92852c8732624b4a85e348e9da19a3da91e9438ec5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2906/ca0e338e8a85b9b66dd900e9d0bb4dbaa6c3d941bd55c862.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2906/06e528e3a1dfe64e01b78e5ae648e87e9feb681dda89a410.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2906/54331147d1315b1c26516d15f16672f129983402511f83a4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2906/f3cb4798186d5a8f48e1eac72f3bdc8fbbf8a01fec3cd7dd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2906/855f90ec8e01be3fc4ff773acb5d62a4313bfe8aeca430b2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2906/236ff927a10d72a4d3608cb3f031e13ab914c135520e1501.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10016339",
+      "description": "В сеттинге японского средневековья сражаются за судьбу страны величайший воин Ода Нобунага и его верные рыцари. Это не просто эмулятор классических тайтлов, а полноценная игра с современной графикой на консоли нового поколения.\n\nВы получите возможность погрузиться в историю сасекудо от лица главного героя, используя мощь процессора PlayStation 5 для плавной анимации и детализированных окружений. Игра сохранит атмосферу эпохи Сэнгёкидзё и классические механики управления, адаптированные под современные стандарты.\n\nИдеальный выбор для тех, кто хочет сыграть в легендарную аркаду с оригинальным сюжетом без задержек и ограничений старых консолей.",
+      "seo_title": "Console Archives Oda Nobunaga Den PS5 аренда игры",
+      "seo_descr": "Аренда Console Archives Oda Nobunaga Den PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-12T05:36:07Z"
+    },
+    {
+      "id": "combat-kart",
+      "slug": "combat-kart",
+      "sku": "rent-combat-kart",
+      "title": "Combat Kart PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Ролевая игра, Гонки, Party",
+      "categories": [],
+      "publisher": "HAPPY PLAYER PTE. LTD.",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 3.67,
+      "release_date": "11.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/0506/4caa59d4e8e8dd80d8adf1cb65b5602b9f2cd79833941adc.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/0506/66ea931ad534de6e739a6c2baef4c883a16077247594f0dd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/0506/c6b76203245346bff091c92bb9920fa771bab135f7590b61.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/0506/c0e19c4666b131d53b322c9556a767a71ffd59b3eaa7214b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/0506/b3d7bf29fd5fa6175ae40399b8aaf36fdc01f4b076f12344.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/0506/44448313d9ed08fdc7a15fa2d40701b4a5422f7701cb3c5c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/0506/248482dba2caa8181a286c3eb5bcb4ffd353682fd2a326d1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/0506/2120a034da90e48aa7ec41183bcb6fc9e380b4a2f34e530d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/0506/9754d7a1c096cd233ee75b56408ffd66dd3051a970c9778e.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10016760",
+      "description": "Взрывные гоночные гонки в новом формате для PlayStation 5!\n\nСмело развяжи гонку на огромных, детализированных треках с плавной физикой и невероятным визуалом. Управление в стиле киберспортивных шутеров уже стало стандартом индустрии - просто круто и динамично.\n\nОбязательно сыграй: это настоящий хит от создателей легендарных гонок, где каждая изгиб трассы и каждый разворот дарят массу удовольствия.",
+      "seo_title": "Combat Kart PS5 аренда игры",
+      "seo_descr": "Аренда Combat Kart PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-12T05:35:54Z"
+    },
+    {
+      "id": "arcade-archives-2-shot-rider",
+      "slug": "arcade-archives-2-shot-rider",
+      "sku": "rent-arcade-archives-2-shot-rider",
+      "title": "Arcade Archives 2 SHOT RIDER PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "HAMSTER CORPORATION",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "11.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2907/ac2b939ee776cc037ad467d9dc4ab8ffa54df07175425cc1.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2908/88717176e4f8148683f8daaf1024c02016fcf97a6b63499d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2908/a03026f869efc593187bf83d8abda1724c219ee88a2e8c30.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2908/1748d812803fc06cd079b32674aadc93cda8d24bfe676491.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2908/65605a0436ed9757f9553bad53ae2acc19f91c4dfa71ed66.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2908/b3df5ff0c9e7a79cfb154aea11a4ce9f32104e1aa76aeb09.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2908/5312006a4e26c57cf4380cf2079479d31f56b717c105d520.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2908/96c70db60546d37e3254165d360db71eda6f279374f82bfc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2908/5d38b19416e0f8f83b0cf81cfee9c0f2a62ebaf2469142f2.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018475",
+      "description": "Классика аркадных бестселлеров возвращается на консоли в обновленном виде! Это сборник культовых раннеров от разных разработчиков, собранных под одной крышей.\n\nТы снова будешь бежать через космические коридоры в «Space Harrier», дерзко кружить над врагами в «Galaxian» и гонять по безднам «Gravitar». В каждом из них сохранилось ту самое чувство скорости, азарта и бесконечного драйва.\n\nСамое главное - это кроссовер-уровень, где можно переиграть легендарную битву с Риддлем из первой части, теперь уже в окружении всех остальных героев серии.",
+      "seo_title": "Arcade Archives 2 SHOT RIDER PS5 аренда игры",
+      "seo_descr": "Аренда Arcade Archives 2 SHOT RIDER PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-12T05:35:37Z"
+    },
+    {
+      "id": "arcade-archives-2-rezon",
+      "slug": "arcade-archives-2-rezon",
+      "sku": "rent-arcade-archives-2-rezon",
+      "title": "Arcade Archives 2 REZON PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Шутер",
+      "categories": [],
+      "publisher": "HAMSTER CORPORATION",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 4.75,
+      "release_date": "11.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/195b05b9b517f77a82e08d1ead7c49ffd8bc86fb92aacf67.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/026ae87f5a0044ac18fcea0c339a1c6eddbfed6f3c258d04.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/16b2e74c80650af053eae816e967a1b639c9f5671f663a43.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/255bbc10b2660b141d11287c081cfaa8083ffd146bf375cf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/368515003817b3e93005810e2a7bb52f9e623e484b8db44b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/c4350fecc5251dc9fa4bb4e35b11a0e90d99e5b8c155cd4b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/87bdc3213b50fcf0e7b974d26dd97e9801876e2e7109e147.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/d973461f25477f85c3328127fc6c4ccdde6155d2b89be9c8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/32ab3ec21c93cbfe091cceb2836ff2b22b9664ff02343a70.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020275",
+      "description": "Классика аркадных автоматов возвращается на PlayStation 5 в обновленной версии Arcade Archives 2. Это не просто ретро-порт, а полноценная сборка лучших игр из серии NES Classics и Game Boy Classics.\n\nВнутри уже ждут любимые хиты вроде Pac-Man, Galaga, Donkey Kong и Contra, которые переделаны под современные стандарты графики и звука без потери харизмы оригинала.\n\nЛучше всего играть на консоли в связке с геймпадом DualSense - так вы почувствуете настоящий тактильный отклик при стрельбе из пистолета или застреленном враге, что добавляет катку совершенно нового уровня.",
+      "seo_title": "Arcade Archives 2 REZON PS5 аренда игры",
+      "seo_descr": "Аренда Arcade Archives 2 REZON PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-12T05:35:22Z"
     },
     {
       "id": "warhammer-survivors",
@@ -15183,7 +15663,7 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 874,
+          "1": 1077,
           "7": 1092,
           "14": 1292,
           "21": 1728,
@@ -15191,7 +15671,7 @@
           "56": 3479
         },
         "p3": {
-          "1": 591,
+          "1": 737,
           "7": 739,
           "14": 827,
           "21": 944,
@@ -15200,7 +15680,7 @@
         }
       },
       "prices_p2": {
-        "1": 874,
+        "1": 1077,
         "7": 1092,
         "14": 1292,
         "21": 1728,
@@ -15208,14 +15688,14 @@
         "56": 3479
       },
       "prices_p3": {
-        "1": 591,
+        "1": 737,
         "7": 739,
         "14": 827,
         "21": 944,
         "28": 1078,
         "56": 1940
       },
-      "price_min": 591,
+      "price_min": 737,
       "lang_label": "",
       "genre": "Экшен",
       "categories": [],
@@ -15250,7 +15730,7 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 1551,
+          "1": 1697,
           "7": 1939,
           "14": 2127,
           "21": 2444,
@@ -15258,7 +15738,7 @@
           "56": 5180
         },
         "p3": {
-          "1": 1594,
+          "1": 1797,
           "7": 1992,
           "14": 2292,
           "21": 2528,
@@ -15267,7 +15747,7 @@
         }
       },
       "prices_p2": {
-        "1": 1551,
+        "1": 1697,
         "7": 1939,
         "14": 2127,
         "21": 2444,
@@ -15275,14 +15755,14 @@
         "56": 5180
       },
       "prices_p3": {
-        "1": 1594,
+        "1": 1797,
         "7": 1992,
         "14": 2292,
         "21": 2528,
         "28": 2993,
         "56": 5387
       },
-      "price_min": 1551,
+      "price_min": 1697,
       "lang_label": "",
       "genre": "Экшен",
       "categories": [],
@@ -58412,7 +58892,7 @@
       "platform": "PS4 и PS5",
       "prices": {
         "p2": {
-          "1": 359,
+          "1": 257,
           "7": 449,
           "14": 499,
           "21": 749,
@@ -58420,7 +58900,7 @@
           "56": 1798
         },
         "p3": {
-          "1": 439,
+          "1": 349,
           "7": 549,
           "14": 599,
           "21": 849,
@@ -58429,7 +58909,7 @@
         }
       },
       "prices_p2": {
-        "1": 359,
+        "1": 257,
         "7": 449,
         "14": 499,
         "21": 749,
@@ -58437,14 +58917,14 @@
         "56": 1798
       },
       "prices_p3": {
-        "1": 439,
+        "1": 349,
         "7": 549,
         "14": 599,
         "21": 849,
         "28": 1099,
         "56": 1978
       },
-      "price_min": 359,
+      "price_min": 257,
       "lang_label": "На русском языке!",
       "genre": "Шутер",
       "categories": [],
@@ -58473,7 +58953,7 @@
       "platform": "PS4 и PS5",
       "prices": {
         "p2": {
-          "1": 359,
+          "1": 257,
           "7": 449,
           "14": 499,
           "21": 749,
@@ -58481,7 +58961,7 @@
           "56": 1798
         },
         "p3": {
-          "1": 439,
+          "1": 349,
           "7": 549,
           "14": 599,
           "21": 849,
@@ -58490,7 +58970,7 @@
         }
       },
       "prices_p2": {
-        "1": 359,
+        "1": 257,
         "7": 449,
         "14": 499,
         "21": 749,
@@ -58498,14 +58978,14 @@
         "56": 1798
       },
       "prices_p3": {
-        "1": 439,
+        "1": 349,
         "7": 549,
         "14": 599,
         "21": 849,
         "28": 1099,
         "56": 1978
       },
-      "price_min": 359,
+      "price_min": 257,
       "lang_label": "На русском языке!",
       "genre": "Шутер",
       "categories": [],
