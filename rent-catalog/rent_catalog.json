@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-12T05:36:23Z",
-  "generated_at": "2026-11-12T05:42:31Z",
-  "count": 11440,
+  "catalog_id": "2026-11-12T09:24:23Z",
+  "generated_at": "2026-11-12T09:35:26Z",
+  "count": 11444,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -2180,6 +2180,73 @@
       "catalog_added_at": "2026-10-20T12:53:33Z"
     },
     {
+      "id": "professor-layton-and-the-new-world-of-steam",
+      "slug": "professor-layton-and-the-new-world-of-steam",
+      "sku": "rent-professor-layton-and-the-new-world-of-steam",
+      "title": "Professor Layton and the New World of Steam PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "LEVEL5 Inc.",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "09.12.2026",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2305/2e9da9f0706b773f16e4341520fd11cac3e6b6f84ce149ba.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2805/8526540c4eae9cde28fcd51c122a456ed972af9ce2bcea00.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2805/06f42d7c60e762ac71b986f2517bd7a178b10ed582eb034c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2805/9b8fefa1ab6aaf509965de0031d3639824e7154ba7038c06.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2806/3154bf113107aec338e9295bd4c95a890b67a73a3c0e4690.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2805/e3c77f27d5bba6a9dfa83f579ba76c8861470ccd36c70a03.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2805/e6dc833c05b20e89cf7024410d1f06adff1e9c61a3ef01df.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/JP0720-PPSA37037_00-LAYTONGAME000000",
+      "description": "Предзаказ требует немедленной оплаты - подробности можно узнать из условий обслуживания. Автоматическая загрузка включится сама, если у вас настроено автоматическое подключение к сети на PS5™. Не забудьте также активировать бонус предзаказа: подборка из 11 треков саундтрека к серии про профессора Лейтона станет доступна до 23:59 по тихоокеанскому времени 9 декабря.\n\nДействие разворачивается в Америке эпохи дикого запада, в городе Паровой Бизон, превращённом паровыми технологиями. Профессор Лейтон и Люк столкнутся с загадочными событиями в этом центре изобретателей и отправятся на новое приключение. Изначально эту историю придумали создатели мировой серии головоломок, а для новой главы ответственность взяли на себя QuizKnock под руководством Takushi Izawa - самого известного викторина мира.\n\nОсобенности игры включают полностью переработанную систему изучения окружения с быстрым перемещением и роботом-монетарадом для поиска подсказок. Заглавная песня создана легендарным джазовым пианистом Джо Хисайши и певицей Lilas, а головоломки можно решать в одиночку или перед большим экраном вместе с семьей и друзьями.",
+      "seo_title": "Professor Layton and the New World of Steam PS5 аренда игры",
+      "seo_descr": "Аренда Professor Layton and the New World of Steam PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-12T06:20:28Z"
+    },
+    {
       "id": "a-o-t-3",
       "slug": "a-o-t-3",
       "sku": "rent-a-o-t-3",
@@ -3000,6 +3067,75 @@
       "catalog_added_at": "2026-10-20T13:23:23Z"
     },
     {
+      "id": "sonic-pico-park",
+      "slug": "sonic-pico-park",
+      "sku": "rent-sonic-pico-park",
+      "title": "SONIC PICO PARK PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Казуальная",
+      "categories": [],
+      "publisher": "PICO PARK Inc.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1207/68550a7e71085c2470386c0754651b9ceabb1f0f84d55d86.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1207/190fd1e331a50b636a733ee0216eb7a2904399c7ba9638c7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1207/58c6e15d757a60e22ee1cbd53088bb2670ea7fe7caace176.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1207/463f61681ad2b5127755121180fd28972065248ee33b8f21.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1207/86af6db42bd59057e8f574f5393c80c8d816c8fd725adc1e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1207/cfa2ea5bc84abaea27e6b39cd11fb7bbb5a880dd4efa2009.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1207/74e1748aa3bfff91cd54e218bbe7bc2918bbd80e4b14ac58.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1207/134697d101fbb71948230049f27d02a20a5eaacc1f9b1979.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1207/be062720a7b5cbf8dd4187e560a473aeebfe90e73bf5095c.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020345",
+      "description": "Соник наконец-то вышел на пикниковую арену, и PlayStation 5 встречает его с размахом! Это не просто приключение - это настоящий квест под открытым небом.\n\nВместо привычных трюковых горок Соник будет бегать по лугам, перепрыгивать через ямы и спасать друзей в самых неожиданных местах. Отличный баланс свободы действий и веселых головоломок.",
+      "seo_title": "SONIC PICO PARK PS5 аренда игры",
+      "seo_descr": "Аренда SONIC PICO PARK PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-12T09:28:36Z"
+    },
+    {
       "id": "a-pet-shop-after-dark",
       "slug": "a-pet-shop-after-dark",
       "sku": "rent-a-pet-shop-after-dark",
@@ -3048,8 +3184,8 @@
       "text_translation": "Русский, Английский",
       "rating": 5.0,
       "release_date": "12.11.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2021/7ad3c88554ade72d7c981ee7ff6cd1c3cc8f5c696dedff4c.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202610/2220/6b6f8eb28d36dd7d5e9a22393f0bc527d74c02299b189ba6.jpg",
@@ -3065,7 +3201,7 @@
       "seo_title": "a pet shop after dark PS5 аренда игры",
       "seo_descr": "Аренда a pet shop after dark PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-12T05:35:06Z"
+      "catalog_added_at": "2026-11-12T06:20:28Z"
     },
     {
       "id": "thronefall",
@@ -3204,6 +3340,73 @@
       "catalog_added_at": "2026-11-11T17:21:06Z"
     },
     {
+      "id": "final-kick-football-legends",
+      "slug": "final-kick-football-legends",
+      "sku": "rent-final-kick-football-legends",
+      "title": "Final Kick Football Legends PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Спорт",
+      "categories": [],
+      "publisher": "FUNBOX MEDIA LIMITED",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 3.5,
+      "release_date": "11.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0212/c6af5f219075b2fca7d0dc5671bf16799dc27022b7281741.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0212/aca61e9e42f8475377d26aa1d16afee672b72576d1cf8a25.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0212/e3e54f92aeee0f7381deacc4a03a4407ab8a87f09bfd3487.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0212/aa921d0cae32a091a49172a5bccaf6bee877b7b580222c9e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0212/6e359afe15ddae0abb6ed0d8b3af9ba1879fe815a092d551.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0212/d29192526f0a5c2987637d74e90850a57d0824c5bcbb5bea.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0212/d3e11d4e9e0f55ecb6d73f43e0b4c29461219846ce613743.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018353",
+      "description": "Наконец-то в PlayStation 5 вышла эта долгожданная гонка - Final Kick Football Legends! Игра создана специально для консоли, поэтому она работает плавно и красиво, без лишних лагов.\n\nВот что тебя ждет: динамичные матчи с реалистичной физикой мяча, красивые визуальные эффекты от голей и отличная графика. В игре много команд со всей Европы, где можно как выигрывать домашние игры, так и ехать в гости на чужие стадионы.\n\nЭто идеальная игра для тех, кто любит спортивную гонку, но не хочет тратить часы на настройку графики - просто включи, запусти игру и наслаждайся процессом!",
+      "seo_title": "Final Kick Football Legends PS5 аренда игры",
+      "seo_descr": "Аренда Final Kick Football Legends PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-12T09:28:36Z"
+    },
+    {
       "id": "console-archives-oda-nobunaga-den",
       "slug": "console-archives-oda-nobunaga-den",
       "sku": "rent-console-archives-oda-nobunaga-den",
@@ -3270,7 +3473,7 @@
       "seo_title": "Console Archives Oda Nobunaga Den PS5 аренда игры",
       "seo_descr": "Аренда Console Archives Oda Nobunaga Den PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-12T05:36:07Z"
+      "catalog_added_at": "2026-11-12T06:20:28Z"
     },
     {
       "id": "combat-kart",
@@ -3339,7 +3542,76 @@
       "seo_title": "Combat Kart PS5 аренда игры",
       "seo_descr": "Аренда Combat Kart PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-12T05:35:54Z"
+      "catalog_added_at": "2026-11-12T06:20:28Z"
+    },
+    {
+      "id": "bulb-boy-anthology",
+      "slug": "bulb-boy-anthology",
+      "sku": "rent-bulb-boy-anthology",
+      "title": "Bulb Boy Anthology PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "Dark Product",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "11.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1712/3f7de1297921d14b7ae0a52962a6930148957757e158a342.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1803/1b68f006d62a79bb0ec21da6a1c2c1b70fcbd76c200e93ef.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1803/39c4d3eb7edb52e9e383139f91b563f342111c1deebd8347.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1803/ff677985c30dde64c6b0fc047e69a934132bb49bdb819069.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1803/3e41ef6f71581238ed6280c607ab4d5d13a341f235a53248.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1803/7c0c7c95ec01b5ca12e2dc440eabdee51b22cdab03754a49.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1803/3e61ce362203c87b38dc2734f6881d3da1bea6c62804e376.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1803/6e39bab04d8e6d7ee339f9e9115b692f426fd00e88d12aa8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1803/955f31ca7650430e5cc3d4259079a43896f07d9716104811.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020792",
+      "description": "Всё изменилось в этой истории о мальчике с лампочкой. Теперь это не просто одна игра, а целый сборник приключений, где каждый уровень - это новая головоломка и яркое воспоминание из мира, который можно лишь увидеть, но не дотронуться.\n\nУправление здесь ощущается невероятно плавным и отзывчивым. Ты чувствуешь каждую мелочь: от покачивания фонаря в ветру до щелчка выключателя или лёгкого толчка, чтобы засветить путь дальше. Атмосфера создаётся сама собой - тихая, немного таинственная и полностью погружающая.\n\nСобирайся с друзьями за этой аркадой, ведь Bulb Boy Anthology на PS5 - это не просто прохождение уровней, а настоящий мультфильм в жанре, который невозможно забыть после первого раза.",
+      "seo_title": "Bulb Boy Anthology PS5 аренда игры",
+      "seo_descr": "Аренда Bulb Boy Anthology PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-12T09:28:36Z"
     },
     {
       "id": "arcade-archives-2-shot-rider",
@@ -3408,7 +3680,7 @@
       "seo_title": "Arcade Archives 2 SHOT RIDER PS5 аренда игры",
       "seo_descr": "Аренда Arcade Archives 2 SHOT RIDER PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-12T05:35:37Z"
+      "catalog_added_at": "2026-11-12T06:20:28Z"
     },
     {
       "id": "arcade-archives-2-rezon",
@@ -3477,7 +3749,7 @@
       "seo_title": "Arcade Archives 2 REZON PS5 аренда игры",
       "seo_descr": "Аренда Arcade Archives 2 REZON PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-12T05:35:22Z"
+      "catalog_added_at": "2026-11-12T06:20:28Z"
     },
     {
       "id": "warhammer-survivors",
@@ -36893,49 +37165,56 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799,
+          "56": 1438
         },
         "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
+          "1": 357,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899,
+          "56": 1618
         }
       },
       "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
+        "1": 257,
+        "7": 357,
+        "14": 490,
+        "21": 699,
+        "28": 799,
+        "56": 1438
       },
       "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
+        "1": 357,
+        "7": 459,
+        "14": 590,
+        "21": 799,
+        "28": 899,
+        "56": 1618
       },
-      "price_min": 697,
+      "price_min": 257,
       "lang_label": "На русском языке! (субтитры)",
       "genre": "Шутер",
-      "categories": [],
+      "categories": [
+        "Все игры",
+        "Только PS5",
+        "Шутеры",
+        "Приключения",
+        "Платформеры",
+        "Стратегии и симуляторы"
+      ],
       "publisher": "Kwalee Ltd",
       "voice": "Английский",
       "text_translation": "Русский, Английский",
       "rating": 5.0,
       "release_date": "08.09.2026",
       "is_preorder": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1611/7f05e28ef2867f6993a708afef1019c96f7b9d392b7435a3.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202602/1711/6b3657eb6638b894779e2a64b184106550eda95672743ab4.jpg",
@@ -36946,11 +37225,11 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202602/1711/53c57def7db92da72cf434a276ce60e148f6b2b932f158a9.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/concept/10017182",
-      "description": "SPRAWL zero - шутер от первого лица, который напоминает о золотой эпохе консольных игр 2000-х.  \n\nВы играете за FIVE - кибернетического суперсолдата, который должен уничтожить SILAS, лидера таинственной технорелигиозной группы. Город погружён в хаос: все группировки бьются за власть.  \n\nВраги не просто стреляют - они общаются, координируют атаки и используют фланговые удары, гранаты, огонь поддержки. Победа требует тактики, а не только скорости.  \n\nГравитационные перчатки, щит и \"Натиск\" дают полный контроль над физикой - вы можете ловить пули, останавливать время или стрелять с небес. Свободно выбирайте стиль: атакуйте, укрывайтесь или ведите бой по законам физики.",
-      "seo_title": "SPRAWL zero PS5 аренда игры",
-      "seo_descr": "Аренда SPRAWL zero PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-09-08T17:01:27Z"
+      "description": "FPS-шутер SPRAWL zero на PS5 - это погружение в атмосферу культовых игр 2000-х. Дизайн и эстетика сразу бросаются в глаза, возвращая ностальгию по «золотой эпохе», когда жанр перестал быть просто перестрелками в коридорах, а стал создавать масштабные миры.\n\nВы играете за FIVE - кибернетического суперсолдата под управлением Хунты. Главная цель: найти и устранить лидера радикальной группы SILAS, который разрушает баланс сил в городе. Но не расслабляйтесь слишком сильно - враги здесь умные, координируют действия, используют фланговые атаки и гранаты, как в F.E.A.R. или Halo.\n\nОсобенность игры кроется в боевой системе на основе гравитации. С помощью перчаток и щита вы можете менять траекторию пуль, останавливать время для сверхчеловеческой точности или просто отправлять вражеские снаряды обратно в головы противников. Это не просто «стреляй быстрее», а тактическая битва с умом.",
+      "seo_title": "SPRAWL zero на PS5 аренда игры",
+      "seo_descr": "Аренда SPRAWL zero на PS5. FPS-шутер в стиле культовых консольных игр 2000-х SPRAWL zero— это шутер от первого лица, вдохновением для которого стали консольные игры 2000-х годов. Быстрый доступ после оплаты.",
+      "external_id": "eypEg6LqvdVG_8bI0kVr",
+      "catalog_added_at": "2026-11-12T09:35:12Z"
     },
     {
       "id": "picture-puzzle-girls-slide-match",
