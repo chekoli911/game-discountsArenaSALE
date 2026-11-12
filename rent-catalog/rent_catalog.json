@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-12T14:39:25Z",
-  "generated_at": "2026-11-12T14:45:32Z",
-  "count": 11449,
+  "catalog_id": "2026-11-12T20:25:42Z",
+  "generated_at": "2026-11-12T20:43:19Z",
+  "count": 11450,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3107,13 +3107,13 @@
         "56": 3479
       },
       "price_min": 697,
-      "lang_label": "",
+      "lang_label": "На русском языке! (субтитры)",
       "genre": "Семейная, Казуальная",
       "categories": [],
       "publisher": "BILDNER Verlag GmbH",
       "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
+      "text_translation": "Русский, Английский",
+      "rating": 4.44,
       "release_date": "12.11.2026",
       "is_preorder": false,
       "is_new": true,
@@ -3132,7 +3132,7 @@
       "seo_title": "Supermarket - Tidy Up! PS5 аренда игры",
       "seo_descr": "Аренда Supermarket - Tidy Up! PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-12T14:39:12Z"
+      "catalog_added_at": "2026-11-12T15:24:00Z"
     },
     {
       "id": "sonic-pico-park",
@@ -3270,7 +3270,7 @@
       "seo_title": "Hazard Levels PS5 аренда игры",
       "seo_descr": "Аренда Hazard Levels PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-12T14:38:51Z"
+      "catalog_added_at": "2026-11-12T15:24:00Z"
     },
     {
       "id": "fakin-it-xl",
@@ -3335,7 +3335,76 @@
       "seo_title": "Fakin It XL PS4/PS5 аренда игры",
       "seo_descr": "Аренда Fakin It XL PS4/PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-12T14:38:33Z"
+      "catalog_added_at": "2026-11-12T15:24:00Z"
+    },
+    {
+      "id": "deadly-stakes",
+      "slug": "deadly-stakes",
+      "sku": "rent-deadly-stakes",
+      "title": "Deadly Stakes PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Симулятор, Хоррор, Аркада",
+      "categories": [],
+      "publisher": "OWN IT SOLUTIONS SA",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 3.5,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2813/eb4f5a4a68c14ef4e3ec5b1c3412b85ccf974acc5fd454bc.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2915/a7eb50b1b94aadf1f422f738386769201c60b10814e2c9c4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2915/6e3febf053b5f575600241945985b7d2f73e24ff96395687.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2915/258a952f47bd7d45d6724216fa1426bbd4c5d34bf1d7f3b7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2915/e5345bb4dc104589383ccd921c756ace8955e73e730be15e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2915/b4f430b012b52780b313da0f3bafeea6f9a6a68c41935a41.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2915/2d1813922178b857536d02e0d415288169783e3aa4d8f585.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2915/22f66ecc846406dea8fcd60a5d60a00c4233c08757f20f11.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2915/692356ca92ee2f7f56b35ab2b9176699e2173dd1d34326f5.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020789",
+      "description": "Действительно, этот квест на PlayStation 5 выглядит как настоящий вызов для друзей!\n\nВам предстоит собрать разрозненные улики и перемещаться между локациями, чтобы найти ключи от секретных комнат. Но помните: в этом мире за каждым открытым дверным проемом может скрываться смертельная угроза.\n\nЭто не просто прогулка по локации - это настоящая игра на выживание, где каждый неверный шаг или оплошность может стоить вам жизни.",
+      "seo_title": "Deadly Stakes PS5 аренда игры",
+      "seo_descr": "Аренда Deadly Stakes PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-12T20:43:09Z"
     },
     {
       "id": "barbie-rewind",
@@ -3404,7 +3473,7 @@
       "seo_title": "Barbie Rewind PS4/PS5 аренда игры",
       "seo_descr": "Аренда Barbie Rewind PS4/PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-12T14:38:19Z"
+      "catalog_added_at": "2026-11-12T15:24:00Z"
     },
     {
       "id": "autobahn-police-simulator-4",
@@ -3473,7 +3542,7 @@
       "seo_title": "Autobahn Police Simulator 4 PS5 аренда игры",
       "seo_descr": "Аренда Autobahn Police Simulator 4 PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-12T14:38:01Z"
+      "catalog_added_at": "2026-11-12T15:24:00Z"
     },
     {
       "id": "a-pet-shop-after-dark",
