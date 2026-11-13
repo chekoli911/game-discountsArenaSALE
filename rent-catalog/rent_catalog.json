@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-13T02:46:04Z",
-  "generated_at": "2026-11-13T02:54:17Z",
-  "count": 11453,
+  "catalog_id": "2026-11-13T14:43:14Z",
+  "generated_at": "2026-11-13T14:48:43Z",
+  "count": 11461,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3067,6 +3067,144 @@
       "catalog_added_at": "2026-10-20T13:23:23Z"
     },
     {
+      "id": "bombanana",
+      "slug": "bombanana",
+      "sku": "rent-bombanana",
+      "title": "BOMBANANA! PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Головоломка, Party, Казуальная",
+      "categories": [],
+      "publisher": "NAİSU OYUN YAZILIM SANAYİ TİCARET LİMİTED ŞİRKETİ",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 4.36,
+      "release_date": "13.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0102/aeaf57261ab37c8ff229d9e74fa8f7beb81854d8bff6dc1e.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0102/09acb554c8bace6da8992132f098c0a598b2cc2a9499b7c6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0102/7dfe02c25402457d81e64e4cd23f538bda2905ed90e04a88.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0102/7428d5f30c71e8d258926e32736609b6c2b00aad91fee72c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0102/a8bee9ff9585d68686ad478f36c908fbd995f023385ce428.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0102/0eb95996eab79844177a6bd5e83f33799dc2816ae0b971cb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0102/962a19605d7aa20c2efc69ab5a07a306b3ecd757f5362852.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0102/bfba5633ccb8f148fd5d19b3e0d621f3b13d3b46b602fb5c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/0102/dfe1ebbd344c00c06f50aa30397515a0722d092fa3a194a4.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020779",
+      "description": "Взрывной хит PlayStation 5, который заставит тебя хвататься за голову! В этой веселой аркадной игре ты управляешь шаром с бомбой и запускаешься по платформам. Главное - не промахнуться в прыжке, иначе все улетит вверх дном.\n\nИграй на скорость, лови другие шарики и старайся собрать максимум очков. Это отличная развлекательная вечеринка для всей семьи или компании друзей, где каждый хочет быть королем взрывов!",
+      "seo_title": "BOMBANANA! PS5 аренда игры",
+      "seo_descr": "Аренда BOMBANANA! PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T14:42:11Z"
+    },
+    {
+      "id": "the-safe-place",
+      "slug": "the-safe-place",
+      "sku": "rent-the-safe-place",
+      "title": "The Safe Place PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "Andriy Davydyuk",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1112/0401c8ff5fc5ec489581946a5ffe8a859c1a645607644290.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1112/3e7c136f0f0e9e528abde521e12633b57487adaced190f40.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1112/e523936817a16acc852f890a604507801d5666cf9c26e9a5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1112/1da1be27de83b94ac2343110531009e1fa958f34cbe32f8b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1112/31355aa7711eab1f9e90926a4ac3f1f9787b5f0e7bfebfe4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1112/2b39650848507d48340e4c3a5a22e8fff6deb0419dcf4153.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1112/e39711df198ce2dea83805392b763101a04f2783ff4c8d18.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1112/735bfe9f8eac3c05b42a690052187e7012a9f91518af52ef.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1112/6feff5df807d010f33ccc98de8f91a1cffc2c0b50a61e642.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10013623",
+      "description": "Тебя ждёт «Место для безопасности» на PS5. Это атмосферная хоррор-игра, где вы вместе с друзьями или в одиночку исследуете заброшенный дом.\n\nВнутри вас ждут настоящие страхи и неожиданные повороты сюжета. Атмосфера будет давить на нервы, но именно это создаёт уникальный опыт совместного выживания.\n\nИдеально для вечеринки перед кино или просто чтобы поработать мозг вместе с компанией. Попробуйте - не пожалеете!",
+      "seo_title": "The Safe Place PS5 аренда игры",
+      "seo_descr": "Аренда The Safe Place PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T09:24:02Z"
+    },
+    {
       "id": "supermarket-simulator",
       "slug": "supermarket-simulator",
       "sku": "rent-supermarket-simulator",
@@ -3133,7 +3271,7 @@
       "seo_title": "Supermarket Simulator PS5 аренда игры",
       "seo_descr": "Аренда Supermarket Simulator PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-13T02:45:47Z"
+      "catalog_added_at": "2026-11-13T03:24:02Z"
     },
     {
       "id": "supermarket-tidy-up",
@@ -3202,6 +3340,75 @@
       "seo_descr": "Аренда Supermarket - Tidy Up! PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-12T15:24:00Z"
+    },
+    {
+      "id": "story-time",
+      "slug": "story-time",
+      "sku": "rent-story-time",
+      "title": "Story Time PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Образовательная, Казуальная, Семейная",
+      "categories": [],
+      "publisher": "Booster Box Ltd",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2221/d48d1f677739383e69d49c7b3854e996d4741b0230a2a86d.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2221/105f8571d5568e5ed66edc298166051886940beabff7866b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2222/2ca23a29fa81d398f5485144884250cb782e2dac20b37224.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2221/cae1fa127431111a3212b3fc086d7b068025b5a34a97fb61.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2221/fef842ef1aedc1a94649604347e247d148b28ad324624f64.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2221/3e4ae911bfee8f9a6af4de0aa4bef040e50499a94795da1a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2221/9924dc24ce4d54e181996f04fe24d88f318d8d8dac0640e9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2221/8764dbe0bcfa0056b08cd14a7efc2e69e32924bce88e3847.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2221/34ffcd7107e999f388a699d28b6b821590ff090f9180bfd5.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021313",
+      "description": "Вот тебе идея для карточки в стиле «для своих»:\n\nКрутая игра про то, как люди общаются. Тут можно узнать кучу нового о себе и других в процессе веселых диалогов.\n\nГлавная фишка - ты сам выбираешь, чем заниматься: выдумывать истории с друзьями или просто слушать чужие приключения. Выбор за тобой!\n\nИдеально для компании или спокойной игры вдвоем на одной консоли.",
+      "seo_title": "Story Time PS5 аренда игры",
+      "seo_descr": "Аренда Story Time PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T09:24:02Z"
     },
     {
       "id": "sonic-pico-park",
@@ -3273,6 +3480,73 @@
       "catalog_added_at": "2026-11-12T09:28:36Z"
     },
     {
+      "id": "repentant",
+      "slug": "repentant",
+      "sku": "rent-repentant",
+      "title": "Repentant PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "Andriy Davydyuk",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0915/f005a3833f9231dd60a3fea551e1361d8f86425c56faca02.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1211/cca9b5bf11219fd462aa04736ca7b180bd0c7bac8741a821.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1211/9dd6333f9a7ae5b1b59a38e984314cfa6b3ad2bfed0086ad.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1211/7c40253eed71702da501022627c74b1b61554d74a59d8725.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1211/b29ad637633e8629249b69f4b583f66ab392a00aaefedd08.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1211/8eef2fb955afbc60b03a5a8382cac5d560641bfbcc8a0115.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1211/83958194e6c648ad92b15daac058dfbcaaecba58f66c9662.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020863",
+      "description": "Вот короткое описание для карточки игры Repentant на PlayStation 5:\n\nЭто мрачная история о том, как один человек пытается искупить вину за свой смертный грех. Главный герой отправляется в путешествие, чтобы найти прощения у тех, кого он когда-то обидел.\n\nИгра предлагает уникальную механику, где каждый шаг игрока напрямую влияет на судьбу его персонажа и развитие сюжета. Вы будете принимать сложные моральные решения, от которых будет зависеть исход истории.",
+      "seo_title": "Repentant PS5 аренда игры",
+      "seo_descr": "Аренда Repentant PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T09:24:02Z"
+    },
+    {
       "id": "qutas67-qubic-ultimate-tap-adventure-simulator-2",
       "slug": "qutas67-qubic-ultimate-tap-adventure-simulator-2",
       "sku": "rent-qutas67-qubic-ultimate-tap-adventure-simulator-2",
@@ -3339,7 +3613,7 @@
       "seo_title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067 PS5 аренда игры",
       "seo_descr": "Аренда QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067 PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-13T02:45:23Z"
+      "catalog_added_at": "2026-11-13T03:24:02Z"
     },
     {
       "id": "nefiriya-and-the-sands-of-eternity",
@@ -3405,7 +3679,137 @@
       "seo_title": "Nefiriya and the Sands of Eternity PS4/PS5 аренда игры",
       "seo_descr": "Аренда Nefiriya and the Sands of Eternity PS4/PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-13T02:45:04Z"
+      "catalog_added_at": "2026-11-13T03:24:02Z"
+    },
+    {
+      "id": "little-kite",
+      "slug": "little-kite",
+      "sku": "rent-little-kite",
+      "title": "Little Kite PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "Andriy Davydyuk",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 3.0,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2010/6563335cfe3a4cce858d6140e3f96aa1df5f76b72acb84c0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2010/c4346e8e06748f1b7ec620661014c6acfeb792056ebcdf65.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2010/a12c9348c336689d10310c1178a785c1c981a26a3052122c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2010/ec19103ccaa0feb2641ce04a712cd98612e930017fe52118.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10002831",
+      "description": "Возьми в свои руки маленького кита и отправься в путешествие за границу. Это не просто игра, а полноценная история о любви, дружбе и том, как сблизить двух очень разных людей.\n\nПриятный ретро-арт в стиле аркадных игр создаёт особую атмосферу ностальгии и уюта. Управление предельно простое - бросай ленту, лови рыбу или просто плыви по морям мира.\n\nГлавное здесь - это живая химия между персонажами, их диалоги и истории, которые раскрываются с каждой новой игрой. Это отличный выбор для тех, кто любит добрые истории в красивой картинке.",
+      "seo_title": "Little Kite PS5 аренда игры",
+      "seo_descr": "Аренда Little Kite PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T14:42:43Z"
+    },
+    {
+      "id": "i-am-security",
+      "slug": "i-am-security",
+      "sku": "rent-i-am-security",
+      "title": "I Am Security PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Уникальное, Simulator",
+      "categories": [],
+      "publisher": "NEW FOLDER GAMES LTD",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.0,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2111/3c7cf76c60ef73b8d4052b4847a46bcae451e02398a41aa5.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/2111/1537b2f7c5008c164888c6e0dcef7967a76d5b01b574dd82.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/2111/1b6ab8f2107fd99f1d67357f0bd14f332a97b3d8af11255a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/2111/7a48e40cd3cdedf8d147fcac805f20b5f5563efb37c81531.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/2111/a7f57272f67f9a82cc64dc8bf4349c24ca33edfc0c35b9a9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/2111/ffbc149557b0cafacf3dd3e816aea9001eeedb4898afa580.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10012323",
+      "description": "На PlayStation 5 теперь можно поиграть в I Am Security. Это хардкорная симуляция, где ты берешь на себя роль киберугрозы, отправляясь в опасные миссии для взлома и кражи данных.\n\nГлавное здесь - не просто нажать кнопку «взломать». Ты должен планировать каждое действие, разрабатывать уникальные стратегии и постоянно подстраиваться под защитников. Это про тактику, логику и постоянное напряжение.\n\nЕсли любишь сложные головоломки и игры на выживание в цифровом пространстве - это точно то, что тебе понравится.",
+      "seo_title": "I Am Security PS5 аренда игры",
+      "seo_descr": "Аренда I Am Security PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T14:42:28Z"
     },
     {
       "id": "hazard-levels",
@@ -3608,7 +4012,7 @@
       "seo_title": "Draw It, Human! PS5 аренда игры",
       "seo_descr": "Аренда Draw It, Human! PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-13T02:44:42Z"
+      "catalog_added_at": "2026-11-13T03:24:02Z"
     },
     {
       "id": "deadly-stakes",
@@ -3678,6 +4082,139 @@
       "seo_descr": "Аренда Deadly Stakes PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-12T20:43:09Z"
+    },
+    {
+      "id": "cinema-manager-simulator",
+      "slug": "cinema-manager-simulator",
+      "sku": "rent-cinema-manager-simulator",
+      "title": "Cinema Manager Simulator PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Симулятор, Simulator",
+      "categories": [],
+      "publisher": "Revolt Games SRL",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.06,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2510/e8b83903c027c070a7b39a709ddf42d60f9bf0cc549314f1.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/2721/7749e66b76ca6fa62c9e8658fec90d3a37ea31d4d5db8b5d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/2721/36af08c6f0c2ea18e1e9ce6b082b940cf33c160aca82d368.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/2721/9ac3db39f126939c6e895f796ffa41698fbe4f18dbfbbff1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/2721/75d052da9964bc59883fb92036164b0bddb054ddaad64711.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/2721/a9f04addd89765d93158ee5ab35e0054410facf247f8eaf9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/2721/e6229c363202837df592bfcd3104c52a2288271ec7051795.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/2721/02cf1240551c23d56ad154fe0b570d172a31e49d6f89f570.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/2721/6732e0100b2ae2eb3e1a440df4df71f7a20935647f9581e7.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10014370",
+      "description": "Представь себя главным режиссером в своей собственной киношнице! В Cinema Manager Simulator ты полностью контролируешь каждый кадр - от выбора сценария и каста до декора зала и музыкального сопровождения. Ты можешь создавать уникальные проекты: от уютных семейных мультфильмов до масштабных блокбастеров с густой атмосферой.\n\nВсё наглядно и весело, даже если ты никогда не работал в кино. Игра учит планированию и творчеству, предлагая интересные задачи каждый день. Это отличный способ потренировать мышление или просто посмеяться над нелепыми ситуациями в жизни режиссера.",
+      "seo_title": "Cinema Manager Simulator PS5 аренда игры",
+      "seo_descr": "Аренда Cinema Manager Simulator PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T09:24:02Z"
+    },
+    {
+      "id": "cats-with-guns",
+      "slug": "cats-with-guns",
+      "sku": "rent-cats-with-guns",
+      "title": "Cats with Guns PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "Leonardo Prado Cosenza trading as Synnergy Circle Games",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0903/efc9f7e7377042475fb24f5c7e03329085c71b938b79ba82.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0903/a2b8a671471434dc721f7c46112f75f01634a254bdf3f84d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0903/3a781b8be63479ef2223a9faa5ec8d812dad835a891990e0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0903/39e3138271339fbe1bf82954c6cd880a218a51ddfd4beb24.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021332",
+      "description": "Представьте, что в обычной квартире вдруг начинают появляться пулемёты и автоматы, а кота не пугает никто из жильцов. Это именно тот случай, когда правила игры полностью меняются. В «Cats with Guns» вы играете за одного из хозяев дома или даже самого кота, который решил поправить порядок в этом безумном месте.\n\nДействия котов наглядно показывают, насколько они могут быть опасными: кто-то стреляет пулемётом «Танкофф», другой запускает ракеты, а третий просто не может отступить перед вашим огнём. Игра - это динамичный шутер с видом сверху, где нужно быстро принимать решения и использовать возможности каждого персонажа в своей ситуации.\n\nОсобое внимание стоит уделить котику-танкисту: он управляет огромным пулемётом изнутри боевой машины и может полностью изменить ход боя своими мощными выстрелами. Это добавляет игре уникального фактора, которого нет ни в одном другом шутере про кошек.",
+      "seo_title": "Cats with Guns PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Cats with Guns PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T09:24:02Z"
     },
     {
       "id": "barbie-rewind",
