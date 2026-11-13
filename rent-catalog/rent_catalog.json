@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-13T15:21:30Z",
-  "generated_at": "2026-11-13T15:24:33Z",
-  "count": 11461,
+  "catalog_id": "2026-11-13T20:56:46Z",
+  "generated_at": "2026-11-13T21:05:14Z",
+  "count": 11464,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3067,6 +3067,211 @@
       "catalog_added_at": "2026-10-20T13:23:23Z"
     },
     {
+      "id": "sweet-sugar-candy",
+      "slug": "sweet-sugar-candy",
+      "sku": "rent-sweet-sugar-candy",
+      "title": "Sweet Sugar Candy PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Казуальная",
+      "categories": [],
+      "publisher": "Benoit Varasse trading as Pix Arts",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 2.0,
+      "release_date": "13.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0404/2365409b1ca93f8e2d1c46ae7e157ba7fafb1dcc34faafd1.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0404/f8c89f5fc7180d4b63efdd8001721133635fc571e5f10b88.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0404/1b4333b604f9a9cf65fe3c7f023573d567963d46058921e0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0404/696814c521060d1305aad06b44cd6a56b4da13cebcf8faae.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0404/1e67d2a4f2dca74ed8bab137e4f7c44d0c2000b1b874ca8f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0404/d7097cc21dbf995403d38fde21a7f57bac02e67f65cb0653.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0404/b85994de08e554a58353e3c3cad7048b92fb03697fcb5d81.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0404/7813c7bca66a0ebf9ac8e7389f795a896f2e4b9ee8fe51c2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0404/0d53db2b4e3a4268817ea5729a84df92526fe18d66da1c20.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10007678",
+      "description": "Просто сладкая игра про кондитера, которая делает жизнь вкуснее. Ты берёшь под свой контроль огромный кондитерский магазин и превращаешь его в настоящий рай для сладкоежек. Каждый новый день приносит новые рецепты и ингредиенты, чтобы создавать настоящие шедевры из конфет, пирожных и десертов.\n\nУправляй процессом: от приготовления теста до декора готовых работ. В игре есть целая галерея уровней, где тебе нужно будет выполнить самые разные заказы и при этом не опоздать ни на один фуршет.\n\nПриятно смотреть, как всё получается красиво и сладко.",
+      "seo_title": "Sweet Sugar Candy PS5 аренда игры",
+      "seo_descr": "Аренда Sweet Sugar Candy PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T20:55:50Z"
+    },
+    {
+      "id": "leaf-blower-co",
+      "slug": "leaf-blower-co",
+      "sku": "rent-leaf-blower-co",
+      "title": "Leaf Blower Co. PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Симулятор",
+      "categories": [],
+      "publisher": "Forklift Interactive Inc.",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "13.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2709/e60ac5738b94ba08addcd577a3fa0e6cba27ed0aadc5e34a.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2910/0b8c42e747312cab478817a5cd60980e27270b0ba4b30caa.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2910/b11f34f220d9a14b26c88f74a142741ed7113a16a6cbe8ba.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2910/e741e40b2f155d6ec24f41d467503fc05b4ff9cd29423e8a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2910/8a0f6c5a7a9ade57dc6bd1f114a88b542ce66d025100f8dd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2910/8350917bd02f50b7350267bbd3f74b8545eb6875d74dcff5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2910/d17994792801be9c63ad89a08fbab2adfa1c571685756b2a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2910/7ecdf63109f9360e6f9dde070d66f97b0bf539db007933b9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2910/87703a9abadff8c66233811e428a363f54977d25975b233f.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019136",
+      "description": "Leaf Blower Co. - это тот редкий случай, когда игра заставляет тебя не просто играть, а работать на износ. Ты берешь шланг в руки и сразу же понимаешь: это не про расслабление, а про бесконечный спринт за чистотой.\n\nВиды мусора здесь невероятно разнообразны - от обычной листвы до густых снежных заносов. Сложность растет экспоненциально с каждым уровнем, превращая уборку в настоящую рогалик-испытание.\n\nГлавная фишка механики в том, что ты не видишь мусор за укрытиями и деревьями. Чтобы пройти препятствие, нужно сначала прогнать листву со всех сторон. Если игрок слишком расслабится, то уйдет под землю - это всегда очень весело смотреть.",
+      "seo_title": "Leaf Blower Co. PS5 аренда игры",
+      "seo_descr": "Аренда Leaf Blower Co. PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T20:55:21Z"
+    },
+    {
+      "id": "derelikt",
+      "slug": "derelikt",
+      "sku": "rent-derelikt",
+      "title": "DERELIKT PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "Hyperstrange Sp. z o.o.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "13.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2513/524f2f54e7cac8df88bd0eb183a66fada89e633e58e9b13e.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2513/037afb7f64638f30558f37b0f509e8b98d0b4a73f898beca.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0414/e4262b3595b1d6340a333d6816bbce626f827354c8850498.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2513/309389835097d7025e2dd15c6814e082638027a37281b5cb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0414/b46e273437530ee3a8083586b89f161dbac4c01be67c8144.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2513/264005dc8ffdb2cee937d3b8ed6751dd828cd62e25e155fe.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/2513/312780dfd24b58d4b2d97b90cabd1ba8ffbb70039bdc2429.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020388",
+      "description": "DERELIKT - это мрачная постапокалиптическая RPG с открытым миром, где вы играете за детектива, ищущего пропавшую девушку в городе, который превратился в руины. Здесь нет классических боссов или сюжетных квестов, зато есть сотни часов на исследование, охоту и сбор редких ресурсов.\n\nИгра построена на процедурной генерации: каждый новый рейд - это уже история. Вы будете сталкиваться с варварами-мутантами, исследовать заброшенные руины и переживать настоящие приключения в мире, который постоянно меняется под ногами.",
+      "seo_title": "DERELIKT PS5 аренда игры",
+      "seo_descr": "Аренда DERELIKT PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T20:54:38Z"
+    },
+    {
       "id": "bombanana",
       "slug": "bombanana",
       "sku": "rent-bombanana",
@@ -5189,7 +5394,7 @@
           "56": 1940
         },
         "p3": {
-          "1": 899,
+          "1": 497,
           "7": 1092,
           "14": 1292,
           "21": 1728,
@@ -5206,14 +5411,14 @@
         "56": 1940
       },
       "prices_p3": {
-        "1": 899,
+        "1": 497,
         "7": 1092,
         "14": 1292,
         "21": 1728,
         "28": 1933,
         "56": 3479
       },
-      "price_min": 697,
+      "price_min": 497,
       "lang_label": "На русском языке! (субтитры)",
       "genre": "Семейная",
       "categories": [],
@@ -5240,7 +5445,7 @@
       "seo_title": "Shrek 2 Remastered PS5 аренда игры",
       "seo_descr": "Аренда Shrek 2 Remastered PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-10-21T07:48:57Z"
+      "catalog_added_at": "2026-11-13T16:45:56Z"
     },
     {
       "id": "raccoin-chaos-max-edition",
