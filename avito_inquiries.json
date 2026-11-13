@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-13T11:19:53+03:00",
-  "updated_at_msk": "13.11.2026 11:19",
+  "updated_at": "2026-11-13T12:20:02+03:00",
+  "updated_at_msk": "13.11.2026 12:20",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2628,
+  "total": 2629,
   "unique_games": 951,
   "in_demand": 167,
   "one_off": 636,
@@ -351,7 +351,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru",
-      "count": 103,
+      "count": 104,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -545,7 +545,7 @@
         99,
         100,
         103,
-        103
+        104
       ],
       "hourly": [
         0,
@@ -713,7 +713,7 @@
         2,
         1,
         3,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -884,7 +884,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-11-12T19:53:05+03:00"
+      "last_at": "2026-11-13T11:18:07+03:00"
     },
     {
       "id": "ea-sports-fctm-27-ps4-ps5",
@@ -497062,6 +497062,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-13T11:18:07+03:00"
+    },
+    {
       "title": "Grand Theft Auto V (PlayStation5) PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -497294,12 +497300,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-12T09:27:00+03:00"
-    },
-    {
-      "title": "Titanic Survival Simulator PS4",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-12T06:22:51+03:00"
     }
   ]
 }
