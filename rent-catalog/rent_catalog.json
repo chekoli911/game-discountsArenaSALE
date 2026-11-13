@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-13T20:56:46Z",
-  "generated_at": "2026-11-13T21:05:14Z",
-  "count": 11464,
+  "catalog_id": "2026-11-13T22:30:50Z",
+  "generated_at": "2026-11-13T22:39:07Z",
+  "count": 11465,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3133,7 +3133,74 @@
       "seo_title": "Sweet Sugar Candy PS5 аренда игры",
       "seo_descr": "Аренда Sweet Sugar Candy PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-13T20:55:50Z"
+      "catalog_added_at": "2026-11-13T21:24:19Z"
+    },
+    {
+      "id": "mothergunship-forge",
+      "slug": "mothergunship-forge",
+      "sku": "rent-mothergunship-forge",
+      "title": "MOTHERGUNSHIP: FORGE PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "Impact Reality, INC.",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.63,
+      "release_date": "13.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0206/4e495e5a71605450513dae86fa5484ed8e72c120c50b6b0d.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0616/e62c091a6d349cc0434fd7884551827bd38aebbf60ce2f30.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0616/5f9267f30d4093678f48ded62d8cd31646698c361ec7b423.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1316/282a868ca0c313cb15f389cf87151d422eeae9c28884b623.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1316/82bc1b5f5b685b015d7df60a172e260f986d577f5843a7e0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1316/ce70aac806ed2835f76250521c32f89d6a2ec9d362af6d3f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1316/61d2a5a274ba38bdde93e7fc15a74afa07c80730c758d9c6.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020379",
+      "description": "Семейство Mother уже вернулось в космос, но теперь это совсем не та вселенная, с которой мы все привыкли знакомиться! В «Mothergunship» вы управляете огромным кораблем-бункером и собираете команду из самых разных персонажей, чтобы отправляться в опасные миссии.\n\nВозможно, вам придется спасать последнего короля из призрачного мира или искать пропавших друзей в туманной вселенной. Здесь есть классические механики серии, но поданным совершенно иначе и гораздо более динамично.\n\nКстати, если вы еще не видели «Mother 3», то играем мы за вас - это именно тот самый мексиканский приключения с секретами и друзьями, которые обязательно стоит попробовать.",
+      "seo_title": "MOTHERGUNSHIP: FORGE PS5 аренда игры",
+      "seo_descr": "Аренда MOTHERGUNSHIP: FORGE PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T22:30:23Z"
     },
     {
       "id": "leaf-blower-co",
@@ -3202,7 +3269,7 @@
       "seo_title": "Leaf Blower Co. PS5 аренда игры",
       "seo_descr": "Аренда Leaf Blower Co. PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-13T20:55:21Z"
+      "catalog_added_at": "2026-11-13T21:24:19Z"
     },
     {
       "id": "derelikt",
@@ -3269,7 +3336,7 @@
       "seo_title": "DERELIKT PS5 аренда игры",
       "seo_descr": "Аренда DERELIKT PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-13T20:54:38Z"
+      "catalog_added_at": "2026-11-13T21:24:19Z"
     },
     {
       "id": "bombanana",
