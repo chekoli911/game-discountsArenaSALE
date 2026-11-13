@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-13T01:31:02Z",
-  "generated_at": "2026-11-13T01:35:43Z",
-  "count": 11450,
+  "catalog_id": "2026-11-13T02:46:04Z",
+  "generated_at": "2026-11-13T02:54:17Z",
+  "count": 11453,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3067,6 +3067,75 @@
       "catalog_added_at": "2026-10-20T13:23:23Z"
     },
     {
+      "id": "supermarket-simulator",
+      "slug": "supermarket-simulator",
+      "sku": "rent-supermarket-simulator",
+      "title": "Supermarket Simulator PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Simulator, Симулятор, Казуальная",
+      "categories": [],
+      "publisher": "Gamedev Oyun Yazilim ve Danismanlik Anonim Sirketi",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 4.83,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2011/256757f5e72cdc4c455c50b49950fd92655be3d07856909e.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202511/2811/964e3eabb76974a6b1eceb0a205aa9dd8a695e56e8418864.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202511/2811/b1265843018d35f91d0e5a2cb45a624c55d6c8bb6db7e829.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202511/2811/a2cbaab4775cc8b85c4cc6a5da77c92a5dda2509bd6d4fb2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202511/2811/43fc1b956edd3826f7f3ef25569b6f69bd2ff14cc528d876.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202511/2811/e8a4534ade10fb746d0a1119fd1ed9769f0dc1105526f369.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202511/2811/c18a871ef8caf90881a5fed65a1b1c3c6e95072e419b692b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202511/2811/9fef217037088e904b4006c4bad61033ede9f129085fd0d2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202511/2811/b0f99a2b7f5fc9d227df4fb2697aad2be266579778bf650f.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10017849",
+      "description": "Ты встал рано утром или просто сбежал с работы? Иди на кухню и готовься к самому пеклу - но зато с приятным звуком прихлопа!\n\nСюда ты не просто работаешь, а управляешь целым заведением. Отвечай за цены, выбирай поставщиков и решай, какие продукты будут в наличии. Забавно смотреть, как твои коллеги бьются над кассой или жалуются на складской персонал.\n\nА самое главное - это не просто суета. Ты сможешь открыть свои собственные магазины, расширить ассортимент и построить своё дело с нуля.",
+      "seo_title": "Supermarket Simulator PS5 аренда игры",
+      "seo_descr": "Аренда Supermarket Simulator PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T02:45:47Z"
+    },
+    {
       "id": "supermarket-tidy-up",
       "slug": "supermarket-tidy-up",
       "sku": "rent-supermarket-tidy-up",
@@ -3204,6 +3273,141 @@
       "catalog_added_at": "2026-11-12T09:28:36Z"
     },
     {
+      "id": "qutas67-qubic-ultimate-tap-adventure-simulator-2",
+      "slug": "qutas67-qubic-ultimate-tap-adventure-simulator-2",
+      "sku": "rent-qutas67-qubic-ultimate-tap-adventure-simulator-2",
+      "title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067 PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Симулятор, Казуальная, Аркада",
+      "categories": [],
+      "publisher": "QUBICGAMES SP. Z O.O.",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.69,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2613/2d6248f6b3fdc992b7517596802a53e58d88a9e30206370e.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1218/38eb5c8cdcdafb904c74a8ee5748edbb08ecbeb799eccb1a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1218/6562e1f38329261f21b28b1dd4f09ee5eea79589bfb6c9c0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1218/94669b96be21d6adb5f02e91c8c3a70701d7e7ee4d69dcb5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1218/79de78f8c70d17e5f506a14eaa5270c9a43176e0332cb17c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1218/7f4928cf7a39489a6852216311e60156c35ab09e92067a6e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1218/043f5ed379883b05d3ffc8dfdabb42c075705ceebb64d62d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1218/6531e1dde079dd7fcf3d9be90e3b7e18410256ad526d0355.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1218/35d80435e001cc69c665609a123845a803143f149aec4bbc.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020649",
+      "description": "Вас ждет QUBIC Ultimate Tap Adventure Simulator 2067 - это не просто игра, а полное погружение в будущее, где каждый тик создает новые миры. В этой вселенной технологии и магия переплелись так плотно, что вы сами можете стать соавтором истории.\n\nПогрузитесь в атмосферу 2067 года, где виртуальная реальность стирает границы между игрой и жизнью. Вы управляете не просто персонажем, а целым сообществом, влияя на развитие технологического прогресса прямо своими действиями.\n\nПодготовьтесь к невероятным приключениям: от управления цифровыми архипелагами до решения глобальных кризисов с помощью инноваций. Это идеальный выбор для тех, кто хочет почувствовать себя настоящим героем будущего.",
+      "seo_title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067 PS5 аренда игры",
+      "seo_descr": "Аренда QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067 PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T02:45:23Z"
+    },
+    {
+      "id": "nefiriya-and-the-sands-of-eternity",
+      "slug": "nefiriya-and-the-sands-of-eternity",
+      "sku": "rent-nefiriya-and-the-sands-of-eternity",
+      "title": "Nefiriya and the Sands of Eternity PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "Leonardo Prado Cosenza trading as Synnergy Circle Games",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0520/8bc585128398cb5b21134264bb463aa14ce844e6b69bce36.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0520/0b7ee39566bc1775bdfad0efefb9a118a4e41d63f7015703.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0520/0459c86057bf9183ae8bc2c2191fba12ea439d6f558e3a30.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0520/ef37f5149f0d08fafbc9bab280ebc56130ca7e77b9089cbf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0520/0a05388fc90f8eb524801c9a8b0dca384ccb86a5eeeafd45.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0520/3e0d7a9d3591311dca3665f8d325339cf761819ecb3c6a1d.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021397",
+      "description": "Nefiriya and the Sands of Eternity PS4/PS5 - это не просто игра, а полноценная энциклопедия древних цивилизаций на экране. Создатели ушли от скучных пошаговок и превратили тактику в увлекательный ролевой RPG с глубоким сюжетом, где каждый выбор влияет на судьбу мира.\n\nВ центре истории - Нифирия, одна из последних живых представительниц древнего народа, которой предстоит собрать разрозненные частицы вечности. Героиня путешествует по разрушенным землям, восстанавливая руины и собирая артефакты, чтобы предотвратить конец света.\n\nКрасивая графика, захватывающий мир и умный геймплей сделают этот проект уникальным долгоиграющим проектом для всех фанатов исторических стратегий.",
+      "seo_title": "Nefiriya and the Sands of Eternity PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Nefiriya and the Sands of Eternity PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T02:45:04Z"
+    },
+    {
       "id": "hazard-levels",
       "slug": "hazard-levels",
       "sku": "rent-hazard-levels",
@@ -3336,6 +3540,75 @@
       "seo_descr": "Аренда Fakin It XL PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-12T15:24:00Z"
+    },
+    {
+      "id": "draw-it-human",
+      "slug": "draw-it-human",
+      "sku": "rent-draw-it-human",
+      "title": "Draw It, Human! PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Казуальная",
+      "categories": [],
+      "publisher": "Valdir de Freitas Vicente trading as MVCAO Studios",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "12.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1003/b123e18fc214be85a6db791e4d562a04ce58d134c50a81fa.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0202/4e12d0f6dabfc2f8b4a9b29796fbedc92f1abe0794f4678d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0202/8068795b5c98856c342fa6a5623499a316a8c1dd6a00c1fc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0202/1dac6a074accc4c13ec20135c60e4499df63ee63c7d178c6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0202/d7f698d8a9a9b5146b02279d6a02897202478aea3c6f27f9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0202/e8908a136fc55592231e1bc36025d2960b4a0c3ac6a98275.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0202/d0fa2f8b30a5e6c4ace81310b1d36ff098a59ec07d35dd64.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0202/175d9fc1c9664906b5a5d766ff539f09121b41407e6a1617.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0202/db0f9f6eef948d4ed8ecc24122423934463aa60d92d0a79c.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021173",
+      "description": "Слушай, выдохни и расслабься. Игра «Draw It, Human!» на PlayStation 5 создана специально для этого - чтобы дать мозгам передохнуть от суеты.\n\nЭто игра о том, как в процессе рисования незнакомцы вдруг превращаются в настоящих друзей. Вы создаете искусство вместе с людьми из разных уголков мира прямо в реальном времени.\n\nГлавная фишка здесь - это живые люди и их непредсказуемые идеи за столом. Это может быть что угодно: от скучных уроков истории до веселых экспериментов, где даже самый странный рисунок обретает удивительный смысл.",
+      "seo_title": "Draw It, Human! PS5 аренда игры",
+      "seo_descr": "Аренда Draw It, Human! PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-13T02:44:42Z"
     },
     {
       "id": "deadly-stakes",
@@ -769742,79 +770015,6 @@
       "description": "Call of Duty: Modern Warfare 2019 - война на корейском полуострове, где северная Корея делает шаг вперёд.  \n\nПрайс сражается из тени - не как герой в центре, а как человек в середине бури.  \n\nСначала - окопы в Корее, потом - ближний бой в Нью-Йорке. Война выходит из-под контроля.  \n\nГотовы к бою? Держи игру. 🎮",
       "seo_title": "Call of Duty: Modern Warfare 2019 PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty: Modern Warfare 2019 PS4/PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2020-01-01T00:00:00Z",
-      "from_vserent_cod": true
-    },
-    {
-      "id": "call-of-duty-black-ops-6",
-      "slug": "call-of-duty-black-ops-6",
-      "sku": "rent-call-of-duty-black-ops-6",
-      "title": "Call of Duty: Black Ops 6 PS4/PS5",
-      "platform": "PS4 и PS5",
-      "prices": {
-        "p2": {
-          "1": 399,
-          "7": 499,
-          "14": 699,
-          "21": 899,
-          "28": 1099,
-          "56": 1978
-        },
-        "p3": {
-          "1": 559,
-          "7": 699,
-          "14": 899,
-          "21": 1099,
-          "28": 1299,
-          "56": 2338
-        }
-      },
-      "prices_p2": {
-        "1": 399,
-        "7": 499,
-        "14": 699,
-        "21": 899,
-        "28": 1099,
-        "56": 1978
-      },
-      "prices_p3": {
-        "1": 559,
-        "7": 699,
-        "14": 899,
-        "21": 1099,
-        "28": 1299,
-        "56": 2338
-      },
-      "price_min": 399,
-      "lang_label": "На языке оригинала",
-      "genre": "Шутер",
-      "categories": [
-        "Call of Duty"
-      ],
-      "publisher": "Activision",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "https://static.tildacdn.com/stor6565-6238-4935-a366-653739343863/34144736.png",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3264-3633-4633-b165-613261386161/38234947.jpg",
-        "https://static.tildacdn.com/stor3337-3966-4132-a462-636530363865/54042652.jpg",
-        "https://static.tildacdn.com/stor3334-3639-4838-b264-383035366365/43412895.jpg",
-        "https://static.tildacdn.com/stor6339-6166-4533-b332-633537613065/95800850.jpg",
-        "https://static.tildacdn.com/stor6165-6138-4565-a336-383562376461/31548567.jpg",
-        "https://static.tildacdn.com/stor6363-3263-4130-a533-623938323839/91073599.jpg",
-        "https://static.tildacdn.com/stor6636-6338-4335-b661-383966356333/38208051.jpg",
-        "https://static.tildacdn.com/stor3664-6564-4162-b337-623130353338/50313882.jpg",
-        "https://static.tildacdn.com/stor6436-3765-4233-b665-613639373136/78693931.jpg"
-      ],
-      "store_url": "",
-      "description": "Корейская война вновь поднимается на первый план - Северная Корея атакует, а Прайс остаётся в тени, борясь за выживание.  \n\nСюжет резко меняется: от боёв на фронте до жутких событий в Нью-Йорке - всё становится мрачнее и эмоциональнее.  \n\nВы увидите не просто сражения - это глубокие переломы, где личные истории переплетаются с масштабными конфликтами.  \n\nСамый жёсткий, но настоящий взгляд на войну - в Call of Duty: Modern Warfare 4. 🎮💥",
-      "seo_title": "Call of Duty: Black Ops 6 PS4/PS5 аренда игры",
-      "seo_descr": "Аренда Call of Duty: Black Ops 6 PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2020-01-01T00:00:00Z",
       "from_vserent_cod": true
