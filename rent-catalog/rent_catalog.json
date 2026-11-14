@@ -1,163 +1,9 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-14T21:28:56Z",
-  "generated_at": "2026-11-14T21:40:06Z",
+  "catalog_id": "2026-11-14T22:33:44Z",
+  "generated_at": "2026-11-14T22:42:06Z",
   "count": 11466,
   "items": [
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/04c76fb93ac12cca381c9ae3b01ced760fcb9ffbd00bb296.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b3c84f0fb852eb9c6f42b2403f03682ae2e8aeb286445266.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a527b3d5d7613984e14facb01cb1193aa750a7969a5861c8.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/40e2c2955261bb6142f786b75b3182868f70e35de3413122.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/6ea734e2626b8279370536b3b5faecd5243d3022f080a76a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/f252d9477be2e9b7e291da18fee79afe6d31954e80e11f8e.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром, который еще только предстоит открыть для себя.\n\nОжидается, что это будет самая масштабная часть франшизы по всем параметрам: от графики до объема действий. Готовьтесь к тому, что привычные правила будут пересмотрены, а интриги разворачиваться будут на новом уровне.",
-      "seo_title": "Grand Theft Auto VI на PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. «Предзаказ - Требует немедленной оплаты» Подробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного… Быстрый доступ после оплаты.",
-      "external_id": "9YfsfwvId2PK_a33Fic6",
-      "catalog_added_at": "2026-11-14T21:05:16Z"
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/efe905decdf3fee4483364656968be5a3de687e5c29dd03a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/9106bb2a9b8835b8f617c892edbbe46312cb2e0e3d16b480.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/5e641d4c505e5a7ebc604b58b5fc7c052571ef419a328637.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1f2d0373af9f1b6bace15d7d8462ee7843b3d42452e97d37.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/5d18cf5f59260666abe5029f450ba2b5a61d996b0503e1fc.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/5de51b1e1cc3d3ea85e7bd8eba993be5c0c267316ca18147.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Наконец-то мы дошли до главного события в истории видеоигр. Grand Theft Auto VI уже здесь, и это совсем не та GTA, которую мы ждали годами. Это совершенно новый мир с новой историей, новым городом и новыми персонажами.\n\nТут всё меняется от самого начала: новые механики, новые способы взаимодействия со средой и атмосфера, которая сразу же погружает в этот бешеный гламурный Лас-Вегас. Удивительные открытия ждут вас на каждом углу.\n\nПолучите этот шедевр в своем исполнении Ultimate Edition прямо сейчас и станьте частью новой легенды.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition на PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI: Ultimate Edition на PS5. «Предзаказ - Требует немедленной оплаты» Подробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного… Быстрый доступ после оплаты.",
-      "external_id": "xS_qGG-rne_-FiACQehb",
-      "catalog_added_at": "2026-11-14T21:05:16Z"
-    },
     {
       "id": "final-fantasy-vii-revelation",
       "slug": "final-fantasy-vii-revelation",
@@ -3219,6 +3065,138 @@
       "seo_descr": "Аренда Ranger's Path: National Park Simulator PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-20T13:23:23Z"
+    },
+    {
+      "id": "reef-defense",
+      "slug": "reef-defense",
+      "sku": "rent-reef-defense",
+      "title": "Reef Defense PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Стратегия",
+      "categories": [],
+      "publisher": "Swift Creek Games LLC",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "14.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0521/89d5cc741a07279d11cc6929fc215d5120dd985b8aaab4c8.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0522/95e8d254333334cea1f0004d85c803ca47577921e23460ba.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0522/dd87fd03a088251dd01cc7411b3dd7e65081090ea9086daf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0522/0cc3b1b7e04224e2d610dd29f8d6857d941e5d29762e61d9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0522/7dabea332a4aa82b5cc5251fd448ab2306b0b985a0f0ae15.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10015617",
+      "description": "На PlayStation 5 в приличном состоянии. Игра получилась довольно затягивающей, не скучно и монотонность отключена.\n\nЗаниматься нужно будет именно с коралловыми рифами - тут есть что защищать и как защитить.",
+      "seo_title": "Reef Defense PS5 аренда игры",
+      "seo_descr": "Аренда Reef Defense PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-14T22:29:31Z"
+    },
+    {
+      "id": "cat-simulator",
+      "slug": "cat-simulator",
+      "sku": "rent-cat-simulator",
+      "title": "Cat Simulator PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Симулятор, Казуальная, Экшен",
+      "categories": [],
+      "publisher": "Q&A Sp. z o.o.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "14.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0516/460fa27e5787aaccd25ed6f8c12c622ac65b27c8916bf705.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1319/f9cb94d78a3b8816f6426a57358696d25d5fef071e5e9bf2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1319/d59ca79bf9890ba33ff9db41d4d42087c8a1bf1ab4a70bbf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1319/54fee8f31403a27e116121034d3065da901f0f7c95752043.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1319/9e4c88e16e45e7f174b8f0ba74db92c0e860fc3a08d3fc57.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1319/4fba2da116659317973f501e301228886cb5465b36fbf5f8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1319/bd4b11c98801421b8ac6c5ce4a740eb59628178f340d1d10.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021201",
+      "description": "Представь себе мир, где тебя окружают только пушистые котики. Cat Simulator на PlayStation 5 приглашает погрузиться в бесконечные приключения с самыми милыми существами, которых ты когда-либо встречал. Здесь нет сложной сюжетной линии или экшен - главное здесь это чистая, невинная радость от общения с котиками.\n\nИгрок может выбрать любого из множества персонажей, у каждого свои особенности и повадки. Ты сможешь кормить питомцев, играть с ними в игрушки, гулять по уютным интерьерам и просто наблюдать за их забавными поступками в реальном времени. Атмосфера игры создана так, чтобы ты мог полностью расслабиться и почувствовать себя настоящим хозяином большого кошачьего дома.\n\nЭто идеальная игра для тех, кто хочет отдохнуть от стресса и получить настоящее душевное удовольствие. Просто включи консоль, выбери своего кота и устрой им самое счастливое времяпрепровождение в истории.",
+      "seo_title": "Cat Simulator PS5 аренда игры",
+      "seo_descr": "Аренда Cat Simulator PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-14T22:29:04Z"
     },
     {
       "id": "sweet-sugar-candy",
