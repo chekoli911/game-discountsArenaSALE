@@ -1,8 +1,8 @@
 {
   "version": 1,
   "catalog_id": "2026-11-14T00:25:09Z",
-  "generated_at": "2026-11-14T00:27:39Z",
-  "count": 11466,
+  "generated_at": "2026-11-14T00:28:09Z",
+  "count": 11465,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -2996,83 +2996,6 @@
       "seo_descr": "Аренда Winx Club - Moonlight Quest PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-07T00:54:52Z"
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3898,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3899,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3898,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3899,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3898,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/efe905decdf3fee4483364656968be5a3de687e5c29dd03a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/9106bb2a9b8835b8f617c892edbbe46312cb2e0e3d16b480.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/5e641d4c505e5a7ebc604b58b5fc7c052571ef419a328637.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1f2d0373af9f1b6bace15d7d8462ee7843b3d42452e97d37.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/5d18cf5f59260666abe5029f450ba2b5a61d996b0503e1fc.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/5de51b1e1cc3d3ea85e7bd8eba993be5c0c267316ca18147.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Grand Theft Auto VI: Ultimate Edition уже ждет тебя на PS5! Это не просто новая игра - это целая история о двух братьях, которые всегда жили по чужим правилам. Когда их попытка заработать легкие деньги пошла совсем не по плану, они оказываются посреди криминального заговора во всем штате Леонида.\n\nИстория рассказывает о том, как Джейсон и Лусия попадают в самый горячий район Америки - туда, где солнце светит ярче, чем в любом другом месте на Земле. Но выжить здесь и выбраться из этой криминальной переплетенности могут только вместе.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition на PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI: Ultimate Edition на PS5. «Предзаказ - Требует немедленной оплаты» Подробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного… Быстрый доступ после оплаты.",
-      "external_id": "xS_qGG-rne_-FiACQehb",
-      "catalog_added_at": "2026-11-14T00:27:22Z"
     },
     {
       "id": "ranger-s-path-national-park-simulator",
@@ -30020,7 +29943,7 @@
         "56": 3479
       },
       "price_min": 591,
-      "lang_label": "",
+      "lang_label": "На русском языке!",
       "genre": "Экшен",
       "categories": [],
       "publisher": "Capcom U.S.A., Inc.",
@@ -30089,7 +30012,7 @@
         "56": 3479
       },
       "price_min": 591,
-      "lang_label": "",
+      "lang_label": "На русском языке!",
       "genre": "Экшен",
       "categories": [],
       "publisher": "Capcom U.S.A., Inc.",
@@ -33930,7 +33853,7 @@
       "slug": "ea-sports-fc-27",
       "sku": "rent-ea-sports-fc-27",
       "title": "EA SPORTS FC 27 PS5",
-      "platform": "PS5",
+      "platform": "PS4 и PS5",
       "prices": {
         "p2": {
           "1": 591,
@@ -33972,13 +33895,13 @@
       "publisher": "EA Swiss Sarl",
       "voice": "Английский",
       "text_translation": "Русский, Английский",
-      "rating": 4.03,
+      "rating": 4.55,
       "release_date": "17.09.2026",
       "is_preorder": false,
       "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2321/c7c534e1e9b24ccf7ff11c429948f31494ccce402b452647.png",
       "screenshots": [],
-      "store_url": "https://store.playstation.com/en-tr/product/UP0006-PPSA34015_00-27STANDARDBUNDLE",
+      "store_url": "https://store.playstation.com/en-tr/concept/10017332",
       "description": "EA SPORTS FC 27 - настоящий кумир для любителей футбола.  \n\nВсё начинается с The Grounds - уличной площадки, где проходят игры 1 на 1 и объединяются в Клубы. Там ты встречаешься с реальными тренерами, улучшаешь навыки и показываешь себя не только на поле, но и за его пределами.  \n\nИгра дышит реалистичностью: динамичные угловые, интеллектуальная атака, защита «под игроков» - всё это делает матч ещё живее и настоящим. А в Карьере тренера теперь можно делать трансферы по реальным ценам, с активными предложениями от клубов.  \n\nВ Football Ultimate Team™ - новая галерея, где ты собираешь любимых игроков, повышаешь уровень и создаёшь уникальный клуб. Всё это работает на PS5 - включая The Grounds.",
       "seo_title": "EA SPORTS FC 27 PS5 аренда игры",
       "seo_descr": "Аренда EA SPORTS FC 27 PS5 на PlayStation.",
@@ -34866,75 +34789,6 @@
       "seo_descr": "Аренда Princess of the Water Lilies PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-09-16T04:15:49Z"
-    },
-    {
-      "id": "patlabor-the-case-files",
-      "slug": "patlabor-the-case-files",
-      "sku": "rent-patlabor-the-case-files",
-      "title": "PATLABOR the Case Files PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "Английский",
-      "genre": "Экшен",
-      "categories": [],
-      "publisher": "Good Smile Company, Inc.",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "rating": 3.1,
-      "release_date": "16.09.2026",
-      "is_preorder": false,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0106/2ad0f34f230589fd92adcc720a9eacf4bd005bcf0a00ba4d.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/3064d5e155fa4d0408ee0ca291fed00414f2f43d3e0ee816.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/74d4ef2c5a26a34c6ff6b1e380bb2bedd1a1a9d47789f38f.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/c364da8c1044a692c5cd5b6b7370ba848ad66bafbad0e680.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/fe95a1278028ff4d8354120821de19b43cc663f647d8ff0b.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/8e039b876141bd63a07bc66f1b83fb311275f2b93de7e2f4.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/11afeb507fd89e8828f83db70e7f8ee1bcda2eb2dba5cc90.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/fd627ee0189fe9aff617596c35e98fae931fb6a9cf31f279.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/0d75fa32a481e3c584af2538299b371cb80db533a1652b06.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/JB1261-PPSA37629_00-PATLABOR00000001",
-      "description": "Погрузись в атмосферу PATLABOR - трёхмерный экшен с полной озвучкой и культовыми сценами из сериала.  \n\nУправляй классическими роботами: Ingram, Griffon, Type Zero - и другими Labor, которые стали символом промышленного будущего.  \n\nСыграй как члены Special Vehicles Section 2 или против них в главных миссиях и сюжетных сторонах. В «Simulator Mode» - более 20 разных роботов для тренировок и боёв.  \n\nИгра создана на основе оригинального сюжета, написанного Кэндзи Каваи. Механический дизайн - Yutaka Izubuchi, сценарий - Kazunori Ito, иллюстрации - Akemi Takada.",
-      "seo_title": "PATLABOR the Case Files PS5 аренда игры",
-      "seo_descr": "Аренда PATLABOR the Case Files PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
       "id": "panchito-delivery-project-elevator",
@@ -36352,7 +36206,7 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202609/1000/a62998669c21c8250ae861eb1b048297e192b4acd9cadc83.jpg",
         "https://image.api.playstation.com/vulcan/ap/rnd/202609/1000/1604dd48ca1a2c5592092bb5de969cd3d876827688708397.jpg"
       ],
-      "store_url": "https://store.playstation.com/en-tr/product/UP9000-PPSA03671_00-MARVELSWOLVERINE",
+      "store_url": "https://store.playstation.com/en-tr/concept/10002861",
       "description": "Росомаха в твоих руках - когти, регенерация, бой в стиле фильмов.  \n\nГонка за превосходством, динамичные бои и атмосфера, которая кажется из фильма.  \n\nИгра сделана с нуля для PS5 - использует все силы новой консоли.  \n\nТолько у нас - вживую на PS5. 🦅💥",
       "seo_title": "Marvel’s Wolverine PS5 аренда игры",
       "seo_descr": "Аренда Marvel’s Wolverine PS5 на PlayStation.",
@@ -36622,6 +36476,75 @@
       "seo_descr": "Аренда The Legend of Dark Witch Episode 2 -The Price of Desire PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-09-13T22:28:30Z"
+    },
+    {
+      "id": "patlabor-the-case-files",
+      "slug": "patlabor-the-case-files",
+      "sku": "rent-patlabor-the-case-files",
+      "title": "PATLABOR the Case Files PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "Good Smile Company, Inc.",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 3.91,
+      "release_date": "13.09.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0106/2ad0f34f230589fd92adcc720a9eacf4bd005bcf0a00ba4d.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/3064d5e155fa4d0408ee0ca291fed00414f2f43d3e0ee816.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/74d4ef2c5a26a34c6ff6b1e380bb2bedd1a1a9d47789f38f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/c364da8c1044a692c5cd5b6b7370ba848ad66bafbad0e680.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/fe95a1278028ff4d8354120821de19b43cc663f647d8ff0b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/8e039b876141bd63a07bc66f1b83fb311275f2b93de7e2f4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/11afeb507fd89e8828f83db70e7f8ee1bcda2eb2dba5cc90.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/fd627ee0189fe9aff617596c35e98fae931fb6a9cf31f279.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/0205/0d75fa32a481e3c584af2538299b371cb80db533a1652b06.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/JB1261-PPSA37629_00-0097699497812435",
+      "description": "Погрузись в атмосферу PATLABOR - трёхмерный экшен с полной озвучкой и культовыми сценами из сериала.  \n\nУправляй классическими роботами: Ingram, Griffon, Type Zero - и другими Labor, которые стали символом промышленного будущего.  \n\nСыграй как члены Special Vehicles Section 2 или против них в главных миссиях и сюжетных сторонах. В «Simulator Mode» - более 20 разных роботов для тренировок и боёв.  \n\nИгра создана на основе оригинального сюжета, написанного Кэндзи Каваи. Механический дизайн - Yutaka Izubuchi, сценарий - Kazunori Ito, иллюстрации - Akemi Takada.",
+      "seo_title": "PATLABOR the Case Files PS5 аренда игры",
+      "seo_descr": "Аренда PATLABOR the Case Files PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
       "id": "new-york-mysteries-5-power-of-art",
@@ -42516,7 +42439,7 @@
       "publisher": "EA Swiss Sarl",
       "voice": "Английский",
       "text_translation": "Английский",
-      "rating": 4.7,
+      "rating": 4.8,
       "release_date": "27.08.2026",
       "is_preorder": false,
       "is_new": true,
@@ -42531,7 +42454,7 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202608/2110/35629f5d4c4f4a11fabe2f339298a3f261181847997d6660.jpg",
         "https://image.api.playstation.com/vulcan/ap/rnd/202608/2110/a82f885ac8088563fd57a2b6bc29408c4e86ca0430de3e3a.jpg"
       ],
-      "store_url": "https://store.playstation.com/en-tr/product/UP0006-PPSA18054_00-BRUNOSTANDGAME00",
+      "store_url": "https://store.playstation.com/en-tr/concept/10009029",
       "description": "🚀 Вступайте в мир Звёздных Войн - как в фильме, но с реальной стратегией и выбором каждого шага.\n\nВ STAR WARS Zero Company вы командуете «Нулевой ротой» - бывшим офицером Республики Хоуксом, который теперь руководит элитными оперативниками в конце Клоновых войн.  \n\nВыбирайте своих бойцов: от астромехаников до джедаев, настраивайте их навыки и синергию - каждый из них становится настоящим частью команды.  \n\nИгра не просто про битвы - она о том, как каждое решение меняет ход истории. И всё это - в одной пошаговой тактической миссии с глубокой динамикой и персонализацией.",
       "seo_title": "STAR WARS Zero Company PS5 аренда игры",
       "seo_descr": "Аренда STAR WARS Zero Company PS5 на PlayStation.",
@@ -48898,6 +48821,72 @@
       "catalog_added_at": "2026-08-24T15:39:13Z"
     },
     {
+      "id": "ea-sportstm-madden-nfl-27",
+      "slug": "ea-sportstm-madden-nfl-27",
+      "sku": "rent-ea-sportstm-madden-nfl-27",
+      "title": "EA SPORTS Madden NFL 27 PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Спорт",
+      "categories": [],
+      "publisher": "EA Swiss Sarl",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 3.82,
+      "release_date": "13.08.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0319/ade29beabeee19397b478452ce70b913aeb69cec536366b3.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/d932fcdc971ab764786a75099f6f9dfd3b7e9a5df4fe2338.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/715def4f65219f3859c93db5d9862ea4b499ecabe1d5dab2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/2006ecabc8b538886049e1a36b6a73a88395593458276cf7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/eb7a00ba2f2ba604bb5ff0add67a9a6a3a5f44a1ddc559a7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/4b120f4672654bed861b37942fc8ec0b09f447f448936014.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/UP0006-PPSA32904_00-MADDENNFL27GAME0",
+      "description": "Madden NFL 27 - настоящий скачок в реалистичности.  \n\nКаждый игрок имеет свою личность: мотивацию, стиль игры, реакции. Не просто персонажи - живые люди, которые думают и реагируют как на самом деле.  \n\nРежим «Франшиза» теперь динамичен, развивается с каждым матчем. Управляйте командой, стройте планы впереди розыгрыша и делайте каждый квартал настоящей борьбой - с физикой рук, толчками, отрывами и прикрытием.  \n\nНовый путь карьеры G.O.A.T. - от старшей школы до Зала славы. Развивайтесь по-настоящему: новые навыки, позиции, решения - всё в твоём контроле.",
+      "seo_title": "EA SPORTS Madden NFL 27 PS5 аренда игры",
+      "seo_descr": "Аренда EA SPORTS Madden NFL 27 PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:39:13Z"
+    },
+    {
       "id": "duskfade",
       "slug": "duskfade",
       "sku": "rent-duskfade",
@@ -51418,72 +51407,6 @@
       "description": "Feudal Baron: King's Land - строите средневековый город с нуля. Начинаете с кучи последователей в палатках и быстро превращаете земли в шумный, живой крепостной центр.\n\nСтроите не только дома - таверны, школы, церкви, кладбища. Управляйте чумой, пожарами, восстаниями. Лечите, тушите, ведёте подданных на праздник или в бой.\n\nДобывайте ресурсы, торгуйтесь с соседями и соединяйте объекты - поля, шахты, рынки. Всё настраивается как одна система: от дров до боеприпасов для осадных машин.\n\nСвой мир - ваша мечта. Сюжетный путь барона, враги, праздники, битвы и свобода выбора - всё здесь. Учиться легко, но играть - реально трудно.",
       "seo_title": "Feudal Baron: King's Land PS5 аренда игры",
       "seo_descr": "Аренда Feudal Baron: King's Land PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:13Z"
-    },
-    {
-      "id": "ea-sportstm-madden-nfl-27",
-      "slug": "ea-sportstm-madden-nfl-27",
-      "sku": "rent-ea-sportstm-madden-nfl-27",
-      "title": "EA SPORTS Madden NFL 27 PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "Английский",
-      "genre": "Спорт",
-      "categories": [],
-      "publisher": "EA Swiss Sarl",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "rating": 3.69,
-      "release_date": "06.08.2026",
-      "is_preorder": false,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0319/ade29beabeee19397b478452ce70b913aeb69cec536366b3.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/d932fcdc971ab764786a75099f6f9dfd3b7e9a5df4fe2338.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/715def4f65219f3859c93db5d9862ea4b499ecabe1d5dab2.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/2006ecabc8b538886049e1a36b6a73a88395593458276cf7.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/eb7a00ba2f2ba604bb5ff0add67a9a6a3a5f44a1ddc559a7.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/4b120f4672654bed861b37942fc8ec0b09f447f448936014.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10016736",
-      "description": "Madden NFL 27 - настоящий скачок в реалистичности.  \n\nКаждый игрок имеет свою личность: мотивацию, стиль игры, реакции. Не просто персонажи - живые люди, которые думают и реагируют как на самом деле.  \n\nРежим «Франшиза» теперь динамичен, развивается с каждым матчем. Управляйте командой, стройте планы впереди розыгрыша и делайте каждый квартал настоящей борьбой - с физикой рук, толчками, отрывами и прикрытием.  \n\nНовый путь карьеры G.O.A.T. - от старшей школы до Зала славы. Развивайтесь по-настоящему: новые навыки, позиции, решения - всё в твоём контроле.",
-      "seo_title": "EA SPORTS Madden NFL 27 PS5 аренда игры",
-      "seo_descr": "Аренда EA SPORTS Madden NFL 27 PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:13Z"
     },
@@ -76863,7 +76786,7 @@
       "publisher": "Focus Entertainment",
       "voice": "Английский",
       "text_translation": "Русский, Английский",
-      "rating": 5.0,
+      "rating": 4.25,
       "release_date": "26.05.2026",
       "is_preorder": false,
       "is_new": true,
@@ -76878,7 +76801,7 @@
         "https://image.api.playstation.com/vulcan/ap/rnd/202604/1714/c4f9ebe68202f82cc661e8aac4502be2ad9cb45219c16d9d.jpg",
         "https://image.api.playstation.com/vulcan/ap/rnd/202604/1714/e58c1b4ab9ff20cf47dc213e5a4cf9b00e72bb99371805e0.jpg"
       ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10014483",
+      "store_url": "https://store.playstation.com/en-tr/product/EP4133-PPSA28981_00-YERBABUENAGAME00",
       "description": "Yerba Buena - платформер-головоломка, где мир подчиняется вашим правилам.  \n\nВы - Барб, молодая девушка в заброшенном Сан-Франциско 1970-х, где всё может быть нарушено и переписано.  \n\nКопируйте физические свойства предметов: делайте стол упругим, дом - летящим, стены - прозрачными. Управляйте миром с помощью «копирования и вставки».  \n\nРешайте безумные головоломки, выследите байкеров и разберитесь, откуда взялся глюк, который угрожает городу.",
       "seo_title": "Yerba Buena PS5 аренда игры",
       "seo_descr": "Аренда Yerba Buena PS5 на PlayStation.",
@@ -117594,6 +117517,72 @@
       "description": "Kingblade: Medieval TCG Card Shop - симулятор, где ваш магазин живёт на грани волшебства. 🏰✨  \n\nКарты не просто лежат - они кричат, бегают и ведут битвы. Звери, драконы, маги, рыцари - всё это ваша коллекция. ⚜️📜  \n\nПостройте магазин, нанимайте персонал, управляйте запасами и делайте его своим. Каждая карта - шаг к власти в королевстве. 🎩🔥",
       "seo_title": "Kingblade: Medieval TCG Card Shop PS5 аренда игры",
       "seo_descr": "Аренда Kingblade: Medieval TCG Card Shop PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:39:14Z"
+    },
+    {
+      "id": "paper-plane",
+      "slug": "paper-plane",
+      "sku": "rent-paper-plane",
+      "title": "Paper Plane PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Аркада",
+      "categories": [],
+      "publisher": "Xeneder Team",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.66,
+      "release_date": "21.02.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1613/ab7f8a5638ac1379818bc85a4b1e2274543f54c8a2d773c6.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1114/22b7c251ab66d4d47f90c90613d61e6e579e3d70b96e1599.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1114/69f9ffe6f8b140f77632c9701a9f32ebc004f7db3e814602.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1114/051f65853faa7eee4051e2dfdc66fa26d572e5b85e06f75b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1114/711512badd42b297096ecd5207c9c87d6dde66f147fc32ba.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1114/85503d530076b1a6e6d27a5934e5c5197ca994bddff6d93e.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018642",
+      "description": "Пилотируйте старинный аркадный шутер - в ручную рисовку, с плавным трепетом прошлых поколений.  \n\nСражайтесь с бесконечными волнами врагов, используя тараны и перегрев оружия - как в настоящей аркаде.  \n\nБонусы на каждом шагу: щиты, режим быстрого огня - всё для выживания.  \n\nИгра доступна как на PS4, так и на PS5. Если у вас уже есть версия на PS4 - получите её цифровую версию для PS5 бесплатно. Только вставляйте диск с PS4-версией в PS5, чтобы загрузить игру. Без дисковода на PS5 - версия для П5 доступна только за доплату.",
+      "seo_title": "Paper Plane PS5 аренда игры",
+      "seo_descr": "Аренда Paper Plane PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:14Z"
     },
@@ -212563,6 +212552,72 @@
       "catalog_added_at": "2026-08-24T15:39:15Z"
     },
     {
+      "id": "tony-hawk-s-pro-skater-3-4",
+      "slug": "tony-hawk-s-pro-skater-3-4",
+      "sku": "rent-tony-hawk-s-pro-skater-3-4",
+      "title": "Tony Hawk's Pro Skater 3 + 4 PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Спорт",
+      "categories": [],
+      "publisher": "Activision",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.02,
+      "release_date": "08.07.2025",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2100/90881f77d349bee47f6629b340a2b722925975e587c26bd4.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/0719/c3861e255eac3d08c0a13f977721995acfba0b6110fb1d4c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/0719/7777a2c387183527278044692918a00f72d46f94e0649ca0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/0719/6ce76692592a74154f221959188fd2d4c9db2a5ea77919b8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/0719/8118f739dbf81fdfce109a285ba1e4a09fa440f273cd9741.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202507/0719/cb3d6e4585e3014b3128f2110ed1e440eb279057ca728b3f.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10009018",
+      "description": "Тони Хокк - снова на твоём скейт-экране! 💥  \nTony Hawk's Pro Skater 3 + 4 возвращаются с новыми трюками, динамичной музыкой и настоящими скейтерами - как в старых моментах, так и с улучшенным видом в 4K.  \n\nТеперь можно кататься не только в одиночку - до 8 игроков могут одновременно прыгать по площадкам, бороться за лидерство или просто наслаждаться атмосферой.  \n\nСоздай свой собственный скейт-сценарий: выбирай своих персонажей и парки - и делитесь ими с друзьями в режиме Create-A-Skater и Create-A-Park.  \nА ещё - новые задачи, сложные челленджи и улучшенный New Game+ помогут тебе не просто кататься, а реально зажечь игру.  \n\nИграл ли ты раньше? Нет проблем - управление от Tony Hawk’s 1 + 2 делает даже новичков настоящими профи.  \nГотовы к скейту? Зовите друзей - потому что с годами скейтбординг только растёт. 🛞✨",
+      "seo_title": "Tony Hawk's Pro Skater 3 + 4 PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Tony Hawk's Pro Skater 3 + 4 PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:39:15Z"
+    },
+    {
       "id": "space-kabaam-neon-iii",
       "slug": "space-kabaam-neon-iii",
       "sku": "rent-space-kabaam-neon-iii",
@@ -240412,72 +240467,6 @@
       "catalog_added_at": "2026-08-24T15:39:15Z"
     },
     {
-      "id": "paper-plane",
-      "slug": "paper-plane",
-      "sku": "rent-paper-plane",
-      "title": "Paper Plane PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "Английский",
-      "genre": "Simulator, Казуальная",
-      "categories": [],
-      "publisher": "Two Llamas s.r.o.",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "rating": 3.0,
-      "release_date": "28.04.2025",
-      "is_preorder": false,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1613/ab7f8a5638ac1379818bc85a4b1e2274543f54c8a2d773c6.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1114/22b7c251ab66d4d47f90c90613d61e6e579e3d70b96e1599.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1114/69f9ffe6f8b140f77632c9701a9f32ebc004f7db3e814602.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1114/051f65853faa7eee4051e2dfdc66fa26d572e5b85e06f75b.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1114/711512badd42b297096ecd5207c9c87d6dde66f147fc32ba.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1114/85503d530076b1a6e6d27a5934e5c5197ca994bddff6d93e.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10014873",
-      "description": "Пилотируйте старинный аркадный шутер - в ручную рисовку, с плавным трепетом прошлых поколений.  \n\nСражайтесь с бесконечными волнами врагов, используя тараны и перегрев оружия - как в настоящей аркаде.  \n\nБонусы на каждом шагу: щиты, режим быстрого огня - всё для выживания.  \n\nИгра доступна как на PS4, так и на PS5. Если у вас уже есть версия на PS4 - получите её цифровую версию для PS5 бесплатно. Только вставляйте диск с PS4-версией в PS5, чтобы загрузить игру. Без дисковода на PS5 - версия для П5 доступна только за доплату.",
-      "seo_title": "Paper Plane PS5 аренда игры",
-      "seo_descr": "Аренда Paper Plane PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:14Z"
-    },
-    {
       "id": "king-of-drift-2",
       "slug": "king-of-drift-2",
       "sku": "rent-king-of-drift-2",
@@ -260316,75 +260305,6 @@
       "description": "Всё начинается с малого - ты создаёшь свою авиакомпанию в увлекательном VR-симуляторе Flight Simulator Delivery 2025.  \n\nУправляй самолётами от опрыскивателей до грузовых лайнеров, как настоящий пилот. Аэропорты по всему миру - реальные, с деталями и атмосферой.  \n\nПланируй маршруты, расширяй ангары, делай стратегические решения - всё это живёт в мире, где каждый день как на самом деле. ✈️",
       "seo_title": "Flight Simulator Delivery 2025 VR PS5 аренда игры",
       "seo_descr": "Аренда Flight Simulator Delivery 2025 VR PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:15Z"
-    },
-    {
-      "id": "everybody-s-golf",
-      "slug": "everybody-s-golf",
-      "sku": "rent-everybody-s-golf",
-      "title": "Everybody's Golf PS4/PS5",
-      "platform": "PS4 и PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "Английский",
-      "genre": "Спорт",
-      "categories": [],
-      "publisher": "Sony Interactive Entertainment",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "rating": 3.72,
-      "release_date": "07.03.2025",
-      "is_preorder": false,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202205/0218/ZoXA7hnthuu6TJv2nTXHGoDH.png",
-      "screenshots": [
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENThVFGxnfpOFST0niswsa2/EGPS4_LAUNCH_BROLL_001.png",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENTjHHxEqKWob6xk0uxR7TJ/EGPS4_LAUNCH_BROLL_002.png",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENTQBzgj5Z52zR3t8SRaXZH/EGPS4_LAUNCH_BROLL_003.png",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENTOAPBqFbVv4Q48HsqYeaw/EGPS4_LAUNCH_BROLL_004.png",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENT2v5pCYNrKGLKQTiikVxU/EGPS4_LAUNCH_BROLL_005.png",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENTWpPLlJ8INRmuplkorRIe/EGPS4_LAUNCH_BROLL_006.png",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENT2onmQyqH2UOmfw3riW6x/EGPS4_LAUNCH_BROLL_007.png",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENTJgteCxr0I53xQCXNcnQu/EGPS4_LAUNCH_BROLL_008.png"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10004411",
-      "description": "Сыграй в Everybody's Golf - гольф на другом уровне! 🏌️‍♂️  \n\nВыбирай любой из ярких персонажей и становись настоящим мастером лужайки. Всё это - в улучшенной графике, с быстрыми сохранениями и фильтрами для видео.  \n\nТурниры, матчи и мини-гольф - всё по вкусу. Игра теперь на PS4 и PS5, но помни: не все функции работают так же, как в оригинале.  \n\nИграть можно только через контроллер - без дополнительных устройств.",
-      "seo_title": "Everybody's Golf PS4/PS5 аренда игры",
-      "seo_descr": "Аренда Everybody's Golf PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:15Z"
     },
@@ -282214,6 +282134,75 @@
       "seo_descr": "Аренда Legacy of Kain Soul Reaver 1&2 Remastered PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:38:49Z"
+    },
+    {
+      "id": "jak-and-daxter-the-precursor-legacy",
+      "slug": "jak-and-daxter-the-precursor-legacy",
+      "sku": "rent-jak-and-daxter-the-precursor-legacy",
+      "title": "Jak and Daxter: the Precursor Legacy PS4",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "Sony Interactive Entertainment",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.83,
+      "release_date": "10.12.2024",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07934_00/1/i_86738fdff2930f7a7b66cb3a5007df894268a86782fa2788679fd23c4341488a/i/icon0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/5cadf1ff4f8d5a29ca042a3ffcd42579e54de71aa1580cc4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/896a3a5ccccfa911cbe53ea6019f3dd31d376fe3bd32de45.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/b4771e74a07cb55bbdafe1f420ff0d7ebd8403a25c519cea.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/6140ae3a0ab28682c34a838bcb1259f427bea32974852b50.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/f38d5c8a67a67faff4ab15d546359874b300c7ceb1caab3f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/30b63d10a022cba8bbb2c8035052bb41161216468d11eb7f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/47daa8d768b32f7ce30cb21ad58b6209d30820b1fa8d33fa.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/f057263ee0eb8d30fcb28b985accc0bd35a5376808d1bf74.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10010137",
+      "description": "Сыграйте в Jak и Daxter: The Precursor Legacy - классическое приключение с волшебством, тайнами и выдростыми в художественном стиле.  \n\nПогрузитесь в мир, где приключения превращаются в настоящие открытия - огромные ландшафты, магия, дружба и озорства на каждом шагу.  \n\nСмекалка и хитрость проверятся, когда вы узнаете, что лучший друг главного героя превратился в пушистого выдростая - и теперь он хочет вас тащить в свои приключения.  \n\nИгра перенесена с PS2 на PS4/PS5 с улучшенной графикой, быстрыми сохранениями и фильтрами видео - всё это делает путешествие ещё живее и удобнее.",
+      "seo_title": "Jak and Daxter: the Precursor Legacy PS4 аренда игры",
+      "seo_descr": "Аренда Jak and Daxter: the Precursor Legacy PS4 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:39:15Z"
     },
     {
       "id": "road-maintenance-simulator-2-winter-services",
@@ -304331,6 +304320,73 @@
       "catalog_added_at": "2026-08-24T15:39:15Z"
     },
     {
+      "id": "a-hole-new-world",
+      "slug": "a-hole-new-world",
+      "sku": "rent-a-hole-new-world",
+      "title": "A Hole New World PS4",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "Dolores Entertainment S.L.",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.64,
+      "release_date": "11.10.2024",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08163_00/3/i_88497af7f75b19082978dac33fbb5d32eea280a2e5d8be18b1f4b65a38181959/i/icon0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/0611/581bd2acc0cee810010572b89261192feaafe69a1ca3e8ef.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/0611/18ec7c30255019b8d447f8f12ea5f599988a9797eaeffb3c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/0611/d838b079cc4788d5b90ccc6f87be4ae4562d369ea6f37260.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/0611/53c8b74f61a812a8d5df569cbca9f7e0ba07a273a10a1c65.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/0611/4a57b964845e9772ba3e1621e88da03130a692ed4f8b110b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/0611/4414088723e30f4e54c265beeb95003747658df161a39952.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10010434",
+      "description": "A Hole New World - возвращается с новым броском!  \nГород уничтожен монстрами из Перевернутого мира. Ты - Мастер зелий - должен победить зло одной линией, без учебников и «легкого» режима.  \n\nФэй - твоя фея-спутница - поможет в битвах, а не просто смотреть. Прыгай, стреляй, как в старые аркады. Сражайся в двух мирах: своём и перевернутом.  \n\nБоссы на каждом шагу, гиганты под тобой - побеждай их, забирай их силы. Пять миры, квесты, босс-рэйс, вызовы и концовки по-разному.  \n30 врагов, 7 битв, секретные персонажи - всё насыщенно.  \n8-битный и -16-битный саундтрек: ретро в каждой ноте.  \nИ фильтры ЭЛТ - чтобы мир почувствовал себя настоящим.",
+      "seo_title": "A Hole New World PS4 аренда игры",
+      "seo_descr": "Аренда A Hole New World PS4 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:39:15Z"
+    },
+    {
       "id": "last-time-i-saw-you",
       "slug": "last-time-i-saw-you",
       "sku": "rent-last-time-i-saw-you",
@@ -305941,6 +305997,75 @@
       "seo_descr": "Аренда Wild Hunter: Sniper Rifle Adventures Simulator PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-21T19:27:52Z"
+    },
+    {
+      "id": "until-dawn",
+      "slug": "until-dawn",
+      "sku": "rent-until-dawn",
+      "title": "Until Dawn PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке!",
+      "genre": "Хоррор",
+      "categories": [],
+      "publisher": "Sony Interactive Entertainment",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.5,
+      "release_date": "04.10.2024",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2910/d48262b72a5a2daa3ca3aed6c8f42c44f3fdaf2902265a13.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/458ad702ed4f236443d39364d893595c82470e12f534ebd7.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/1e3e78798dd446f48dc8d27c8da40ab03f3af7808febafe1.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/494e9e6a9c810a5edd452ff6bcab277bd4c35e6c91f782b8.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/9de161e6f63b4a3faf42a77367f07276cff1fd62d8120347.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/1b6b561b9a00f8917f7e70898441871e93a5d51160bb4de0.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/b136cea3eb13354ef4d6adfa18af41666e5d34ac3500becb.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/ae0237c519d3b2f434481a071d663aa2673dbd02a66aeb16.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/b45869f75a7e5d8ddfb13636d903ee4a00c37358d3b9e760.jpeg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10007897",
+      "description": "В «Until Dawn» вас ждёт ужасающая история о восьми друзьях - после исчезновения двух товарищей они возвращаются в дом в горах.  \n\nКаждый выбор меняет судьбу всех - и вы сами выбираете, кто живёт, а кто погибает.  \n\nСюжет дышит реальностью: теперь на PS5 игра работает с Unreal Engine 5 - атмосфера сталкивается с тонким натяжением, персонажи ведут себя как живые.  \n\nГотовы к ночным звукам и неизбежному напряжению? Всё - на вашей стороне.",
+      "seo_title": "Until Dawn PS5 аренда игры",
+      "seo_descr": "Аренда Until Dawn PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:39:03Z"
     },
     {
       "id": "sword-art-online-fractured-daydream",
@@ -333901,6 +334026,74 @@
       "description": "Креативная лаборатория в твоих руках - Creature Lab.  \n\nТы ученый, который не боится экспериментировать. Смешиваешь мутагены, выращиваешь части тела и прикрепляешь их к подопытным. Называй рецепты - как ты хочешь, чтобы они звучали.  \n\nГотовь армию мутантов постепенно, планируй набеги на город и будь готов к столкновениям с военными. Паника в городе - твой лучший инструмент. Устраивай хаос, чтобы никто не искал тебя.  \n\nТы сам себе источник ресурсов. Не оставляй следов - они даже не поймут, что настигли. Всё - под твоим контролем.",
       "seo_title": "Creature Lab PS5 аренда игры",
       "seo_descr": "Аренда Creature Lab PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:39:15Z"
+    },
+    {
+      "id": "caretaker",
+      "slug": "caretaker",
+      "sku": "rent-caretaker",
+      "title": "Caretaker PS4",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Хоррор",
+      "categories": [],
+      "publisher": "Playstige Interactive",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 3.05,
+      "release_date": "05.07.2024",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA12424_00/3/i_b699762d9d284a2a3ad306918ec4431b7ac43ade26562f91bb959819bec306df/i/icon0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0215/9c950325582a72b1dcb3fab3491392729c90234b744a71d4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0215/b7ea29ee2a58cea4a592978488dd61ef63ce48f7a06decb2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0215/bf3fbe84a3c89958621826d37b52c4d0c2ff299e0fdc85cf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0215/f7a8229d07e7d71b92d8b1bae2bd60b9dc8e56291b8f71b9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0215/e7f4e319db61c4365cb428dcb9aabfe754aae22dfebda5e7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0215/98f054f3133c021aeb93ecc7c4db9ac5b3ee53982580e056.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0215/99401d12078a3594d8a37a66837bb199714540a8e59eab18.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10011294",
+      "description": "Смотритель - ужас от первого лица, где правда не всегда бывает хорошей.  \n\nТы - журналист, который хочет найти ответ на вопрос: зачем кто-то убил всех на заводе?  \n\nВсё начинается с одной новости - и одного человека, что давно уже не в себе.  \n\nГлубокое настроение, напряжение, тайны под поверхностью - всё это в твоих руках.",
+      "seo_title": "Caretaker PS4 аренда игры",
+      "seo_descr": "Аренда Caretaker PS4 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:15Z"
     },
@@ -386652,75 +386845,6 @@
       "catalog_added_at": "2026-08-24T15:39:16Z"
     },
     {
-      "id": "prison-boss-vr",
-      "slug": "prison-boss-vr",
-      "sku": "rent-prison-boss-vr",
-      "title": "Prison Boss VR PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Аркада, Казуальная, Simulator",
-      "categories": [],
-      "publisher": "Trebuchet Studio Inc.",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 3.41,
-      "release_date": "06.12.2023",
-      "is_preorder": false,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0820/aadc982a014824602de37ad878b15c0b7f9f2faf0b300b38.png",
-      "screenshots": [
-        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENTtWkKHuUd0td2qu0yx1Cn/PREVIEW_SCREENSHOT1_539134.jpg",
-        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENTAh6WwhTSCRiL6LhxndAm/PREVIEW_SCREENSHOT2_539134.jpg",
-        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENTJIXoNcyPdhnYbneAykYo/PREVIEW_SCREENSHOT3_539134.jpg",
-        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENT3o18T8IFtVLh3s7yKEGR/PREVIEW_SCREENSHOT4_539134.jpg",
-        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENTp7e00TZXV8xTfmhBBza3/PREVIEW_SCREENSHOT5_539134.jpg",
-        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENTQauquFZ84DpDghWh60FC/PREVIEW_SCREENSHOT6_539134.jpg",
-        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENTLSQ3RytB1EaSXFg7ybBy/PREVIEW_SCREENSHOT7_539134.jpg",
-        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENTE9mJjSXYDChvEyrXNu8A/PREVIEW_SCREENSHOT8_539134.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10009664",
-      "description": "Prison Boss VR - не просто игра, а настоящий дикий аркадный опыт. Ты заперт в камере, но у тебя есть всё: от самокруток до маляв, и даже бутылки, которые можно наполнять на ходу.  \n\nОхрана не спит - если ты слишком заметен, они быстро найдут тебя. Скрывайся, продавай контрабанду другим заключённым или берись за специальные задания. Репутация растёт, а подогревы - дают шанс выйти на волю.  \n\nТы можешь строить свою хату, менять мебель и адаптировать её под свой VR-пространство. Всё это с динамичной музыкой, которая звучит как из настоящей тюрьмы.  \n\nКто ты? Босс или просто заключённый? Попробуй - и увидишь, насколько крутая может быть тюрьма в VR.",
-      "seo_title": "Prison Boss VR PS5 аренда игры",
-      "seo_descr": "Аренда Prison Boss VR PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:16Z"
-    },
-    {
       "id": "battle-stations-blockade",
       "slug": "battle-stations-blockade",
       "sku": "rent-battle-stations-blockade",
@@ -399758,10 +399882,10 @@
       "catalog_added_at": "2026-08-24T15:39:16Z"
     },
     {
-      "id": "hotline-miami",
-      "slug": "hotline-miami",
-      "sku": "rent-hotline-miami",
-      "title": "Hotline Miami PS4/PS5",
+      "id": "hotline-miami-2-wrong-number",
+      "slug": "hotline-miami-2-wrong-number",
+      "sku": "rent-hotline-miami-2-wrong-number",
+      "title": "Hotline Miami 2: Wrong Number PS4",
       "platform": "PS4 и PS5",
       "prices": {
         "p2": {
@@ -399798,31 +399922,30 @@
         "56": 3479
       },
       "price_min": 697,
-      "lang_label": "На русском языке! (субтитры)",
+      "lang_label": "На русском языке!",
       "genre": "Экшен",
       "categories": [],
       "publisher": "Devolver Digital",
       "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.5,
+      "text_translation": "Английский",
+      "rating": 4.29,
       "release_date": "23.10.2023",
       "is_preorder": false,
       "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/31633b753add90ce0d9c17ba4ebad3969104e44e83e303d6.png",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202104/3018/x0cMtPaOTtUWRymojmrEjT9f.png",
       "screenshots": [
-        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENT79xE2LpzQVPm8IyCCfVH/hotline%20miami_01.jpg",
-        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENT79xE2LpzQVPm8IyCCfVH/hotline miami_01.jpg",
-        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENTHif6SozufJnDkEsqxMVT/hotline%20miami_02.jpg",
-        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENTHif6SozufJnDkEsqxMVT/hotline miami_02.jpg",
-        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENTqSmsOCpttimouZ9cE2P8/hotline%20miami_03.jpg",
-        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENTqSmsOCpttimouZ9cE2P8/hotline miami_03.jpg",
-        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENTWx4ITmDTCVnBWqydBPul/hotline%20miami_04.jpg",
-        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENTWx4ITmDTCVnBWqydBPul/hotline miami_04.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/ee3490f5ead8f3a6db11ffbb947755693facad2ced540ee6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/2f80298f0bfdc51ef27f16f333a06c8ddf2c4d698005159d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/1497a7b7dd3b0fc9e5704a2942b229a09cdf259ebdd9db24.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/fbb44d13f1cb9b74dcce37678d81bd2f6a4e3a6041225bcd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/dab021adcf3e1d359e6156a58a8db80dbb810e981bda5809.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/770071de72d1bc097633d97bb320bbd5004960d192f95fe5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/257b39858c935e8e009fb79f74ea12f98ed474f52b7d955b.jpg"
       ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10005940",
-      "description": "🔥 Hotline Miami - жарко, хаотично и безумно дико.  \n\nТы в 1989 году в Майами, но не как обычный турист - а как антигерой с рваным оружием и голосом из автоответчика.  \n\nКаждый ход - это перестрелка, кровавая битва или жестокий бросок в тьму. Ты не понимаешь, зачем всё это происходит… но уже не можешь остановиться.  \n\nИгра доступна на PS4 и PS5 - без лишних слов, только чистое насилие и атмосфера 80-х в духе бандитской драмы.",
-      "seo_title": "Hotline Miami PS4/PS5 аренда игры",
-      "seo_descr": "Аренда Hotline Miami PS4/PS5 на PlayStation.",
+      "store_url": "https://store.playstation.com/en-tr/concept/10006547",
+      "description": "Hotline Miami 2: Wrong Number - жёсткий финал саги, где насилие становится нормой, а мести за кровь - главным драйвером.  \n\nИграть за разных бандитов, каждый из которых ведёт себя по-своему и скрывает свои причины.  \n\nРеальность здесь превращается в рваный кибер-пейзаж - неон, кровь и хаос на каждом шагу.  \n\nДа, это жутко. Но честно - впечатляет.",
+      "seo_title": "Hotline Miami 2: Wrong Number PS4 аренда игры",
+      "seo_descr": "Аренда Hotline Miami 2: Wrong Number PS4 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:16Z"
     },
@@ -415821,6 +415944,75 @@
       "seo_descr": "Аренда Immortals of Aveum PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:16Z"
+    },
+    {
+      "id": "humankind",
+      "slug": "humankind",
+      "sku": "rent-humankind",
+      "title": "Humankind PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 200,
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800,
+          "56": 1440
+        },
+        "p3": {
+          "1": 280,
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900,
+          "56": 1620
+        }
+      },
+      "prices_p2": {
+        "1": 200,
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800,
+        "56": 1440
+      },
+      "prices_p3": {
+        "1": 280,
+        "7": 350,
+        "14": 500,
+        "21": 800,
+        "28": 900,
+        "56": 1620
+      },
+      "price_min": 200,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Стратегия, Симулятор",
+      "categories": [],
+      "publisher": "AMPLITUDE STUDIOS S.A.S.",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.05,
+      "release_date": "22.08.2023",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/OMuwkb08ac0MQxLGFpHXGIbX.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/zmS595NjOl2W3eYgxBZXAClk.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/Trce3ZRdHmTlNIJ8igQr7JmO.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/89MOS2qWhO8tMFRyb0yE774U.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/yKpoAIoE4YYIXZdmwCDsxyQV.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/GMVYT2a90N64WcbDDdIUPoW9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/uQJhAZTX5mPzEvnoLi4i1V7y.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/CgfNRcTmNYjBYpL7irdmSCJo.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/fMYXmaLwlkiyIq5cm5o1FKel.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10004309",
+      "description": "Создай свою цивилизацию из 60 уникальных культур - от неолита до Нового времени.  \n\nКаждая культура - как свой шедевр: особенности, традиции, технологии и выборы, которые меняют мир.  \n\nПринимай решения, веди войны на земле, море и небе - каждый бой живёт в деталях.  \n\nВсё зависит от тебя. История - это не сценарий, а твоя игра. 🎮",
+      "seo_title": "Humankind PS5 аренда игры",
+      "seo_descr": "Аренда Humankind PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:38:29Z"
     },
     {
       "id": "fort-solis",
@@ -564320,6 +564512,72 @@
       "catalog_added_at": "2026-10-21T19:41:19Z"
     },
     {
+      "id": "bullseye",
+      "slug": "bullseye",
+      "sku": "rent-bullseye",
+      "title": "Bullseye PS4",
+      "platform": "PS4",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Quiz",
+      "categories": [],
+      "publisher": "Sabec Limited",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 2.71,
+      "release_date": "15.07.2021",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2516/lhbKRiODLlccVeEzjEpUJPbc.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202106/2516/o2GluiwCC0U4Pxpy9DnftFi2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202106/2516/nNhCIP4C10Y42fDL2WZ1Jbjp.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202106/2516/m69pMLrwLwWqLDWGYnFlHUMT.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202106/2516/Dc3cX0kQ1ow8DA6ron0pfWgx.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202106/2516/lo1UUmkQeZiwZR1BKaY6Hohr.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10003073",
+      "description": "Буллсайт – это не просто джойстик, а настоящий битвенный шарм.  \n\nТы ведёшь схватку за очки - каждый выстрел - как разрешение на новый уровень.  \n\nСильный, строгий, но с лёгкой иронией – игра для тех, кто любит точность и манёвр.  \n\nПроверь себя в центре круга – где каждый ход становится частью истории. 🎯",
+      "seo_title": "Bullseye PS4 аренда игры",
+      "seo_descr": "Аренда Bullseye PS4 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:39:17Z"
+    },
+    {
       "id": "batbarian-testament-of-the-primordials",
       "slug": "batbarian-testament-of-the-primordials",
       "sku": "rent-batbarian-testament-of-the-primordials",
@@ -625047,6 +625305,72 @@
       "catalog_added_at": "2026-08-24T15:39:17Z"
     },
     {
+      "id": "dreams",
+      "slug": "dreams",
+      "sku": "rent-dreams",
+      "title": "Dreams PS5",
+      "platform": "PS4",
+      "prices": {
+        "p2": {
+          "1": 200,
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800,
+          "56": 1440
+        },
+        "p3": {
+          "1": 280,
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900,
+          "56": 1620
+        }
+      },
+      "prices_p2": {
+        "1": 200,
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800,
+        "56": 1440
+      },
+      "prices_p3": {
+        "1": 280,
+        "7": 350,
+        "14": 500,
+        "21": 800,
+        "28": 900,
+        "56": 1620
+      },
+      "price_min": 200,
+      "lang_label": "На русском языке!",
+      "genre": "Уникальное, Приключение, Экшен",
+      "categories": [],
+      "publisher": "Sony Interactive Entertainment",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.34,
+      "release_date": "14.02.2020",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2913/NE6EsohLBmlXJmgxaIGHVjh9.png",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6466-6533-4662-a636-386464633335/74387697.jpg",
+        "https://static.tildacdn.com/stor6234-6235-4635-a464-616465613031/11293907.jpg",
+        "https://static.tildacdn.com/stor6362-3836-4334-b938-363831373163/62666832.jpg",
+        "https://static.tildacdn.com/stor3935-3336-4130-a165-653136303363/73446179.jpg",
+        "https://static.tildacdn.com/stor3961-3237-4864-a230-323232346439/29023665.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/206887",
+      "description": "Игра Dreams на PS5 - твоя площадка для мечты.  \nСоздавай собственные игры, фильмы, музыку и арт - всё в 3D-реальности, как будто ты сама в мире.  \n\nМини-игры, уроки и крутые идеи уже доступны - начни творить прямо сейчас.  \n\nВсё это - в раннем доступе. Окончательная версия может измениться - но твоя фантазия остаётся в центре. 🌟",
+      "seo_title": "Dreams PS5 аренда игры",
+      "seo_descr": "Аренда Dreams PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:38:34Z"
+    },
+    {
       "id": "darksiders-genesis",
       "slug": "darksiders-genesis",
       "sku": "rent-darksiders-genesis",
@@ -638300,73 +638624,6 @@
       "seo_descr": "Аренда Arcade Archives TRACK & FIELD PS4 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:17Z"
-    },
-    {
-      "id": "a-hole-new-world",
-      "slug": "a-hole-new-world",
-      "sku": "rent-a-hole-new-world",
-      "title": "A Hole New World PS4",
-      "platform": "PS4",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "Английский",
-      "genre": "Аркада, Аркада",
-      "categories": [],
-      "publisher": "Hidden Trap",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "rating": 3.98,
-      "release_date": "03.10.2019",
-      "is_preorder": false,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08163_00/3/i_88497af7f75b19082978dac33fbb5d32eea280a2e5d8be18b1f4b65a38181959/i/icon0.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202409/0611/581bd2acc0cee810010572b89261192feaafe69a1ca3e8ef.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202409/0611/18ec7c30255019b8d447f8f12ea5f599988a9797eaeffb3c.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202409/0611/d838b079cc4788d5b90ccc6f87be4ae4562d369ea6f37260.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202409/0611/53c8b74f61a812a8d5df569cbca9f7e0ba07a273a10a1c65.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202409/0611/4a57b964845e9772ba3e1621e88da03130a692ed4f8b110b.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202409/0611/4414088723e30f4e54c265beeb95003747658df161a39952.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/228936",
-      "description": "A Hole New World - возвращается с новым броском!  \nГород уничтожен монстрами из Перевернутого мира. Ты - Мастер зелий - должен победить зло одной линией, без учебников и «легкого» режима.  \n\nФэй - твоя фея-спутница - поможет в битвах, а не просто смотреть. Прыгай, стреляй, как в старые аркады. Сражайся в двух мирах: своём и перевернутом.  \n\nБоссы на каждом шагу, гиганты под тобой - побеждай их, забирай их силы. Пять миры, квесты, босс-рэйс, вызовы и концовки по-разному.  \n30 врагов, 7 битв, секретные персонажи - всё насыщенно.  \n8-битный и -16-битный саундтрек: ретро в каждой ноте.  \nИ фильтры ЭЛТ - чтобы мир почувствовал себя настоящим.",
-      "seo_title": "A Hole New World PS4 аренда игры",
-      "seo_descr": "Аренда A Hole New World PS4 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:15Z"
     },
     {
       "id": "in-between",
@@ -654701,74 +654958,6 @@
       "catalog_added_at": "2026-08-24T15:39:17Z"
     },
     {
-      "id": "caretaker",
-      "slug": "caretaker",
-      "sku": "rent-caretaker",
-      "title": "Caretaker PS4",
-      "platform": "PS4",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Хоррор, Хоррор, Экшен",
-      "categories": [],
-      "publisher": "KODOBUR YAZILIM BILISIM TASARIM ARG",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 2.77,
-      "release_date": "08.03.2019",
-      "is_preorder": false,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA12424_00/3/i_b699762d9d284a2a3ad306918ec4431b7ac43ade26562f91bb959819bec306df/i/icon0.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0215/9c950325582a72b1dcb3fab3491392729c90234b744a71d4.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0215/b7ea29ee2a58cea4a592978488dd61ef63ce48f7a06decb2.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0215/bf3fbe84a3c89958621826d37b52c4d0c2ff299e0fdc85cf.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0215/f7a8229d07e7d71b92d8b1bae2bd60b9dc8e56291b8f71b9.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0215/e7f4e319db61c4365cb428dcb9aabfe754aae22dfebda5e7.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0215/98f054f3133c021aeb93ecc7c4db9ac5b3ee53982580e056.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0215/99401d12078a3594d8a37a66837bb199714540a8e59eab18.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/232291",
-      "description": "Смотритель - ужас от первого лица, где правда не всегда бывает хорошей.  \n\nТы - журналист, который хочет найти ответ на вопрос: зачем кто-то убил всех на заводе?  \n\nВсё начинается с одной новости - и одного человека, что давно уже не в себе.  \n\nГлубокое настроение, напряжение, тайны под поверхностью - всё это в твоих руках.",
-      "seo_title": "Caretaker PS4 аренда игры",
-      "seo_descr": "Аренда Caretaker PS4 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:15Z"
-    },
-    {
       "id": "i-and-me",
       "slug": "i-and-me",
       "sku": "rent-i-and-me",
@@ -660894,6 +661083,75 @@
       "seo_descr": "Аренда Jagged Alliance Rage PS4 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:17Z"
+    },
+    {
+      "id": "prison-boss-vr",
+      "slug": "prison-boss-vr",
+      "sku": "rent-prison-boss-vr",
+      "title": "Prison Boss VR PS5",
+      "platform": "PS4",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Аркада, Симулятор",
+      "categories": [],
+      "publisher": "Trebuchet Studio Inc.",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.13,
+      "release_date": "05.12.2018",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0820/aadc982a014824602de37ad878b15c0b7f9f2faf0b300b38.png",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENTtWkKHuUd0td2qu0yx1Cn/PREVIEW_SCREENSHOT1_539134.jpg",
+        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENTAh6WwhTSCRiL6LhxndAm/PREVIEW_SCREENSHOT2_539134.jpg",
+        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENTJIXoNcyPdhnYbneAykYo/PREVIEW_SCREENSHOT3_539134.jpg",
+        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENT3o18T8IFtVLh3s7yKEGR/PREVIEW_SCREENSHOT4_539134.jpg",
+        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENTp7e00TZXV8xTfmhBBza3/PREVIEW_SCREENSHOT5_539134.jpg",
+        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENTQauquFZ84DpDghWh60FC/PREVIEW_SCREENSHOT6_539134.jpg",
+        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENTLSQ3RytB1EaSXFg7ybBy/PREVIEW_SCREENSHOT7_539134.jpg",
+        "https://image.api.playstation.com/cdn/EP4946/CUSA14087_00/FREE_CONTENTE9mJjSXYDChvEyrXNu8A/PREVIEW_SCREENSHOT8_539134.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/232454",
+      "description": "Prison Boss VR - не просто игра, а настоящий дикий аркадный опыт. Ты заперт в камере, но у тебя есть всё: от самокруток до маляв, и даже бутылки, которые можно наполнять на ходу.  \n\nОхрана не спит - если ты слишком заметен, они быстро найдут тебя. Скрывайся, продавай контрабанду другим заключённым или берись за специальные задания. Репутация растёт, а подогревы - дают шанс выйти на волю.  \n\nТы можешь строить свою хату, менять мебель и адаптировать её под свой VR-пространство. Всё это с динамичной музыкой, которая звучит как из настоящей тюрьмы.  \n\nКто ты? Босс или просто заключённый? Попробуй - и увидишь, насколько крутая может быть тюрьма в VR.",
+      "seo_title": "Prison Boss VR PS5 аренда игры",
+      "seo_descr": "Аренда Prison Boss VR PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:39:16Z"
     },
     {
       "id": "gnomes-garden-new-home",
@@ -692055,75 +692313,6 @@
       "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
-      "id": "jak-and-daxter-the-precursor-legacy",
-      "slug": "jak-and-daxter-the-precursor-legacy",
-      "sku": "rent-jak-and-daxter-the-precursor-legacy",
-      "title": "Jak and Daxter: the Precursor Legacy PS4",
-      "platform": "PS4",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "На русском языке!",
-      "genre": "Приключение, Экшен, Гонки",
-      "categories": [],
-      "publisher": "Sony Interactive Entertainment",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.71,
-      "release_date": "06.12.2017",
-      "is_preorder": false,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07934_00/1/i_86738fdff2930f7a7b66cb3a5007df894268a86782fa2788679fd23c4341488a/i/icon0.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/5cadf1ff4f8d5a29ca042a3ffcd42579e54de71aa1580cc4.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/896a3a5ccccfa911cbe53ea6019f3dd31d376fe3bd32de45.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/b4771e74a07cb55bbdafe1f420ff0d7ebd8403a25c519cea.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/6140ae3a0ab28682c34a838bcb1259f427bea32974852b50.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/f38d5c8a67a67faff4ab15d546359874b300c7ceb1caab3f.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/30b63d10a022cba8bbb2c8035052bb41161216468d11eb7f.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/47daa8d768b32f7ce30cb21ad58b6209d30820b1fa8d33fa.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2222/f057263ee0eb8d30fcb28b985accc0bd35a5376808d1bf74.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/202214",
-      "description": "Сыграйте в Jak и Daxter: The Precursor Legacy - классическое приключение с волшебством, тайнами и выдростыми в художественном стиле.  \n\nПогрузитесь в мир, где приключения превращаются в настоящие открытия - огромные ландшафты, магия, дружба и озорства на каждом шагу.  \n\nСмекалка и хитрость проверятся, когда вы узнаете, что лучший друг главного героя превратился в пушистого выдростая - и теперь он хочет вас тащить в свои приключения.  \n\nИгра перенесена с PS2 на PS4/PS5 с улучшенной графикой, быстрыми сохранениями и фильтрами видео - всё это делает путешествие ещё живее и удобнее.",
-      "seo_title": "Jak and Daxter: the Precursor Legacy PS4 аренда игры",
-      "seo_descr": "Аренда Jak and Daxter: the Precursor Legacy PS4 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:15Z"
-    },
-    {
       "id": "jak-3",
       "slug": "jak-3",
       "sku": "rent-jak-3",
@@ -701942,6 +702131,75 @@
       "seo_descr": "Аренда X-Morph: Defense PS4 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
+    },
+    {
+      "id": "everybody-s-golf",
+      "slug": "everybody-s-golf",
+      "sku": "rent-everybody-s-golf",
+      "title": "Everybody's Golf PS4/PS5",
+      "platform": "PS4",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Спорт",
+      "categories": [],
+      "publisher": "Sony Interactive Entertainment",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.3,
+      "release_date": "30.08.2017",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202205/0218/ZoXA7hnthuu6TJv2nTXHGoDH.png",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENThVFGxnfpOFST0niswsa2/EGPS4_LAUNCH_BROLL_001.png",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENTjHHxEqKWob6xk0uxR7TJ/EGPS4_LAUNCH_BROLL_002.png",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENTQBzgj5Z52zR3t8SRaXZH/EGPS4_LAUNCH_BROLL_003.png",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENTOAPBqFbVv4Q48HsqYeaw/EGPS4_LAUNCH_BROLL_004.png",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENT2v5pCYNrKGLKQTiikVxU/EGPS4_LAUNCH_BROLL_005.png",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENTWpPLlJ8INRmuplkorRIe/EGPS4_LAUNCH_BROLL_006.png",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENT2onmQyqH2UOmfw3riW6x/EGPS4_LAUNCH_BROLL_007.png",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02171_00/FREE_CONTENTJgteCxr0I53xQCXNcnQu/EGPS4_LAUNCH_BROLL_008.png"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/209065",
+      "description": "Сыграй в Everybody's Golf - гольф на другом уровне! 🏌️‍♂️  \n\nВыбирай любой из ярких персонажей и становись настоящим мастером лужайки. Всё это - в улучшенной графике, с быстрыми сохранениями и фильтрами для видео.  \n\nТурниры, матчи и мини-гольф - всё по вкусу. Игра теперь на PS4 и PS5, но помни: не все функции работают так же, как в оригинале.  \n\nИграть можно только через контроллер - без дополнительных устройств.",
+      "seo_title": "Everybody's Golf PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Everybody's Golf PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:39:15Z"
     },
     {
       "id": "resident-evil-revelations",
@@ -723069,6 +723327,75 @@
       "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
+      "id": "titanfall-2",
+      "slug": "titanfall-2",
+      "sku": "rent-titanfall-2",
+      "title": "Titanfall 2 PS5",
+      "platform": "PS4",
+      "prices": {
+        "p2": {
+          "1": 200,
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800,
+          "56": 1440
+        },
+        "p3": {
+          "1": 280,
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900,
+          "56": 1620
+        }
+      },
+      "prices_p2": {
+        "1": 200,
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800,
+        "56": 1440
+      },
+      "prices_p3": {
+        "1": 280,
+        "7": 350,
+        "14": 500,
+        "21": 800,
+        "28": 900,
+        "56": 1620
+      },
+      "price_min": 200,
+      "lang_label": "На русском языке!",
+      "genre": "Шутер, Приключение, Экшен",
+      "categories": [],
+      "publisher": "EA Swiss Sarl",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.57,
+      "release_date": "28.10.2016",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA04013_00/2/i_836b5bbd7a8d122c6f8829b90b1d26565468b822a9470987764b9ed15a509cb5/i/icon0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTPhGXT7wuokaApJltcc6T/titanfall_01.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTVwfPGtEG9oNlueRFZNSG/titanfall_02.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTiT8PThoJ8cunqhUobikm/titanfall_03.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENT2um8Mhbqqt4IKUtoUsRs/titanfall_04.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTGlAwqfJX4wlDmYA0fmZV/titanfall_05.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTP0sV9C9dOVeK2ipAXzZh/titanfall_06.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTgyORQ5a3LhNQvKGAl56Z/titanfall_07.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTcbABqoC1Ehn3WWnMzcGN/titanfall_08.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/221813",
+      "description": "Titanfall 2 - это бой на грани реальности. Пилотируй тяжёлые машины, лови врагов и держись в деле - как настоящий командир.\n\nКампания подавляет, а многоплеер - гонка за выживание, где каждый игрок - часть битвы. От 2 до 16 человек на поле боя, всё в реальном времени.\n\nСейчас ты можешь поиграть в эту динамичную игру прямо на PS4 или PS5 - просто сядь и включись.",
+      "seo_title": "Titanfall 2 PS5 аренда игры",
+      "seo_descr": "Аренда Titanfall 2 PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:38:54Z"
+    },
+    {
       "id": "forestry-2017-the-simulation",
       "slug": "forestry-2017-the-simulation",
       "sku": "rent-forestry-2017-the-simulation",
@@ -738949,6 +739276,72 @@
       "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
+      "id": "heavy-rain",
+      "slug": "heavy-rain",
+      "sku": "rent-heavy-rain",
+      "title": "Heavy Rain PS5",
+      "platform": "PS4",
+      "prices": {
+        "p2": {
+          "1": 200,
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800,
+          "56": 1440
+        },
+        "p3": {
+          "1": 280,
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900,
+          "56": 1620
+        }
+      },
+      "prices_p2": {
+        "1": 200,
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800,
+        "56": 1440
+      },
+      "prices_p3": {
+        "1": 280,
+        "7": 350,
+        "14": 500,
+        "21": 800,
+        "28": 900,
+        "56": 1620
+      },
+      "price_min": 200,
+      "lang_label": "Английский",
+      "genre": "Экшен, Приключение",
+      "categories": [],
+      "publisher": "Sony Interactive Entertainment",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.44,
+      "release_date": "02.03.2016",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02355_00/2/i_dd302d88e4df97ecd1e9bc39e877aeda171fc12b99a116be8666d431a8f46697/i/icon0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02356_00/FREE_CONTENT4ciyTekJeZnkiPzoAcAV/5.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02356_00/FREE_CONTENTaEmarIQPOdMNbUCJsL18/4.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02356_00/FREE_CONTENTiSnYKG5yrTk0O0RJ5NNa/3.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02356_00/FREE_CONTENTEibT2tImgK4d7pZch26M/2.jpg",
+        "https://image.api.playstation.com/cdn/EP9000/CUSA02356_00/FREE_CONTENTpCmVGKEwoG9XybjUeCVU/1.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/201902",
+      "description": "Охота за правдой - в каждом выборе.  \nВ «Heavy Rain» вы становитесь ведущим охоты за тайной Мастера Оригами, управляя четырьмя незнакомцами в жестком психологическом триллере.  \n\nВыбор ваш - определяет путь сюжета. Каждый шаг меняет ход истории.  \n\nРазработано Quantic Dream. Доступно на PS4 и PS5. 🕵️‍♂️",
+      "seo_title": "Heavy Rain PS5 аренда игры",
+      "seo_descr": "Аренда Heavy Rain PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:39:08Z"
+    },
+    {
       "id": "broforce",
       "slug": "broforce",
       "sku": "rent-broforce",
@@ -743900,6 +744293,75 @@
       "seo_descr": "Аренда 1001 Spikes PS4 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
+    },
+    {
+      "id": "star-wars-battlefront",
+      "slug": "star-wars-battlefront",
+      "sku": "rent-star-wars-battlefront",
+      "title": "Star wars Battlefront PS4",
+      "platform": "PS4",
+      "prices": {
+        "p2": {
+          "1": 200,
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800,
+          "56": 1440
+        },
+        "p3": {
+          "1": 280,
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900,
+          "56": 1620
+        }
+      },
+      "prices_p2": {
+        "1": 200,
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800,
+        "56": 1440
+      },
+      "prices_p3": {
+        "1": 280,
+        "7": 350,
+        "14": 500,
+        "21": 800,
+        "28": 900,
+        "56": 1620
+      },
+      "price_min": 200,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Шутер, Шутер, Экшен",
+      "categories": [],
+      "publisher": "EA Swiss Sarl",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.45,
+      "release_date": "17.11.2015",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00634_00/3/i_bd22c9c5ff495c10c426c43b96fdbaf5766a8c7cf9cb11996283ced3402d9292/i/icon0_01.png",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTUl8dTIapNu46Viu2ClXm/BATTLEFRONT_01.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTJZCALi8N1v1QrewfnjQi/BATTLEFRONT_02.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTHZnZzi31s0zb9odvRPgt/BATTLEFRONT_03.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTi0H9uVBOdmwmPzTzciLf/BATTLEFRONT_04.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTgN9H9FKBGRs44wZQyFQT/BATTLEFRONT_05.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTyax6R5e4JeSstl8PEKnW/BATTLEFRONT_06.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTFLIf9s7f2KbiDeVLuM9F/BATTLEFRONT_07.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTybxr93dl9ExN6wry6tzv/BATTLEFRONT_08.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/213119",
+      "description": "Star Wars: Battlefront - настоящий погруз в мир Звёздной войны.  \n\nВсё, что нужно - и оружие Хана Соло, и эксклюзивные эмоции, которые украсят каждый бой.  \n\nДо 40 игроков вместе - драки, стратегия, битвы на планетах. А ты можешь даже смотреть игру с другого устройства.  \n\nГотов к выступлению в фронт? Просто возьми и начни.",
+      "seo_title": "Star wars Battlefront PS4 аренда игры",
+      "seo_descr": "Аренда Star wars Battlefront PS4 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:38:53Z"
     },
     {
       "id": "dragon-quest-heroes-the-world-tree-s-woe-and-the",
@@ -753691,6 +754153,75 @@
       "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
+      "id": "dead-or-alive-5-last-round",
+      "slug": "dead-or-alive-5-last-round",
+      "sku": "rent-dead-or-alive-5-last-round",
+      "title": "DEAD OR ALIVE 5 Last Round PS4",
+      "platform": "PS4",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Файтинг, Файтинг",
+      "categories": [],
+      "publisher": "Koei Tecmo Europe Ltd",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.35,
+      "release_date": "18.03.2015",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01601_00/3/i_78069809c931aaaadd4cef6ac2ee134a411a59737e2c09bf4cb8dc0b02ff5602/i/icon0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENTNr1HrlKvQn78QbN9DXjx/PREVIEW_SCREENSHOT1_445097.jpg",
+        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENTnGyVOFUrK4o7g8wYWiZw/PREVIEW_SCREENSHOT2_445097.jpg",
+        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENTAiHb7LerpHUXFEK99lvo/PREVIEW_SCREENSHOT3_445097.jpg",
+        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENTDo1Ek670NWGeRph17Kjn/PREVIEW_SCREENSHOT4_445097.jpg",
+        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENTaKNCcY3i955spcXJD87O/PREVIEW_SCREENSHOT5_445097.jpg",
+        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENTvYzrsWeazuel6neMaLWh/PREVIEW_SCREENSHOT6_445097.jpg",
+        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENTQDHX7UaqyzlM3R1hJcLf/PREVIEW_SCREENSHOT7_445097.jpg",
+        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENThfD9gQlSDPqixpVAgf5M/PREVIEW_SCREENSHOT8_445097.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/220997",
+      "description": "Dead or Alive 5 Last Round - последний удар в мире файтингов!  \n\nДва новых бойца вступают в бой: теперь у вас самый мощный и разнообразный состав в истории серии.  \n\nВозвращаются любимые персонажи с обновлённой графикой, живыми движениями и новыми эффектами - как никогда реалистично выглядят и чувствуют себя на арене.  \n\nГотовы к битве? Просто включите - и начните играть! 🎮",
+      "seo_title": "DEAD OR ALIVE 5 Last Round PS4 аренда игры",
+      "seo_descr": "Аренда DEAD OR ALIVE 5 Last Round PS4 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:39:18Z"
+    },
+    {
       "id": "battlefield-hardline",
       "slug": "battlefield-hardline",
       "sku": "rent-battlefield-hardline",
@@ -753758,74 +754289,6 @@
       "seo_descr": "Аренда Battlefield Hardline PS4 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
-    },
-    {
-      "id": "hotline-miami-2-wrong-number",
-      "slug": "hotline-miami-2-wrong-number",
-      "sku": "rent-hotline-miami-2-wrong-number",
-      "title": "Hotline Miami 2: Wrong Number PS4",
-      "platform": "PS4",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "Английский",
-      "genre": "Экшен, Экшен",
-      "categories": [],
-      "publisher": "Devolver Digital",
-      "voice": "Русский, Английский",
-      "text_translation": "Английский",
-      "rating": 4.71,
-      "release_date": "11.03.2015",
-      "is_preorder": false,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202104/3018/x0cMtPaOTtUWRymojmrEjT9f.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/ee3490f5ead8f3a6db11ffbb947755693facad2ced540ee6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/2f80298f0bfdc51ef27f16f333a06c8ddf2c4d698005159d.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/1497a7b7dd3b0fc9e5704a2942b229a09cdf259ebdd9db24.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/fbb44d13f1cb9b74dcce37678d81bd2f6a4e3a6041225bcd.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/dab021adcf3e1d359e6156a58a8db80dbb810e981bda5809.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/770071de72d1bc097633d97bb320bbd5004960d192f95fe5.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/257b39858c935e8e009fb79f74ea12f98ed474f52b7d955b.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/202007",
-      "description": "Hotline Miami 2: Wrong Number - жёсткий финал саги, где насилие становится нормой, а мести за кровь - главным драйвером.  \n\nИграть за разных бандитов, каждый из которых ведёт себя по-своему и скрывает свои причины.  \n\nРеальность здесь превращается в рваный кибер-пейзаж - неон, кровь и хаос на каждом шагу.  \n\nДа, это жутко. Но честно - впечатляет.",
-      "seo_title": "Hotline Miami 2: Wrong Number PS4 аренда игры",
-      "seo_descr": "Аренда Hotline Miami 2: Wrong Number PS4 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:16Z"
     },
     {
       "id": "dmc-devil-may-cry-definitive-edition",
@@ -754302,75 +754765,6 @@
       "seo_descr": "Аренда The Order: 1886 PS4 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:11Z"
-    },
-    {
-      "id": "dead-or-alive-5-last-round",
-      "slug": "dead-or-alive-5-last-round",
-      "sku": "rent-dead-or-alive-5-last-round",
-      "title": "DEAD OR ALIVE 5 Last Round PS4",
-      "platform": "PS4",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "Английский",
-      "genre": "Экшен, Экшен",
-      "categories": [],
-      "publisher": "Koei Tecmo Europe Ltd",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "rating": 4.11,
-      "release_date": "20.02.2015",
-      "is_preorder": false,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01601_00/3/i_78069809c931aaaadd4cef6ac2ee134a411a59737e2c09bf4cb8dc0b02ff5602/i/icon0.png",
-      "screenshots": [
-        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENTNr1HrlKvQn78QbN9DXjx/PREVIEW_SCREENSHOT1_445097.jpg",
-        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENTnGyVOFUrK4o7g8wYWiZw/PREVIEW_SCREENSHOT2_445097.jpg",
-        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENTAiHb7LerpHUXFEK99lvo/PREVIEW_SCREENSHOT3_445097.jpg",
-        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENTDo1Ek670NWGeRph17Kjn/PREVIEW_SCREENSHOT4_445097.jpg",
-        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENTaKNCcY3i955spcXJD87O/PREVIEW_SCREENSHOT5_445097.jpg",
-        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENTvYzrsWeazuel6neMaLWh/PREVIEW_SCREENSHOT6_445097.jpg",
-        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENTQDHX7UaqyzlM3R1hJcLf/PREVIEW_SCREENSHOT7_445097.jpg",
-        "https://image.api.playstation.com/cdn/EP4108/CUSA01778_00/FREE_CONTENThfD9gQlSDPqixpVAgf5M/PREVIEW_SCREENSHOT8_445097.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/221077",
-      "description": "Dead or Alive 5 Last Round - последний удар в мире файтингов!  \n\nДва новых бойца вступают в бой: теперь у вас самый мощный и разнообразный состав в истории серии.  \n\nВозвращаются любимые персонажи с обновлённой графикой, живыми движениями и новыми эффектами - как никогда реалистично выглядят и чувствуют себя на арене.  \n\nГотовы к битве? Просто включите - и начните играть! 🎮",
-      "seo_title": "DEAD OR ALIVE 5 Last Round PS4 аренда игры",
-      "seo_descr": "Аренда DEAD OR ALIVE 5 Last Round PS4 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
       "id": "pillar",
@@ -758948,6 +759342,75 @@
       "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
+      "id": "hotline-miami",
+      "slug": "hotline-miami",
+      "sku": "rent-hotline-miami",
+      "title": "Hotline Miami PS4/PS5",
+      "platform": "PS4",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке!",
+      "genre": "Экшен, Экшен, Экшен",
+      "categories": [],
+      "publisher": "Devolver Digital",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.7,
+      "release_date": "20.08.2014",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/31633b753add90ce0d9c17ba4ebad3969104e44e83e303d6.png",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENT79xE2LpzQVPm8IyCCfVH/hotline%20miami_01.jpg",
+        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENT79xE2LpzQVPm8IyCCfVH/hotline miami_01.jpg",
+        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENTHif6SozufJnDkEsqxMVT/hotline%20miami_02.jpg",
+        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENTHif6SozufJnDkEsqxMVT/hotline miami_02.jpg",
+        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENTqSmsOCpttimouZ9cE2P8/hotline%20miami_03.jpg",
+        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENTqSmsOCpttimouZ9cE2P8/hotline miami_03.jpg",
+        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENTWx4ITmDTCVnBWqydBPul/hotline%20miami_04.jpg",
+        "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/FREE_CONTENTWx4ITmDTCVnBWqydBPul/hotline miami_04.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/202006",
+      "description": "🔥 Hotline Miami - жарко, хаотично и безумно дико.  \n\nТы в 1989 году в Майами, но не как обычный турист - а как антигерой с рваным оружием и голосом из автоответчика.  \n\nКаждый ход - это перестрелка, кровавая битва или жестокий бросок в тьму. Ты не понимаешь, зачем всё это происходит… но уже не можешь остановиться.  \n\nИгра доступна на PS4 и PS5 - без лишних слов, только чистое насилие и атмосфера 80-х в духе бандитской драмы.",
+      "seo_title": "Hotline Miami PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Hotline Miami PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-08-24T15:39:16Z"
+    },
+    {
       "id": "counterspy",
       "slug": "counterspy",
       "sku": "rent-counterspy",
@@ -762967,75 +763430,6 @@
       "catalog_added_at": "2026-09-18T21:25:21Z"
     },
     {
-      "id": "until-dawn",
-      "slug": "until-dawn",
-      "sku": "rent-until-dawn",
-      "title": "Until Dawn PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "",
-      "genre": "",
-      "categories": [],
-      "publisher": "Sony Interactive Entertainment",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.5,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2910/d48262b72a5a2daa3ca3aed6c8f42c44f3fdaf2902265a13.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/458ad702ed4f236443d39364d893595c82470e12f534ebd7.jpeg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/1e3e78798dd446f48dc8d27c8da40ab03f3af7808febafe1.jpeg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/494e9e6a9c810a5edd452ff6bcab277bd4c35e6c91f782b8.jpeg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/9de161e6f63b4a3faf42a77367f07276cff1fd62d8120347.jpeg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/1b6b561b9a00f8917f7e70898441871e93a5d51160bb4de0.jpeg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/b136cea3eb13354ef4d6adfa18af41666e5d34ac3500becb.jpeg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/ae0237c519d3b2f434481a071d663aa2673dbd02a66aeb16.jpeg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/b45869f75a7e5d8ddfb13636d903ee4a00c37358d3b9e760.jpeg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10007897",
-      "description": "В «Until Dawn» вас ждёт ужасающая история о восьми друзьях - после исчезновения двух товарищей они возвращаются в дом в горах.  \n\nКаждый выбор меняет судьбу всех - и вы сами выбираете, кто живёт, а кто погибает.  \n\nСюжет дышит реальностью: теперь на PS5 игра работает с Unreal Engine 5 - атмосфера сталкивается с тонким натяжением, персонажи ведут себя как живые.  \n\nГотовы к ночным звукам и неизбежному напряжению? Всё - на вашей стороне.",
-      "seo_title": "Until Dawn PS5 аренда игры",
-      "seo_descr": "Аренда Until Dawn PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:03Z"
-    },
-    {
       "id": "unravel-yarny-bundle",
       "slug": "unravel-yarny-bundle",
       "sku": "rent-unravel-yarny-bundle",
@@ -763428,141 +763822,6 @@
       "seo_descr": "Аренда Tony Hawk’s Pro Skater 1 + 2 PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:38:19Z"
-    },
-    {
-      "id": "tony-hawk-s-pro-skater-3-4",
-      "slug": "tony-hawk-s-pro-skater-3-4",
-      "sku": "rent-tony-hawk-s-pro-skater-3-4",
-      "title": "Tony Hawk's Pro Skater 3 + 4 PS4/PS5",
-      "platform": "PS4 и PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "",
-      "genre": "",
-      "categories": [],
-      "publisher": "Activision",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "rating": 4.02,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2100/90881f77d349bee47f6629b340a2b722925975e587c26bd4.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/0719/c3861e255eac3d08c0a13f977721995acfba0b6110fb1d4c.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/0719/7777a2c387183527278044692918a00f72d46f94e0649ca0.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/0719/6ce76692592a74154f221959188fd2d4c9db2a5ea77919b8.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/0719/8118f739dbf81fdfce109a285ba1e4a09fa440f273cd9741.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/0719/cb3d6e4585e3014b3128f2110ed1e440eb279057ca728b3f.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10009018",
-      "description": "Тони Хокк - снова на твоём скейт-экране! 💥  \nTony Hawk's Pro Skater 3 + 4 возвращаются с новыми трюками, динамичной музыкой и настоящими скейтерами - как в старых моментах, так и с улучшенным видом в 4K.  \n\nТеперь можно кататься не только в одиночку - до 8 игроков могут одновременно прыгать по площадкам, бороться за лидерство или просто наслаждаться атмосферой.  \n\nСоздай свой собственный скейт-сценарий: выбирай своих персонажей и парки - и делитесь ими с друзьями в режиме Create-A-Skater и Create-A-Park.  \nА ещё - новые задачи, сложные челленджи и улучшенный New Game+ помогут тебе не просто кататься, а реально зажечь игру.  \n\nИграл ли ты раньше? Нет проблем - управление от Tony Hawk’s 1 + 2 делает даже новичков настоящими профи.  \nГотовы к скейту? Зовите друзей - потому что с годами скейтбординг только растёт. 🛞✨",
-      "seo_title": "Tony Hawk's Pro Skater 3 + 4 PS4/PS5 аренда игры",
-      "seo_descr": "Аренда Tony Hawk's Pro Skater 3 + 4 PS4/PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:15Z"
-    },
-    {
-      "id": "titanfall-2",
-      "slug": "titanfall-2",
-      "sku": "rent-titanfall-2",
-      "title": "Titanfall 2 PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 200,
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800,
-          "56": 1440
-        },
-        "p3": {
-          "1": 280,
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900,
-          "56": 1620
-        }
-      },
-      "prices_p2": {
-        "1": 200,
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800,
-        "56": 1440
-      },
-      "prices_p3": {
-        "1": 280,
-        "7": 350,
-        "14": 500,
-        "21": 800,
-        "28": 900,
-        "56": 1620
-      },
-      "price_min": 200,
-      "lang_label": "",
-      "genre": "",
-      "categories": [],
-      "publisher": "EA Swiss Sarl",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.57,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA04013_00/2/i_836b5bbd7a8d122c6f8829b90b1d26565468b822a9470987764b9ed15a509cb5/i/icon0.png",
-      "screenshots": [
-        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTPhGXT7wuokaApJltcc6T/titanfall_01.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTVwfPGtEG9oNlueRFZNSG/titanfall_02.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTiT8PThoJ8cunqhUobikm/titanfall_03.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENT2um8Mhbqqt4IKUtoUsRs/titanfall_04.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTGlAwqfJX4wlDmYA0fmZV/titanfall_05.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTP0sV9C9dOVeK2ipAXzZh/titanfall_06.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTgyORQ5a3LhNQvKGAl56Z/titanfall_07.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTcbABqoC1Ehn3WWnMzcGN/titanfall_08.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/221813",
-      "description": "Titanfall 2 - это бой на грани реальности. Пилотируй тяжёлые машины, лови врагов и держись в деле - как настоящий командир.\n\nКампания подавляет, а многоплеер - гонка за выживание, где каждый игрок - часть битвы. От 2 до 16 человек на поле боя, всё в реальном времени.\n\nСейчас ты можешь поиграть в эту динамичную игру прямо на PS4 или PS5 - просто сядь и включись.",
-      "seo_title": "Titanfall 2 PS5 аренда игры",
-      "seo_descr": "Аренда Titanfall 2 PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:38:54Z"
     },
     {
       "id": "thief-master-thief-edition",
@@ -764090,75 +764349,6 @@
       "seo_descr": "Аренда Starfield PS5 на Русском языке PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-09-18T21:25:21Z"
-    },
-    {
-      "id": "star-wars-battlefront",
-      "slug": "star-wars-battlefront",
-      "sku": "rent-star-wars-battlefront",
-      "title": "Star wars Battlefront PS4",
-      "platform": "PS4",
-      "prices": {
-        "p2": {
-          "1": 200,
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800,
-          "56": 1440
-        },
-        "p3": {
-          "1": 280,
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900,
-          "56": 1620
-        }
-      },
-      "prices_p2": {
-        "1": 200,
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800,
-        "56": 1440
-      },
-      "prices_p3": {
-        "1": 280,
-        "7": 350,
-        "14": 500,
-        "21": 800,
-        "28": 900,
-        "56": 1620
-      },
-      "price_min": 200,
-      "lang_label": "",
-      "genre": "",
-      "categories": [],
-      "publisher": "EA Swiss Sarl",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.45,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00634_00/3/i_bd22c9c5ff495c10c426c43b96fdbaf5766a8c7cf9cb11996283ced3402d9292/i/icon0_01.png",
-      "screenshots": [
-        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTUl8dTIapNu46Viu2ClXm/BATTLEFRONT_01.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTJZCALi8N1v1QrewfnjQi/BATTLEFRONT_02.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTHZnZzi31s0zb9odvRPgt/BATTLEFRONT_03.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTi0H9uVBOdmwmPzTzciLf/BATTLEFRONT_04.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTgN9H9FKBGRs44wZQyFQT/BATTLEFRONT_05.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTyax6R5e4JeSstl8PEKnW/BATTLEFRONT_06.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTFLIf9s7f2KbiDeVLuM9F/BATTLEFRONT_07.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA00634_00/FREE_CONTENTybxr93dl9ExN6wry6tzv/BATTLEFRONT_08.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/213119",
-      "description": "Star Wars: Battlefront - настоящий погруз в мир Звёздной войны.  \n\nВсё, что нужно - и оружие Хана Соло, и эксклюзивные эмоции, которые украсят каждый бой.  \n\nДо 40 игроков вместе - драки, стратегия, битвы на планетах. А ты можешь даже смотреть игру с другого устройства.  \n\nГотов к выступлению в фронт? Просто возьми и начни.",
-      "seo_title": "Star wars Battlefront PS4 аренда игры",
-      "seo_descr": "Аренда Star wars Battlefront PS4 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:38:53Z"
     },
     {
       "id": "spider-man-remastered",
@@ -767741,75 +767931,6 @@
       "catalog_added_at": "2026-09-18T21:25:21Z"
     },
     {
-      "id": "humankind",
-      "slug": "humankind",
-      "sku": "rent-humankind",
-      "title": "Humankind PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 200,
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800,
-          "56": 1440
-        },
-        "p3": {
-          "1": 280,
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900,
-          "56": 1620
-        }
-      },
-      "prices_p2": {
-        "1": 200,
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800,
-        "56": 1440
-      },
-      "prices_p3": {
-        "1": 280,
-        "7": 350,
-        "14": 500,
-        "21": 800,
-        "28": 900,
-        "56": 1620
-      },
-      "price_min": 200,
-      "lang_label": "",
-      "genre": "",
-      "categories": [],
-      "publisher": "AMPLITUDE STUDIOS S.A.S.",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 3.05,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/OMuwkb08ac0MQxLGFpHXGIbX.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/zmS595NjOl2W3eYgxBZXAClk.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/Trce3ZRdHmTlNIJ8igQr7JmO.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/89MOS2qWhO8tMFRyb0yE774U.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/yKpoAIoE4YYIXZdmwCDsxyQV.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/GMVYT2a90N64WcbDDdIUPoW9.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/uQJhAZTX5mPzEvnoLi4i1V7y.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/CgfNRcTmNYjBYpL7irdmSCJo.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/fMYXmaLwlkiyIq5cm5o1FKel.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10004309",
-      "description": "Создай свою цивилизацию из 60 уникальных культур - от неолита до Нового времени.  \n\nКаждая культура - как свой шедевр: особенности, традиции, технологии и выборы, которые меняют мир.  \n\nПринимай решения, веди войны на земле, море и небе - каждый бой живёт в деталях.  \n\nВсё зависит от тебя. История - это не сценарий, а твоя игра. 🎮",
-      "seo_title": "Humankind PS5 аренда игры",
-      "seo_descr": "Аренда Humankind PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:38:29Z"
-    },
-    {
       "id": "house-of-ashes",
       "slug": "house-of-ashes",
       "sku": "rent-house-of-ashes",
@@ -768072,72 +768193,6 @@
       "seo_descr": "Аренда Hitman 2 - Gold Edition PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-09-18T21:25:21Z"
-    },
-    {
-      "id": "heavy-rain",
-      "slug": "heavy-rain",
-      "sku": "rent-heavy-rain",
-      "title": "Heavy Rain PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 200,
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800,
-          "56": 1440
-        },
-        "p3": {
-          "1": 280,
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900,
-          "56": 1620
-        }
-      },
-      "prices_p2": {
-        "1": 200,
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800,
-        "56": 1440
-      },
-      "prices_p3": {
-        "1": 280,
-        "7": 350,
-        "14": 500,
-        "21": 800,
-        "28": 900,
-        "56": 1620
-      },
-      "price_min": 200,
-      "lang_label": "",
-      "genre": "",
-      "categories": [],
-      "publisher": "Sony Interactive Entertainment",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "rating": 4.44,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02355_00/2/i_dd302d88e4df97ecd1e9bc39e877aeda171fc12b99a116be8666d431a8f46697/i/icon0.png",
-      "screenshots": [
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02356_00/FREE_CONTENT4ciyTekJeZnkiPzoAcAV/5.jpg",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02356_00/FREE_CONTENTaEmarIQPOdMNbUCJsL18/4.jpg",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02356_00/FREE_CONTENTiSnYKG5yrTk0O0RJ5NNa/3.jpg",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02356_00/FREE_CONTENTEibT2tImgK4d7pZch26M/2.jpg",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02356_00/FREE_CONTENTpCmVGKEwoG9XybjUeCVU/1.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/201902",
-      "description": "Охота за правдой - в каждом выборе.  \nВ «Heavy Rain» вы становитесь ведущим охоты за тайной Мастера Оригами, управляя четырьмя незнакомцами в жестком психологическом триллере.  \n\nВыбор ваш - определяет путь сюжета. Каждый шаг меняет ход истории.  \n\nРазработано Quantic Dream. Доступно на PS4 и PS5. 🕵️‍♂️",
-      "seo_title": "Heavy Rain PS5 аренда игры",
-      "seo_descr": "Аренда Heavy Rain PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:08Z"
     },
     {
       "id": "heavy-rain-beyond-two-souls",
@@ -769259,72 +769314,6 @@
       "seo_descr": "Аренда Drop Duchy - Complete Edition PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
-    },
-    {
-      "id": "dreams",
-      "slug": "dreams",
-      "sku": "rent-dreams",
-      "title": "Dreams PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 200,
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800,
-          "56": 1440
-        },
-        "p3": {
-          "1": 280,
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900,
-          "56": 1620
-        }
-      },
-      "prices_p2": {
-        "1": 200,
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800,
-        "56": 1440
-      },
-      "prices_p3": {
-        "1": 280,
-        "7": 350,
-        "14": 500,
-        "21": 800,
-        "28": 900,
-        "56": 1620
-      },
-      "price_min": 200,
-      "lang_label": "",
-      "genre": "",
-      "categories": [],
-      "publisher": "Sony Interactive Entertainment",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.34,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2913/NE6EsohLBmlXJmgxaIGHVjh9.png",
-      "screenshots": [
-        "https://static.tildacdn.com/stor6466-6533-4662-a636-386464633335/74387697.jpg",
-        "https://static.tildacdn.com/stor6234-6235-4635-a464-616465613031/11293907.jpg",
-        "https://static.tildacdn.com/stor6362-3836-4334-b938-363831373163/62666832.jpg",
-        "https://static.tildacdn.com/stor3935-3336-4130-a165-653136303363/73446179.jpg",
-        "https://static.tildacdn.com/stor3961-3237-4864-a230-323232346439/29023665.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/206887",
-      "description": "Игра Dreams на PS5 - твоя площадка для мечты.  \nСоздавай собственные игры, фильмы, музыку и арт - всё в 3D-реальности, как будто ты сама в мире.  \n\nМини-игры, уроки и крутые идеи уже доступны - начни творить прямо сейчас.  \n\nВсё это - в раннем доступе. Окончательная версия может измениться - но твоя фантазия остаётся в центре. 🌟",
-      "seo_title": "Dreams PS5 аренда игры",
-      "seo_descr": "Аренда Dreams PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:38:34Z"
     },
     {
       "id": "dracamar",
@@ -770624,7 +770613,7 @@
         "https://static.tildacdn.com/stor3236-3065-4466-a235-616136646162/21702785.jpg"
       ],
       "store_url": "",
-      "description": "Знакомый микс тактики и охоты из Второй мировой, но в максимально детальном режиме. В этой версии игры отключена устаревшая графика, чтобы каждый момент был четким и зримым, как на самом деле.\n\nПолучишь доступ ко всем сюжетным кампаниям и легендарным мультиплеер-режимам с расширенным контентом. Идеально подходит для тех, кто хочет поиграть в масштабные бои и сложные тактические дуэли в эпоху самых знаковых военных конфликтов XX века.",
+      "description": "Call of Duty: WWII Gold Edition - возвращаемся к битвам 1940-х, где каждый выстрел звучит как реальность.  \n\nНа Корейском полуострове начинается новая война - северные силы атакуют, а южнокорейские войска с капитаном Прайсом борются за каждую позицию.  \n\nМрачная атмосфера, напряжённые сцены и сюжет, который неожиданно поворачивается - всё это в той самой атмосфере, что ты помнишь.  \n\nГотовы к бою? Давай начнём. 💥",
       "seo_title": "Call of Duty: WWII Gold Edition PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty: WWII Gold Edition PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -770693,7 +770682,7 @@
         "https://static.tildacdn.com/stor6134-3166-4262-a131-363538353238/70463625.jpg"
       ],
       "store_url": "",
-      "description": "Вот твой новый уровень в Call of Duty: Modern Warfare III. Это не просто шутер, это настоящий адреналин с реалистичной графикой и динамичным геймплеем. Приходи поиграть, почувствуй, как круто ощущается оружие, и разберись с новыми врагами. Открывай новые режимы, выживай в битвах и побеждай в дуэлях.\n\nПросто заведи палочку в контроллер, включи звук и готовься к безумию!",
+      "description": "Call of Duty: Modern Warfare III - война перешагнула границы.  \n\nНа Корейском полуострове Северная Корея ведёт полномасштабное вторжение. Южнокорейские солдаты держатся на рушащейся линии фронта, а Прайс - как всегда - движется в тени, оставаясь шагом впереди врагов.  \n\nВойна выходит из-под контроля. В кампании - окопы, ближний бой в Нью-Йорке, погони по Парижу, рейды в Мумбае и масштабные штурмы за освобождение.  \n\nИгра в Warzone предлагает реальные боевые сценарии - каждый ход, каждый шаг определяют исход боя. В DMZ ты действуешь как агент: каждый рейд - это выбор: что взять, куда пойти и когда уходить.",
       "seo_title": "Call of Duty: Modern Warfare III PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty: Modern Warfare III PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -770762,7 +770751,7 @@
         "https://static.tildacdn.com/stor6361-3734-4731-b564-356631313165/24504131.jpg"
       ],
       "store_url": "",
-      "description": "Взрывайся в новой кампании Call of Duty: Modern Warfare II прямо на своей консоли! Это не просто продолжение, а полноценное обновление с новым сюжетом, персонажами и механиками, которые полностью перевернут привычный геймплей.\n\nНа PS5 ты получишь невероятную плавность управления и скорость стрельбы, тогда как на PS4 всё тоже работает отлично, сохраняя всю харизму легендарной франшизы. Установил - и готов к бою.",
+      "description": "Call of Duty: Modern Warfare II - возвращается к теме войны, но уже не просто так.  \n\nСеверная Корея атакует Южную Корею. На фронте - хаос, рушащиеся линии и борьба за выживание. А на заднем плане - капитан Прайс, как всегда, сидит в тени и ведёт мстительную войну.  \n\nСюжет перезагружает серию: от окопов в Корее до погони по Парижу, ближнего боя в Нью-Йорке и штурмов в Мумбае - всё это кричит о росте напряжения.  \n\nИгра насыщена реалистичными схватками: ты контролируешь каждый шаг, выбор и движение - и за каждым решением стоит риск. В DMZ ты не просто бежишь - ты принимаешь решения, которые могут изменить ход войны.",
       "seo_title": "Call of Duty: Modern Warfare II PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty: Modern Warfare II PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -770832,7 +770821,7 @@
         "https://static.tildacdn.com/stor6333-6234-4863-b739-333362356238/71025610.png"
       ],
       "store_url": "",
-      "description": "Нарядился в тактическую форму и готов к бойню. В «Modern Warfare 2» есть всё: от масштабных миссий под огнём врагов до бесконечной многопользовательской стрельбы с друзьями.\n\nДействуй как спецназовец, используй модификаторы оружия и открывай новые карты, где каждый поворот может стать решающим. Игра затягивает сразу после старта, не давая оглянуться на другие проекты.",
+      "description": "Call of Duty: Modern Warfare 2019 - война на корейском полуострове, где северная Корея делает шаг вперёд.  \n\nПрайс сражается из тени - не как герой в центре, а как человек в середине бури.  \n\nСначала - окопы в Корее, потом - ближний бой в Нью-Йорке. Война выходит из-под контроля.  \n\nГотовы к бою? Держи игру. 🎮",
       "seo_title": "Call of Duty: Modern Warfare 2019 PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty: Modern Warfare 2019 PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -770901,7 +770890,7 @@
         "https://static.tildacdn.com/stor6163-6165-4562-a439-333730653564/64566314.jpg"
       ],
       "store_url": "",
-      "description": "Встречайте Call of Duty: Modern Warfare Remastered! Это не просто рестарм, а настоящий кинематографичный шедевр от Treyarch. Игра полностью переосмыслена и переработана с нуля - даже интерфейс выглядит свежо, как в современных хитовых AAA-проектах.\n\nВсё это при сохранении той самой харизмы и атмосферы оригинальной части 2019 года. Геймплей отточен до блеска: динамичные бои, реалистичная физика оружия и глубокая кампания с сюжетом, который цепляет за собой с первых минут.\n\nИдеально подходит для тех, кто хочет погрузиться в мир современного военного конфликта на своей консоли PlayStation 4 или 5.",
+      "description": "Call of Duty: Modern Warfare 2 – всё как в оригинале, только с улучшенной картинкой и движением.  \n\nБолее чёткие текстуры, реалистичные анимации, физика – теперь каждый взрыв и шаг чувствуется на каждом кадре.  \n\nВ комплекте – набор «Классический Гоуст»: боевой пловец-подрывник для драк в MW и Warzone.  \n\nИграет не просто – она погружает.",
       "seo_title": "Call of Duty MW REMASTERED PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty MW REMASTERED PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -770975,7 +770964,7 @@
         "https://static.tildacdn.com/stor6363-3037-4432-b461-623938326166/18502198.jpg"
       ],
       "store_url": "",
-      "description": "Вам понадобится именно этот Call of Duty Ghost на PS4 или PS5, чтобы погрузиться в мрачную атмосферу войны и выжить против бесчисленных врагов в этом легендарном шутере.\n\nЭто не просто ещё один бой - здесь каждый шаг зашифрован в реальное время, а тактика стала ключом к победе над противниками.\n\nВыбирая аренду этой игры на PlayStation, вы получаете доступ к захватывающему сюжету и уникальному геймплею, который стоит каждого часа в игре.",
+      "description": "Call of Duty: Ghosts - возвращение легендарной серии в адреналин.  \n\nСражайся с друзьями от 2 до 18 игроков - плавная игра на 60 кадров в секунду, как в кино.  \n\nВходит в золотое издание: карты Onslaught, Nightfall и набор Волк.  \n\nЯзыки поддержки - английский, французский, немецкий, итальянский, испанский.  \nТребует загрузки до 12,8 ГБ - и готов к дуэли уже после первой загрузки. 🎮🔥",
       "seo_title": "Call of Duty Ghost PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty Ghost PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -771044,7 +771033,7 @@
         "https://static.tildacdn.com/stor3637-3837-4033-a131-386536363837/98927806.jpg"
       ],
       "store_url": "",
-      "description": "Знакомые ощущения от старого доброго Call of Duty? Пришло время вернуться к эпохе 2010-х и погрузиться в атмосферу Cold War. Это не просто шутер - это целый исторический детектив на фоне холодной войны.\n\nВы играете за солдата спецслужбы, которому предстоит выжить в хаосе между Востоком и Западом. Здесь нет привычных мультиплеера или бесконечных миссий - только мрачная атмосфера, скрытые враги и напряженные сюжетные линии, которые захватывают с первых минут.\n\nКлассика жанра, которая всегда на высоте, даже спустя годы. Идеально подходит для тех, кто хочет сыграть в настоящую военную историю.",
+      "description": "Call of Duty: Black Ops Cold War - возвращение к холодным войнам, где каждый шаг - по прямой линии к диктатурам и соперничеству.  \n\nСюжет уходит в начало 80-х - в эпоху глобальных рисков, секретных операций и борьбы за доминирование.  \n\nТы не просто стреляешь - ты думаешь как шпион. Всё сопровождается пакетом оружия «Противостояние» и личностью Капитана Прайса.  \n\nДля PS4 и PS5 - одна игра, два мира.",
       "seo_title": "Call of Duty Cold War PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty Cold War PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -771113,7 +771102,7 @@
         "https://static.tildacdn.com/stor6632-3737-4631-b634-313166646564/27253612.jpg"
       ],
       "store_url": "",
-      "description": "Захватывающий экшен от Call of Duty возвращается с новой силой в Cold War, где 1980-е переплетаются с тайной «Черного холода». Служба информации США разбита на дробь, и тебе предстоит выжить среди шпионов, террористов и мстительных гениев из будущего.\n\nПогрузись в атмосферу тоталитаризма, холодного оружия и смертельных ловушек. Здесь каждый шаг может привести к смерти или великому открытию, а твои решения будут иметь решающее значение для выживания человечества.",
+      "description": "Call of Duty: Black Ops III - настоящий бой за выживание в мире зомби.  \n\nТут не просто сражения - есть 8 переработанных карт, 20 флаконов Liquid Divinium и новые жевательные перки для режима Зомби.  \n\nКамуфляж «Улучшайзер» делает тебя незаметным среди толпы мёртвых.  \n\nИгра включает полноценную кампанию, сетевую игру и всё - от боя до хаоса в зомби-режиме.",
       "seo_title": "Call of Duty Cold Black Ops III PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty Cold Black Ops III PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -771182,7 +771171,7 @@
         "https://static.tildacdn.com/stor3630-3439-4437-b563-363139616664/66565742.jpg"
       ],
       "store_url": "",
-      "description": "Вот и ты, капитан! Пришло время снова взорвать карты в «Call of Duty: Black Ops 4» на PlayStation. Готовьтесь к настоящему адскому уровню насилия, где каждый бой - это новая миссия со своим уникальным сюжетом и режимом.\n\nВы можете выбрать, хотите ли вы погрузиться в мрачную историю Холодной войны или отправиться в космические бунтовские приключения с Бейсоном. Сбалансированный геймплей, динамичные бои и глубокая кампания гарантируют вам бесконечное веселье на несколько долгих вечеров подряд.\n\nВключите консоль и вперед - время, когда вы будете крушить врагов прямо в лицо, уже наступило!",
+      "description": "Зомби в деле - и это не просто шутка.  \nCall of Duty: Black Ops III с дополнением Zombies Chronicles - полноценный ужас в каждом движении. У вас есть 8 переработанных карт для зомби-режима, 20 флаконов Liquid Divinium и два новых жевательных перка. Даже оружие можно подключить к камуфляжу «Улучшайзер» - специально для зомби.  \n\nКампания, сетевая игра и режим \"Зомби\" - всё на одном диске. Всё работает с PS4 и PS5, но онлайн-режим требует PlayStation Plus.  \n\nСистема включает DUALSHOCK 4 с вибрацией, поддержку HD-выходов и загрузку по правилам PlayStation Network - просто используйте, если согласны с условиями.",
       "seo_title": "Call of Duty Black Ops IIII PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty Black Ops IIII PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -771248,78 +771237,12 @@
         "https://static.tildacdn.com/stor3562-3439-4231-b865-663965303638/97b9a977df97bad7631d771ec7ad2f0f.jpg"
       ],
       "store_url": "",
-      "description": "Пришло время вернуться в самые напряженные и захватывающие игры, когда бы они ни вышли - Call of Duty вернется с новой серией Black Ops на PlayStation. Это не просто продолжение франшизы, а настоящий приключенческий блокбастер для геймеров всех возрастов, где каждый момент переполнен экшеном и сюжетом.\n\nВ этой игре вас ждут легендарные миссии, проверившие прочность любого солдата, а также новые технологии и тактика, которые сделают бой еще более опасным. Готовы ли вы встать на сторону Боя?",
+      "description": "Call of Duty: Black Ops 7 - та самая драма, что ты ждёшь.  \nКорейский полуостров в битве, где каждый шаг - риск, а каждая сцена - напряжение.  \n\nТы будешь видеть, как война переплетается с личной судьбой - и как гибель одного превращает другого в охотника-убийцу.  \n\nИгра не просто в бою - она погружает в мрачный, насыщенный атмосферой мир без выхода из него.",
       "seo_title": "Call of Duty Black Ops 7 PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty Black Ops 7 PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2020-01-01T00:00:00Z",
       "from_vserent_cod": true
-    },
-    {
-      "id": "bullseye",
-      "slug": "bullseye",
-      "sku": "rent-bullseye",
-      "title": "Bullseye PS4",
-      "platform": "PS4",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "",
-      "genre": "",
-      "categories": [],
-      "publisher": "Sabec Limited",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "rating": 2.71,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2516/lhbKRiODLlccVeEzjEpUJPbc.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202106/2516/o2GluiwCC0U4Pxpy9DnftFi2.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202106/2516/nNhCIP4C10Y42fDL2WZ1Jbjp.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202106/2516/m69pMLrwLwWqLDWGYnFlHUMT.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202106/2516/Dc3cX0kQ1ow8DA6ron0pfWgx.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202106/2516/lo1UUmkQeZiwZR1BKaY6Hohr.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10003073",
-      "description": "Буллсайт – это не просто джойстик, а настоящий битвенный шарм.  \n\nТы ведёшь схватку за очки - каждый выстрел - как разрешение на новый уровень.  \n\nСильный, строгий, но с лёгкой иронией – игра для тех, кто любит точность и манёвр.  \n\nПроверь себя в центре круга – где каждый ход становится частью истории. 🎯",
-      "seo_title": "Bullseye PS4 аренда игры",
-      "seo_descr": "Аренда Bullseye PS4 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-08-24T15:39:17Z"
     },
     {
       "id": "brokenlore-follow",
