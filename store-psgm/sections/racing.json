@@ -1,76 +1,8 @@
 {
   "key": "racing",
   "title": "Гонки",
-  "updated_at": "2026-11-13T01:43:03Z",
+  "updated_at": "2026-11-14T01:47:02Z",
   "games": [
-    {
-      "slug": "beamng-drive-ps5",
-      "title": "BeamNG.drive PS5",
-      "mark": "NEW",
-      "price_from": 390,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3833-3736-4837-b631-343463363231/2366d56572cdb16bb7e6d6cfca704e0e.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3833-3736-4837-b631-343463363231/2366d56572cdb16bb7e6d6cfca704e0e.jpg",
-        "https://static.tildacdn.com/stor6531-3235-4937-b531-336266333835/3ed3ee37b8a46e08775a0bbda1b34b17.jpg",
-        "https://static.tildacdn.com/stor3439-6532-4463-b533-303863663534/7fa527e9f7a4aacfc3ecb4b9a283e5d5.jpg",
-        "https://static.tildacdn.com/stor3264-3463-4433-b335-376539386163/5b3473f0a9397c558f40120ff7076ac9.jpg",
-        "https://static.tildacdn.com/stor3838-3234-4631-b263-633665343666/a1416e4b177ca251463d6ec816c11809.jpg",
-        "https://static.tildacdn.com/stor3038-3162-4131-b133-363531653433/a92538102145c407f816d018e61cdf45.jpg",
-        "https://static.tildacdn.com/stor3165-3439-4636-b361-663732366130/e895be96641e4efc1daf0f112b0a369f.jpg",
-        "https://static.tildacdn.com/stor6639-3061-4634-a639-346435363337/924a0c92ab48d3899880314201b9d150.jpg"
-      ],
-      "description": "BeamNG.drive — аренда на PS5. Оформите аренду и начните играть сразу после оплаты.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Гонки",
-        "Приключения",
-        "Стратегии и симуляторы"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 390,
-          "7": 490,
-          "14": 890,
-          "21": 1190,
-          "28": 1290
-        },
-        "p3": {
-          "1": 490,
-          "7": 590,
-          "14": 990,
-          "21": 1190,
-          "28": 1290
-        }
-      },
-      "tilda_uid": "669411758503",
-      "sku": "",
-      "external_id": "sknB_LhQYqmkmAQjww1v",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/669411758503-beamng-drive-ps5",
-      "seo_title": "BeamNG.drive на PS5 аренда игры",
-      "seo_descr": "Аренда BeamNG.drive на PS5. Увлекательная игра в жанре симулятор, гонки на PlayStation. Быстрый доступ после оплаты.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28
-      ]
-    },
     {
       "slug": "disney-speedstorm-ps5",
       "title": "Disney Speedstorm PS5",
@@ -121,199 +53,6 @@
       "url": "http://arenapsgm.ru/gamescatalog/tproduct/951963603253-disney-speedstorm-ps5",
       "seo_title": "Disney Speedstorm на PS5 аренда игры",
       "seo_descr": "Аренда Disney Speedstorm на PS5. Disney Speedstorm - идеальная геройская гоночная игра на выживание, действие которой происходит на высокоскоростных трассах, вдохновленных мирами Disney и Pixar. Быстрый доступ после оплаты.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "flatout-4-total-insanity-ps4",
-      "title": "FlatOut 4: Total Insanity PS4",
-      "mark": "NEW",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07458_00/4/i_ced1d2e5ac5d7d073356b373671306807f097e1a6716af589de4b46bbfe8b02d/i/icon0.png",
-      "screenshots": [
-        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07458_00/4/i_ced1d2e5ac5d7d073356b373671306807f097e1a6716af589de4b46bbfe8b02d/i/icon0.png",
-        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENT9YQg7BIe9K2zO1VmQTma/PREVIEW_SCREENSHOT9_151988.jpg",
-        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTrBa0qAb414KWkE7qaqML/PREVIEW_SCREENSHOT8_151988.jpg",
-        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTCJBHocpe5QcsaJkXNVwU/PREVIEW_SCREENSHOT7_146910.jpg",
-        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTt5QkECunpLFAmEOvojXq/PREVIEW_SCREENSHOT6_146910.jpg",
-        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTUfeLaqGqHzev8ZgQE9OP/PREVIEW_SCREENSHOT3_146910.jpg",
-        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENT7Yzuqmpgs7A6y35rcNgp/PREVIEW_SCREENSHOT4_146910.jpg",
-        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTOCT9v3LGTnCFJ8BrMeCN/PREVIEW_SCREENSHOT5_146910.jpg"
-      ],
-      "description": "Прочувствуйте безумие FlatOut снова!\nНатиск, бойня, арена и другие: разрушайте все!\nУНИЧТОЖАЕМЫЕ МАШИНЫ И ОКРУЖЕНИЕ\nМНОГОПОЛЬЗОВАТЕЛЬСКИЕ РЕЖИМЫ\nДо 8 игроков в сети: выбейте самых диких пилотов!\nМасл-кары, внедорожники, фургоны с мороженым… Выберите свое!\nЗУБОДРОБИТЕЛЬНАЯ СКОРОСТЬ\nНитроглицериновое турбо вдавит вас в кресло!\nВОЗВРАЩЕНИЕ ЛЕГЕНДАРНОГО РЕЖИМА ТРЮКОВ\nГольф, Футбол, Стакан-понг… Заработайте своим пилотом максимум очков!\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Гонки",
-        "Новинки"
-      ],
-      "platforms": "PS4",
-      "platform_ps4": true,
-      "platform_ps5": false,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 699,
-          "28": 799
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 799,
-          "28": 899
-        }
-      },
-      "tilda_uid": "115034162393",
-      "sku": "",
-      "external_id": "v0njUNABe25c3aeLPcZk",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/115034162393-flatout-4-total-insanity-ps4",
-      "seo_title": "FlatOut 4: Total Insanity на PS4 аренда игры",
-      "seo_descr": "Аренда FlatOut 4: Total Insanity на PS4. Прочувствуйте безумие FlatOut снова! Натиск, бойня, арена и другие: разрушайте все! Быстрый доступ после оплаты.",
-      "rating": 3.35,
-      "release_date": "17/3/2017",
-      "publisher": "SIDEWALK GAMES LLC",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/227117",
-      "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07458_00/4/i_ced1d2e5ac5d7d073356b373671306807f097e1a6716af589de4b46bbfe8b02d/i/icon0.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "lonely-mountains-downhill-ps4",
-      "title": "Lonely Mountains: Downhill PS4",
-      "mark": "NEW",
-      "price_from": 257,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3964-3938-4130-b161-386666323936/a26bf31d7b7d3e4572a7ca96561407a3.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3964-3938-4130-b161-386666323936/a26bf31d7b7d3e4572a7ca96561407a3.jpg",
-        "https://static.tildacdn.com/stor3631-3936-4439-b535-333639653263/292fcfc33ade36363c748f9f8eda7026.jpg",
-        "https://static.tildacdn.com/stor6639-3535-4164-a338-363264383036/69baa853d30712f3e55888154525eda9.jpg",
-        "https://static.tildacdn.com/stor3838-3234-4233-b166-393065373736/c12758788439a74f10ffc9f8fee19692.jpg",
-        "https://static.tildacdn.com/stor6363-3437-4066-b231-396663633334/0f2e76aeb2c166883127947971af5057.jpg",
-        "https://static.tildacdn.com/stor6366-6630-4639-a263-316561346334/46416816509b34aa878dc0c104959679.jpg",
-        "https://static.tildacdn.com/stor3966-6239-4061-b633-366362373034/8f9b99f08c4436af1b019f4d47e87857.jpg",
-        "https://static.tildacdn.com/stor6165-3835-4266-a365-333634383863/967ffebbaa8a0a8e2e28307c77e62bc9.jpg"
-      ],
-      "description": "Представляем полную коллекцию Lonely Mountains с Lonely Mountains: Downhill Bundle. Покоряйте склоны, найдите свой уникальный стиль и заберитесь на вершину таблицы лидеров!\nВ The Lonely Mountains: Downhill Bundle входят:\n- Lonely Mountains: Downhill (основная игра)\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Все игры",
-        "Спорт",
-        "Гонки"
-      ],
-      "platforms": "PS4",
-      "platform_ps4": true,
-      "platform_ps5": false,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 257,
-          "7": 357,
-          "14": 490,
-          "21": 699,
-          "28": 799
-        },
-        "p3": {
-          "1": 357,
-          "7": 459,
-          "14": 590,
-          "21": 799,
-          "28": 899
-        }
-      },
-      "tilda_uid": "737463293673",
-      "sku": "",
-      "external_id": "XCNDHbGCNIrbxgT73mZp",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/737463293673-lonely-mountains-downhill-ps4",
-      "seo_title": "Lonely Mountains: Downhill на PS4 аренда игры",
-      "seo_descr": "Аренда Lonely Mountains: Downhill на PS4. Представляем полную коллекцию Lonely Mountains с Lonely Mountains: Downhill Bundle. Покоряйте склоны, найдите свой уникальный стиль и заберитесь на вершину таблицы… Быстрый доступ после оплаты.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "mxgp-26-the-official-game-ps5",
-      "title": "MXGP 26 - The Official Game PS5",
-      "mark": "NEW",
-      "price_from": 697,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3664-3164-4138-b162-393764363738/ab59b8981e68231018fa30eb716c1037.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3664-3164-4138-b162-393764363738/ab59b8981e68231018fa30eb716c1037.jpg",
-        "https://static.tildacdn.com/stor3866-3063-4664-b437-336134626631/cb8796600faf138e001f45b780a6adf4.jpg",
-        "https://static.tildacdn.com/stor3464-6231-4739-b034-643062643436/0d1dd53f7abe9b413908f6e40801570c.jpg",
-        "https://static.tildacdn.com/stor3361-6163-4135-b435-323937303130/48591dc57b1ef6bedd05abf47698cd9b.jpg",
-        "https://static.tildacdn.com/stor3966-3832-4365-a431-313635303461/377d14db79ad59804b12d281cbedfa96.jpg",
-        "https://static.tildacdn.com/stor3864-3063-4862-b535-326365663830/fb26ab9ca48d3e1d96b9d09080c6e8eb.jpg",
-        "https://static.tildacdn.com/stor3264-3938-4563-b232-346431323335/25ec8435de26fc9fbf1f532561844305.jpg",
-        "https://static.tildacdn.com/stor3033-3430-4333-b837-616161383834/dd79f2ad49128b9deaafa6ab50540a6d.jpg"
-      ],
-      "description": "ОФИЦИАЛЬНОЕ ПРЕДСТАВЛЕНИЕ ЛИЦЕНЗИИ MXGP:\nИграйте за своих любимых гонщиков и соревнуйтесь на всех 19 официальных трассах сезона в категориях MXGP и MX2. Каждый поворот, каждый трамплин и каждый участок трассы были воссозданы с беспрецедентной точностью, чтобы перенести вас в самый центр официального сезона.\nВпервые в истории франшиза MXGP переходит на максимальную скорость благодаря новому движку Unreal Engine 5. Результат? Впечатляющая графическая эволюция, которая переопределяет стандарты жанра. Освещение, текстуры и детали окружения лишат вас дара речи. Анимация гонщиков, ставшая более плавной и естественной, чем когда-либо, заставит вас почувствовать себя так, будто вы сами сидите за рулем байка.\nТРАССА ОЖИВАЕТ: ОВЛАДЕЙТЕ ДИНАМИЧЕСКОЙ ДЕФОРМАЦИЕЙ\nЭто ТА самая новая функция, которая полностью меняет правила игры! Впервые в истории покрытие реагирует на каждый проезд колеса в режиме реального времени. Прорезайте глубокие колеи, создавайте новые траектории и доминируйте на них. Трасса постоянно меняется, что подвергнет серьезному испытанию ваш талант и способность адаптироваться, ведь влияние на физику здесь абсолютно реально, и вам придется подстраиваться под изменяющиеся траектории движения.\nИГРОВЫЕ РЕЖИМЫ ДЛЯ СОЗДАНИЯ ВАШЕЙ ЛЕГЕНДЫ:\nСвободно оттачивайте свои трюки (scrubs и whips) в режиме Compound (свободная тренировочная зона) или боритесь за лучший круг в Time Trial (заезд на время).\nНастроены на соперничество? Вырвите holeshot (лидерство на старте) в режиме Quick Race (быстрая гонка) против сетки из 20 неистовых гонщиков и сражайтесь за сохранение своей позиции в коротких или длинных заездах. Проживите сезон своей мечты и завоюйте красную пластину лидера (red plate) в режиме Championship (чемпионат).\nНаконец, когда стартовые ворота упадут в режиме Online Multiplayer (сетевая игра), покажите всему миру, кто является лучшим гонщиком на планете, благодаря глобальной таблице лидеров.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Спорт",
-        "Гонки"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078
-        },
-        "p3": {
-          "1": 497,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933
-        }
-      },
-      "tilda_uid": "877394089753",
-      "sku": "",
-      "external_id": "L_efOxVyEboTNt8WYZ5T",
-      "url": "http://arenapsgm.ru/tproduct/877394089753-mxgp-26-the-official-game-ps5",
-      "seo_title": "MXGP 26 - The Official Game на PS5 аренда игры",
-      "seo_descr": "Аренда MXGP 26 - The Official Game на PS5. ОФИЦИАЛЬНОЕ ПРЕДСТАВЛЕНИЕ ЛИЦЕНЗИИ MXGP: Играйте за своих любимых гонщиков и соревнуйтесь на всех 19 официальных трассах сезона в категориях MXGP и MX2. Быстрый доступ после оплаты.",
       "rating": null,
       "release_date": "",
       "publisher": "",
@@ -396,66 +135,6 @@
       ]
     },
     {
-      "slug": "need-for-speed-2015-ps4-ps5",
-      "title": "Need For Speed (2015) PS4/PS5",
-      "mark": "Хит",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3862-6338-4464-b436-616164623734/55646011.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3862-6338-4464-b436-616164623734/55646011.jpg",
-        "https://static.tildacdn.com/stor3364-3836-4630-b431-323032383037/33002902.jpg",
-        "https://static.tildacdn.com/stor3164-3535-4532-b762-643732306661/70800894.jpg",
-        "https://static.tildacdn.com/stor3134-3763-4233-b235-313136643064/31926840.jpg",
-        "https://static.tildacdn.com/stor3962-3730-4434-b234-326463373139/90579144.jpg",
-        "https://static.tildacdn.com/stor3736-6661-4263-a432-653630653038/97823607.jpg"
-      ],
-      "description": "Станьте иконой автокультуры в Need for Speed™. Гоняйте по огромному ночному открытому миру, демонстрируйте свой стиль с помощью подлинной автомодификации и погружайтесь в сюжет с участием реальных легенд вроде Магнуса Уолкера и Кена Блока.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Спорт",
-        "Гонки"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "tilda_uid": "732877644742",
-      "sku": "",
-      "external_id": "dbXaaT8oBzupjSzvkGAd",
-      "url": "http://arenapsgm.ru/tproduct/732877644742-need-for-speed-2015-ps4-ps5",
-      "seo_title": "Need For Speed (2015) PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Need For Speed (2015) PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Need For Speed (2015) PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
       "slug": "roadcraft-ps5",
       "title": "RoadCraft PS5",
       "mark": "NEW",
@@ -512,136 +191,6 @@
       "store_url": "https://store.playstation.com/en-tr/concept/10006025",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2815/df37826fe46f3e622a6132b50e5f3d7e260bd1594dff35c2.png",
       "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "scooterflow-ps5",
-      "title": "ScooterFlow PS5",
-      "mark": "NEW",
-      "price_from": 257,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor6335-6633-4736-b434-326365363663/e306f48e0a83b6adbff21adcfb5f2c51.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor6335-6633-4736-b434-326365363663/e306f48e0a83b6adbff21adcfb5f2c51.jpg",
-        "https://static.tildacdn.com/stor3764-6438-4231-b862-336131356538/a3e1e22064e5f44e65bcf488a4351e5e.jpg",
-        "https://static.tildacdn.com/stor3738-6636-4461-a361-373361643064/1c2df82b2be58d36b1b188f5354ea746.jpg",
-        "https://static.tildacdn.com/stor6233-3163-4037-b330-376261316166/5ddd3717fe92fceb7c1683777eb97945.jpg",
-        "https://static.tildacdn.com/stor6239-3966-4333-b366-643561373237/acf59a0eb6bd79c4a69d5b14bf995836.jpg",
-        "https://static.tildacdn.com/stor6533-3638-4335-a163-383533623733/08670a1020be298e6b5785db59e14e3b.jpg",
-        "https://static.tildacdn.com/stor3238-6430-4333-b934-663137623139/33e1a73d34b06e889fad51a04c47a196.jpg",
-        "https://static.tildacdn.com/stor6434-3339-4631-a535-363632636232/c907b6b48f57468acc09d2c626aae3ca.jpg"
-      ],
-      "description": "ScooterFlow — аренда на PS5. Оформите аренду и начните играть сразу после оплаты.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Все игры",
-        "Только PS5",
-        "Спорт",
-        "Гонки"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 257,
-          "7": 357,
-          "14": 490,
-          "21": 699,
-          "28": 799
-        },
-        "p3": {
-          "1": 257,
-          "7": 459,
-          "14": 590,
-          "21": 799,
-          "28": 899
-        }
-      },
-      "tilda_uid": "196088989203",
-      "sku": "",
-      "external_id": "esf-zzLfAjbPxzde11e-",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/196088989203-scooterflow-ps5",
-      "seo_title": "ScooterFlow на PS5 аренда игры",
-      "seo_descr": "Аренда ScooterFlow на PS5. Динамичный спортивный симулятор для фанатов соревнований. Быстрый доступ после оплаты.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "star-wars-galactic-racer-ps5",
-      "title": "STAR WARS: Galactic Racer PS5",
-      "mark": "NEW",
-      "price_from": 697,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3333-3739-4939-a531-323762623135/aa16fe177615438f5d2cd76307bee1ba.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3333-3739-4939-a531-323762623135/aa16fe177615438f5d2cd76307bee1ba.jpg",
-        "https://static.tildacdn.com/stor3632-3465-4137-a438-656232383166/a9dae2670c3127c3ccf88d15104c063b.jpg",
-        "https://static.tildacdn.com/stor3237-6532-4965-b333-376438366636/1cd0f0146c68fc6b522cbfa0f2067127.jpg",
-        "https://static.tildacdn.com/stor6432-3936-4137-b865-663661383464/a34d5a20779c0a872c352133be799439.jpg",
-        "https://static.tildacdn.com/stor3964-3130-4266-a464-336537633135/98800f80d5cc54c9e62af7d51faab728.jpg",
-        "https://static.tildacdn.com/stor6364-6336-4863-b336-306432343266/670272d9679e7e2040289476da43c05a.jpg"
-      ],
-      "description": "«Предзаказ - Требует немедленной оплаты»\nПодробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного соглашения Sony Entertainment Network. Автоматическая загрузка осуществляется, если на системе PS5™ включены настройки «Автоматический вход в систему» и «Автоматический вход в сеть».\nОформите предзаказ прямо сейчас, чтобы получить следующий цифровой контент:\n• Эксклюзивная бонусная окраска для вашего репульсоркрафта за предзаказ\n• Эксклюзивный баннер игрока для многопользовательских режимов: бонус за предзаказ\nПримечание. Бонусный контент за предзаказ позже может появиться в продаже.\nSTAR WARS: Galactic Racer™ — это новая версия гонок с высокими ставками в формате отдельных заездов, зародившаяся во Внешнем кольце галактики Звездных войн™, где царит беззаконие.\nИмперия больше не властна над галактикой, и с ее падением появилась новая страсть: скорость. Пока Новая республика возрождает галактику, подполье процветает за счет азартных игр, развлечений и желания прославиться.\nИз этого хаоса родилась Галактическая лига — незаконная гонка, где синдикаты спонсируют пилотов, состояния переходят из рук в руки за считаные секунды, а выживают только самые смелые.\nНикакой Силы. Никаких пророчеств. Только мастерство, стратегия и стремление к победе.\nУЧАСТВУЙТЕ В ОПАСНЫХ ГОНКАХ\nУправляя спидерами, спидербайками, скимспидерами и гоночными подами, вам предстоит сбивать, таранить и уничтожать соперников на разнообразных трассах. Чем выше риск, тем больше награда.\nВЫЖИВАЙТЕ В ОПАСНОМ ПОДПОЛЬНОМ СПОРТЕ\nПрисоединяйтесь к Галактической лиге — незаконной гонке, зародившейся во Внешнем кольце, где царит беззаконие. Станьте Шейдом, одиноким гонщиком, жаждущим мести и славы.\nСОЗДАЙТЕ И НАСТРОЙТЕ СВОЙ КОРАБЛЬ\nУправляйте репульсорными кораблями разных классов, каждый из которых отличается уникальными ообенностями управления и стилем игры. Создайте корабль, который подчеркнет ваш стиль и поможет обойти соперников.\nСРАЖАЙТЕСЬ С СОПЕРНИКАМИ В НЕСКОЛЬКИХ ИГРОВЫХ РЕЖИМАХ\nПройдите в одиночку сюжетную кампанию, заключая то один, то другой союз, или отважно сражайтесь в стратегических дуэлях с другими игрокам, где на кону стоит ваша репутация.\nПОДНИМАЙТЕСЬ В РЕЙТИНГЕ И ПОЛУЧАЙТЕ НАГРАДЫ\nПроявите себя в напряженных состязаниях и сложных испытаниях. Каждый выбор определяет ваши перспективы и влияет на ваш статус в Галактической лиге.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Игры на двоих",
-        "Гонки"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078
-        },
-        "p3": {
-          "1": 497,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933
-        }
-      },
-      "tilda_uid": "176836858383",
-      "sku": "",
-      "external_id": "wcE6_iH6TjkmUD6-z_BA",
-      "url": "http://arenapsgm.ru/tproduct/176836858383-star-wars-galactic-racer-ps5",
-      "seo_title": "STAR WARS: Galactic Racer на PS5 аренда игры",
-      "seo_descr": "Аренда STAR WARS: Galactic Racer на PS5. «Предзаказ - Требует немедленной оплаты» Подробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного… Быстрый доступ после оплаты.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        1,
         7,
         14,
         21,
@@ -727,61 +276,6 @@
         14,
         21,
         28
-      ]
-    },
-    {
-      "slug": "assetto-corsa-competizione-ps4-ps5",
-      "title": "Assetto Corsa Competizione PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202006/0821/BslGKgFzwgNgHGD1YiXr5kOf.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0821/BslGKgFzwgNgHGD1YiXr5kOf.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/1ccbd433eba4e4022861590bd3be0ff94ba14dffe38a96a0.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/452c8f2afeb6653dff5e78add4c247d73e67077d91fd8d81.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/af45a8c27669a16c59772a1182b2344b4d4c3f4994f93232.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/6c7df04bd8929910d50a443fc8720a422976fa9fe96059d3.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/d4c5c22106532852735013a283c887abcc76297d6adfdbbd.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/68866af72f54233e17ad9e57ea4fdad1690d736bdf5fe238.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0907/84ym7eYMeAWmn8w8bnIS1NfZ.jpg"
-      ],
-      "description": "Assetto Corsa Competizione от KUNOS Simulazioni предлагает реалистичный гоночный симулятор с точным моделированием движений автомобилей. Включает полный сезон Fanatec GT World Challenge Europe 2024 и ливреи за период с 2021 по 2024 год. Доступна сетевая игра до 30 участников и бесплатные личные лобби. Игра выходит на PS5 24 февраля 2022 года с улучшенной графикой и частотой ка…",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Спорт",
-        "Гонки"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700
-        },
-        "p3": {}
-      },
-      "tilda_uid": "236077326402",
-      "sku": "",
-      "external_id": "tNVbaEfHlrv2eN7l1439",
-      "url": "http://arenapsgm.ru/tproduct/236077326402-assetto-corsa-competizione-ps4-ps5",
-      "seo_title": "Assetto Corsa Competizione PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Assetto Corsa Competizione PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Assetto Corsa Competizione PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 3.67,
-      "release_date": "22/2/2022",
-      "publisher": "505 GAMES S.R.L.",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/234902",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2922/42a58ec7aff10990d3af0c968e9223b9f3b0e1aa7c516ae8.png",
-      "rent_days": [
-        7,
-        14,
-        21
       ]
     },
     {
@@ -891,6 +385,68 @@
       "url": "http://arenapsgm.ru/tproduct/230065743762-cars-3-ps4-ps5",
       "seo_title": "Cars 3 PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
       "seo_descr": "Аренда Cars 3 PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Cars 3 PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "crash-team-racing-nitro-fueled-spyro-game-bundle-ps4-ps5",
+      "title": "Crash Team Racing: Nitro-Fueled + Spyro Game Bundle PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3663-3163-4761-b061-646235643363/32200082.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3663-3163-4761-b061-646235643363/32200082.jpg",
+        "https://static.tildacdn.com/stor3735-3636-4836-a164-633137366636/82590660.jpg",
+        "https://static.tildacdn.com/stor6133-3466-4635-a232-326430663937/75720867.jpg",
+        "https://static.tildacdn.com/stor3933-3664-4339-b565-396437313738/22927280.jpg",
+        "https://static.tildacdn.com/stor6263-3537-4332-a234-366362623633/59976762.jpg",
+        "https://static.tildacdn.com/stor6133-6538-4661-a662-393961393130/24755356.jpg",
+        "https://static.tildacdn.com/stor3235-3733-4166-a239-393931323961/dff8d87341315c2fff94aa1835b15f98.jpg"
+      ],
+      "description": "Бандикут Крэш снова за рулем, а дракончик Спайро прибавляет жара! Наслаждайтесь легендарными схватками в наборе Crash™ Team Racing Nitro-Fueled* и Spyro™ Reignited Trilogy, куда входят четыре полных игры!\nВ комплекте:\n- Crash™ Team Racing Nitro-Fueled\n- Spyro™ Reignited Trilogy\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики",
+        "Гонки"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "132096178022",
+      "sku": "",
+      "external_id": "btRFIhrpPTxas1bn87pu",
+      "url": "http://arenapsgm.ru/tproduct/132096178022-crash-team-racing-nitro-fueled-spyro-game-bundle-ps4-ps5",
+      "seo_title": "Crash Team Racing: Nitro-Fueled + Spyro Game Bundle PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Crash Team Racing: Nitro-Fueled + Spyro Game Bundle PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Crash Team Racing: Nitro-Fueled + Spyro Game Bundle PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
       "rating": null,
       "release_date": "",
       "publisher": "",
@@ -1072,6 +628,66 @@
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10005462",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202312/2011/159a73262b5ae84eb770e4e6d8e5fa89f9b548b598e4824e.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "forza-horizon-5-ps5",
+      "title": "Forza Horizon 5 PS5",
+      "mark": "",
+      "price_from": 350,
+      "price_old": 690,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/42b3ee6b1b2094212231b0b0a82824f687fc5c4dc9bde31c.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/42b3ee6b1b2094212231b0b0a82824f687fc5c4dc9bde31c.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/1219/a39f264d4cf10a29197d28c848411e711583901dbaa6df29.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/1219/f786499c1bb0565b00febb2dcee8d04911bb235c310f393d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/1219/028499dd0faf6d1a141f0629ef5d43396c48f4d4991afcf1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/1219/de66fcc463c3a31f31f27353e74df81f214b18ca530a2bed.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/1219/088a280474227e833cb59b7f52586b1f265759c113bdf38f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/1219/02fb3147fc172cb0fb67a32a07de55a2ea046ab8f8f73496.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202502/1219/c52e465919d6a86df2bd075ca2ebba46cb5e3c00177fddc1.jpg"
+      ],
+      "description": "Forza Horizon 5 предлагает путешествие по живописной Мексике в открытом мире. Игра сочетает реалистичное движение и разнообразные пейзажи. На PS5 вы можете управлять лучшими автомобилями в мире, наслаждаясь динамичными сценами.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Гонки",
+        "Приключения",
+        "Новинки",
+        "Test Drive Рекомендации"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {},
+        "p3": {
+          "7": 450,
+          "14": 500,
+          "21": 690,
+          "28": 795
+        }
+      },
+      "tilda_uid": "268834177852",
+      "sku": "",
+      "external_id": "IuLRmnkHhHfjA0PsRtD1",
+      "url": "http://arenapsgm.ru/tproduct/268834177852-forza-horizon-5-ps5",
+      "seo_title": "Forza Horizon 5 PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Forza Horizon 5 PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Forza Horizon 5 PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.08,
+      "release_date": "29/4/2025",
+      "publisher": "Microsoft Corporation",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10010647",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/42b3ee6b1b2094212231b0b0a82824f687fc5c4dc9bde31c.png",
       "rent_days": [
         7,
         14,
@@ -1328,203 +944,28 @@
       ]
     },
     {
-      "slug": "need-for-speed-heat-ps4-ps5",
-      "title": "Need for Speed Heat PS4/PS5",
+      "slug": "pacific-drive-ps5",
+      "title": "Pacific Drive PS5",
       "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/3121/Xz6kd2CORZxe8JnfNJwvA35A.png",
+      "price_from": 350,
+      "price_old": 490,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0710/516003921755aa5cb8873cb08c22b172141e997a0d5cd075.png",
       "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202210/3121/Xz6kd2CORZxe8JnfNJwvA35A.png",
-        "https://image.api.playstation.com/vulcan/img/cfn/1130774LFhxWa4hp1hG-m8cL76CUSCq58cO5nsLT5GUpfFUYylGzicrc2DS2KIzDSSUNk4SYJskuenxaQgodPRoHROUrw9qt.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/11307voF08iltrbdTmOUuJUdsX_shzDetAA1H7-n36nqhl1gcqEbxucHxzb5MHWUNHL_wCPIj_dwbOoY-olIqv05QHY8WTLa.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/11307xAWNLr6oMyepaTpsiFs-LlqrVLAnCrKVMv6Up12w9ug94VqubW3sQT7sabnwc1x5lrlwoyKg-CC3DdRh2fzUQc9q-R8.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/113073WVB5rfcIxMuetB4g4fnR5K8XElMxIIF3Xld1i852rwrPVXPObxYZTrd7P-xYDQI-T1G_VYhVsHkID1hv-jyjMMft8v.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/113073fdCs-WRswRFfiTTtaSPkrWTysqZiXS0dJSGcU40QUMRHezzepWGg3pK06G2b0Fh3mA9DTspprw3QXQuGtgQBIN3VNP.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/11307mwlhhsxvpmV4RNlq92782ZLgT8rVu_oF-v0QWcRAvCcxe-eWBcWigA80VRYFZK75GkNkTH3-si8hCaM69eUt_AmYlwr.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/11307R7ZaBLsctVaNBfpfVoU9me1ZvyypO0m8wjAJFh5_2OwKzfVQNpKA6rtAdtj8Kr-eEbR6GDNDn_iHC751aMFi-kdK6Pd.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0710/516003921755aa5cb8873cb08c22b172141e997a0d5cd075.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202302/0916/0190f554aa29c98758c4ca65508be2f1f36eb7d6f2b6b5dc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202302/0916/80f6b59495a20fbb0d10146357d1a50cca3a4eb14a3f412a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202302/0916/8cb3188d54960a6d16385a6f196236e31b08dad9369680d4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202302/0916/e0bda2bd08a9442d282d2a299b1e719a51e85d0789f02c0d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202302/0916/8fd3bc6e9b2d9ab87ba07d19d947dc879a83d9c8f22995c8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202302/0916/dad4543b35ccd05a65823a5995019aae4b7fa519b698834d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202302/0916/61c9053b56dbbd43542e2a1d1dfa5456eaac97f3766c3193.jpg"
       ],
-      "description": "Need for Speed Heat - захватывающая игра о гонках днём и ночью, где вы сталкиваетесь с лучшими силами полиции. Поддерживает сетевые сессии от 2 до 16 игроков. Доступна на PS4 и PS5. Вход в PlayStation Network требуется только при использовании вне основной системы.",
+      "description": "Pacific Drive - это игра на выживание от первого лица, где ваш автомобиль является единственным союзником. Путешествуйте по северо-западу Тихоокеанского побережья, сталкиваясь с потусторонними опасностями и аномалиями в Олимпийской зоне отчуждения. Улучшайте свой универсал, ремонтируйте детали и укрепляйте защиту, чтобы противостоять радиации и неожиданным угрозам.",
       "categories": [
         "Лента на главной",
         "Все игры",
-        "Гонки",
-        "Спорт"
-      ],
-      "platforms": "PS4",
-      "platform_ps4": true,
-      "platform_ps5": false,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "tilda_uid": "885675427242",
-      "sku": "",
-      "external_id": "XVkh1CMr9lCxUxODyA35",
-      "url": "http://arenapsgm.ru/tproduct/885675427242-need-for-speed-heat-ps4-ps5",
-      "seo_title": "Need for Speed Heat PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Need for Speed Heat PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Need for Speed Heat PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.18,
-      "release_date": "8/11/2019",
-      "publisher": "EA Swiss Sarl",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/234659",
-      "edition_banner": "https://image.api.playstation.com/vulcan/img/cfn/11307R87SrW3Yr7RA9ESXk5WOEB8ObJ6j7fbURaqaxjNbd_47opwybMB8knvffi9aySGNlrBopb6qS4YClmwt-IcDbcjDekI.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "need-for-speed-payback-ps4-ps5",
-      "title": "Need for Speed Payback PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/3122/P3Apt9Q4oXtXArsrnl0R6XTh.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202210/3122/P3Apt9Q4oXtXArsrnl0R6XTh.png",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA05986_00/FREE_CONTENTNEuXWy0zDmpoiNJo7MLv/PREVIEW_SCREENSHOT1_525766.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA05986_00/FREE_CONTENTQE2jiw9dRzmvjKX4Kgi0/PREVIEW_SCREENSHOT2_525766.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA05986_00/FREE_CONTENTxZKs1fff0XJ5WEWgDg7G/PREVIEW_SCREENSHOT3_525766.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA05986_00/FREE_CONTENTGwhrCIPH6YHjIGnZfTgu/PREVIEW_SCREENSHOT4_525766.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA05986_00/FREE_CONTENTMRaO7yk7hOSh0fpybxmO/PREVIEW_SCREENSHOT5_525766.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA05986_00/FREE_CONTENT6Dm7MGWCAKUrjiO5N9kW/PREVIEW_SCREENSHOT6_525766.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA05986_00/FREE_CONTENTPW8JE8NBNKDEb10iVmPa/PREVIEW_SCREENSHOT7_525766.jpg"
-      ],
-      "description": "Need for Speed Payback - динамичный блокбастер в стиле ретро-гонки, где главная цель - месть. Доступен на PS4 и PS5. Игра поддерживает онлайн-режим для 2-8 игроков с возможностью дистанционного воспроизведения.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Гонки",
-        "Спорт"
-      ],
-      "platforms": "PS4",
-      "platform_ps4": true,
-      "platform_ps5": false,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {},
-        "p3": {}
-      },
-      "tilda_uid": "592592072792",
-      "sku": "",
-      "external_id": "OB7vctkhrG1ZOV5LXIl6",
-      "url": "http://arenapsgm.ru/tproduct/592592072792-need-for-speed-payback-ps4-ps5",
-      "seo_title": "Need for Speed Payback PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Need for Speed Payback PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Need for Speed Payback PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.02,
-      "release_date": "10/11/2017",
-      "publisher": "EA Swiss Sarl",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/223086",
-      "edition_banner": "https://image.api.playstation.com/cdn/EP0006/CUSA05986_00/fq3W9byQbpDBF4BjRiAVqOjJEKEwAJYg.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "need-for-speed-rivals-ps4-ps5",
-      "title": "Need for Speed Rivals PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00168_00/5/i_2637b7a92d8b09615c9b919a27546c7a1b52102ceaee6a0354fc6f5f671b4aec/i/icon0_01.png",
-      "screenshots": [
-        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00168_00/5/i_2637b7a92d8b09615c9b919a27546c7a1b52102ceaee6a0354fc6f5f671b4aec/i/icon0_01.png",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/FREE_CONTENTgU7qSLnJwJb0UXat5Pfs/NFS%20RIVALS_01.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/FREE_CONTENTgU7qSLnJwJb0UXat5Pfs/NFS RIVALS_01.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/FREE_CONTENTH1TsRCHTvQnT3P5XacmP/NFS%20RIVALS_02.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/FREE_CONTENTH1TsRCHTvQnT3P5XacmP/NFS RIVALS_02.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/FREE_CONTENTSbzUYrwIabwHgyXpYHNP/NFS%20RIVALS_03.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/FREE_CONTENTSbzUYrwIabwHgyXpYHNP/NFS RIVALS_03.jpg",
-        "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/FREE_CONTENTLnajyVxXvUH1lqM0Kpk2/NFS%20RIVALS_04.jpg"
-      ],
-      "description": "Need for Speed Rivals для PS4 и PS5 предлагает полный опыт игры с шестью наборами дополнений. Выбирайте роль: гонщика или копа - обе стороны вступают в жесткую борьбу на безжалостных трассах. Участвуйте в схватках с самыми быстрыми машинами, модификациями и технологиями. В округе Редвью конфликт не закончится никогда.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Спорт",
-        "Гонки"
-      ],
-      "platforms": "PS4",
-      "platform_ps4": true,
-      "platform_ps5": false,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "tilda_uid": "796321275772",
-      "sku": "",
-      "external_id": "IZhnBLSkhfIJaVOXUZDX",
-      "url": "http://arenapsgm.ru/tproduct/796321275772-need-for-speed-rivals-ps4-ps5",
-      "seo_title": "Need for Speed Rivals PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Need for Speed Rivals PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Need for Speed Rivals PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.12,
-      "release_date": "22/10/2014",
-      "publisher": "EA Swiss Sarl",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/203064",
-      "edition_banner": "https://image.api.playstation.com/cdn/EP0006/CUSA00168_00/KZnZ2EidOuCPVhQlO17U1noSkMhlNVIr.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "need-for-speed-unbound-ps5",
-      "title": "Need for Speed Unbound PS5",
-      "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0913/3CmlwTUjrvYOei0WDNdBsYPp.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202209/0913/3CmlwTUjrvYOei0WDNdBsYPp.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202410/1419/43c7c1e60d22976265eeeb0faa4ccf76209ff2fb88cd9e57.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202410/1419/10286921a7bc278860a19c9ff80da22a58a32151a0d2b428.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202410/1419/51d5a15d5aa95a518797710d0c00b8fd9816efb1424b488a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202410/1419/6faaebc88684451c907a74b91a59274fd9985a38da1d6b7b.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202410/1419/2e7de4723aea5a0c280545807d21cb6248b89103e29cd87c.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202410/1419/b7747a679d4f33f5030e049614d17d1c2bcbdcf3590ab92b.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202410/1419/96d151cc56f2b81daa12be4c23963c3224acba63dc9ddb4c.jpg"
-      ],
-      "description": "Need for Speed Unbound для PS5 предлагает полный доступ ко всем премиум-контенту, включая 9 настраиваемых машин, более 45 кастомов и сотни украшений. Игроки могут участвовать в еженедельных отборках, гонять под саундтрек, демонстрировать стиль в эксклюзивных событиях и настраивать Subaru Impreza WRX STI 99 и Honda Integra Type R 9.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Спорт",
+        "Только PS5",
+        "Боевики",
         "Гонки"
       ],
       "platforms": "PS5",
@@ -1533,31 +974,31 @@
       "platforms_choice": false,
       "prices": {
         "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
+          "7": 350,
+          "14": 450,
+          "21": 630,
+          "28": 700
         },
         "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
+          "7": 450,
+          "14": 550,
+          "21": 730,
+          "28": 800
         }
       },
-      "tilda_uid": "854871364852",
+      "tilda_uid": "671519126092",
       "sku": "",
-      "external_id": "cuoxlRUDVOkOgI1zg51I",
-      "url": "http://arenapsgm.ru/tproduct/854871364852-need-for-speed-unbound-ps5",
-      "seo_title": "Need for Speed Unbound PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Need for Speed Unbound PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Need for Speed Unbound PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 2.95,
-      "release_date": "25/10/2024",
-      "publisher": "EA Swiss Sarl",
+      "external_id": "pHLzej2GaZDxOMRfg7zE",
+      "url": "http://arenapsgm.ru/tproduct/671519126092-pacific-drive-ps5",
+      "seo_title": "Pacific Drive PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Pacific Drive PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Pacific Drive PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.06,
+      "release_date": "22/2/2024",
+      "publisher": "Kepler Interactive Limited",
       "voice": "Английский",
-      "text_translation": "Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10001269",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2212/wN4mS0adbyqFvKLTTgdBor67.png",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10006288",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0710/516003921755aa5cb8873cb08c22b172141e997a0d5cd075.png",
       "rent_days": [
         7,
         14,
@@ -1749,6 +1190,233 @@
         14,
         21,
         28
+      ]
+    },
+    {
+      "slug": "wrc-9-ps4-ps5",
+      "title": "WRC 9 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3534-3161-4131-a635-663939666237/68849543.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3534-3161-4131-a635-663939666237/68849543.jpg",
+        "https://static.tildacdn.com/stor6138-6561-4764-b532-656539626663/c3042704a6bbca19e607d3b36b50a973.jpg",
+        "https://static.tildacdn.com/stor3166-6266-4362-a663-353836383530/457dfbb895a58ce6ef36e073c8569c94.jpg",
+        "https://static.tildacdn.com/stor6539-6336-4364-b738-336331633133/31ba131ff6e566d0b766514bd4120602.jpg",
+        "https://static.tildacdn.com/stor3939-6636-4664-b032-306466313632/04b3e2ef78beced851e23d18d4356f33.jpg",
+        "https://static.tildacdn.com/stor3333-6532-4238-b336-323036323039/4f670b42730bad18c340803ffc1a0d6c.jpg"
+      ],
+      "description": "WRC#nbsp;9#nbsp;— это новая игра в серии симуляторов гонок по бездорожью, заслужившая похвалу лучших водителей мира. Это наиболее глубоко проработанный симулятор ралли на рынке:\nвас ждут 3 новых ралли (Кения, Япония, Новая Зеландия), более 15 классических автомобилей и 100 спецучастков!\nВ WRC#nbsp;9 дебютируют новые режимы игры, среди которых система клубов, где каждый может создать свой собственный чемпионат, чтобы соревноваться с игроками со всего мира!\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Спорт",
+        "Гонки"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "534065293592",
+      "sku": "",
+      "external_id": "lFb5upi0Rm37XTD9TZCM",
+      "url": "http://arenapsgm.ru/tproduct/534065293592-wrc-9-ps4-ps5",
+      "seo_title": "WRC 9 PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда WRC 9 PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры WRC 9 PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "wreckfest-ps4-ps5",
+      "title": "Wreckfest PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/1411/SkZZUr3taWJ7pb0LGpm7OaMf.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/img/rnd/202010/1411/SkZZUr3taWJ7pb0LGpm7OaMf.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202104/1515/JvBsJFMwF3SpNurmtR2b72nG.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202104/1515/GicIvt4FoQK0d9yaO5v5nBeT.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202104/1515/rF1JuDZ0Am5CCGaFdDGpUFDO.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202104/1515/OG4zJF1bBYtrj56UUNZ1QF7S.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202104/1515/vAlp6iph4Im0vJ5Z5d33X7Bg.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202104/1515/8subfYeelY6MkMhjn4paaLWt.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202104/1515/W9EeYIoSH7M2FgcQneylaYYa.jpg"
+      ],
+      "description": "Wreckfest - это беззаконная гоночная баталия со сверхреалистичной физикой. Уничтожайте врагов на PS4 и PS5, рвите машины и забывайте о правилах. Крутые тачки, от американских тяжеловесов до азиатских ловцов. Проводите битвы за рулём комбайнов, газонокосилок и школьных автобусов.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Гонки",
+        "Спорт"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "213640999352",
+      "sku": "",
+      "external_id": "vPkMlbXHosf2VHAIMsvz",
+      "url": "http://arenapsgm.ru/tproduct/213640999352-wreckfest-ps4-ps5",
+      "seo_title": "Wreckfest PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Wreckfest PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Wreckfest PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.4,
+      "release_date": "4/5/2021",
+      "publisher": "THQ NORDIC GMBH",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/227252",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0701/QLkNVmB04gcLj8rRB5aWTR2G.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "arenda-ps-plus-ps4-ps5",
+      "title": "Аренда PS Plus PS4/PS5",
+      "mark": "",
+      "price_from": 565,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3637-3866-4433-b130-343739626565/18249a29b35708e9d561a162e6a5ec1a.png",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3637-3866-4433-b130-343739626565/18249a29b35708e9d561a162e6a5ec1a.png",
+        "https://static.tildacdn.com/stor6563-3836-4937-b433-333863633465/61354079.jpg",
+        "https://static.tildacdn.com/stor6237-3766-4236-a337-303736316636/17624538.jpg",
+        "https://static.tildacdn.com/stor3836-3131-4332-a339-383037633962/47838766.jpg",
+        "https://static.tildacdn.com/stor6238-3738-4230-b962-646266333961/57388888.jpg",
+        "https://static.tildacdn.com/stor6635-3633-4137-a233-316235336236/29586005.jpg",
+        "https://static.tildacdn.com/stor3638-3032-4934-b131-646564333734/49361455.jpg",
+        "https://static.tildacdn.com/stor3762-3338-4230-b537-633336303037/74613254.jpg"
+      ],
+      "description": "Внимaниe: за дocрoчную cдaчу аккаунтa CКИДКА oкoло 30% на слeдующую игру. Скидка дейcтвуeт в течeнии нeдели!\nПрофиль выдаётся в oдни pуки, на одну конкретную пoзицию.\nДoвoльныe клиeнты ✅\nОпeративнocть в выдaче ✅\nС нaми мoжно договориться✅\nБолее 1611 + положительных отзывов ✅\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Подписка Plus",
+        "Лента на главной",
+        "Все игры",
+        "Интерактивное кино",
+        "Только PS5",
+        "Игры на двоих",
+        "Спорт",
+        "Шутеры",
+        "Гонки",
+        "Приключения",
+        "РПГ",
+        "Платформеры",
+        "Боевики",
+        "VR",
+        "Стратегии и симуляторы",
+        "Хоррор",
+        "Подписка плюс"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 565,
+          "14": 782,
+          "21": 1116,
+          "28": 1449,
+          "42": 2053,
+          "60": 2898,
+          "75": 3536,
+          "90": 4140,
+          "105": 4709,
+          "120": 5244,
+          "135": 5744,
+          "150": 6210,
+          "165": 6641,
+          "180": 7038
+        },
+        "p3": {
+          "7": 765,
+          "14": 982,
+          "21": 1316,
+          "28": 1649,
+          "42": 2253,
+          "60": 3098,
+          "75": 3736,
+          "90": 4340,
+          "105": 4909,
+          "120": 5444,
+          "135": 5944,
+          "150": 6410,
+          "165": 6841,
+          "180": 7238
+        }
+      },
+      "tilda_uid": "199915107972",
+      "sku": "",
+      "external_id": "j3YlH8K6eTnlJCYtdAKJ",
+      "url": "http://arenapsgm.ru/playstationplus/tproduct/199915107972-ps-plus-ps4-ps5",
+      "seo_title": "Аренда PS Plus PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Аренда PS Plus PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Аренда PS Plus PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28,
+        42,
+        60,
+        75,
+        90,
+        105,
+        120,
+        135,
+        150,
+        165,
+        180
       ]
     }
   ]
