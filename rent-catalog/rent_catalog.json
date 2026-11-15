@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-15T00:42:01Z",
-  "generated_at": "2026-11-15T01:33:56Z",
+  "catalog_id": "2026-11-15T04:29:07Z",
+  "generated_at": "2026-11-15T04:38:54Z",
   "count": 11466,
   "items": [
     {
@@ -3065,6 +3065,73 @@
       "seo_descr": "Аренда Ranger's Path: National Park Simulator PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-20T13:23:23Z"
+    },
+    {
+      "id": "dongda-gangster",
+      "slug": "dongda-gangster",
+      "sku": "rent-dongda-gangster",
+      "title": "DONGDA Gangster PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "NiuGamer Co., Ltd.",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "15.11.2026",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0904/529ff4b6ce21a9078c9723dde0d86a311269a28c1a9abd93.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0307/4968bfcafe2c128c71a689429157e0a2274fd979e19959ab.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0307/5f05b98b6dbd035d47cb91a6f7fc28db728d61f5c9e8ceb3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0307/8e78174c300ccfbe4fb837b43291ff939a5c42ef289eaa7c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0307/a14e9d51df5dce73753b5fbd1b05f5994d22c1f738055dd8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0307/4864e6a80fbf7a6450f3797474d8e71f6a15f71e48e9c7d5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0307/a0ae59b1ccfc0b4aef5a30572a8da9fc50870f672cab04af.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019990",
+      "description": "Взрывной криминальный эпос от Kwon Dong-ha, который уже полюбил весь юго-западный Корея. В центре истории - тайная организация «Красное солнце», которая переплавляет людей в бинты ради денег и власти.\n\nГлавный герой Пак Сын-дон - типичный корейский парень с тупым лицом, который случайно попал на работу к жестоким убийцам. Пока он пытается выжить и не стать частью их кровавого плана, его окружение превращается в настоящий ад.\n\nЖесткие шутки про психику, откровенная наглость персонажей и много крови делают эту игру одним из самых ожидаемых проектов года. Если вам нравится грязный юмор и безумные повороты сюжета - это ваш выбор.",
+      "seo_title": "DONGDA Gangster PS5 аренда игры",
+      "seo_descr": "Аренда DONGDA Gangster PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-15T04:28:46Z"
     },
     {
       "id": "reef-defense",
@@ -60891,7 +60958,7 @@
       "release_date": "09.07.2026",
       "is_preorder": false,
       "is_new": true,
-      "image_url": "https://static.tildacdn.com/stor3833-6364-4234-b233-346334633863/59077c484b88d59af4552d0f13a3ae89.jpg",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2619/c4ce7fe379aa05dd3f6ecc11e8fa38dfea03d4b4a8bad73a.png",
       "screenshots": [],
       "store_url": "https://store.playstation.com/en-tr/concept/10017658",
       "description": "Black Ops II - захватывающий переход в цифровой холодную войну. Ты вдруг оказываешься в мире, где технологии уже переписали правила боя.  \n\nИгра сначала вышла на ПК и теперь живёт и развивается на PS4 и PS5 - всё как в оригинале, только с мощью новых консолей.  \n\nМир, где тайны скрываются за экранами и каждый шаг - шаг к уничтожению или спасению. Ты уже здесь - просто включи и действуй. 💥",
@@ -771232,72 +771299,6 @@
       "description": "Зомби в деле - и это не просто шутка.  \nCall of Duty: Black Ops III с дополнением Zombies Chronicles - полноценный ужас в каждом движении. У вас есть 8 переработанных карт для зомби-режима, 20 флаконов Liquid Divinium и два новых жевательных перка. Даже оружие можно подключить к камуфляжу «Улучшайзер» - специально для зомби.  \n\nКампания, сетевая игра и режим \"Зомби\" - всё на одном диске. Всё работает с PS4 и PS5, но онлайн-режим требует PlayStation Plus.  \n\nСистема включает DUALSHOCK 4 с вибрацией, поддержку HD-выходов и загрузку по правилам PlayStation Network - просто используйте, если согласны с условиями.",
       "seo_title": "Call of Duty Black Ops IIII PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty Black Ops IIII PS4/PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2020-01-01T00:00:00Z",
-      "from_vserent_cod": true
-    },
-    {
-      "id": "call-of-duty-black-ops-7",
-      "slug": "call-of-duty-black-ops-7",
-      "sku": "rent-call-of-duty-black-ops-7",
-      "title": "Call of Duty Black Ops 7 PS4/PS5",
-      "platform": "PS4 и PS5",
-      "prices": {
-        "p2": {
-          "1": 751,
-          "7": 939,
-          "14": 1690,
-          "21": 1990,
-          "28": 2390,
-          "56": 4302
-        },
-        "p3": {
-          "1": 903,
-          "7": 1129,
-          "14": 1890,
-          "21": 2190,
-          "28": 2590,
-          "56": 4662
-        }
-      },
-      "prices_p2": {
-        "1": 751,
-        "7": 939,
-        "14": 1690,
-        "21": 1990,
-        "28": 2390,
-        "56": 4302
-      },
-      "prices_p3": {
-        "1": 903,
-        "7": 1129,
-        "14": 1890,
-        "21": 2190,
-        "28": 2590,
-        "56": 4662
-      },
-      "price_min": 751,
-      "lang_label": "На языке оригинала",
-      "genre": "Шутер",
-      "categories": [
-        "Call of Duty"
-      ],
-      "publisher": "Activision",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "https://static.tildacdn.com/stor3163-6432-4231-b062-663035313662/14161903.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3035-3235-4263-a264-336339333133/edcb9a4d44395caadd62794c48f31f90.jpg",
-        "https://static.tildacdn.com/stor3562-3439-4231-b865-663965303638/97b9a977df97bad7631d771ec7ad2f0f.jpg"
-      ],
-      "store_url": "",
-      "description": "Call of Duty: Black Ops 7 - та самая драма, что ты ждёшь.  \nКорейский полуостров в битве, где каждый шаг - риск, а каждая сцена - напряжение.  \n\nТы будешь видеть, как война переплетается с личной судьбой - и как гибель одного превращает другого в охотника-убийцу.  \n\nИгра не просто в бою - она погружает в мрачный, насыщенный атмосферой мир без выхода из него.",
-      "seo_title": "Call of Duty Black Ops 7 PS4/PS5 аренда игры",
-      "seo_descr": "Аренда Call of Duty Black Ops 7 PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2020-01-01T00:00:00Z",
       "from_vserent_cod": true
