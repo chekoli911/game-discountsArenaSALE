@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-14T02:02:48Z",
-  "server_time_utc": "2026-11-14T02:02:48Z",
+  "updated_at": "2026-11-15T02:02:47Z",
+  "server_time_utc": "2026-11-15T02:02:47Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-15T02:00:00Z",
-  "expires_at": "2026-11-15T02:00:00Z",
+  "next_rotation_at": "2026-11-16T02:00:00Z",
+  "expires_at": "2026-11-16T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 100,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-15T02:00:00Z"
+    "next_rotation_at": "2026-11-16T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "tales-of-arise-ps4-ps5",
+      "title": "Tales of Arise PS4/PS5",
+      "description": "Студия Bandai Namco представила новую часть культовой серии Tales. В этой игре вас ждут десятки уникальных персонажей, очень простые и увлекательные сражения а также глубокая история.\n\nБолее трехсот лет планету Дахну правил Рена, превращая мир в пустыню. Сюжет начинается с двух людей из разных миров, которые хотят изменить свою судьбу и построить будущее, достойное лучшего.\n\nЭто настоящая японская RPG, действие которой происходит в живом мире, за который действительно стоит сражаться вместе с героями.",
+      "image_url": "https://static.tildacdn.com/stor6663-3434-4436-b436-346237323362/43236923.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/ef9044d93a0852c7634456e8007aff621cca53fb1fe85c7f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/961c09ce0c9eeda593f4fb70ed6f34edfcbfeca03de20456.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/09630e1129835daeff23242db337dfa40544662f9ae32ae2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/72f35c903aaf463eb620d9816377445cfef492606a7fb8dc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/50608c7e0a0483762492540cb733064cc2caa1721df92448.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/8124602a111d926fb03af99df94dcf233a31fd482a8a3f88.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0609/30814843c4a3affaa92b6b70c3e4320847cca4e045c6320e.jpg"
+      ],
+      "release_date": "20/9/2023",
+      "publisher": "BANDAI NAMCO ENTERTAINMENT EUROPE",
+      "platforms": "PS4, PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.56,
+      "store_url": "https://store.playstation.com/en-tr/concept/234823",
+      "tilda_uid": "195261828622",
+      "sku": "",
+      "external_id": "b813goRfRBSbSX0UGEIO",
+      "url": "http://arenapsgm.ru/tproduct/195261828622-tales-of-arise-ps4-ps5",
+      "expires_at": "2026-11-16T02:00:00Z",
+      "published_at": "2026-11-15T02:02:47Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 100,
+          "21": 100,
+          "28": 100
+        },
+        "p3": {
+          "7": 200,
+          "14": 200,
+          "21": 200,
+          "28": 200
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 100,
+        "21": 100,
+        "28": 100
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Bandai Namco выпустили новую часть Tales - там сотни персонажей, простые бои и глубокий сюжет про судьбу планеты Дахну.\n\nИгра построена на честной японской RPG-философии: живая вселенная, в которой действительно хочется сражаться вместе с героями за будущее."
+    }
+  ],
+  "history": [
     {
       "slug": "disney-collection-ps4-ps5",
       "title": "Disney collection PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "AcYlNfFbjoiuuIuJX7ho",
       "url": "http://arenapsgm.ru/tproduct/384452650442-disney-collection-ps4-ps5",
-      "expires_at": "2026-11-15T02:00:00Z",
       "published_at": "2026-11-14T02:02:48Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 100,
-          "21": 100,
-          "28": 100
+          "7": 280,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 200,
-          "21": 200,
-          "28": 200
+          "7": 380,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 100,
-        "21": 100,
-        "28": 100
+        "7": 280,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Вас ждет веселая коллекция Disney-игр с новыми режимами Boss Rush, Time Attack и удобным Rewind для быстрой перезагрузки после проигрыша.\n\nСкрудж Макдак, Черный плащ, Балу с Чипом и даже Музей истории ждут вас в обновленной версии, которая теперь запускается и на PS4, и на PS5."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "back-4-blood-deluxe-edition-ps4-ps5",
       "title": "Back 4 Blood: Deluxe Edition PS4/PS5",
@@ -2981,56 +3031,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Кунг-фу на высшем уровне - в Sifu.  \nКаждый удар - риск, каждый шаг - борьба с тенью. Учиться значит учиться на ошибках. Враги не ждут - вы одни против всех."
-    },
-    {
-      "slug": "sonic-superstar-ps4-ps5",
-      "title": "Sonic Superstar PS4/PS5",
-      "description": "Соник, Тейлз, Наклз и Эми - снова в деле! 🚀  \nНовый платформер в духе классики: прыгайте, бегите, атакуйте и разрушайте всё, что мешает островам Северной Звезды.  \n\nИзумруды вновь включены - теперь вы можете управлять не просто силами, но и их комбинациями: двойники, замедление времени, тайны подземелья - всё это в вашем распоряжении!  \n\nСюжет пройдёт с друзьями в локальном режиме. А если хочется драться - бейте в сетевом режиме до 8 игроков. Потому что в этой игре каждый по-своему будет выглядеть как настоящий герой!  \n\nСоник уже не просто мигает - он прыгает, танцует и сражается по-настоящему. Настоящий классик, обновлённый до максимума. 🎮",
-      "image_url": "https://static.tildacdn.com/stor3634-3263-4338-b435-313231653464/44641614.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/ca7b3adb31c91d54c7911048db5d05673c28615f20d8480f.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/66d34862acb309c7aeeb4a66165839fddf3c50d5cc35a581.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/ae80a12a4452926032e03702a444568a8c7734fa3a2271fa.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/9501ee910f86ae364fe2363f13036867f8e551e0ee0824b7.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/231c7568333c879ac092b4e39b84d57e21e437d16e8eef7a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/f2c3d3e010f749f6956de426a4b25cc39094d22a8f62c545.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/207a53c626be6dfe1ae96c70afb4578edc3ae6683829a4a2.jpg"
-      ],
-      "release_date": "17/10/2023",
-      "publisher": "SEGA EUROPE LTD",
-      "platforms": "PS4, PS5",
-      "voice": "",
-      "text_translation": "Русский, Английский",
-      "rating": 3.99,
-      "store_url": "https://store.playstation.com/en-tr/concept/10004658",
-      "tilda_uid": "549295240252",
-      "sku": "",
-      "external_id": "YIS1jv2J24kUjVrSbtKc",
-      "url": "http://arenapsgm.ru/tproduct/549295240252-sonic-superstar-ps4ps5",
-      "published_at": "2026-09-19T02:02:42Z",
-      "prices": {
-        "p2": {
-          "7": 390,
-          "14": 712,
-          "21": 792,
-          "28": 952
-        },
-        "p3": {
-          "7": 490,
-          "14": 812,
-          "21": 892,
-          "28": 1052
-        }
-      },
-      "prices_p2": {
-        "7": 390,
-        "14": 712,
-        "21": 792,
-        "28": 952
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Соник, Тейлз и другие герои снова в деле - новый платформер в духе классики!  \n\nПрыгайте, бегите, используйте двойников, замедление и тайны - всё под контролем. Локальный или сетевой режим до 8 игроков. Соник теперь танцует и сражается на полную."
     }
   ]
 }
