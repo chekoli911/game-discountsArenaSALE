@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-15T02:02:47Z",
-  "server_time_utc": "2026-11-15T02:02:47Z",
+  "updated_at": "2026-11-16T02:02:53Z",
+  "server_time_utc": "2026-11-16T02:02:53Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-16T02:00:00Z",
-  "expires_at": "2026-11-16T02:00:00Z",
+  "next_rotation_at": "2026-11-17T02:00:00Z",
+  "expires_at": "2026-11-17T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 100,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-16T02:00:00Z"
+    "next_rotation_at": "2026-11-17T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "kao-the-kangaroo-ps4-ps5",
+      "title": "Kao the Kangaroo PS4/PS5",
+      "description": "Кенгуренок Као - это невероятно красивый 3D-платформер, полный веселья и загадок. Отправляйтесь на поиски отца вместе с энергичным кенгуренком в красочных локациях, решайте головоломки и преодолевайте препятствия. Это дань уважения золотому веку платформеров: увлекательный экшен, проработанная боевая система и много мелких приятностей.\n\nВам понравятся не только сами битвы с уникальными боссами, но и красочные миры, полные секретов. Колоритные герои и злодеи делают этот мир живым, а магические боксерские перчатки открывают доступ к древней силе стихий. Геймплей понятный и захватывающий для всех возрастов.\n\nРаскройте тайны мира Као вместе с дерзким и упрямым героем, который станет вашим проводником в это эпическое приключение.",
+      "image_url": "https://static.tildacdn.com/stor6661-6636-4039-a230-343531303739/42903751.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202112/2810/OoNPmvuoUljT4JhQnYTTmBgW.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202112/2810/Lswc7AXirGqNtwMULs8e2UYv.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202112/2810/YJrM4cDmwhzYNXDI4C5MBV8Z.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202112/2810/YaqHd39MjE7mJMDwcbDYjMpd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202112/2810/rFF9gnQ24uTDPHsiUH61PUx7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202112/2810/R6liH4b5QEvFwaorjX3jBqar.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/2410/wPrGomJahOtJtAOKUb6hLbn5.jpg"
+      ],
+      "release_date": "27/5/2022",
+      "publisher": "Tate Multimedia Sp. z o.o.",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 3.79,
+      "store_url": "https://store.playstation.com/en-tr/concept/10003980",
+      "tilda_uid": "234757485112",
+      "sku": "",
+      "external_id": "3u6OYCVnLTTRYKbDtupx",
+      "url": "http://arenapsgm.ru/tproduct/234757485112-kao-the-kangaroo-ps4-ps5",
+      "expires_at": "2026-11-17T02:00:00Z",
+      "published_at": "2026-11-16T02:02:53Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 100,
+          "21": 100,
+          "28": 100
+        },
+        "p3": {
+          "7": 200,
+          "14": 200,
+          "21": 200,
+          "28": 200
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 100,
+        "21": 100,
+        "28": 100
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Кенгуренок Као - это красивый 3D-платформер про поиск отца в мире полных секретов.\n\nИгра сочетает золотые традиции экшена с цветными локациями, боковыми битвами и магическими перчатками для всех возрастов."
+    }
+  ],
+  "history": [
     {
       "slug": "tales-of-arise-ps4-ps5",
       "title": "Tales of Arise PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "b813goRfRBSbSX0UGEIO",
       "url": "http://arenapsgm.ru/tproduct/195261828622-tales-of-arise-ps4-ps5",
-      "expires_at": "2026-11-16T02:00:00Z",
       "published_at": "2026-11-15T02:02:47Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 100,
-          "21": 100,
-          "28": 100
+          "7": 280,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 200,
-          "21": 200,
-          "28": 200
+          "7": 380,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 100,
-        "21": 100,
-        "28": 100
+        "7": 280,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Bandai Namco выпустили новую часть Tales - там сотни персонажей, простые бои и глубокий сюжет про судьбу планеты Дахну.\n\nИгра построена на честной японской RPG-философии: живая вселенная, в которой действительно хочется сражаться вместе с героями за будущее."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "disney-collection-ps4-ps5",
       "title": "Disney collection PS4/PS5",
@@ -2981,56 +3031,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Battlefield 1 - настоящий рассвет мировых войн.  \nВ Star Wars Battlefront вы не просто смотрите - вы вступаете в бой, как герой."
-    },
-    {
-      "slug": "sifu-ps4-ps5",
-      "title": "SIFU PS4/PS5",
-      "description": "Кунг-фу на высшем уровне - в Sifu.  \nПуть к мастерству не похож на простое упражнение: здесь каждый удар - риск, каждый шаг - борьба с тенью врага.  \n\nВы одни против всех. Ни поддержки, ни союзников. Только мистический амулет - ваш последний шанс вернуться к жизни. Но его использование стоит большой ценой: старение и урон для вашего героя (или героини).  \n\nУчиться в бою - значит учиться на ошибках. Разблокируйте техники стиля Бак Мэй, парируйте атаки, проникая сквозь тёмные клубы, офисы и галереи, как ручей, бегущий по дебрям.  \n\nПозиция - ваша сила. Используйте окна, подручные предметы, метательные орудия. Но враги не ждут - они приходят внезапно. Следите за каждым шагом.  \n\nОбучение идёт до конца. Только через бой вы научитесь настоящему кунг-фу.",
-      "image_url": "https://static.tildacdn.com/stor6366-3565-4534-b933-373136646366/16076356.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202202/2313/p9WHv0VlQtTSor208ncQN1av.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202303/2211/e3ac28d9bce68e8e6a2f64e9e701a5db5517a4350e1cc20a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202303/2211/312ded8c8ab0162367416e116d410522d96dafc3d350519d.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202202/2313/H8YJXbTxqULhwdDI6MVlHiTL.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202202/2314/bm8k9id6a0NLSve2scM9igSq.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202303/2211/289a98a4a9be85c4426a57af7e355078e8caa105adaddbb5.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202309/0709/ef6244a51ca64e92cb99a47268fc01c486d4cd68e72cd6d1.jpg"
-      ],
-      "release_date": "6/2/2022",
-      "publisher": "SLOCLAP S.A.S",
-      "platforms": "PS4, PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.22,
-      "store_url": "https://store.playstation.com/en-tr/concept/10001973",
-      "tilda_uid": "339426990332",
-      "sku": "",
-      "external_id": "U6xcAjGjbO5FIVNiguAf",
-      "url": "http://arenapsgm.ru/tproduct/339426990332-sifu-ps4ps5",
-      "published_at": "2026-09-20T02:01:03Z",
-      "prices": {
-        "p2": {
-          "7": 290,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 390,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 290,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Кунг-фу на высшем уровне - в Sifu.  \nКаждый удар - риск, каждый шаг - борьба с тенью. Учиться значит учиться на ошибках. Враги не ждут - вы одни против всех."
     }
   ]
 }
