@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-16T02:21:38+03:00",
-  "updated_at_msk": "16.11.2026 02:21",
+  "updated_at": "2026-11-16T03:22:00+03:00",
+  "updated_at_msk": "16.11.2026 03:22",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2781,
+  "total": 2782,
   "unique_games": 988,
   "in_demand": 177,
   "one_off": 657,
@@ -6396,7 +6396,7 @@
       "title": "UFC 6 Ultimate Edition PS5",
       "item_id": "8277145222",
       "url": "https://avito.ru",
-      "count": 29,
+      "count": 30,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -6593,7 +6593,7 @@
         27,
         28,
         28,
-        29
+        30
       ],
       "hourly": [
         0,
@@ -6764,7 +6764,7 @@
         0,
         1,
         0,
-        1
+        2
       ],
       "price_series": [
         null,
@@ -6938,7 +6938,7 @@
         257
       ],
       "first_at": "2026-08-18T10:07:46+03:00",
-      "last_at": "2026-11-16T00:57:48+03:00"
+      "last_at": "2026-11-16T02:29:57+03:00"
     },
     {
       "id": "nba-2k27-ps5",
@@ -525307,6 +525307,12 @@
       "title": "UFC 6 Ultimate Edition PS5",
       "price": 257,
       "price_string": "257 ₽",
+      "at": "2026-11-16T02:29:57+03:00"
+    },
+    {
+      "title": "UFC 6 Ultimate Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
       "at": "2026-11-16T00:57:48+03:00"
     },
     {
@@ -525536,12 +525542,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-15T09:49:46+03:00"
-    },
-    {
-      "title": "Grand Theft Auto V (PlayStation5) PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-15T04:40:50+03:00"
     }
   ]
 }
