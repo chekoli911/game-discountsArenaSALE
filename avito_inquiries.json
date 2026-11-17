@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-18T01:30:03+03:00",
-  "updated_at_msk": "18.11.2026 01:30",
+  "updated_at": "2026-11-18T02:30:22+03:00",
+  "updated_at_msk": "18.11.2026 02:30",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2861,
+  "total": 2862,
   "unique_games": 1018,
   "in_demand": 180,
   "one_off": 676,
@@ -2581,7 +2581,7 @@
       "title": "NHL 27 PS5",
       "item_id": "8355713865",
       "url": "https://avito.ru",
-      "count": 71,
+      "count": 72,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -2780,7 +2780,7 @@
         71,
         71,
         71,
-        71
+        72
       ],
       "hourly": [
         0,
@@ -2953,7 +2953,7 @@
         2,
         0,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -3129,7 +3129,7 @@
         257
       ],
       "first_at": "2026-09-05T21:51:28+03:00",
-      "last_at": "2026-11-15T17:24:59+03:00"
+      "last_at": "2026-11-18T01:50:39+03:00"
     },
     {
       "id": "nba-2k27-ultra-edition-ps5",
@@ -547349,6 +547349,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-18T01:50:39+03:00"
+    },
+    {
       "title": "Brothers : a Tale of Two Sons PS4",
       "price": 257,
       "price_string": "257 ₽",
@@ -547581,12 +547587,6 @@
       "price": 287,
       "price_string": "287 ₽",
       "at": "2026-11-17T03:41:00+03:00"
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 4 PS5",
-      "price": 591,
-      "price_string": "591 ₽",
-      "at": "2026-11-17T03:07:28+03:00"
     }
   ]
 }
