@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-17T09:44:55Z",
-  "generated_at": "2026-11-17T10:23:31Z",
+  "catalog_id": "2026-11-17T17:25:52Z",
+  "generated_at": "2026-11-17T17:30:44Z",
   "count": 11473,
   "items": [
     {
@@ -2998,168 +2998,6 @@
       "catalog_added_at": "2026-11-07T00:54:52Z"
     },
     {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Наконец-то мы дошли до главного события в истории видеоигр. Grand Theft Auto VI уже здесь, и это совсем не та GTA, которую мы ждали годами. Это совершенно новый мир с новой историей, новым городом и новыми персонажами.\n\nТут всё меняется от самого начала: новые механики, новые способы взаимодействия со средой и атмосфера, которая сразу же погружает в этот бешеный гламурный Лас-Вегас. Удивительные открытия ждут вас на каждом углу.\n\nПолучите этот шедевр в своем исполнении Ultimate Edition прямо сейчас и станьте частью новой легенды.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-17T10:23:17Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром, который еще только предстоит открыть для себя.\n\nОжидается, что это будет самая масштабная часть франшизы по всем параметрам: от графики до объема действий. Готовьтесь к тому, что привычные правила будут пересмотрены, а интриги разворачиваться будут на новом уровне.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-17T10:23:17Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
       "id": "ranger-s-path-national-park-simulator",
       "slug": "ranger-s-path-national-park-simulator",
       "sku": "rent-ranger-s-path-national-park-simulator",
@@ -3227,6 +3065,144 @@
       "seo_descr": "Аренда Ranger's Path: National Park Simulator PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-10-20T13:23:23Z"
+    },
+    {
+      "id": "popucom",
+      "slug": "popucom",
+      "sku": "rent-popucom",
+      "title": "POPUCOM PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Казуальная, Приключение",
+      "categories": [],
+      "publisher": "Fireshine Games",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "17.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1810/4514e504731add6614c0c4a47380d295e584fee0c0cf85d6.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/2408/92d312f5735e9fa85bddbdcac4b07b43dcd4166556623668.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/2408/68acb794f909511cc5c444d27bc75a329dbca5b43e5f8a96.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/2408/7067411d0704470b7f21fe871d93f6d99634829c43a30a5a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/2408/d639a720ad51293d91325e61d1373dcea0e4d580ad1038ef.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/2408/c3ac66f8cc0eafcc9ac23203592a4cb6236f0561aa7bbfab.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/2408/1612be70c86898ead5754dd85212e26d8b02fe8b8fe9b8a3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/2408/6fbc9e331f8dc96ca776cadeb37ed18c67897592f63363cd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202308/2408/dd26ee4776c978ecee43c4da936d6b3436fb34b481f81787.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10009072",
+      "description": "POPUCOM на PlayStation 5 - это тот самый комедийный хит, который перевернул игровую индустрию в начале десятилетия. История про парня, сбежавшего из дома в детдоме и открывшего приключение с нечистой силой, которая может быть как самой доброй, так и крайне злобной.\n\nВ игре тебя ждут десятки локаций от скандинавских лесов до американского джунглей. Можно кружить по картам годами, собирать тысячи предметов, выживать в подземельях и спасать друзей в бесконечных гонках. Это тот редкий случай, когда комедия и экшен смешиваются так удачно, что результат не дает заскучать никогда.\n\nPOPUCOM PS5 - это безумие, веселье и незабываемые эмоции. Если ты хочешь погрузиться в историю про парня, который нашел сокровище внутри себя, то эта игра точно для тебя.",
+      "seo_title": "POPUCOM PS5 аренда игры",
+      "seo_descr": "Аренда POPUCOM PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-17T17:30:30Z"
+    },
+    {
+      "id": "duck-side-of-the-moon",
+      "slug": "duck-side-of-the-moon",
+      "sku": "rent-duck-side-of-the-moon",
+      "title": "Duck Side of the Moon PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "Starbrew Games V.O.F.",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "17.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0513/012c57e24cfb70b873eddd23e24f2dd1ce2acbbd67a10fb6.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/2512/7298ef8ae642f56e997733b832e4b7fccea332d619ec5220.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/2512/e1080c1edcac6abc0c6a56d22d2a170f1c8d1552643bb9fe.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/2512/8c565c28ced333d42717830e6831596a3eb5a04190d1287a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0311/691f680618742c92956885cabcc894468735f47526f25cc5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/2512/efadff18752df0f78cc02a051e37e3b0f200258d49f71f60.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/2512/df3084d7fb65e337c5349666f3274030862a361754cb9786.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0311/a0dc6667479ea188b12f726cb869b836997c547461f425a2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/2512/3f7eb216e5fc41b714e71b68c7cf83ba1306fce0bd3bc0c9.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10015842",
+      "description": "Вот игра от студии Housemarque, которая получила кучу похвалы за уникальный геймплей и атмосферу.\n\nДействие происходит на Луне в мире под названием «Солнечное Озеро», где повсюду летают утки. Отличительная черта - отсутствие притяжения: персонажи свободно бегают, прыгают с неба прямо на землю и плавают по воздуху.\n\nВас ждёт квест-приключение с глубоким сюжетом и сильной эмоциональной составляющей, а также отличные головоломки, требующие нестандартного мышления и юмора.",
+      "seo_title": "Duck Side of the Moon PS5 аренда игры",
+      "seo_descr": "Аренда Duck Side of the Moon PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-17T17:30:30Z"
     },
     {
       "id": "unicorn-academy-island-of-magic",
