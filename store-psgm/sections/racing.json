@@ -1,7 +1,7 @@
 {
   "key": "racing",
   "title": "Гонки",
-  "updated_at": "2026-11-16T01:42:58Z",
+  "updated_at": "2026-11-17T01:47:38Z",
   "games": [
     {
       "slug": "beamng-drive-ps5",
@@ -72,32 +72,93 @@
       ]
     },
     {
-      "slug": "disney-speedstorm-ps5",
-      "title": "Disney Speedstorm PS5",
+      "slug": "flatout-4-total-insanity-ps4",
+      "title": "FlatOut 4: Total Insanity PS4",
+      "mark": "NEW",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07458_00/4/i_ced1d2e5ac5d7d073356b373671306807f097e1a6716af589de4b46bbfe8b02d/i/icon0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07458_00/4/i_ced1d2e5ac5d7d073356b373671306807f097e1a6716af589de4b46bbfe8b02d/i/icon0.png",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENT9YQg7BIe9K2zO1VmQTma/PREVIEW_SCREENSHOT9_151988.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTrBa0qAb414KWkE7qaqML/PREVIEW_SCREENSHOT8_151988.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTCJBHocpe5QcsaJkXNVwU/PREVIEW_SCREENSHOT7_146910.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTt5QkECunpLFAmEOvojXq/PREVIEW_SCREENSHOT6_146910.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTUfeLaqGqHzev8ZgQE9OP/PREVIEW_SCREENSHOT3_146910.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENT7Yzuqmpgs7A6y35rcNgp/PREVIEW_SCREENSHOT4_146910.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTOCT9v3LGTnCFJ8BrMeCN/PREVIEW_SCREENSHOT5_146910.jpg"
+      ],
+      "description": "Прочувствуйте безумие FlatOut снова!\nНатиск, бойня, арена и другие: разрушайте все!\nУНИЧТОЖАЕМЫЕ МАШИНЫ И ОКРУЖЕНИЕ\nМНОГОПОЛЬЗОВАТЕЛЬСКИЕ РЕЖИМЫ\nДо 8 игроков в сети: выбейте самых диких пилотов!\nМасл-кары, внедорожники, фургоны с мороженым… Выберите свое!\nЗУБОДРОБИТЕЛЬНАЯ СКОРОСТЬ\nНитроглицериновое турбо вдавит вас в кресло!\nВОЗВРАЩЕНИЕ ЛЕГЕНДАРНОГО РЕЖИМА ТРЮКОВ\nГольф, Футбол, Стакан-понг… Заработайте своим пилотом максимум очков!\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Гонки",
+        "Новинки"
+      ],
+      "platforms": "PS4",
+      "platform_ps4": true,
+      "platform_ps5": false,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 699,
+          "28": 799
+        },
+        "p3": {
+          "7": 350,
+          "14": 500,
+          "21": 799,
+          "28": 899
+        }
+      },
+      "tilda_uid": "115034162393",
+      "sku": "",
+      "external_id": "v0njUNABe25c3aeLPcZk",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/115034162393-flatout-4-total-insanity-ps4",
+      "seo_title": "FlatOut 4: Total Insanity на PS4 аренда игры",
+      "seo_descr": "Аренда FlatOut 4: Total Insanity на PS4. Прочувствуйте безумие FlatOut снова! Натиск, бойня, арена и другие: разрушайте все! Быстрый доступ после оплаты.",
+      "rating": 3.35,
+      "release_date": "17/3/2017",
+      "publisher": "SIDEWALK GAMES LLC",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/227117",
+      "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07458_00/4/i_ced1d2e5ac5d7d073356b373671306807f097e1a6716af589de4b46bbfe8b02d/i/icon0.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "lonely-mountains-downhill-ps4",
+      "title": "Lonely Mountains: Downhill PS4",
       "mark": "NEW",
       "price_from": 257,
       "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3831-3364-4635-a533-393137373835/03f466510fd8aa10dbda74969b673798.jpg",
+      "image_url": "https://static.tildacdn.com/stor3964-3938-4130-b161-386666323936/a26bf31d7b7d3e4572a7ca96561407a3.jpg",
       "screenshots": [
-        "https://static.tildacdn.com/stor3831-3364-4635-a533-393137373835/03f466510fd8aa10dbda74969b673798.jpg",
-        "https://static.tildacdn.com/stor3736-3966-4530-b032-363961383738/9e6741e3b89c671b766e52827afff148.jpg",
-        "https://static.tildacdn.com/stor3338-6338-4432-b062-616464303334/2749bb49a5f547c1fb933214802baad0.jpg",
-        "https://static.tildacdn.com/stor3139-3765-4265-a465-666163623230/9b26b1f8d4d22b72406f92f6ab26fc40.jpg",
-        "https://static.tildacdn.com/stor6663-3338-4734-a663-623433386337/82908f8e280963431f5734badc9c8072.jpg",
-        "https://static.tildacdn.com/stor3032-6265-4433-a632-303966313962/f474713f77185cf416ffe2767c8c7824.jpg",
-        "https://static.tildacdn.com/stor3265-6134-4263-b261-306165313566/6335b61b69c8c5bd51b2bf50fd59fd4b.jpg",
-        "https://static.tildacdn.com/stor3565-3466-4333-b830-376132356333/3db5ca98c9d04ac349dd4c2b8bc746eb.jpg"
+        "https://static.tildacdn.com/stor3964-3938-4130-b161-386666323936/a26bf31d7b7d3e4572a7ca96561407a3.jpg",
+        "https://static.tildacdn.com/stor3631-3936-4439-b535-333639653263/292fcfc33ade36363c748f9f8eda7026.jpg",
+        "https://static.tildacdn.com/stor6639-3535-4164-a338-363264383036/69baa853d30712f3e55888154525eda9.jpg",
+        "https://static.tildacdn.com/stor3838-3234-4233-b166-393065373736/c12758788439a74f10ffc9f8fee19692.jpg",
+        "https://static.tildacdn.com/stor6363-3437-4066-b231-396663633334/0f2e76aeb2c166883127947971af5057.jpg",
+        "https://static.tildacdn.com/stor6366-6630-4639-a263-316561346334/46416816509b34aa878dc0c104959679.jpg",
+        "https://static.tildacdn.com/stor3966-6239-4061-b633-366362373034/8f9b99f08c4436af1b019f4d47e87857.jpg",
+        "https://static.tildacdn.com/stor6165-3835-4266-a365-333634383863/967ffebbaa8a0a8e2e28307c77e62bc9.jpg"
       ],
-      "description": "Disney Speedstorm - идеальная геройская гоночная игра на выживание, действие которой происходит на высокоскоростных трассах, вдохновленных мирами Disney и Pixar. В этой захватывающей аркадной игре вам предстоит овладеть уникальными навыками каждого персонажа, если вы стремитесь стать чемпионом.\nDISNEY И PIXAR ОТКРЫВАЮТ ЭПОХУ БОЕВЫХ ГОНОК\nНевероятная команда персонажей, среди которых – Салли, Чудовище, Микки Маус, Мулан, Балу, капитан Джек Воробей и другие, принимает участие в боевых гонках. Улучшайте показатели гонщиков и научитесь применять уникальные навыки каждого из них, способные склонить чашу весов в вашу пользу и повлиять на то, как вы идете к победе!\nНОВАЯ ЛЕГЕНДА АРКАДНЫХ ГОНОК\nЛюбой желающий может начать играть в Disney Speedstorm и овладеть решающими навыками и техникой, такой как своевременное использование нитро-ускорителей, дрифт на поворотах и адаптация к динамичным изменениям на трассе, которые приведут к победе.\nГОНЯТЬ С ДРУЗЬЯМИ НИКОГДА НЕ БЫЛО ТАК ПРОСТО\nВыберите гонщика и участвуйте в захватывающих дух заездах в одиночку, бросьте вызов друзьям в локальном и сетевом режиме многопользовательской игры, или даже сразитесь онлайн против игроков со всего мира и завоюйте звание онлайн-легенды.\nТРАССЫ, ВДОХНОВЛЕННЫЕ DISNEY И PIXAR\nЗаводите моторы и мчите по мирам, знакомым по любимым фильмам от Disney и Pixar. От гавани на острове из Пиратов Карибского моря до развалин из Книги джунглей или самой Корпорации Монстров... и все это - на трассах, специально созданных для самых увлекательных гонок!\nНОВЫЙ КОНТЕНТ УЖЕ МЧИТСЯ К ВАМ\nНе прекращающийся экшен с постоянными сезонными обновлениями. Новые гонщики от Disney и Pixar будут регулярно пополнять вашу команду, каждый со своим уникальным навыком, а новые трассы будут ждать храбрецов. Также вы можете встретить в игре новых вспомогательных персонажей, окружение, элементы настройки внешнего вида и коллекционные предметы, которые регулярно будут добавляться в игру, чтобы вам не пришлось скучать.\nЛокальная многопользовательская игра: до 2 игроков на PS4®, до 4 игроков на PS5®.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "description": "Представляем полную коллекцию Lonely Mountains с Lonely Mountains: Downhill Bundle. Покоряйте склоны, найдите свой уникальный стиль и заберитесь на вершину таблицы лидеров!\nВ The Lonely Mountains: Downhill Bundle входят:\n- Lonely Mountains: Downhill (основная игра)\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
       "categories": [
         "Все игры",
-        "Только PS5",
-        "Игры на двоих",
+        "Спорт",
         "Гонки"
       ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
+      "platforms": "PS4",
+      "platform_ps4": true,
+      "platform_ps5": false,
       "platforms_choice": false,
       "prices": {
         "p2": {
@@ -115,12 +176,12 @@
           "28": 899
         }
       },
-      "tilda_uid": "951963603253",
+      "tilda_uid": "737463293673",
       "sku": "",
-      "external_id": "0DG8-pO_-Eoldf3yIl_4",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/951963603253-disney-speedstorm-ps5",
-      "seo_title": "Disney Speedstorm на PS5 аренда игры",
-      "seo_descr": "Аренда Disney Speedstorm на PS5. Disney Speedstorm - идеальная геройская гоночная игра на выживание, действие которой происходит на высокоскоростных трассах, вдохновленных мирами Disney и Pixar. Быстрый доступ после оплаты.",
+      "external_id": "XCNDHbGCNIrbxgT73mZp",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/737463293673-lonely-mountains-downhill-ps4",
+      "seo_title": "Lonely Mountains: Downhill на PS4 аренда игры",
+      "seo_descr": "Аренда Lonely Mountains: Downhill на PS4. Представляем полную коллекцию Lonely Mountains с Lonely Mountains: Downhill Bundle. Покоряйте склоны, найдите свой уникальный стиль и заберитесь на вершину таблицы… Быстрый доступ после оплаты.",
       "rating": null,
       "release_date": "",
       "publisher": "",
@@ -386,6 +447,71 @@
       "store_url": "https://store.playstation.com/en-tr/concept/10006025",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2815/df37826fe46f3e622a6132b50e5f3d7e260bd1594dff35c2.png",
       "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "scooterflow-ps5",
+      "title": "ScooterFlow PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor6335-6633-4736-b434-326365363663/e306f48e0a83b6adbff21adcfb5f2c51.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6335-6633-4736-b434-326365363663/e306f48e0a83b6adbff21adcfb5f2c51.jpg",
+        "https://static.tildacdn.com/stor3764-6438-4231-b862-336131356538/a3e1e22064e5f44e65bcf488a4351e5e.jpg",
+        "https://static.tildacdn.com/stor3738-6636-4461-a361-373361643064/1c2df82b2be58d36b1b188f5354ea746.jpg",
+        "https://static.tildacdn.com/stor6233-3163-4037-b330-376261316166/5ddd3717fe92fceb7c1683777eb97945.jpg",
+        "https://static.tildacdn.com/stor6239-3966-4333-b366-643561373237/acf59a0eb6bd79c4a69d5b14bf995836.jpg",
+        "https://static.tildacdn.com/stor6533-3638-4335-a163-383533623733/08670a1020be298e6b5785db59e14e3b.jpg",
+        "https://static.tildacdn.com/stor3238-6430-4333-b934-663137623139/33e1a73d34b06e889fad51a04c47a196.jpg",
+        "https://static.tildacdn.com/stor6434-3339-4631-a535-363632636232/c907b6b48f57468acc09d2c626aae3ca.jpg"
+      ],
+      "description": "ScooterFlow — аренда на PS5. Оформите аренду и начните играть сразу после оплаты.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Все игры",
+        "Только PS5",
+        "Спорт",
+        "Гонки"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799
+        },
+        "p3": {
+          "1": 257,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899
+        }
+      },
+      "tilda_uid": "196088989203",
+      "sku": "",
+      "external_id": "esf-zzLfAjbPxzde11e-",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/196088989203-scooterflow-ps5",
+      "seo_title": "ScooterFlow на PS5 аренда игры",
+      "seo_descr": "Аренда ScooterFlow на PS5. Динамичный спортивный симулятор для фанатов соревнований. Быстрый доступ после оплаты.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        1,
         7,
         14,
         21,
@@ -827,58 +953,183 @@
       ]
     },
     {
-      "slug": "forza-horizon-5-ps5",
-      "title": "Forza Horizon 5 PS5",
+      "slug": "drift-ce-ps4-ps5",
+      "title": "DRIFT CE PS4/PS5",
       "mark": "",
-      "price_from": 350,
-      "price_old": 690,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/42b3ee6b1b2094212231b0b0a82824f687fc5c4dc9bde31c.png",
+      "price_from": 290,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/2011/159a73262b5ae84eb770e4e6d8e5fa89f9b548b598e4824e.png",
       "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/42b3ee6b1b2094212231b0b0a82824f687fc5c4dc9bde31c.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202502/1219/a39f264d4cf10a29197d28c848411e711583901dbaa6df29.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202502/1219/f786499c1bb0565b00febb2dcee8d04911bb235c310f393d.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202502/1219/028499dd0faf6d1a141f0629ef5d43396c48f4d4991afcf1.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202502/1219/de66fcc463c3a31f31f27353e74df81f214b18ca530a2bed.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202502/1219/088a280474227e833cb59b7f52586b1f265759c113bdf38f.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202502/1219/02fb3147fc172cb0fb67a32a07de55a2ea046ab8f8f73496.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202502/1219/c52e465919d6a86df2bd075ca2ebba46cb5e3c00177fddc1.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202312/2011/159a73262b5ae84eb770e4e6d8e5fa89f9b548b598e4824e.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202301/2023/Fq1Ydsgrd4UPxc1p9BkxkiOT.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202301/2023/3CNXXYwh4GPpPHHCT07zvCQR.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202301/2023/H6SJS5X8nYLqYZ0iY20ewPzx.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202301/2023/8SPdoSODnjVzaV28CtT3gpXR.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202301/2023/UIAR0BW9LU4Nmvhx4DoTNdl4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202301/2023/KYPTauNSAKyQt2ydELOcpVez.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202301/2023/hZURfvG86DFrlToT7u9hID92.jpg"
       ],
-      "description": "Forza Horizon 5 предлагает путешествие по живописной Мексике в открытом мире. Игра сочетает реалистичное движение и разнообразные пейзажи. На PS5 вы можете управлять лучшими автомобилями в мире, наслаждаясь динамичными сценами.",
+      "description": "DRIFTCE - симулятор гонок с дрифтом для PS4 и PS5. Настраивайте более 1800 деталей, создавайте уникальные машины и участвуйте в испытаниях на десятках треков, включая легендарный комплекс ЭБИСУ. Соревnuйтесь с другими гонщиками или драйвите одиночно - выбирайте из 12 лицензированных культовых авто.",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Гонки",
+        "Спорт"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 290,
+          "14": 350,
+          "21": 590,
+          "28": 690
+        },
+        "p3": {
+          "7": 390,
+          "14": 450,
+          "21": 690,
+          "28": 790
+        }
+      },
+      "tilda_uid": "632252346742",
+      "sku": "",
+      "external_id": "X4E7Rm9BODrTD3CjGsTv",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/632252346742-drift-ce-ps4-ps5",
+      "seo_title": "DRIFT CE PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда DRIFT CE PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры DRIFT CE PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 2.9,
+      "release_date": "11/5/2023",
+      "publisher": "505 GAMES S.R.L.",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10005462",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202312/2011/159a73262b5ae84eb770e4e6d8e5fa89f9b548b598e4824e.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "hot-wheels-unleashed-ps4-ps5",
+      "title": "HOT WHEELS UNLEASHED PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0813/kiJhC325Kns3OaBzJeFWmENK.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202102/0813/kiJhC325Kns3OaBzJeFWmENK.png",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/1714/mpStWIoiQ1lrhdaiy7E3o0Ta.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/1714/RGSsHPgQbFyxnmac0TEMWTHw.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/1714/8tf01AFHCiUQf4LLmhd6qbWg.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/1714/FXAOKDM1asOGkZxHp4OAOkOl.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/1714/I3s9lWmWVfJA1uLarKpnxjJD.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/1714/LPZXicKxATQhqlBJQmRGQSIC.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/1714/YkEEzZHQUBT7xntOwECXRWQt.jpg"
+      ],
+      "description": "Собирайте яркие машины из вселенной Hot Wheels™, стройте уникальные трассы и ведите гонки с дрифтом и гравитацией. Создавайте творения из оранжевых полос, петель и усилителей - ваша трасса становится парком развлечений. Боритесь за лидерство с друзьями или в сетевом режиме до 12 игроков. Покажите мастерство и выделяйтесь среди других.",
       "categories": [
         "Лента на главной",
         "Все игры",
-        "Только PS5",
-        "Гонки",
-        "Приключения",
-        "Новинки",
-        "Test Drive Рекомендации"
+        "Гонки"
       ],
       "platforms": "PS5",
       "platform_ps4": false,
       "platform_ps5": true,
       "platforms_choice": false,
       "prices": {
-        "p2": {},
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
         "p3": {
-          "7": 450,
+          "7": 350,
           "14": 500,
-          "21": 690,
-          "28": 795
+          "21": 800,
+          "28": 900
         }
       },
-      "tilda_uid": "268834177852",
+      "tilda_uid": "778936837902",
       "sku": "",
-      "external_id": "IuLRmnkHhHfjA0PsRtD1",
-      "url": "http://arenapsgm.ru/tproduct/268834177852-forza-horizon-5-ps5",
-      "seo_title": "Forza Horizon 5 PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Forza Horizon 5 PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Forza Horizon 5 PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.08,
-      "release_date": "29/4/2025",
-      "publisher": "Microsoft Corporation",
+      "external_id": "BhNdea0LUUE4mz0UoiPr",
+      "url": "http://arenapsgm.ru/tproduct/778936837902-hot-wheels-unleashed-ps4-ps5",
+      "seo_title": "HOT WHEELS UNLEASHED PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда HOT WHEELS UNLEASHED PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры HOT WHEELS UNLEASHED PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.02,
+      "release_date": "30/9/2021",
+      "publisher": "MILESTONE SRL",
       "voice": "Английский",
       "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10010647",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/42b3ee6b1b2094212231b0b0a82824f687fc5c4dc9bde31c.png",
+      "store_url": "https://store.playstation.com/en-tr/concept/10001874",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1008/rS6hKW6RluVColmbTAIt9Fl1.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "mudrunner-ps4-ps5",
+      "title": "MudRunner PS4/PS5",
+      "mark": "",
+      "price_from": 290,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA09958_00/3/i_0c0d51b4bc70ce01226e14f2d938e412ae3644b3c3d6608c6440026dd8a6b5e9/i/icon0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA09958_00/3/i_0c0d51b4bc70ce01226e14f2d938e412ae3644b3c3d6608c6440026dd8a6b5e9/i/icon0.png",
+        "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/BbpAum5G3ndyw6D5Qg8zwPtrCUABZnQJ.jpg",
+        "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/Yow1aIv1onaahXC7FpRJb9LuHKQNUgsY.jpg",
+        "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/26DvWDyAPuTfCKq88TuYN7YBbR0DUAu6.jpg",
+        "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/XaRVLEbHI1STkLLZDTZi04uHucszlQ85.jpg",
+        "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/x37z85FkniAoDk00G9ip9lkKfBbRhFVj.jpg",
+        "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/hzoNdDVvsrQc8Z6QfFadif7uapHztWc6.jpg",
+        "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/wSinMPyT6ydgBWbWc1igdszlPnvWXAYj.jpg"
+      ],
+      "description": "MudRunner - American Wilds предлагает играть на PS4 и PS5 в экстремальных условиях Сибири и северных штатов США. Управляйте более чем 30 мощными вездеходами от Ford, Hummer и Chevrolet. Покоряйте бездорожье, выполняя задания в грязи, на реках и среди преград - в одиночку или с друзьями в кооперативе для 2-4 игроков.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Гонки",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS4",
+      "platform_ps4": true,
+      "platform_ps5": false,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 290,
+          "14": 390,
+          "21": 490,
+          "28": 690
+        },
+        "p3": {
+          "7": 390,
+          "14": 490,
+          "21": 590,
+          "28": 790
+        }
+      },
+      "tilda_uid": "478152983422",
+      "sku": "",
+      "external_id": "yxUbJ53OTZxc9Ntsuebe",
+      "url": "http://arenapsgm.ru/tproduct/478152983422-mudrunner-ps4-ps5",
+      "seo_title": "MudRunner PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда MudRunner PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры MudRunner PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.32,
+      "release_date": "23/10/2018",
+      "publisher": "Focus Entertainment",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/230052",
+      "edition_banner": "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/rE7MA0VJfBTydDSJCh8EfKYbTnSSoKJT.png",
       "rent_days": [
         7,
         14,
@@ -1180,130 +1431,6 @@
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10006288",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0710/516003921755aa5cb8873cb08c22b172141e997a0d5cd075.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "the-crew-2-gold-edition-ps4-ps5",
-      "title": "The Crew 2 Gold Edition PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202106/2915/1435VrOM5qYnVAYEBjMYDH3E.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/img/rnd/202106/2915/1435VrOM5qYnVAYEBjMYDH3E.png",
-        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTDgOYAjg0pogPdpoITAq0/PREVIEW_SCREENSHOT1_155407.jpg",
-        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTGOhl9eClJENnqdT9uDjh/PREVIEW_SCREENSHOT2_155407.jpg",
-        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTolN8uYY8c0bepstedNrf/PREVIEW_SCREENSHOT3_155407.jpg",
-        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTN9Q2tQTeHzlkgUD3pjIq/PREVIEW_SCREENSHOT4_155407.jpg",
-        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTImsd9VptO6YcxtfqnLEt/PREVIEW_SCREENSHOT5_155407.jpg",
-        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTAfX18CR7V9Vi470w2Zfr/PREVIEW_SCREENSHOT6_155407.jpg",
-        "https://image.api.playstation.com/cdn/UP0001/CUSA08600_00/FREE_CONTENTDSBjKL8WR5peAfD2SCDG/PREVIEW_SCREENSHOT7_155407.jpg"
-      ],
-      "description": "The Crew® 2 предлагает полный опыт американского моторного спорта - гонки на суше, на море и в воздухе. Игра доступна как онлайн, так и офлайн в новом гибридном режиме. Каждый сезон добавляет новые трассы, события и режимы. Наслаждайтесь открытым миром с сотнями средств передвижения и дружескими состязаниями.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Спорт",
-        "Гонки"
-      ],
-      "platforms": "PS4",
-      "platform_ps4": true,
-      "platform_ps5": false,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "tilda_uid": "689345727522",
-      "sku": "",
-      "external_id": "H6i62V9udy6LjvuhOI3F",
-      "url": "http://arenapsgm.ru/tproduct/689345727522-the-crew-2-gold-edition-ps4-ps5",
-      "seo_title": "The Crew 2 Gold Edition PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда The Crew 2 Gold Edition PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры The Crew 2 Gold Edition PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.14,
-      "release_date": "29/6/2018",
-      "publisher": "Ubisoft",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/227552",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2708/28833b618429cfe5f65d24ea11933ae62e3308ea7d2015be.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "the-crew-motorfest-ps4-ps5",
-      "title": "The Crew Motorfest PS4/PS5",
-      "mark": "",
-      "price_from": 290,
-      "price_old": 390,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2315/607d9ed1ac762c9de33ef73fd09b3431d0b96ef4985ac2fb.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202305/2315/607d9ed1ac762c9de33ef73fd09b3431d0b96ef4985ac2fb.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1713/373d8dabcd307512034ec694ca9d635c633d851c44c6a7be.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1713/825c5d479568c230e448cc33b7aecc2ba9a92f68eeb3a790.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1713/4f0a213a06a6f059c281d1711ac126765f262d29b8069845.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1713/df9b7c6d2395a06bf59798a85d8fa714ab499aefd8020338.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1713/37c129f20aae2973ec1879eeacd8f7fe46fb58fae69de80e.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1713/242ad111253f457be59f2aa0628bd8e3eebb62899cb064f3.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1713/9ed2dc7e3da65a604e15730de219cd6ce3e8e487bcd66c10.jpg"
-      ],
-      "description": "The Crew Motorfest доступен для PS4 и PS5. Игра предлагает бесплатный доступ на 5 часов с возможностью продолжить после покупки. Прогресс, достижения и разблокированные предметы сохраняются. В мире Гавайев вы можете участвовать в гонках, исследовать открытый мир и освоить различные стили автокультуры.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Спорт",
-        "Гонки"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 290,
-          "14": 400,
-          "21": 590,
-          "28": 740
-        },
-        "p3": {
-          "7": 390,
-          "14": 500,
-          "21": 690,
-          "28": 840
-        }
-      },
-      "tilda_uid": "889023988632",
-      "sku": "",
-      "external_id": "S4R3JzUc0bUk6yxRNvN9",
-      "url": "http://arenapsgm.ru/tproduct/889023988632-the-crew-motorfest-ps4-ps5",
-      "seo_title": "The Crew Motorfest PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда The Crew Motorfest PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры The Crew Motorfest PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.14,
-      "release_date": "14/9/2023",
-      "publisher": "Ubisoft",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10002313",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2217/aff7ae0da202d816a5761fd4ce865085320052f46223c770.png",
       "rent_days": [
         7,
         14,
