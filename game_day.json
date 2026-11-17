@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-16T02:02:53Z",
-  "server_time_utc": "2026-11-16T02:02:53Z",
+  "updated_at": "2026-11-17T02:02:48Z",
+  "server_time_utc": "2026-11-17T02:02:48Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-17T02:00:00Z",
-  "expires_at": "2026-11-17T02:00:00Z",
+  "next_rotation_at": "2026-11-18T02:00:00Z",
+  "expires_at": "2026-11-18T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 100,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-17T02:00:00Z"
+    "next_rotation_at": "2026-11-18T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "titanfall-2-ps4-ps5",
+      "title": "Titanfall 2 PS4/PS5",
+      "description": "Respawn Entertainment возвращает нас к легендарной династии с Titanfall 2. Это не просто продолжение, а свежий взгляд на классику: в игре теперь полноценная одиночная кампания и многократно расширенный боевой режим.\n\nФанатам серии понравится новый геймплей - он стал еще быстрее, плавнее и по-настоящему новаторским. Ощущение идеального синергии между пилотом и его машиной просто переполняет экран.",
+      "image_url": "https://static.tildacdn.com/stor3534-3766-4134-b037-613035336366/38209030.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTPhGXT7wuokaApJltcc6T/titanfall_01.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTVwfPGtEG9oNlueRFZNSG/titanfall_02.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTiT8PThoJ8cunqhUobikm/titanfall_03.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENT2um8Mhbqqt4IKUtoUsRs/titanfall_04.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTGlAwqfJX4wlDmYA0fmZV/titanfall_05.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTP0sV9C9dOVeK2ipAXzZh/titanfall_06.jpg",
+        "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/FREE_CONTENTgyORQ5a3LhNQvKGAl56Z/titanfall_07.jpg"
+      ],
+      "release_date": "28/10/2016",
+      "publisher": "EA Swiss Sarl",
+      "platforms": "PS4",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.57,
+      "store_url": "https://store.playstation.com/en-tr/concept/221813",
+      "tilda_uid": "290580791302",
+      "sku": "",
+      "external_id": "MiHbGErEGDlH85GGub1r",
+      "url": "http://arenapsgm.ru/tproduct/290580791302-titanfall-2-ps4-ps5",
+      "expires_at": "2026-11-18T02:00:00Z",
+      "published_at": "2026-11-17T02:02:48Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 100,
+          "21": 100,
+          "28": 100
+        },
+        "p3": {
+          "7": 200,
+          "14": 200,
+          "21": 200,
+          "28": 200
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 100,
+        "21": 100,
+        "28": 100
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Respawn Entertainment возвращает Titanfall 2: не просто продолжение, а свежий взгляд на классику с полноценной одиночкой и новым геймплеем.\n\nБыстрее, плавнее и новаторски - теперь ощущение идеальной синергии между пилотом и машиной переполняет экран."
+    }
+  ],
+  "history": [
     {
       "slug": "kao-the-kangaroo-ps4-ps5",
       "title": "Kao the Kangaroo PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "3u6OYCVnLTTRYKbDtupx",
       "url": "http://arenapsgm.ru/tproduct/234757485112-kao-the-kangaroo-ps4-ps5",
-      "expires_at": "2026-11-17T02:00:00Z",
       "published_at": "2026-11-16T02:02:53Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 100,
-          "21": 100,
-          "28": 100
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 200,
-          "21": 200,
-          "28": 200
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 100,
-        "21": 100,
-        "28": 100
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Кенгуренок Као - это красивый 3D-платформер про поиск отца в мире полных секретов.\n\nИгра сочетает золотые традиции экшена с цветными локациями, боковыми битвами и магическими перчатками для всех возрастов."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "tales-of-arise-ps4-ps5",
       "title": "Tales of Arise PS4/PS5",
@@ -2983,54 +3033,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Бомжам не хватает хаоса - а у нас он в каждой строчке.  \n\nШвыряем голубей с взрывчаткой, пьём алкоголь и бьёмся в нелепых ритуалах. Карл смеётся, персонажи живут странно, а сюжет - безумный и трогательный. Всё с озвучкой, где каждый момент - настоящий смех."
-    },
-    {
-      "slug": "battlefront-1-ps4-ps5",
-      "title": "Battlefront 1 PS4/PS5",
-      "description": "Рассвет мировых войн - в Battlefield 1.  \nПогрузитесь в атмосферу сражений, где каждый выстрел - как пульс эпохи.  \n\nАт-аты шагают по тундре Хота, спидербайки гоняются по Эндору, бластеры свистят на фоне крестокрыльев и СИД-истребителей.  \n\nВ Star Wars™ Battlefront™ вы не просто смотрите - вы вступаете в бои, где мечты о подвигах становятся реальностью.  \n\nПопробуйте - и позовите друга к битве.",
-      "image_url": "https://static.tildacdn.com/stor3439-3136-4062-b634-613536356534/56234194.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3439-3136-4062-b634-613536356534/56234194.jpg",
-        "https://static.tildacdn.com/stor6234-3831-4563-b361-376139333534/54915458.jpg",
-        "https://static.tildacdn.com/stor3066-3765-4534-b933-636436386131/46217055.jpg",
-        "https://static.tildacdn.com/stor3866-6462-4639-b561-616334303534/88081925.jpg",
-        "https://static.tildacdn.com/stor3236-3262-4232-b130-613238303632/25033132.jpg"
-      ],
-      "release_date": "",
-      "publisher": "",
-      "platforms": "",
-      "voice": "",
-      "text_translation": "",
-      "rating": null,
-      "store_url": "",
-      "tilda_uid": "881613135482",
-      "sku": "",
-      "external_id": "D54Xy5JY3HH1nOMfthnp",
-      "url": "http://arenapsgm.ru/tproduct/881613135482-battlefront-1-ps4ps5",
-      "published_at": "2026-09-21T02:00:55Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Battlefield 1 - настоящий рассвет мировых войн.  \nВ Star Wars Battlefront вы не просто смотрите - вы вступаете в бой, как герой."
     }
   ]
 }
