@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-18T20:28:02Z",
-  "generated_at": "2026-11-18T21:23:28Z",
-  "count": 11479,
+  "catalog_id": "2026-11-18T23:25:09Z",
+  "generated_at": "2026-11-18T23:27:41Z",
+  "count": 11483,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -2998,6 +2998,75 @@
       "catalog_added_at": "2026-11-07T00:54:52Z"
     },
     {
+      "id": "the-house-of-tesla-definitive-edition",
+      "slug": "the-house-of-tesla-definitive-edition",
+      "sku": "rent-the-house-of-tesla-definitive-edition",
+      "title": "The House of Tesla: Definitive Edition PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Уникальное, Приключение, Головоломка",
+      "categories": [],
+      "publisher": "Blue Brain Games s.r.o.",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "18.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1606/d557aeb8cb22f262b1fda7b88c52bc509cfbc2c1bfabcd1b.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1606/85f57c6fd69d7c3e0041af8ea25b8fcbb608c357da596f45.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1606/edae8b22a3ec88c212ae1232807ba0e6b7aa0ed7f46483bf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1606/3be93df131c916ac0283291478748048a4227a341b9b7258.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1606/a6300cc0efb7197430c62ce08bef1b7b985b31c1173da758.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1606/d30de3dcc8b5a0b328ef9f032a699fa28ef1034ffbb1a2c8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1606/f25733bfa24b0ff438774a02d250dc5ff305c3fef1000b92.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1606/8ed6b573e627e4894b464fd41823f479c8d440052204ab53.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1606/0ca5db55647fae8297b130548f54272dcff6924865a57763.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018772",
+      "description": "Экранизация романа «Дом Тесла» от Джеймса Роджерса подается на PlayStation 5 в своей окончательной, расширенной версии. Это не просто фильм - это полноценный эпический триллер, где история реального изобретателя электричества переплетена с тайнами, психологическим давлением и скрываемыми преступлениями его жены Мэри Кюри.\n\nВизуальный ряд на PS5 раскрывает атмосферу 1890-х годов с невероятной детализацией, а динамичные сцены гонки электрического поезда создают настоящее напряжение, словно сюжет буквально дергает за струну.\n\nОщутите тот самый момент перед открытием: когда инновации встречаются со злом, и вы понимаете, что мир стоит на грани катастрофы.",
+      "seo_title": "The House of Tesla: Definitive Edition PS5 аренда игры",
+      "seo_descr": "Аренда The House of Tesla: Definitive Edition PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-18T23:27:30Z"
+    },
+    {
       "id": "savoury-cascade",
       "slug": "savoury-cascade",
       "sku": "rent-savoury-cascade",
@@ -3067,166 +3136,142 @@
       "catalog_added_at": "2026-11-18T11:27:47Z"
     },
     {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
+      "id": "my-life-safari-vet",
+      "slug": "my-life-safari-vet",
+      "sku": "rent-my-life-safari-vet",
+      "title": "My Life: Safari Vet PS5",
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
         },
         "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
         }
       },
       "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
       },
       "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
       },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Симулятор, Семейная, Казуальная",
+      "categories": [],
+      "publisher": "Markt+Technik Verlag GmbH",
       "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
       "release_date": "18.11.2026",
-      "is_preorder": true,
+      "is_preorder": false,
       "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/36d61236da36bdee745e1656e5fe5b0c1e8ba6d19d949f28.png",
       "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/866e5b3239822e8b1f4a7381bbb8be538230ce8d9329b81d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/abe4eec64cf9aef2d60475f83c75c75e0bc08c0e2be774d6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/e914415cb7118af6556e872a4a895ba39fa953a510c4ee38.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/c809acea85fa54494a44f2cd9c30ee3c389fb1f1db4cd83e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/71ca09081fbbc1eddcd4c9ca83d028b05e16c77be6b6d8b0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/1c1606136ea028ae7233942a7b901c48b73e17a64ccbf66d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/46a418e94297bfb2a9ba75791c80cfcff97931aceda041f4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2609/a5d4169a75255cf0e0556d004ae3fe5964703c99dfef18f6.jpg"
       ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Наконец-то мы дошли до главного события в истории видеоигр. Grand Theft Auto VI уже здесь, и это совсем не та GTA, которую мы ждали годами. Это совершенно новый мир с новой историей, новым городом и новыми персонажами.\n\nТут всё меняется от самого начала: новые механики, новые способы взаимодействия со средой и атмосфера, которая сразу же погружает в этот бешеный гламурный Лас-Вегас. Удивительные открытия ждут вас на каждом углу.\n\nПолучите этот шедевр в своем исполнении Ultimate Edition прямо сейчас и станьте частью новой легенды.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
+      "store_url": "https://store.playstation.com/en-tr/concept/10018280",
+      "description": "Сейчас в Африке все по-особенному жарко! В «Моя жизнь: Саванна» вам предстоит стать ветеринаром, а значит - постоянно спасать животных от беды.\n\nВам придется не только лечить раны и ухаживать за питомцами, но и решать настоящие экстремальные ситуации в дикой природе. Каждый день будет наполнен новыми открытиями и серьезными вызовами.",
+      "seo_title": "My Life: Safari Vet PS5 аренда игры",
+      "seo_descr": "Аренда My Life: Safari Vet PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-18T21:23:17Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
+      "catalog_added_at": "2026-11-18T23:27:30Z"
     },
     {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
+      "id": "kitsune-zero",
+      "slug": "kitsune-zero",
+      "sku": "rent-kitsune-zero",
+      "title": "Kitsune Zero PS4/PS5",
+      "platform": "PS4 и PS5",
       "prices": {
         "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
         },
         "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
         }
       },
       "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
       },
       "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
       },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Экшен, Приключение",
+      "categories": [],
+      "publisher": "Spoiled Cat, Unipessoal Lda",
       "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
+      "text_translation": "Английский",
+      "rating": 5.0,
       "release_date": "18.11.2026",
-      "is_preorder": true,
+      "is_preorder": false,
       "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1314/45148fdb3736f5265f9cf18671c614a4b7c6b9f39d68b5a1.png",
       "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0219/cc785278033901c4637348bc171de2a27ffb0a98ec216281.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0219/ec07a9fe536a4483eb396245b5abccd333ab0d6bb120da37.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0219/4404e8e5cc0b3f5b06b8f4ca2b1e7fe607ea7b36ca04f605.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0219/dfd5e45b1ab27521151540f507bf9fbbed5e2175c5ce9797.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0219/118ab6c4fb5c6bf3f5373741e6a2ef091be8a5aaac0b58e9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0219/e78d592019bf39d913801b67da1b749929b9912c0c0b6bae.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0219/74a7603e58aabdcd40261756999faf04f00aa3c22e8435e0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0219/28bed90084ee1c8540ef914b49a223b13615401567b86342.jpg"
       ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром, который еще только предстоит открыть для себя.\n\nОжидается, что это будет самая масштабная часть франшизы по всем параметрам: от графики до объема действий. Готовьтесь к тому, что привычные правила будут пересмотрены, а интриги разворачиваться будут на новом уровне.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
+      "store_url": "https://store.playstation.com/en-tr/concept/10020173",
+      "description": "Встретимся в мире, где сны становятся реальностью. Это история о девушке, которая может видеть будущее, но не знает, как от него спастись.\n\nГде-то далеко тайна древней богини настигает её и втягивает в безумную гонку за смертью. Впереди - бесконечные сны, невероятные приключения и, конечно же, много злых духов, готовых помянуть вам душу.\n\nНе упустите шанс пережить самое безумное путешествие года вместе с главными героями!",
+      "seo_title": "Kitsune Zero PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Kitsune Zero PS4/PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-18T21:23:17Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
+      "catalog_added_at": "2026-11-18T23:27:30Z"
     },
     {
       "id": "dark-rail",
@@ -3295,6 +3340,213 @@
       "seo_descr": "Аренда Dark Rail PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-18T04:53:04Z"
+    },
+    {
+      "id": "console-archives-the-firemen-2-pete-danny",
+      "slug": "console-archives-the-firemen-2-pete-danny",
+      "sku": "rent-console-archives-the-firemen-2-pete-danny",
+      "title": "Console Archives THE FIREMEN 2: Pete & Danny PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "HAMSTER CORPORATION",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "18.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0903/8d1f8167189a69a41e21652a3eeb8796a77a1ff0a2c500b1.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/62f41770685ed5cc3bc8a800fe9b73b0cb5d500591f6edcf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/c10d15bfbc73c52978a87afe2b8794cfbeb61a484dffdcea.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/141fc6fc79630c83102d3ea81e41b427c8101135d02c10b7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/995deb8b7184869b640f352be34c0febb0356d479f7ff8d3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/1d8ca930c12c5e31f8eb506ded5238b8619da08cc0f29a86.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/f43905cbce936c2a5bb53ea599c7025f774ea1c4703e3502.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/9691725af67555a5fc6f549e9f91455595589e4a2a8cbe0a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/bf9469a0f5df2d19f94c55b9bff7d6a42773c4b86a40aeaa.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018293",
+      "description": "Возвращаемся в горящий домик с «Console Archives» и берем на аренду легендарную «THE FIREMEN 2: Pete & Danny». Это не просто продолжение, а полноценное переосмысление истории о двух братах-пожарных.\n\nГлавная фишка второй части - динамичный геймплей, где вам придется быстро принимать решения, пока огонь пожирает здание. Команды из 2 или 4 игроков на одной консоли будут весело дергать друг друга за волосы в стремительной гонке по этажам.\n\nИдеальный выбор для вечеринки с друзьями: готовьтесь к хаосу и настоящим спасательным операциям, которые запомнятся надолго.",
+      "seo_title": "Console Archives THE FIREMEN 2: Pete & Danny PS5 аренда игры",
+      "seo_descr": "Аренда Console Archives THE FIREMEN 2: Pete & Danny PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-18T23:27:30Z"
+    },
+    {
+      "id": "arcade-archives-2-tx-1-v-8",
+      "slug": "arcade-archives-2-tx-1-v-8",
+      "sku": "rent-arcade-archives-2-tx-1-v-8",
+      "title": "Arcade Archives 2 TX-1 V.8 PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Гонки",
+      "categories": [],
+      "publisher": "HAMSTER CORPORATION",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "18.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0609/ebe12b7a743c51bd1024ad5c8c6caa68b71be6ee232578ed.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0907/674d6bde8b71f12067733c335db0a15e521b2801d2222c40.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0907/e04d10ebe44e636879a5943b5d0b15c64037bf6f9460881d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0907/b351b0f1904f7ffc7029d5a2b28a611078be6d8f43fe040b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0907/f820e78543b4f92236b22fe5ad651fdd42f79210b2d75099.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0907/e8e0c6e6e1570960c363b6c19a4064658cf1a77e29ab7223.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0907/afef8e17f73025f1185477dc93a6c17401557e517e89c936.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0907/14dcfb2af82c7107d7e727e56f752e71780100f241427c01.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0907/001aae52ed502c6e6afa7e6dcde4cb8204287d77822cd6ae.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020557",
+      "description": "Вас ждет легендарный «Теннисный клуб» из серии Arcade Archives. Это не просто переплюссинг, а настоящий кайф от классической аркадной физики. Покрути ракеткой по воздуху, чтобы мяч летел точно куда надо, и поймал момент, когда соперник даже не успеет отреагировать.\n\nЗдесь без воды и лишней графики - чистый драйв и хардкорные дуэли. Игра учится сама: проигрывай столько раз, сколько нужно, чтобы со временем чувствовать ритм игры на интуитивном уровне.",
+      "seo_title": "Arcade Archives 2 TX-1 V.8 PS5 аренда игры",
+      "seo_descr": "Аренда Arcade Archives 2 TX-1 V.8 PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-18T23:27:30Z"
+    },
+    {
+      "id": "arcade-archives-2-seicross",
+      "slug": "arcade-archives-2-seicross",
+      "sku": "rent-arcade-archives-2-seicross",
+      "title": "Arcade Archives 2 SEICROSS PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Шутер",
+      "categories": [],
+      "publisher": "HAMSTER CORPORATION",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "18.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0906/230af8e49ac22252375217382bc2d53f6fe2ecf1f85f47ac.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/2bc528a82e4abdb8ce681e144d28534a93d7d0302185fee3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/d33f43e47311cdf8c3568ff27bf8f032415a9e9c5a9ae51e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/13170e295538ed38a4ece391d6c977e6adf57970ee8f8ce5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/5603d2c8f9767ba651a504f888e84377d2a9eb948a340e4e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/dfc06f602dbf25308bc0b0259ec5518dd82bfb6b5b3424e9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/47ed6ef8d5152f08dc0d0d9724894a9b98d54536f69223c1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/f1f41ca6c52e248f3d6fe7427e7dfb0c409e9fa028b7ccea.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1008/a771133fe5d63aaf82504e3789b90595efb12443dc2da82c.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020885",
+      "description": "Вот классический дуэт аркадных хитов из легендарной серии Sega, теперь собранные вместе на одной консоли. В «Pac-Man World» ты управляешь желтым шариком через весь город, собирая монеты и разгоняясь до невероятных скоростей, чтобы сразиться с боссами в безумном гонке.\n\nА если нужна стратегия - перехватите управление у Марио и его друзей в «Super Mario Kart». Управляйте своими машинами на трассах из разных вселенных Sega, собирая звезды и боритесь за победу в самой адреналиновой гонке истории.",
+      "seo_title": "Arcade Archives 2 SEICROSS PS5 аренда игры",
+      "seo_descr": "Аренда Arcade Archives 2 SEICROSS PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-18T23:27:30Z"
     },
     {
       "id": "tidy-up-electronic-store-simulator",
