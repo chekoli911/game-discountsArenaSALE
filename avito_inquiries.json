@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-18T19:35:39+03:00",
-  "updated_at_msk": "18.11.2026 19:35",
+  "updated_at": "2026-11-18T20:35:49+03:00",
+  "updated_at_msk": "18.11.2026 20:35",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2889,
+  "total": 2890,
   "unique_games": 1026,
   "in_demand": 183,
   "one_off": 683,
@@ -3136,7 +3136,7 @@
       "title": "NBA 2K27 Ultra Edition PS5",
       "item_id": "8276992073",
       "url": "https://avito.ru",
-      "count": 51,
+      "count": 52,
       "demand": "high",
       "avg_price": 275,
       "min_price": 257,
@@ -3335,7 +3335,7 @@
         50,
         51,
         51,
-        51
+        52
       ],
       "hourly": [
         0,
@@ -3508,7 +3508,7 @@
         3,
         1,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -3684,7 +3684,7 @@
         257
       ],
       "first_at": "2026-08-20T13:33:54+03:00",
-      "last_at": "2026-11-16T20:35:34+03:00"
+      "last_at": "2026-11-18T20:11:48+03:00"
     },
     {
       "id": "marvel-s-avengers-endgame-edition-ps4-ps5",
@@ -551649,6 +551649,12 @@
   ],
   "recent": [
     {
+      "title": "NBA 2K27 Ultra Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-18T20:11:48+03:00"
+    },
+    {
       "title": "Draw It, Human PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -551881,12 +551887,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-17T20:45:48+03:00"
-    },
-    {
-      "title": "Watch Dogs 2 - Deluxe Edition",
-      "price": 250,
-      "price_string": "250 ₽",
-      "at": "2026-11-17T20:42:28+03:00"
     }
   ]
 }
