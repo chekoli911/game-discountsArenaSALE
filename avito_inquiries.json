@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-18T14:34:18+03:00",
-  "updated_at_msk": "18.11.2026 14:34",
+  "updated_at": "2026-11-18T15:34:35+03:00",
+  "updated_at_msk": "18.11.2026 15:34",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2873,
+  "total": 2874,
   "unique_games": 1022,
   "in_demand": 181,
   "one_off": 680,
@@ -2581,7 +2581,7 @@
       "title": "NHL 27 PS5",
       "item_id": "8355713865",
       "url": "https://avito.ru",
-      "count": 72,
+      "count": 73,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -2780,7 +2780,7 @@
         71,
         71,
         71,
-        72
+        73
       ],
       "hourly": [
         0,
@@ -2953,7 +2953,7 @@
         2,
         0,
         0,
-        1
+        2
       ],
       "price_series": [
         null,
@@ -3129,7 +3129,7 @@
         257
       ],
       "first_at": "2026-09-05T21:51:28+03:00",
-      "last_at": "2026-11-18T01:50:39+03:00"
+      "last_at": "2026-11-18T15:10:32+03:00"
     },
     {
       "id": "nba-2k27-ultra-edition-ps5",
@@ -549498,6 +549498,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-18T15:10:32+03:00"
+    },
+    {
       "title": "ACE combat 8: wings OF theve PS5",
       "price": 591,
       "price_string": "591 ₽",
@@ -549730,12 +549736,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-17T15:43:49+03:00"
-    },
-    {
-      "title": "Tiny Bookshop PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-17T14:42:35+03:00"
     }
   ]
 }
