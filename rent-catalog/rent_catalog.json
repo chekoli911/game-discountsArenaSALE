@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-18T01:07:46Z",
-  "generated_at": "2026-11-18T01:34:16Z",
-  "count": 11476,
+  "catalog_id": "2026-11-18T04:37:42Z",
+  "generated_at": "2026-11-18T04:53:14Z",
+  "count": 11474,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -2998,166 +2998,141 @@
       "catalog_added_at": "2026-11-07T00:54:52Z"
     },
     {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
+      "id": "dark-rail",
+      "slug": "dark-rail",
+      "sku": "rent-dark-rail",
+      "title": "Dark Rail PS5",
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
         },
         "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
         }
       },
       "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
       },
       "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
       },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Стратегия, Simulator",
+      "categories": [],
+      "publisher": "JANDUSOFT S.L.",
       "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
       "release_date": "18.11.2026",
       "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/865239d61cc03d14e3bd08da71f77bb7704c0919351aed8c.png",
       "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/de43987fec0f9792fff419664a4556298e4e323a4ffc93b3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/787a66e37feba765f67914e01e36a0cf88a9959844e2c3f3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/7b3a19141e3c21c5bbd5d9a56424b6fcfb6dc055511d58a0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/4a50058bc0ce7094b98a723e6a125395db331b291c9ba876.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/71db3d8d6d91723856f90a32aa015452a88efc0feeab2090.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/dd079e0f670d1f004171b07e8678838645a859681cd645f7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/78a54bdc4c4a993c86d6f5974664c2e28bde6785cd2a6e6b.jpg"
       ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Наконец-то мы дошли до главного события в истории видеоигр. Grand Theft Auto VI уже здесь, и это совсем не та GTA, которую мы ждали годами. Это совершенно новый мир с новой историей, новым городом и новыми персонажами.\n\nТут всё меняется от самого начала: новые механики, новые способы взаимодействия со средой и атмосфера, которая сразу же погружает в этот бешеный гламурный Лас-Вегас. Удивительные открытия ждут вас на каждом углу.\n\nПолучите этот шедевр в своем исполнении Ultimate Edition прямо сейчас и станьте частью новой легенды.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
+      "store_url": "https://store.playstation.com/en-tr/concept/10021141",
+      "description": "Тяжелая локация на PlayStation 5. Сочетание мрачной атмосферы с плавным геймпадом и высокой графикой, где каждая деталь поддается детальному изучению.\n\nВот вам еще один повод погрузиться в мир тьмы и выживания, который не даст заскучать ни секунды.",
+      "seo_title": "Dark Rail PS5 аренда игры",
+      "seo_descr": "Аренда Dark Rail PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-18T01:09:42Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
+      "catalog_added_at": "2026-11-18T04:53:04Z"
     },
     {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
+      "id": "tidy-up-electronic-store-simulator",
+      "slug": "tidy-up-electronic-store-simulator",
+      "sku": "rent-tidy-up-electronic-store-simulator",
+      "title": "Tidy Up: Electronic Store Simulator PS5",
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
         },
         "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
         }
       },
       "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
       },
       "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
       },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Simulator",
+      "categories": [],
+      "publisher": "Victor Ciumac  trading as ScaleUpgames",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 4.33,
+      "release_date": "17.11.2026",
+      "is_preorder": false,
       "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1801/3b56608ad5b003d4af180e55721bb93e45665403dba9cd4f.png",
       "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1801/d8d5c11e1207098378a65c7ca318ae38c48559d1fa60c231.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1801/2a44e9a6c8fc31ef52b826b27ed082806e9cf7b7be379a26.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1801/bbc6f3090aad719c12df7cb9e0849787c333d99b20f01e24.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1801/1d53154733cd982fcf3a1a5e40d20820ca78a728bf5c6ca1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1801/80b80ec4a4e376870ed7eecb995b989ab06c496e35490d00.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1801/ea9de4f734a7e5e44b8ab6b20d73ef45463aa493660f73ac.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1801/146b51a7b3da82e1d99dbbdfec4937af628cc2cee9436ff9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1801/9429c0994a8e5d8b9da621f9cda5d33965934f0adf6f7f88.jpg"
       ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром, который еще только предстоит открыть для себя.\n\nОжидается, что это будет самая масштабная часть франшизы по всем параметрам: от графики до объема действий. Готовьтесь к тому, что привычные правила будут пересмотрены, а интриги разворачиваться будут на новом уровне.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
+      "store_url": "https://store.playstation.com/en-tr/concept/10021172",
+      "description": "Ты когда-нибудь мечтал открыть свой собственный магазин электроники? Tidy Up - это симулятор, где ты будешь принимать решения от самого начала до открытия сети магазинов по всему миру.\n\nВместо скучной работы в супермаркете или ресторана здесь ты управляешь розничной сетью. Твоя задача - грамотно закупать товары, следить за ценами и вовремя продавать, чтобы зарабатывать огромные деньги на торговле гаджетами.\n\nПросто круто, что игра работает на PS5. Включи консоль и сразу погружаешься в мир бизнеса, где каждое решение может изменить всё.",
+      "seo_title": "Tidy Up: Electronic Store Simulator PS5 аренда игры",
+      "seo_descr": "Аренда Tidy Up: Electronic Store Simulator PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-18T01:09:42Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
+      "catalog_added_at": "2026-11-18T04:53:04Z"
     },
     {
       "id": "ranger-s-path-national-park-simulator",
@@ -61403,7 +61378,7 @@
       "release_date": "09.07.2026",
       "is_preorder": false,
       "is_new": true,
-      "image_url": "https://static.tildacdn.com/stor3335-3064-4631-a139-333961646264/9617b41c42173f3e38b5d23dbbc0b235.jpg",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2618/ee7d4a20243804f08a3c4a4eb1b4346dbe29dbce0fb59751.png",
       "screenshots": [],
       "store_url": "https://store.playstation.com/en-tr/concept/10017657",
       "description": "Call of Duty: Black Ops - классика, которая до сих пор включает в себя настоящую атмосферу боев и неожиданные повороты.  \n\nНа PS4 и PS5 ты можешь проникнуть в тайны мира, управлять элитным отрядом и влиять на ход операций - как в кино, только с оружием и пульсом реальных боёв.  \n\nКинематографичные миссии, сетевой режим и полноценный «Зомби» - всё это уже у тебя под рукой.",
@@ -61464,7 +61439,7 @@
       "release_date": "09.07.2026",
       "is_preorder": false,
       "is_new": true,
-      "image_url": "https://static.tildacdn.com/stor3833-6364-4234-b233-346334633863/59077c484b88d59af4552d0f13a3ae89.jpg",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2619/c4ce7fe379aa05dd3f6ecc11e8fa38dfea03d4b4a8bad73a.png",
       "screenshots": [],
       "store_url": "https://store.playstation.com/en-tr/concept/10017658",
       "description": "Black Ops II - захватывающий переход в цифровой холодную войну. Ты вдруг оказываешься в мире, где технологии уже переписали правила боя.  \n\nИгра сначала вышла на ПК и теперь живёт и развивается на PS4 и PS5 - всё как в оригинале, только с мощью новых консолей.  \n\nМир, где тайны скрываются за экранами и каждый шаг - шаг к уничтожению или спасению. Ты уже здесь - просто включи и действуй. 💥",
@@ -771599,7 +771574,7 @@
         "https://static.tildacdn.com/stor6436-3765-4233-b665-613639373136/78693931.jpg"
       ],
       "store_url": "",
-      "description": "Приятно поиграть в эту новую главу легендарной серии от Treyarch, где старые знакомые обретают второе дыхание.\n\nЗдесь снова будут крутые карточные боеприпасы и легендарные снайперские винтовки, но теперь с новыми скинами и режимами, которые ждут именно тебя.\n\nИграть в этот шедевр на PS4 или PS5 - это то самое качество, ради которого многие уже бегут покупать новую консоль.",
+      "description": "Корейская война вновь поднимается на первый план - Северная Корея атакует, а Прайс остаётся в тени, борясь за выживание.  \n\nСюжет резко меняется: от боёв на фронте до жутких событий в Нью-Йорке - всё становится мрачнее и эмоциональнее.  \n\nВы увидите не просто сражения - это глубокие переломы, где личные истории переплетаются с масштабными конфликтами.  \n\nСамый жёсткий, но настоящий взгляд на войну - в Call of Duty: Modern Warfare 4. 🎮💥",
       "seo_title": "Call of Duty: Black Ops 6 PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty: Black Ops 6 PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -771671,80 +771646,6 @@
       "description": "Call of Duty: Modern Warfare 2 – всё как в оригинале, только с улучшенной картинкой и движением.  \n\nБолее чёткие текстуры, реалистичные анимации, физика – теперь каждый взрыв и шаг чувствуется на каждом кадре.  \n\nВ комплекте – набор «Классический Гоуст»: боевой пловец-подрывник для драк в MW и Warzone.  \n\nИграет не просто – она погружает.",
       "seo_title": "Call of Duty MW REMASTERED PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty MW REMASTERED PS4/PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2020-01-01T00:00:00Z",
-      "from_vserent_cod": true
-    },
-    {
-      "id": "call-of-duty-ghost",
-      "slug": "call-of-duty-ghost",
-      "sku": "rent-call-of-duty-ghost",
-      "title": "Call of Duty Ghost PS4/PS5",
-      "platform": "PS4 и PS5",
-      "prices": {
-        "p2": {
-          "1": 200,
-          "7": 250,
-          "14": 400,
-          "21": 699,
-          "28": 799,
-          "56": 1438
-        },
-        "p3": {
-          "1": 280,
-          "7": 350,
-          "14": 500,
-          "21": 799,
-          "28": 899,
-          "56": 1618
-        }
-      },
-      "prices_p2": {
-        "1": 200,
-        "7": 250,
-        "14": 400,
-        "21": 699,
-        "28": 799,
-        "56": 1438
-      },
-      "prices_p3": {
-        "1": 280,
-        "7": 350,
-        "14": 500,
-        "21": 799,
-        "28": 899,
-        "56": 1618
-      },
-      "price_min": 200,
-      "lang_label": "На языке оригинала",
-      "genre": "Шутер",
-      "categories": [
-        "Call of Duty"
-      ],
-      "publisher": "Activision",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "https://static.tildacdn.com/stor3834-3265-4365-a662-646463373535/84707849.png",
-      "screenshots": [
-        "https://static.tildacdn.com/stor6434-6234-4631-b365-376639326136/72755470.jpg",
-        "https://static.tildacdn.com/stor3462-3666-4562-b561-306236373436/66033657.jpg",
-        "https://static.tildacdn.com/stor3539-6234-4064-a332-383466356233/47586790.jpg",
-        "https://static.tildacdn.com/stor6435-6564-4566-b139-616365306364/81226904.jpg",
-        "https://static.tildacdn.com/stor3436-6561-4437-b336-313239316166/45129969.jpg",
-        "https://static.tildacdn.com/stor3562-3466-4538-a230-373231336561/99823203.jpg",
-        "https://static.tildacdn.com/stor3633-6166-4131-a633-343631626461/98474954.jpg",
-        "https://static.tildacdn.com/stor3533-3963-4963-b130-316133366237/11037293.jpg",
-        "https://static.tildacdn.com/stor3366-3366-4133-a563-336465323161/30479435.jpg",
-        "https://static.tildacdn.com/stor6363-3037-4432-b461-623938326166/18502198.jpg"
-      ],
-      "store_url": "",
-      "description": "Call of Duty: Ghosts - возвращение легендарной серии в адреналин.  \n\nСражайся с друзьями от 2 до 18 игроков - плавная игра на 60 кадров в секунду, как в кино.  \n\nВходит в золотое издание: карты Onslaught, Nightfall и набор Волк.  \n\nЯзыки поддержки - английский, французский, немецкий, итальянский, испанский.  \nТребует загрузки до 12,8 ГБ - и готов к дуэли уже после первой загрузки. 🎮🔥",
-      "seo_title": "Call of Duty Ghost PS4/PS5 аренда игры",
-      "seo_descr": "Аренда Call of Duty Ghost PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2020-01-01T00:00:00Z",
       "from_vserent_cod": true
@@ -771952,72 +771853,6 @@
       "description": "Зомби в деле - и это не просто шутка.  \nCall of Duty: Black Ops III с дополнением Zombies Chronicles - полноценный ужас в каждом движении. У вас есть 8 переработанных карт для зомби-режима, 20 флаконов Liquid Divinium и два новых жевательных перка. Даже оружие можно подключить к камуфляжу «Улучшайзер» - специально для зомби.  \n\nКампания, сетевая игра и режим \"Зомби\" - всё на одном диске. Всё работает с PS4 и PS5, но онлайн-режим требует PlayStation Plus.  \n\nСистема включает DUALSHOCK 4 с вибрацией, поддержку HD-выходов и загрузку по правилам PlayStation Network - просто используйте, если согласны с условиями.",
       "seo_title": "Call of Duty Black Ops IIII PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty Black Ops IIII PS4/PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2020-01-01T00:00:00Z",
-      "from_vserent_cod": true
-    },
-    {
-      "id": "call-of-duty-black-ops-7",
-      "slug": "call-of-duty-black-ops-7",
-      "sku": "rent-call-of-duty-black-ops-7",
-      "title": "Call of Duty Black Ops 7 PS4/PS5",
-      "platform": "PS4 и PS5",
-      "prices": {
-        "p2": {
-          "1": 751,
-          "7": 939,
-          "14": 1690,
-          "21": 1990,
-          "28": 2390,
-          "56": 4302
-        },
-        "p3": {
-          "1": 903,
-          "7": 1129,
-          "14": 1890,
-          "21": 2190,
-          "28": 2590,
-          "56": 4662
-        }
-      },
-      "prices_p2": {
-        "1": 751,
-        "7": 939,
-        "14": 1690,
-        "21": 1990,
-        "28": 2390,
-        "56": 4302
-      },
-      "prices_p3": {
-        "1": 903,
-        "7": 1129,
-        "14": 1890,
-        "21": 2190,
-        "28": 2590,
-        "56": 4662
-      },
-      "price_min": 751,
-      "lang_label": "На языке оригинала",
-      "genre": "Шутер",
-      "categories": [
-        "Call of Duty"
-      ],
-      "publisher": "Activision",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "https://static.tildacdn.com/stor3163-6432-4231-b062-663035313662/14161903.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3035-3235-4263-a264-336339333133/edcb9a4d44395caadd62794c48f31f90.jpg",
-        "https://static.tildacdn.com/stor3562-3439-4231-b865-663965303638/97b9a977df97bad7631d771ec7ad2f0f.jpg"
-      ],
-      "store_url": "",
-      "description": "Call of Duty: Black Ops 7 - та самая драма, что ты ждёшь.  \nКорейский полуостров в битве, где каждый шаг - риск, а каждая сцена - напряжение.  \n\nТы будешь видеть, как война переплетается с личной судьбой - и как гибель одного превращает другого в охотника-убийцу.  \n\nИгра не просто в бою - она погружает в мрачный, насыщенный атмосферой мир без выхода из него.",
-      "seo_title": "Call of Duty Black Ops 7 PS4/PS5 аренда игры",
-      "seo_descr": "Аренда Call of Duty Black Ops 7 PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2020-01-01T00:00:00Z",
       "from_vserent_cod": true
