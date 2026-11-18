@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T20:16:37Z",
+  "generated_at": "2026-11-18T19:37:11Z",
   "count": 225,
   "unmatched_primer_titles": [
     "EA FC 25 PS4/PS5 НАВСЕГДА",
@@ -4691,7 +4691,7 @@
       "text_translation": "Русский, Английский",
       "rating": 4.88,
       "release_date": "18.11.2026",
-      "is_preorder": true,
+      "is_preorder": false,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
@@ -4723,14 +4723,14 @@
       "price_p3": 9111,
       "price_min": 7796,
       "short_note": "релиз 18.11.2026",
-      "lang_label": "",
+      "lang_label": "На русском языке! (субтитры)",
       "genre": "Экшен",
       "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
       "rating": 4.88,
       "release_date": "18.11.2026",
-      "is_preorder": true,
+      "is_preorder": false,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
@@ -8524,7 +8524,7 @@
       "publisher": "New Blood Interactive LLC",
       "voice": "",
       "text_translation": "Английский",
-      "rating": 4.68,
+      "rating": 4.67,
       "release_date": "16.10.2026",
       "is_preorder": false,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1811/06df56aad3a73a31505e1873815f4ec8eaf159e6f4aab2ec.png",
@@ -8875,7 +8875,7 @@
       "publisher": "SEGA EUROPE LTD",
       "voice": "",
       "text_translation": "Русский, Английский",
-      "rating": 4.34,
+      "rating": 4.33,
       "release_date": "10.11.2026",
       "is_preorder": false,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2211/a25bf91a3bf8cffd8b2d6cb274995bcae29e0bc429a32a5c.png",
@@ -8955,7 +8955,7 @@
       "publisher": "XREAL GAMES LTD.",
       "voice": "Английский",
       "text_translation": "Английский",
-      "rating": 4.77,
+      "rating": 4.76,
       "release_date": "05.11.2026",
       "is_preorder": false,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0715/538894125dde5a240a46207d2ac1f77b3043699556684735.png",
@@ -9069,7 +9069,7 @@
       "publisher": "NEW FOLDER GAMES LTD",
       "voice": "Английский",
       "text_translation": "Английский",
-      "rating": 3.96,
+      "rating": 3.77,
       "release_date": "12.11.2026",
       "is_preorder": false,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2111/3c7cf76c60ef73b8d4052b4847a46bcae451e02398a41aa5.png",
@@ -9094,5 +9094,5 @@
   "descriptions_refreshed_at": "2026-06-07T10:42:36Z",
   "languages_refreshed_at": "2026-06-23T21:13:48Z",
   "full_refresh_refreshed_at": "2026-11-14T19:18:22Z",
-  "priority_refresh_refreshed_at": "2026-11-17T19:32:52Z"
+  "priority_refresh_refreshed_at": "2026-11-18T19:37:11Z"
 }
