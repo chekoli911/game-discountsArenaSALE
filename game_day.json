@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-17T02:02:48Z",
-  "server_time_utc": "2026-11-17T02:02:48Z",
+  "updated_at": "2026-11-18T02:02:54Z",
+  "server_time_utc": "2026-11-18T02:02:54Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-18T02:00:00Z",
-  "expires_at": "2026-11-18T02:00:00Z",
+  "next_rotation_at": "2026-11-19T02:00:00Z",
+  "expires_at": "2026-11-19T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 100,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-18T02:00:00Z"
+    "next_rotation_at": "2026-11-19T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "slime-rancher-2-ps5",
+      "title": "Slime Rancher 2 PS5",
+      "description": "Slime Rancher 2 - это продолжение той самой игры, которую так обожают по всему миру. Вместе с Беатрикс Лебо отправляйтесь на загадочный Радужный остров, где вас ждут древние технологии, новые ресурсы и бесчисленное множество новых слаймов.\n\nБеатрикс не только разгадывает тайны планеты, но и строит себе уютное ранчо в чудесной оранжерее. Сверкающие стеклянные стены открывают вид на настоящий райский пейзаж, который она теперь называет своим домом.\n\nИсследуйте яркий новый мир, разводите слаймов и создавайте свои уникальные структуры. Ждите обновления с новым приключением!",
+      "image_url": "https://static.tildacdn.com/stor3165-3361-4336-b638-653661353364/41403782.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1322/900653ee6c9f933cb7308c91df5a8b112a5ab9bf03ebb5d3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1322/812f7192761d9da3e83d64a524057bfda75d7559e5aea0d6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202509/1122/41c72c57032c1d372e7dfba88aeb00b3900341202e544523.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202509/1122/fc7e11fbb99af1b969b033fc2ae7571b98ef518228e59da5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202404/0820/cd727fdae02fcded9b002c2f0a3c8b3a1e8f21691fa2c9d8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202412/0522/b184643a7362201f303a8c0c709c3a3bd62ae82a797b4455.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202404/0820/a46d564b566d52549514723c7105491d22937448ab055f99.jpg"
+      ],
+      "release_date": "7/6/2024",
+      "publisher": "Monomi Park, LLC",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.34,
+      "store_url": "https://store.playstation.com/en-tr/concept/10009803",
+      "tilda_uid": "340657682382",
+      "sku": "",
+      "external_id": "uDMNk6BPBzpbPeus4VL1",
+      "url": "http://arenapsgm.ru/tproduct/340657682382-slime-rancher-2-ps5",
+      "expires_at": "2026-11-19T02:00:00Z",
+      "published_at": "2026-11-18T02:02:54Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 100,
+          "21": 100,
+          "28": 100
+        },
+        "p3": {
+          "7": 200,
+          "14": 200,
+          "21": 200,
+          "28": 200
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 100,
+        "21": 100,
+        "28": 100
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Сожми текст до 2-3 очень коротких предложений для Telegram-поста про игру дня. Итог должен быть примерно в два раза короче обычного анонса.\nСделай 2 коротких абзаца: в первом одно главное предложение, во втором остальные.\nБез HTML, без markdown, без цен и призывов писать админу. Живой тон.\n\nSlime Rancher 2 - это продолжение любимой игры про слаймов, где…"
+    }
+  ],
+  "history": [
     {
       "slug": "titanfall-2-ps4-ps5",
       "title": "Titanfall 2 PS4/PS5",
@@ -50,34 +103,31 @@
       "sku": "",
       "external_id": "MiHbGErEGDlH85GGub1r",
       "url": "http://arenapsgm.ru/tproduct/290580791302-titanfall-2-ps4-ps5",
-      "expires_at": "2026-11-18T02:00:00Z",
       "published_at": "2026-11-17T02:02:48Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 100,
-          "21": 100,
-          "28": 100
+          "7": 0,
+          "14": 0,
+          "21": 0,
+          "28": 0
         },
         "p3": {
-          "7": 200,
-          "14": 200,
-          "21": 200,
-          "28": 200
+          "7": 0,
+          "14": 0,
+          "21": 0,
+          "28": 0
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 100,
-        "21": 100,
-        "28": 100
+        "7": 0,
+        "14": 0,
+        "21": 0,
+        "28": 0
       },
-      "p3_extra": 100,
-      "is_game_day": true,
+      "p3_extra": 0,
+      "is_game_day": false,
       "short_description": "Respawn Entertainment возвращает Titanfall 2: не просто продолжение, а свежий взгляд на классику с полноценной одиночкой и новым геймплеем.\n\nБыстрее, плавнее и новаторски - теперь ощущение идеальной синергии между пилотом и машиной переполняет экран."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "kao-the-kangaroo-ps4-ps5",
       "title": "Kao the Kangaroo PS4/PS5",
@@ -2984,55 +3034,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Раз - талантливый юный экстрасенс, теперь шпион в «Психонавтах». Лидер спасён - но он изменился. Кто-то из команды может быть предателем.\n\nВ Psychonauts 2 ты ведёшь бой не на земле, а внутри мозгов. Прыгаешь по трекам, ломаешь физику - и сражаешься с демонами души. Шутливо, напряжённо - от Тима Шафера."
-    },
-    {
-      "slug": "bum-simulator-ps4-ps5",
-      "title": "Bum Simulator PS4/PS5",
-      "description": "Бомжам не хватает хаоса - а у нас он в каждой строчке.  \n\nBum Simulator - это не просто выживание, это сюрреализм на PS4 и PS5. Швырьте голубей в людей, прикрепите к ним взрывчатку - и посмотри, как мир рушится. А потом ещё больше разогрейте смеси из алкоголя и найденных вещей. Пьёте? Смелее! Бросайте во врагов - эффект будет бешеный.  \n\nКарл - ваша магазинная тележка, который не только хранит всё, но и смеётся, как настоящий друг. А персонажи? От клоуна с крюком до скучающего богача, кто призывает вас бить всех на улице - каждый живёт своей нелепой жизнью.  \n\nИ да, у игры есть сюжет. Безумный, неожиданный и вдруг очень трогательный. Постройте базу из картонки, кастомизируйте её, обновите голубятню - или просто посоветуйтесь с бомжами-роботами. Всё это - с озвучкой, где каждый диалог звучит как настоящая эмоция.  \n\nА ещё можно просто укрыться и подремать. Потому что выживание - это не всегда спасение, иногда это просто шанс на смех.",
-      "image_url": "https://static.tildacdn.com/stor3833-3362-4166-a135-663735303065/25041339.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/1310/1a12ee99ab91f684f1a9015344ab772610faa77f8bf7a518.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/1310/c5889c0f49a78bc1d6beb237f2dcb100a01974b521eda0d9.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/1310/ae4b41599d853812a58de75aaf9782977ff1ab4db6e1263d.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/1310/dddf1c5c84d6fc58896f15fec40683a3a4e92c73d41b59e9.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/1310/cadecff1d5ca31c84ce35e85bafa669388758be09415ec65.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/1310/a4555a11680e7b1ea695c2a5ccf403d5f5de1eda14cca296.jpg"
-      ],
-      "release_date": "24/6/2024",
-      "publisher": "PlayWay plc",
-      "platforms": "PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.0,
-      "store_url": "https://store.playstation.com/en-tr/concept/10009607",
-      "tilda_uid": "146841317692",
-      "sku": "",
-      "external_id": "R8z7Pf1L9fAGMgBNgxnu",
-      "url": "http://arenapsgm.ru/tproduct/146841317692-bum-simulator-ps4ps5",
-      "published_at": "2026-09-22T02:01:09Z",
-      "prices": {
-        "p2": {
-          "7": 289,
-          "14": 399,
-          "21": 545,
-          "28": 645
-        },
-        "p3": {
-          "7": 389,
-          "14": 499,
-          "21": 645,
-          "28": 745
-        }
-      },
-      "prices_p2": {
-        "7": 289,
-        "14": 399,
-        "21": 545,
-        "28": 645
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Бомжам не хватает хаоса - а у нас он в каждой строчке.  \n\nШвыряем голубей с взрывчаткой, пьём алкоголь и бьёмся в нелепых ритуалах. Карл смеётся, персонажи живут странно, а сюжет - безумный и трогательный. Всё с озвучкой, где каждый момент - настоящий смех."
     }
   ]
 }
