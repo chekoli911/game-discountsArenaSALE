@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-18T05:24:00Z",
-  "generated_at": "2026-11-18T05:29:24Z",
-  "count": 11476,
+  "catalog_id": "2026-11-18T11:25:11Z",
+  "generated_at": "2026-11-18T11:27:58Z",
+  "count": 11477,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -2998,178 +2998,73 @@
       "catalog_added_at": "2026-11-07T00:54:52Z"
     },
     {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
+      "id": "savoury-cascade",
+      "slug": "savoury-cascade",
+      "sku": "rent-savoury-cascade",
+      "title": "Savoury Cascade PS4/PS5",
+      "platform": "PS4 и PS5",
       "prices": {
         "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
         },
         "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
         }
       },
       "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
       },
       "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
       },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/efe905decdf3fee4483364656968be5a3de687e5c29dd03a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/9106bb2a9b8835b8f617c892edbbe46312cb2e0e3d16b480.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/5e641d4c505e5a7ebc604b58b5fc7c052571ef419a328637.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1f2d0373af9f1b6bace15d7d8462ee7843b3d42452e97d37.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/5d18cf5f59260666abe5029f450ba2b5a61d996b0503e1fc.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/5de51b1e1cc3d3ea85e7bd8eba993be5c0c267316ca18147.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Наконец-то мы дошли до главного события в истории видеоигр. Grand Theft Auto VI уже здесь, и это совсем не та GTA, которую мы ждали годами. Это совершенно новый мир с новой историей, новым городом и новыми персонажами.\n\nТут всё меняется от самого начала: новые механики, новые способы взаимодействия со средой и атмосфера, которая сразу же погружает в этот бешеный гламурный Лас-Вегас. Удивительные открытия ждут вас на каждом углу.\n\nПолучите этот шедевр в своем исполнении Ultimate Edition прямо сейчас и станьте частью новой легенды.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-18T05:29:12Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
+      "price_min": 697,
       "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
+      "genre": "Казуальная",
+      "categories": [],
+      "publisher": "Orca Games Pty Ltd",
+      "voice": "",
       "text_translation": "Русский, Английский",
-      "rating": 0.0,
+      "rating": 5.0,
       "release_date": "18.11.2026",
-      "is_preorder": true,
+      "is_preorder": false,
       "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0901/ad3a3bc7297e7ae7a903611778d3ad40ebb46b7995e62af5.png",
       "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/04c76fb93ac12cca381c9ae3b01ced760fcb9ffbd00bb296.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b3c84f0fb852eb9c6f42b2403f03682ae2e8aeb286445266.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a527b3d5d7613984e14facb01cb1193aa750a7969a5861c8.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/40e2c2955261bb6142f786b75b3182868f70e35de3413122.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/6ea734e2626b8279370536b3b5faecd5243d3022f080a76a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/f252d9477be2e9b7e291da18fee79afe6d31954e80e11f8e.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0901/828995ad117bf7cea001cb061e32b3e627abf38bbe6ca868.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0901/15f2d4234e383b1b4656ce2ee1801cecbfc1ce2b806cb0fa.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0901/3535362524903e97508eda32bc0cb7e2686e7ae3ea706dcd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0901/14d160c6ff068793f4e556991cab00327d897e82081aab92.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0901/c743c89e7f14552c9644991bce6cda56b7394de1f0091bd0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0901/7288142105f3880fe0ef47f6b78f70ff9550db4d1753f9fe.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0901/b6f8a75169b0c21f5e0274870ee2ee433151eb76ba79a692.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0901/139d4400c6b02781a7fecca34ebc8d5fa2100084885c37e5.jpg"
       ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром, который еще только предстоит открыть для себя.\n\nОжидается, что это будет самая масштабная часть франшизы по всем параметрам: от графики до объема действий. Готовьтесь к тому, что привычные правила будут пересмотрены, а интриги разворачиваться будут на новом уровне.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
+      "store_url": "https://store.playstation.com/en-tr/concept/10021288",
+      "description": "Савори Кэскейд - это весёлая головоломка про еду и кулинарные эксперименты. Герои собирают ингредиенты, чтобы готовить всё от простых закусок до полноценных пиршеств, каждый из которых открывает новые возможности для развития мира.\n\nВ игре есть настоящая система рецептов: попробуйте приготовить блюдо с нуля, а потом найдите готовое в магазине, чтобы сравнить разницу и узнать, что же на самом деле получилось у шеф-повара. Не бойтесь экспериментировать - тут даже самый странный ингредиент может сыграть ключевую роль.\n\nГлавная фишка игры - это её харизматичный персонаж, который с юмором объясняет сложные моменты и постоянно предлагает свои кулинарные советы. Савори Кэскейд - отличный выбор для тех, кто любит приключения в сочетании с умными задачками про еду.",
+      "seo_title": "Savoury Cascade PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Savoury Cascade PS4/PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-18T05:29:12Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
+      "catalog_added_at": "2026-11-18T11:27:47Z"
     },
     {
       "id": "dark-rail",
@@ -3220,8 +3115,8 @@
       "text_translation": "Русский, Английский",
       "rating": 5.0,
       "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/865239d61cc03d14e3bd08da71f77bb7704c0919351aed8c.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/de43987fec0f9792fff419664a4556298e4e323a4ffc93b3.jpg",
@@ -3307,6 +3202,66 @@
       "seo_descr": "Аренда Tidy Up: Electronic Store Simulator PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-18T04:53:04Z"
+    },
+    {
+      "id": "soul-reaver-2",
+      "slug": "soul-reaver-2",
+      "sku": "rent-soul-reaver-2",
+      "title": "Soul Reaver 2 PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "CRYSTAL DYNAMICS",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.12,
+      "release_date": "17.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0712/34a8ca5c16ad9bdaa0b364526a71862491bdb6952e6a067f.png",
+      "screenshots": [],
+      "store_url": "https://store.playstation.com/en-tr/concept/10013858",
+      "description": "В этой версии реинкарнации Ларри Гейтса мы наконец-то получаем истинную свободу выбора - не только в выборе пути, но и в том, когда он начнется. Игра пропала из магазинов на долгие годы, а теперь она снова доступна для тех, кто хочет пережить историю о ведьме, магических артефактах и мистических путешествиях по Средиземному морю.\n\nСамое главное - здесь ты сам решаешь, что делать. Никаких обязательных решений или навязанных сюжетов. Игра позволяет создать собственный сценарий, исследовать мир на свой лад и найти то, что откликается именно тебе. Это не просто экшен, это возможность полностью погрузиться в атмосферу эпохи Возрождения.\n\nДоступно на PS4 и PS5 - наслаждайся атмосферой, когда захочешь, без привязки к конкретным датам или ограничениям платформы.",
+      "seo_title": "Soul Reaver 2 PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Soul Reaver 2 PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-18T11:27:47Z"
     },
     {
       "id": "ranger-s-path-national-park-simulator",
@@ -3514,6 +3469,75 @@
       "seo_descr": "Аренда Duck Side of the Moon PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-17T17:30:30Z"
+    },
+    {
+      "id": "darkness-and-flame-2-missing-memories",
+      "slug": "darkness-and-flame-2-missing-memories",
+      "sku": "rent-darkness-and-flame-2-missing-memories",
+      "title": "Darkness and Flame 2: Missing Memories PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "FIVE-BN STUDIO LLC",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.2,
+      "release_date": "17.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1609/33fca41733dffeb158bccf45314975964b03444e53ba6807.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1609/e35e9f84ff0c6404ee95b4c1b23372f1d2d7a1fd01fb44e1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1609/7a75dd57882ed9adf7f8e2790911f2841d49677a0d4c93b9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1609/07e1e485ff0ff57705f7e6cd44d5ca67a648e02a59bce8fe.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1609/88bbe9900379604976fb7f1d99c3fec36ba3c802c738c8bc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1609/b40994f5fdb18fdbd62338f162f41d9784d82a3c96fd00a9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1609/3627769773688547dd3cca6695a45bddbe4795e77b17ad59.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1609/5d927c6e50a5157266dabc841bccbb42d5df57c24bb0ea5b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1609/a48b0a08b341d98006fda2322e43ae4cfbfda85b236e2b82.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020936",
+      "description": "Возвращайся в темные коридоры старого поместья, где прошлое пытается вырваться из забвения. В Darkness and Flame 2 ты снова играешь за Алису, но теперь перед тобой стоит не просто расследование, а настоящая битва за судьбу всей страны.\n\nСражайся с новыми монстрами и решай морально сложные дилеммы, которые меняют ход истории в любую секунду. Пройди через кошмары, соприкоснись с магией огня и попробуй остановить древнюю тьму от захвата мира.",
+      "seo_title": "Darkness and Flame 2: Missing Memories PS5 аренда игры",
+      "seo_descr": "Аренда Darkness and Flame 2: Missing Memories PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-18T11:27:47Z"
     },
     {
       "id": "unicorn-academy-island-of-magic",
