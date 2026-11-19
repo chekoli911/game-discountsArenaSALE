@@ -1,7 +1,7 @@
 {
   "key": "vr",
   "title": "VR",
-  "updated_at": "2026-11-18T01:47:33Z",
+  "updated_at": "2026-11-19T01:39:34Z",
   "games": [
     {
       "slug": "mutant-boxing-league-vr-ps5",
@@ -67,271 +67,87 @@
       ]
     },
     {
-      "slug": "resident-evil-4-ps4-ps5",
-      "title": "Resident Evil 4 PS4/PS5",
-      "mark": "Хит",
-      "price_from": 490,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202210/2104/qv6AsSCT8cemAD138eKidL51.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202210/2104/Zxh8NsrqsVzvQblfe4uIZCCg.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202210/2104/6j5JaZ3n5k8JDUBRlh8p8YwX.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202210/2104/D6Xht9lPH4hB4lR2Yqnk35eK.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202210/2104/wTIsr5Lm6xZA2PuTyaREAIX3.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202210/2104/BUPJRjE7S3qXn5hF0uCHuSe0.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202210/2104/knSaI80l7Ha2Bfcncd9CWfzp.jpg"
-      ],
-      "description": "Resident Evil 4 - ремейк классики 2005 года, переработанный сюжет и современный игровой процесс. Игра доступна на PS4 и PS5. Выживать в мире ужасов, где каждый шаг - это риск, а каждое решение может изменить судьбу героя.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Шутеры",
-        "Приключения",
-        "Хоррор",
-        "VR"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 490,
-          "14": 590,
-          "21": 690,
-          "28": 790
-        },
-        "p3": {
-          "7": 590,
-          "14": 690,
-          "21": 790,
-          "28": 890
-        }
-      },
-      "tilda_uid": "859924123882",
-      "sku": "",
-      "external_id": "TkkGMKCUGsZ4lB8xmxAa",
-      "url": "http://arenapsgm.ru/tproduct/859924123882-resident-evil-4-ps4-ps5",
-      "seo_title": "Resident Evil 4 PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Resident Evil 4 PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Resident Evil 4 PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.74,
-      "release_date": "24/3/2023",
-      "publisher": "CE EUROPE LIMITED",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10004473",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "ace-combat-7-skies-unknown-ps4-ps5",
-      "title": "ACE COMBAT 7: SKIES UNKNOWN PS4/PS5",
+      "slug": "gran-turismo-7-ps4-ps5",
+      "title": "Gran Turismo 7 PS4/PS5",
       "mark": "",
-      "price_from": 250,
+      "price_from": 300,
       "price_old": null,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07202_00/4/i_27e8211b463ec94c70e8e8c04cc652fe8d58389ad41f4aea0d0d0e86f9d4cd7e/i/icon0.png",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2806/wpHT6JXmOA9iECLZKRPRvt0U.png",
       "screenshots": [
-        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07202_00/4/i_27e8211b463ec94c70e8e8c04cc652fe8d58389ad41f4aea0d0d0e86f9d4cd7e/i/icon0.png",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/FREE_CONTENT0chckJxgAzpZlBFoWfK9/PREVIEW_SCREENSHOT1_539856.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/FREE_CONTENTSzmiDFmIFkI5zi6vzrDL/PREVIEW_SCREENSHOT2_539856.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/FREE_CONTENT5PPY1Nh6rGroNBwixVXk/PREVIEW_SCREENSHOT3_539856.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/FREE_CONTENTyuBG2Rqg83rigdD4NoA7/PREVIEW_SCREENSHOT4_539856.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/FREE_CONTENT3jT4iCiLhHVeewUhjEi1/PREVIEW_SCREENSHOT5_539856.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/FREE_CONTENT3PGBXXcyV3vypcfRkpt7/PREVIEW_SCREENSHOT6_539856.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/FREE_CONTENTy75L5GZCE5l0BiLVWG61/PREVIEW_SCREENSHOT7_539856.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202202/2806/wpHT6JXmOA9iECLZKRPRvt0U.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202109/1322/zRgS2r8KKbbpMpVAwgVIiSGB.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202109/1322/12q4Li8WOeubgGLEt7TUwDTL.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202109/1322/CnjALeMIJ1ZyotqVr7uuzlM2.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202109/1322/FJ0yY9r7pP5HtdolN5Uxa628.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202109/1322/2E3peJmepuYHYfCy19reuNry.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202109/1322/YJb3HfYIejLj8LHzRDsa0Z4u.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202109/1322/rZ8lR5dheFXsFfad6kt2cH27.jpeg"
       ],
-      "description": "Купите ACE COMBAT™ 7: SKIES UNKNOWN и получите в подарок дополнение F-104C: Avril.\nСтаньте летчиком-асом, покоряйте фотореалистичные небеса и сбивайте противников в напряженных воздушных боях!\nОкунитесь в мир ACE COMBAT 7: Skies Unknown благодаря эксклюзивным VR-заданиям.\nКроме того, для подключения PS Camera к консолям PS5™ требуется адаптер PlayStation Camera (не надо приобретать отдельно); перейдите на сайт Playstation.com/camera-adaptor.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "VR",
-        "Стратегии и симуляторы"
-      ],
-      "platforms": "PS4",
-      "platform_ps4": true,
-      "platform_ps5": false,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 699,
-          "28": 799
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 799,
-          "28": 899
-        }
-      },
-      "tilda_uid": "261083443582",
-      "sku": "",
-      "external_id": "dAokuJc2a2YbvY0e2uau",
-      "url": "http://arenapsgm.ru/tproduct/261083443582-ace-combat-7-skies-unknown-ps4-ps5",
-      "seo_title": "ACE COMBAT 7: SKIES UNKNOWN PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда ACE COMBAT 7: SKIES UNKNOWN PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры ACE COMBAT 7: SKIES UNKNOWN PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.51,
-      "release_date": "19/2/2019",
-      "publisher": "BANDAI NAMCO ENTERTAINMENT EUROPE",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/221661",
-      "edition_banner": "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/NpgG4kzS0yD5HaWIimgQD1NYLqxDy5mj.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "alien-rogue-incursion-vr-deluxe-ps5",
-      "title": "Alien: Rogue Incursion VR Deluxe PS5",
-      "mark": "",
-      "price_from": 1632,
-      "price_old": 2390,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1905/28fee925a09f7fac3ba9cf00bb0974df8c570c1e755ed0a9.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1905/28fee925a09f7fac3ba9cf00bb0974df8c570c1e755ed0a9.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1902/f1ee06836c05f62852987c89aa483c0ff58c9a39048081e1.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1902/1b16b61c55f6e24f74783fa1f6fb83914f83f2b38375a738.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1902/f3cc6b49e06e41442bdc87f700c3694b4cbfa118a9b4d643.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1902/a73fff336082696077bf9ee6055e3813dad4f43b53c36e9f.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1902/86e4c38cae5bfa1c6634de4b4b9089c73a32f2fb9f02ddd8.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1902/cb559fd914e6820cd00573c119768c84124ba4b2af1a36de.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202412/1902/55f4b5ba5577d3eb94cd84a3df0f48e97eaed751f93a95fd.jpg"
-      ],
-      "description": "Прочувствуйте атмосферу фильмов о «Чужом» как никогда раньше в этой захватывающей однопользовательской VR-игре. «Alien: Саботаж» — новейший экшн-хоррор по классической франшизе, где вы играете за бывшего колониального морпеха Зулу Хендрикс. Чтобы разоблачить темные эксперименты «Вейланд-Ютани», она отправляется в сверхопасную миссию — расследовать сигнал SOS с отдаленной планеты Пурдан, где находится заброшенная шахтерская колония. Со своим вечным спутником, синтом Дэвисом-01, Зула должна проникнуть в зараженную исследовательскую станцию «Джеминай Экзоплэнет Солюшнз» и выжить под натиском небывало хитрых ксеноморфов, используя скрытность и мощное оружие. Личные интересы Зулы и Дэвиса заставят их погрузиться в самое сердце Пурдана, чтобы разоблачить — но не высвободить — таящиеся в нем ужасы.\nБлагодаря уникальной атмосфере и инновационным возможностям VR вы почувствуете себя колониальным морпехом безо всякой подготовки. Каждое ваше движение будет считываться. Наряду с обычными действиями, такими как открытие дверей, заглядывание за углы и подбор предметов, вы будете выполнять и другие — вставлять оружие в кобуру, перезаряжать его, открывать инвентарь, включать свет и многое другое. Владение телом поможет вам выстоять против ксеноморфов. Они ведут себя так же, как их кинематографические собратья: активно охотятся за вами, лазят по воздуховодам и туннелям, запрыгивают на предметы и карабкаются по ним.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Приключения",
-        "Боевики",
-        "Только PS5",
-        "Лента на главной",
-        "Новинки",
-        "VR"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "28": 1632
-        },
-        "p3": {
-          "28": 1632
-        }
-      },
-      "tilda_uid": "211794575112",
-      "sku": "",
-      "external_id": "I9sb955ZkcbJJ4FjKFDb",
-      "url": "http://arenapsgm.ru/tproduct/211794575112-alien-rogue-incursion-vr-deluxe-ps5",
-      "seo_title": "Alien: Rogue Incursion VR Deluxe PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Alien: Rogue Incursion VR Deluxe PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Alien: Rogue Incursion VR Deluxe PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.49,
-      "release_date": "19/12/2024",
-      "publisher": "Survios, Inc.",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10004478",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1905/28fee925a09f7fac3ba9cf00bb0974df8c570c1e755ed0a9.png",
-      "rent_days": [
-        28
-      ]
-    },
-    {
-      "slug": "cities-vr-ps5",
-      "title": "Cities VR PS5",
-      "mark": "",
-      "price_from": 499,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3330-3363-4562-a664-663665623666/30752263.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3330-3363-4562-a664-663665623666/30752263.jpg",
-        "https://static.tildacdn.com/stor3639-3462-4438-b862-666266303138/1e7473d4d6eb1abfc9c1ab6b981a227d.jpg",
-        "https://static.tildacdn.com/stor6639-3364-4766-b337-363538626235/52c4cbc3c75d4bdc1590ab55d97d2a07.jpg",
-        "https://static.tildacdn.com/stor3139-3539-4339-a634-386437346334/32494ed594a4b6ef3de4a515a369a365.jpg",
-        "https://static.tildacdn.com/stor6137-3330-4234-b635-363664323637/bf7976bc333c1e9b590fa29e86bc2f7d.jpg",
-        "https://static.tildacdn.com/stor3636-3366-4332-a466-316333353336/8c9b78dec86be5178720d9830245c698.jpg"
-      ],
-      "description": "Градостроительный симмулятор в очках\nДля аренды игры писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "description": "Gran Turismo 7 предлагает полную иммерсивность в мире реального вождения, с более чем 400 машинами и 90 гоночными трассами. В режиме GT Simulation вы можете покупать, улучшать и водить автомобили. Версия для PS5 поддерживает 4K HDR, адаптивные триггеры и тактильную обратную связь. С 22 февраля 2023 года доступна интеграция с PlayStation®VR2.",
       "categories": [
         "Все игры",
-        "Приключения",
-        "Только PS5",
         "Лента на главной",
-        "Новинки",
-        "VR"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 499,
-          "14": 699,
-          "21": 899,
-          "28": 1099
-        },
-        "p3": {
-          "7": 699,
-          "14": 899,
-          "21": 1099,
-          "28": 1299
-        }
-      },
-      "tilda_uid": "701307187392",
-      "sku": "",
-      "external_id": "jKljnOpT1ojMsXfx7yLX",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/701307187392-cities-vr-ps5",
-      "seo_title": "Cities VR PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Cities VR PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Cities VR PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "creed-rise-to-glory-ps4-ps5",
-      "title": "Creed Rise to glory PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3363-3234-4333-a264-346131623035/11107178.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3363-3234-4333-a264-346131623035/11107178.jpg",
-        "https://static.tildacdn.com/stor3763-6333-4435-b337-636236656334/90049614.jpg",
-        "https://static.tildacdn.com/stor3334-3966-4534-b935-336637353136/44052283.jpg",
-        "https://static.tildacdn.com/stor3035-6665-4136-b964-393138663338/42577846.jpg",
-        "https://static.tildacdn.com/stor3131-3834-4436-a539-313961663439/76934526.jpg",
-        "https://static.tildacdn.com/stor6163-3963-4362-a161-623166316461/75617363.jpg",
-        "https://static.tildacdn.com/stor3033-6566-4230-a134-376166366638/94dbc24a7d053bfee4ca221ef95bb008.jpg"
-      ],
-      "description": "Ощутите бешеное биение пульса в боксерском бою благодаря достойной блокбастера кинематографичной анимации в игре Creed: Rise to Glory™. Вы — Адонис Крид, и вы сражаетесь за то, чтобы создать и укрепить свое наследие на ринге и за его пределами. Выполняйте удары и защитные маневры, соответствующие вашему боксерскому стилю, и ведите настоящий, приближенный к реальности бой.\nНапряженные поединки 1 на 1\nВоплощайте свое наследие\nЗахватывающая кинематографичная вселенная\nРазличные режимы игры\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
         "Спорт",
+        "Гонки",
+        "VR"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 300,
+          "14": 500,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 400,
+          "14": 600,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "145118068092",
+      "sku": "",
+      "external_id": "9O75o3XskxCKV6kTlepc",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/145118068092-gran-turismo-7-ps4-ps5",
+      "seo_title": "Gran Turismo 7 PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Gran Turismo 7 PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Gran Turismo 7 PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.37,
+      "release_date": "4/3/2022",
+      "publisher": "Sony Interactive Entertainment",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10000956",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0707/4c622dfa581566c2647bc907e5119cd375ce3a11c03e916e.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "job-simulator-ps4-amp-ps5",
+      "title": "Job Simulator PS4 &amp; PS5",
+      "mark": "",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3136-3363-4736-b035-663331646664/35519275.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3136-3363-4736-b035-663331646664/35519275.jpg",
+        "https://static.tildacdn.com/stor6138-3039-4036-a330-313138633735/29545641.jpg",
+        "https://static.tildacdn.com/stor3433-3230-4161-b730-623438653062/98024491.jpg",
+        "https://static.tildacdn.com/stor3164-3734-4139-b239-336535623735/23208910.jpg",
+        "https://static.tildacdn.com/stor3662-3839-4166-b536-396139366130/76667841.jpg",
+        "https://static.tildacdn.com/stor6531-3130-4663-b964-626561616537/68553191.jpg"
+      ],
+      "description": "Черви вернулись! Прекрасная 2D-графика, новое оружие, функции создания, классические игровые функции — Worms W.M.D вас порадует.\nПройдите 30 уровней кампании с новым и классическим оружием. Новые машины и здания помогут вам захватить поле боя!\nВеселая червячная война с максимум 5 противниками с максимум 8 червей как локально, так и по сети. Бетонный осел сотрет врагов. Святая ручная граната их ликвидирует. Нападайте с вертолета или танка. 80 видов оружия и средств! Погрузитесь в хаос Worms!\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
         "VR"
       ],
       "platforms": "PS4, PS5",
@@ -341,23 +157,23 @@
       "prices": {
         "p2": {
           "7": 250,
-          "14": 400,
+          "14": 350,
           "21": 700,
           "28": 800
         },
         "p3": {
           "7": 350,
-          "14": 500,
+          "14": 450,
           "21": 800,
           "28": 900
         }
       },
-      "tilda_uid": "388665584432",
+      "tilda_uid": "830239316762",
       "sku": "",
-      "external_id": "MC7cjEULRu2ox6JLh5bX",
-      "url": "http://arenapsgm.ru/tproduct/388665584432-creed-rise-to-glory-ps4-ps5",
-      "seo_title": "Creed Rise to glory PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Creed Rise to glory PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Creed Rise to glory PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "external_id": "rLllycTxbL1N1lZ5YHgp",
+      "url": "http://arenapsgm.ru/tproduct/830239316762-job-simulator-ps4-amp-ps5",
+      "seo_title": "Job Simulator PS4 &amp; PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Job Simulator PS4 &amp; PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Job Simulator PS4 &amp; PS5 для PlayStation. Быстрый доступ, без переплат.",
       "rating": null,
       "release_date": "",
       "publisher": "",
@@ -365,70 +181,6 @@
       "text_translation": "",
       "store_url": "",
       "edition_banner": "",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "five-nights-at-freddy-help-wanted-vr-ps4-ps5",
-      "title": "Five nights AT Freddy Help Wanted VR PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/7d95ddedbe9879608de4724ff5ddf1daccf01a23a8b9bf59.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/7d95ddedbe9879608de4724ff5ddf1daccf01a23a8b9bf59.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/56f285ac33ede65b729bda838fe27a79666e04a6c75332ce.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/b8479841109c01f63a4018491b4461490a194a411642b1ba.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/970087c266b71ea56a4f0e85a44ae3d911fb91e904dd1658.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/1e72e329b4a76b89104c8aa1ba881f8dcaf30ae93951cef9.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/89ac3f560567617b5ab038631940e31d35ad704e66a5c956.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/734d9382252bda48689616e362ab4f8cc5dafecdc7bd5eab.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/53a05f0ea8a1171ba045f631a311356d7005c31fe7def05b.jpg"
-      ],
-      "description": "Five Nights at Freddy's: Help Wanted 2 - сиквел легендарного ужастика для PS4 и PS5. Принимайте участие в работе пиццерии, помогайте аниматроникам, заботьтесь о персонале и пробуйте мини-игры в «Сестринской локации». Погрузитесь в мир «Фазкадов» и отправляйтесь на Дикий Запад в роле ковбоя.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Хоррор",
-        "Приключения",
-        "Боевики",
-        "VR"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "tilda_uid": "313347256812",
-      "sku": "",
-      "external_id": "J66dOHNgoci72x1ughzB",
-      "url": "http://arenapsgm.ru/tproduct/313347256812-five-nights-at-freddy-help-wanted-vr-ps4-ps5",
-      "seo_title": "Five nights AT Freddy Help Wanted VR PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Five nights AT Freddy Help Wanted VR PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Five nights AT Freddy Help Wanted VR PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.31,
-      "release_date": "14/12/2023",
-      "publisher": "STEEL WOOL GAMES, LLC",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10009325",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/7d95ddedbe9879608de4724ff5ddf1daccf01a23a8b9bf59.png",
       "rent_days": [
         7,
         14,
@@ -490,6 +242,70 @@
       "text_translation": "Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/216600",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2714/107cd4a41110b3622a5e07959df3807ee61b1dd55d873674.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "phasmophobia-ps5",
+      "title": "Phasmophobia PS5",
+      "mark": "",
+      "price_from": 280,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1214/9ec3be8acd540e2f84e7362cb492e8d53b93e8a7bea4cd5f.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202306/1214/9ec3be8acd540e2f84e7362cb492e8d53b93e8a7bea4cd5f.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202306/1214/1cc9d2d84a2eaa89fa74261aa35d9766a7efeacabd746916.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202306/1214/bc6f8e8124fb74288042b46cf2358ad4527dbcd810cea594.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202306/1214/5a9e2f52e6905c7162de194afbbc083c605fe68b9489f2af.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202306/1214/b8eceaf3bb446d72de042e5bb8026a9dd4cfc7251adf40e6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202306/1214/8dbc513e05badea7fe9f0715dd20790b47e3185d1c5519ca.jpg"
+      ],
+      "description": "Phasmophobia - кооперативный психологический хоррор для 4 игроков на PS5. Игра предлагает более 20 типов привидений, каждое из которых уникально по поведению и способностям. Игроки используют детекторы, камеры и другие инструменты, чтобы собирать доказательства в разных локациях. Важна команда: часть игроков участвует в расследованиях под угрозой смерти, другие - наблюдают из…",
+      "categories": [
+        "Все игры",
+        "Боевики",
+        "Лента на главной",
+        "Хоррор",
+        "Новинки",
+        "Приключения",
+        "Только PS5",
+        "VR"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 280,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 380,
+          "14": 500,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "433078899482",
+      "sku": "",
+      "external_id": "b85BBrSHSU9zsYCScmj5",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/433078899482-phasmophobia-ps5",
+      "seo_title": "Phasmophobia PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Phasmophobia PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Phasmophobia PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.63,
+      "release_date": "29/10/2024",
+      "publisher": "Kinetic Games Limited",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10005673",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1214/9ec3be8acd540e2f84e7362cb492e8d53b93e8a7bea4cd5f.png",
       "rent_days": [
         7,
         14,
