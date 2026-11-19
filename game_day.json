@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-18T02:02:54Z",
-  "server_time_utc": "2026-11-18T02:02:54Z",
+  "updated_at": "2026-11-19T02:02:55Z",
+  "server_time_utc": "2026-11-19T02:02:55Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-19T02:00:00Z",
-  "expires_at": "2026-11-19T02:00:00Z",
+  "next_rotation_at": "2026-11-20T02:00:00Z",
+  "expires_at": "2026-11-20T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 100,
@@ -21,10 +21,62 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-19T02:00:00Z"
+    "next_rotation_at": "2026-11-20T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "teenage-mutant-ninja-turtles-the-cowabunga-collection-ps4-ps5",
+      "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection PS4/PS5",
+      "description": "Teenage Mutant Ninja Turtles: The Cowabunga Collection - это легендарный набор из тринадцати классических игр, которые невозможно было забыть. Именно эта коллекция закрепила в истории жанра серию про черепашек-ниндзя от Konami.\n\nВнутри всего ждут уникальные фишки: можно играть вдвоем на одной консоли или по сети, сохранять прогресс и перемотать игру в любой момент. Есть даже одиннадцать версий игр для японского региона и куча красивых эскизов от разработчиков.\n\nКроме того, внутри собраны ценные исторические материалы из вселенной черепашек-ниндзя, а кнопки управления легко переназначить под свои нужды. Это настоящий мультфильм в игре для фанатов всех поколений.",
+      "image_url": "https://static.tildacdn.com/stor3833-3663-4166-b130-663137373966/37459738.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202203/0823/8vzXaMshhw7a6k7qJ8CUWukU.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202203/0823/mJ11OZM1jox0uwAIubZr8097.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202203/0823/3KKOURlfUHTGGFbocIDKqDPW.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202203/0823/cxOQLRNXhMPDtlIfR07QaYxc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202203/0823/YpYQkgKpWZ7EuZq6gOKxSHca.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202203/0823/KnquGXXugJ1b3z4IgvxFvREG.jpg"
+      ],
+      "release_date": "30/8/2022",
+      "publisher": "KONAMI",
+      "platforms": "PS4, PS5",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 4.04,
+      "store_url": "https://store.playstation.com/en-tr/concept/10003357",
+      "tilda_uid": "331161291732",
+      "sku": "",
+      "external_id": "V1uacEjJXUa9XH9IBYX0",
+      "url": "http://arenapsgm.ru/tproduct/331161291732-teenage-mutant-ninja-turtles-the-cowabunga-collection-ps4-ps5",
+      "expires_at": "2026-11-20T02:00:00Z",
+      "published_at": "2026-11-19T02:02:55Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 100,
+          "21": 100,
+          "28": 100
+        },
+        "p3": {
+          "7": 200,
+          "14": 200,
+          "21": 200,
+          "28": 200
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 100,
+        "21": 100,
+        "28": 100
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Черепашки-ниндзя: The Cowabunga Collection - это легендарная коллекция из 13 игр, которая закрепила серию Konami в истории жанра. Внутри ждут уникальные мультиплеерные режимы, сохранение прогресса и кучу красивых эскизов от разработчиков.\n\nКроме того, внутри собраны редкие исторические материалы из вселенной черепашек, а управление легко настраивать под…"
+    }
+  ],
+  "history": [
     {
       "slug": "slime-rancher-2-ps5",
       "title": "Slime Rancher 2 PS5",
@@ -50,34 +102,31 @@
       "sku": "",
       "external_id": "uDMNk6BPBzpbPeus4VL1",
       "url": "http://arenapsgm.ru/tproduct/340657682382-slime-rancher-2-ps5",
-      "expires_at": "2026-11-19T02:00:00Z",
       "published_at": "2026-11-18T02:02:54Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 100,
-          "21": 100,
-          "28": 100
+          "7": 359,
+          "14": 499,
+          "21": 545,
+          "28": 645
         },
         "p3": {
-          "7": 200,
-          "14": 200,
-          "21": 200,
-          "28": 200
+          "7": 459,
+          "14": 599,
+          "21": 645,
+          "28": 745
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 100,
-        "21": 100,
-        "28": 100
+        "7": 359,
+        "14": 499,
+        "21": 545,
+        "28": 645
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Сожми текст до 2-3 очень коротких предложений для Telegram-поста про игру дня. Итог должен быть примерно в два раза короче обычного анонса.\nСделай 2 коротких абзаца: в первом одно главное предложение, во втором остальные.\nБез HTML, без markdown, без цен и призывов писать админу. Живой тон.\n\nSlime Rancher 2 - это продолжение любимой игры про слаймов, где…"
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "titanfall-2-ps4-ps5",
       "title": "Titanfall 2 PS4/PS5",
@@ -2984,56 +3033,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Сыграй за полубога с крыльями - побеждаешь врагов, решаешь головоломки и спасаешь богов.  \nМеч Ахилла, крылья Дедала и телекинез - урон как из мифов. Сражайся с циклопами, Медузой и ужасами в каждом повороте. Открой 7 миров мифов - каждый - свой уникальный мир."
-    },
-    {
-      "slug": "psychonauts-2-ps4-ps5",
-      "title": "Psychonauts 2 PS4/PS5",
-      "description": "Раз «Раз» Аквато - талантливый юный экстрасенс и акробат - вступил в шпионскую организацию «Психонавты», теперь он должен выяснить, что произошло с лидером команды. Оказалось: он спасён - но теперь совсем не тот человек. А ещё кто-то из штаба может быть предателем.\n\nВ Psychonauts 2 вы проникаете в разумы друзей и врагов, боритесь со своими внутренними демонами и помогаете людям справиться с эмоциональными тяготами. Умение «включать» людей - это не просто магия, а настоящий инструмент для выживания.\n\nРаз играет на треках, канатах и трапециях - прыгает, качается, ломает правила физики. А в бой выходят мощные парапсихические способности: взрывы разума, замедление времени, левитация объектов - всё это на фоне шуточной и напряжённой сюжетной драмы от Тима Шафера.\n\nГотовы к бегу по мозгам? Потому что в этом мире каждый шаг - в разуме, а не на земле.",
-      "image_url": "https://static.tildacdn.com/stor6433-6238-4664-a230-363232376530/54414205.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/zq7fjI6QoeZAJMsuUprl42BQ.JPG",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/kkvziwpdZolMXgnk42gybfpp.JPG",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/0FIrwR3amri3Vxt0EVgGdEVk.JPG",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/EMLei2C5OGwBZhietCCRNXaB.JPG",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/UWkWrnrShv10ar0nIZh6eIir.JPG",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/0hzp3vosYmqCYvyjSjZLkKNJ.JPG",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/dkmyfZBkNSObAIgihAMpUPxd.JPG"
-      ],
-      "release_date": "25/8/2021",
-      "publisher": "Microsoft Corporation",
-      "platforms": "PS4",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.36,
-      "store_url": "https://store.playstation.com/en-tr/concept/10002422",
-      "tilda_uid": "507871266182",
-      "sku": "",
-      "external_id": "5LaNa6dyIIyUc3B12NMd",
-      "url": "http://arenapsgm.ru/tproduct/507871266182-psychonauts-2-ps4ps5",
-      "published_at": "2026-09-22T05:46:47Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Раз - талантливый юный экстрасенс, теперь шпион в «Психонавтах». Лидер спасён - но он изменился. Кто-то из команды может быть предателем.\n\nВ Psychonauts 2 ты ведёшь бой не на земле, а внутри мозгов. Прыгаешь по трекам, ломаешь физику - и сражаешься с демонами души. Шутливо, напряжённо - от Тима Шафера."
     }
   ]
 }
