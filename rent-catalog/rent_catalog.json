@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-19T00:45:18Z",
-  "generated_at": "2026-11-19T01:32:15Z",
-  "count": 11486,
+  "catalog_id": "2026-11-19T10:47:54Z",
+  "generated_at": "2026-11-19T10:55:39Z",
+  "count": 11483,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3274,166 +3274,72 @@
       "catalog_added_at": "2026-11-18T23:27:30Z"
     },
     {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
+      "id": "darkness-and-flame-3-the-dark-side",
+      "slug": "darkness-and-flame-3-the-dark-side",
+      "sku": "rent-darkness-and-flame-3-the-dark-side",
+      "title": "Darkness and Flame 3: The Dark Side PS5",
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
         },
         "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
         }
       },
       "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
       },
       "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
       },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Наконец-то мы дошли до главного события в истории видеоигр. Grand Theft Auto VI уже здесь, и это совсем не та GTA, которую мы ждали годами. Это совершенно новый мир с новой историей, новым городом и новыми персонажами.\n\nТут всё меняется от самого начала: новые механики, новые способы взаимодействия со средой и атмосфера, которая сразу же погружает в этот бешеный гламурный Лас-Вегас. Удивительные открытия ждут вас на каждом углу.\n\nПолучите этот шедевр в своем исполнении Ultimate Edition прямо сейчас и станьте частью новой легенды.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-19T01:23:17Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
+      "price_min": 697,
       "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "FIVE-BN STUDIO LLC",
       "voice": "Английский",
       "text_translation": "Русский, Английский",
-      "rating": 0.0,
+      "rating": 3.22,
       "release_date": "18.11.2026",
-      "is_preorder": true,
+      "is_preorder": false,
       "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1807/d39ca72b5955e4e36c9e8a24735e2d684fb96ba33cb2de9a.png",
       "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1807/3eb1e4fdca0f63c17bffc80e64a3305a98df92215476e007.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1807/3bab7a92934b3318dc44712089cd5fd746cea17dab893d16.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1807/f50d1184e428d5bf16c6fd995f9d1780cf55b7340e1d0fe3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1807/97e19a737be34aa352a97b490c5fc5210bb4fcac878951ff.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1807/92706741051e4bc66141d1b9cfd2bfeb6429976c1ce92b1e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1807/cb4368170cfcde6b4d68fc8a58ad0602511fcf5c3125b515.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1807/f478db24aa908615f621dde59124f7a6ca3913077f6fa0a6.jpg"
       ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром, который еще только предстоит открыть для себя.\n\nОжидается, что это будет самая масштабная часть франшизы по всем параметрам: от графики до объема действий. Готовьтесь к тому, что привычные правила будут пересмотрены, а интриги разворачиваться будут на новом уровне.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
+      "store_url": "https://store.playstation.com/en-tr/concept/10020946",
+      "description": "Теперь мы вернулись в мрачный мир Эшера! Третья часть этой серии обещает еще более густую тьму и жуткие огни.\n\nВас ждет новая история о поиске пропавшей дочери и борьбе с силами, пытающимися захватить ваше сознание. Это классический хоррер от третьего лица в лучшем PS5 стиле.\n\nГотовиться к игре?",
+      "seo_title": "Darkness and Flame 3: The Dark Side PS5 аренда игры",
+      "seo_descr": "Аренда Darkness and Flame 3: The Dark Side PS5 на PlayStation.",
       "external_id": "",
-      "catalog_added_at": "2026-11-19T01:23:17Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
+      "catalog_added_at": "2026-11-19T10:31:26Z"
     },
     {
       "id": "dark-rail",
@@ -545437,13 +545343,16 @@
       "release_date": "05.11.2021",
       "is_preorder": false,
       "is_new": true,
-      "image_url": "https://static.tildacdn.com/stor6136-3263-4435-b431-353539346134/15439769.jpg",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/icByXGm1W5mQmol84yMxEgD2.png",
       "screenshots": [
-        "https://static.tildacdn.com/stor3763-6264-4337-b936-613465613565/96797601.jpg",
-        "https://static.tildacdn.com/stor3937-3932-4631-b736-306663373839/25164089.jpg",
-        "https://static.tildacdn.com/stor3533-6264-4335-a132-323634393339/44289718.jpg",
-        "https://static.tildacdn.com/stor6462-3966-4034-b435-323130636566/99571525.jpg",
-        "https://static.tildacdn.com/stor3136-6466-4561-a263-363139656238/92885805.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/SJtPPrV398S9KJmuyT5tfpiZ.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/GKxUsk1ms6kAlYkuMj371UM4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/z7VX4Vqnqpw3ascvPIkCjojo.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/hg3uiuv2g1vREd5UBJrdO9j9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/giK9ucLyak2s7NBPo6IkDpwF.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/FbxCJIGRrWGFiEU4KrbDsIaY.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/5eqisWLbS0G5k1fYyIDSAEcR.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/Qphmea83akM1MIMXkRVhQJPu.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/concept/10001234",
       "description": "Call of Duty: Vanguard - вперёд в войну. От французских равнин до улиц Сталинграда. Погрузись в реальные сцены Второй мировой.  \n\nТы можешь бороться в одиночке, в сетях или в мире зомби - всё под рукой.  \n\nИгра работает на PS4 и PS5 - прогресс между платформами, как будто ты один.  \n\nСражайся, не теряй мотивацию. Игра - как настоящая война.",
@@ -622019,8 +621928,8 @@
       "id": "call-of-duty-modern-warfare-2-campaign-remastere",
       "slug": "call-of-duty-modern-warfare-2-campaign-remastere",
       "sku": "rent-call-of-duty-modern-warfare-2-campaign-remastere",
-      "title": "Call of Duty: Modern Warfare 2 Campaign Remastered PS4/PS5",
-      "platform": "PS4 и PS5",
+      "title": "Call of Duty: Modern Warfare 2 Campaign Remastered PS4",
+      "platform": "PS4",
       "prices": {
         "p2": {
           "1": 200,
@@ -622066,7 +621975,7 @@
       "release_date": "31.03.2020",
       "is_preorder": false,
       "is_new": true,
-      "image_url": "https://static.tildacdn.com/stor6635-3239-4239-b532-343962663232/81167813.jpg",
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07904_00/1/i_0da7aba5e7706bd220b4f36dfc6e361b3d3b00f6b5ea0898c325e3b8795d2c82/i/icon0.png",
       "screenshots": [
         "https://static.tildacdn.com/stor3565-6538-4933-b464-396662323432/27778741.jpg",
         "https://static.tildacdn.com/stor3361-6161-4062-a462-376665636165/39480422.jpg",
@@ -772067,7 +771976,7 @@
         "https://static.tildacdn.com/stor3236-3065-4466-a235-616136646162/21702785.jpg"
       ],
       "store_url": "",
-      "description": "Call of Duty: WWII Gold Edition - возвращаемся к битвам 1940-х, где каждый выстрел звучит как реальность.  \n\nНа Корейском полуострове начинается новая война - северные силы атакуют, а южнокорейские войска с капитаном Прайсом борются за каждую позицию.  \n\nМрачная атмосфера, напряжённые сцены и сюжет, который неожиданно поворачивается - всё это в той самой атмосфере, что ты помнишь.  \n\nГотовы к бою? Давай начнём. 💥",
+      "description": "Возвращаемся в самые жаркие годы Второй мировой войны с Call of Duty: WWII Gold Edition для PlayStation 4 и 5. Это полноценная версия легендарного шутера, которая подарит вам сотни часов захватывающего боевого опыта на поле битвы.\n\nВы погрузитесь в мрачную атмосферу эпохи, пройдя через ключевые миссии от знаменитого Д-Day до решающей операции «Канал Маре». Игра предлагает как героические мультимедийные кампании для двоих игроков, так и бесконечный режим Multiplayer с честной боевой системой.\n\nЗолотая версия добавляет новые возможности и дополнения, обещая еще больше разнообразия в тактике и стратегии. Выберите свой персонаж, соберите элитное вооружение и покажите, насколько вы хороши в настоящем бою.",
       "seo_title": "Call of Duty: WWII Gold Edition PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty: WWII Gold Edition PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -772136,7 +772045,7 @@
         "https://static.tildacdn.com/stor6134-3166-4262-a131-363538353238/70463625.jpg"
       ],
       "store_url": "",
-      "description": "Call of Duty: Modern Warfare III - война перешагнула границы.  \n\nНа Корейском полуострове Северная Корея ведёт полномасштабное вторжение. Южнокорейские солдаты держатся на рушащейся линии фронта, а Прайс - как всегда - движется в тени, оставаясь шагом впереди врагов.  \n\nВойна выходит из-под контроля. В кампании - окопы, ближний бой в Нью-Йорке, погони по Парижу, рейды в Мумбае и масштабные штурмы за освобождение.  \n\nИгра в Warzone предлагает реальные боевые сценарии - каждый ход, каждый шаг определяют исход боя. В DMZ ты действуешь как агент: каждый рейд - это выбор: что взять, куда пойти и когда уходить.",
+      "description": "Возвращение легенды! Call of Duty: Modern Warfare III уже доступен на PlayStation 4 и PlayStation 5. Это тот самый масштабный бой, к которому мы все привыкли в этой серии.\n\nПогрузись в напряженную историю, где каждый выстрел имеет значение. От захватывающих сюжетных моментов до острых мультиплеерных сражений - тут будет на что посмотреть.",
       "seo_title": "Call of Duty: Modern Warfare III PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty: Modern Warfare III PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -772205,7 +772114,7 @@
         "https://static.tildacdn.com/stor6361-3734-4731-b564-356631313165/24504131.jpg"
       ],
       "store_url": "",
-      "description": "Call of Duty: Modern Warfare II - возвращается к теме войны, но уже не просто так.  \n\nСеверная Корея атакует Южную Корею. На фронте - хаос, рушащиеся линии и борьба за выживание. А на заднем плане - капитан Прайс, как всегда, сидит в тени и ведёт мстительную войну.  \n\nСюжет перезагружает серию: от окопов в Корее до погони по Парижу, ближнего боя в Нью-Йорке и штурмов в Мумбае - всё это кричит о росте напряжения.  \n\nИгра насыщена реалистичными схватками: ты контролируешь каждый шаг, выбор и движение - и за каждым решением стоит риск. В DMZ ты не просто бежишь - ты принимаешь решения, которые могут изменить ход войны.",
+      "description": "Вызывающая война в новом Call of Duty: Modern Warfare II уже ждет тебя на PlayStation 4 и 5.\n\nВ этой части легендарной франшизы возвращается классика, но с новыми реалиями современного конфликта. Ожидается жесткая тактика, динамичные бои и полное погружение в атмосферу горячих точек планеты.\n\nСобирай команду из друзей или соло - этот шутер прощает ошибки и поощряет смелые решения на поле боя.",
       "seo_title": "Call of Duty: Modern Warfare II PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty: Modern Warfare II PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -772275,82 +772184,9 @@
         "https://static.tildacdn.com/stor6333-6234-4863-b739-333362356238/71025610.png"
       ],
       "store_url": "",
-      "description": "Call of Duty: Modern Warfare 2019 - война на корейском полуострове, где северная Корея делает шаг вперёд.  \n\nПрайс сражается из тени - не как герой в центре, а как человек в середине бури.  \n\nСначала - окопы в Корее, потом - ближний бой в Нью-Йорке. Война выходит из-под контроля.  \n\nГотовы к бою? Держи игру. 🎮",
+      "description": "Вот уже классика от Call of Duty - Modern Warfare 2019, готовая к игре на PlayStation 4 и 5. Это тот самый динамичный боевик с открытым миром, где каждый выстрел имеет вес, а тактика решает всё. От захвата территорий в Киргистане до сложных миссий по локациям - здесь будет не только стрельба, но и живые истории, реальные бойцы и атмосфера настоящего солдата.\n\nУникальная механика движения, отличные мультиплеерные режимы и огромный кастомизации персонажей сделают эту сессию незабываемой. Если ты любишь честный тактический шутер без лишней «мелочи» в геймплей - это именно то, что тебе нужно прямо сейчас.",
       "seo_title": "Call of Duty: Modern Warfare 2019 PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty: Modern Warfare 2019 PS4/PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2020-01-01T00:00:00Z",
-      "from_vserent_cod": true
-    },
-    {
-      "id": "call-of-duty-black-ops-6",
-      "slug": "call-of-duty-black-ops-6",
-      "sku": "rent-call-of-duty-black-ops-6",
-      "title": "Call of Duty: Black Ops 6 PS4/PS5",
-      "platform": "PS4 и PS5",
-      "prices": {
-        "p2": {
-          "1": 399,
-          "7": 499,
-          "14": 699,
-          "21": 899,
-          "28": 1099,
-          "56": 1978
-        },
-        "p3": {
-          "1": 559,
-          "7": 699,
-          "14": 899,
-          "21": 1099,
-          "28": 1299,
-          "56": 2338
-        }
-      },
-      "prices_p2": {
-        "1": 399,
-        "7": 499,
-        "14": 699,
-        "21": 899,
-        "28": 1099,
-        "56": 1978
-      },
-      "prices_p3": {
-        "1": 559,
-        "7": 699,
-        "14": 899,
-        "21": 1099,
-        "28": 1299,
-        "56": 2338
-      },
-      "price_min": 399,
-      "lang_label": "На языке оригинала",
-      "genre": "Шутер",
-      "categories": [
-        "Call of Duty"
-      ],
-      "publisher": "Activision",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "https://static.tildacdn.com/stor6565-6238-4935-a366-653739343863/34144736.png",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3264-3633-4633-b165-613261386161/38234947.jpg",
-        "https://static.tildacdn.com/stor3337-3966-4132-a462-636530363865/54042652.jpg",
-        "https://static.tildacdn.com/stor3334-3639-4838-b264-383035366365/43412895.jpg",
-        "https://static.tildacdn.com/stor6339-6166-4533-b332-633537613065/95800850.jpg",
-        "https://static.tildacdn.com/stor6165-6138-4565-a336-383562376461/31548567.jpg",
-        "https://static.tildacdn.com/stor6363-3263-4130-a533-623938323839/91073599.jpg",
-        "https://static.tildacdn.com/stor6636-6338-4335-b661-383966356333/38208051.jpg",
-        "https://static.tildacdn.com/stor3664-6564-4162-b337-623130353338/50313882.jpg",
-        "https://static.tildacdn.com/stor6436-3765-4233-b665-613639373136/78693931.jpg"
-      ],
-      "store_url": "",
-      "description": "Корейская война вновь поднимается на первый план - Северная Корея атакует, а Прайс остаётся в тени, борясь за выживание.  \n\nСюжет резко меняется: от боёв на фронте до жутких событий в Нью-Йорке - всё становится мрачнее и эмоциональнее.  \n\nВы увидите не просто сражения - это глубокие переломы, где личные истории переплетаются с масштабными конфликтами.  \n\nСамый жёсткий, но настоящий взгляд на войну - в Call of Duty: Modern Warfare 4. 🎮💥",
-      "seo_title": "Call of Duty: Black Ops 6 PS4/PS5 аренда игры",
-      "seo_descr": "Аренда Call of Duty: Black Ops 6 PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2020-01-01T00:00:00Z",
       "from_vserent_cod": true
@@ -772417,7 +772253,7 @@
         "https://static.tildacdn.com/stor6163-6165-4562-a439-333730653564/64566314.jpg"
       ],
       "store_url": "",
-      "description": "Call of Duty: Modern Warfare 2 – всё как в оригинале, только с улучшенной картинкой и движением.  \n\nБолее чёткие текстуры, реалистичные анимации, физика – теперь каждый взрыв и шаг чувствуется на каждом кадре.  \n\nВ комплекте – набор «Классический Гоуст»: боевой пловец-подрывник для драк в MW и Warzone.  \n\nИграет не просто – она погружает.",
+      "description": "Вот тебе классика от первого лица - Call of Duty Modern Warfare 2019 в рестарме. Это тот самый момент, когда ты понимаешь, что сражаешь не просто с врагами, а со всей своей старшей сестрой.\n\nОснова - это легендарная кампания из оригинала, но уже на свежем воздухе и с новым оружием. А для тех, кто любит выстрелить в шлем, специально добавили режимы Multiplayer и Warfare, чтобы было где потренироваться перед главной битвой.",
       "seo_title": "Call of Duty MW REMASTERED PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty MW REMASTERED PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -772486,7 +772322,7 @@
         "https://static.tildacdn.com/stor3637-3837-4033-a131-386536363837/98927806.jpg"
       ],
       "store_url": "",
-      "description": "Call of Duty: Black Ops Cold War - возвращение к холодным войнам, где каждый шаг - по прямой линии к диктатурам и соперничеству.  \n\nСюжет уходит в начало 80-х - в эпоху глобальных рисков, секретных операций и борьбы за доминирование.  \n\nТы не просто стреляешь - ты думаешь как шпион. Всё сопровождается пакетом оружия «Противостояние» и личностью Капитана Прайса.  \n\nДля PS4 и PS5 - одна игра, два мира.",
+      "description": "Взрывной шутер с историческим сеттингом от разработчиков Activision. Если любишь динамичные бои и масштабную кампанию в стиле 80-х, то это точно для тебя.\n\nВ игре много разных режимов: от классических карточных боев до командных рейдов по карте «Солнечная система». Можно играть с друзьями или биться один на один - атмосфера всегда накалена до предела.\n\nЗахватывающий сюжет и отличная графика сделают этот опыт незабываемым.",
       "seo_title": "Call of Duty Cold War PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty Cold War PS4/PS5 на PlayStation.",
       "external_id": "",
@@ -772555,78 +772391,9 @@
         "https://static.tildacdn.com/stor6632-3737-4631-b634-313166646564/27253612.jpg"
       ],
       "store_url": "",
-      "description": "Call of Duty: Black Ops III - настоящий бой за выживание в мире зомби.  \n\nТут не просто сражения - есть 8 переработанных карт, 20 флаконов Liquid Divinium и новые жевательные перки для режима Зомби.  \n\nКамуфляж «Улучшайзер» делает тебя незаметным среди толпы мёртвых.  \n\nИгра включает полноценную кампанию, сетевую игру и всё - от боя до хаоса в зомби-режиме.",
+      "description": "Тысяча снайперов, две тысячи врагов и одна цель - навести порядок в Сан-Хосе. Это не просто шутер, это целая эпопея с историческим уклоном.\n\nВозьмешь в аренду легендарный «Cold War» от Activision для PS4 или PS5. Ты застрянешь на одном из самых масштабных карт в истории франшизы и сможешь сразиться с толпой солдат, пока не доберешься до босса.",
       "seo_title": "Call of Duty Cold Black Ops III PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty Cold Black Ops III PS4/PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2020-01-01T00:00:00Z",
-      "from_vserent_cod": true
-    },
-    {
-      "id": "call-of-duty-black-ops-iiii",
-      "slug": "call-of-duty-black-ops-iiii",
-      "sku": "rent-call-of-duty-black-ops-iiii",
-      "title": "Call of Duty Black Ops IIII PS4/PS5",
-      "platform": "PS4 и PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "На языке оригинала",
-      "genre": "Шутер",
-      "categories": [
-        "Call of Duty"
-      ],
-      "publisher": "Activision",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "https://static.tildacdn.com/stor3033-3930-4430-b639-343466626133/64360905.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor6564-3931-4663-b832-366137336436/48914526.jpg",
-        "https://static.tildacdn.com/stor3934-6532-4333-a165-643835663339/18770921.jpg",
-        "https://static.tildacdn.com/stor3435-3834-4061-a532-333431396333/23643838.jpg",
-        "https://static.tildacdn.com/stor3962-3263-4562-a363-383532333037/34495900.jpg",
-        "https://static.tildacdn.com/stor3630-3439-4437-b563-363139616664/66565742.jpg"
-      ],
-      "store_url": "",
-      "description": "Зомби в деле - и это не просто шутка.  \nCall of Duty: Black Ops III с дополнением Zombies Chronicles - полноценный ужас в каждом движении. У вас есть 8 переработанных карт для зомби-режима, 20 флаконов Liquid Divinium и два новых жевательных перка. Даже оружие можно подключить к камуфляжу «Улучшайзер» - специально для зомби.  \n\nКампания, сетевая игра и режим \"Зомби\" - всё на одном диске. Всё работает с PS4 и PS5, но онлайн-режим требует PlayStation Plus.  \n\nСистема включает DUALSHOCK 4 с вибрацией, поддержку HD-выходов и загрузку по правилам PlayStation Network - просто используйте, если согласны с условиями.",
-      "seo_title": "Call of Duty Black Ops IIII PS4/PS5 аренда игры",
-      "seo_descr": "Аренда Call of Duty Black Ops IIII PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2020-01-01T00:00:00Z",
       "from_vserent_cod": true
@@ -772690,7 +772457,7 @@
         "https://static.tildacdn.com/stor3562-3439-4231-b865-663965303638/97b9a977df97bad7631d771ec7ad2f0f.jpg"
       ],
       "store_url": "",
-      "description": "Забирай «Черную операцию-7» на PS4 или PS5, это тот самый шутер от первого лица, где каждый бой - это настоящий кошмар для врагов. В этой части серии ты снова будешь управлять одним из лучших снайперов в мире, гадая, за стенами скрывается живой призрак или что-то еще более опасное.\n\nОжидается, что Black Ops 7 принесет с собой свежий сюжет и новые механики, которые полностью перепишут правила выживания в современном военном конфликте. Готовься к бесконечным гонкам на танках, подземельям, полным зомби, и масштабным боевым операциям, где нет места жалости.\n\nКстати, если ты уже играл в предыдущие части, то черная тема этой серии обещает быть еще более мрачной и захватывающей.",
+      "description": "Вот она - новая глава легендарной серии от Activision! Call of Duty Black Ops 7 уже подошла к PlayStation, открывая перед игроками захватывающий мир шпионажа и боев.\n\nГотовьтесь к напряжённым миссиям в уникальных локациях, где каждый шаг может стоить вам жизни. В этой части вы снова окажетесь за ленточкой с автоматом и будете решать самые сложные задачи от первого лица.",
       "seo_title": "Call of Duty Black Ops 7 PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty Black Ops 7 PS4/PS5 на PlayStation.",
       "external_id": "",
