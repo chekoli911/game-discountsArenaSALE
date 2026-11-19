@@ -1,7 +1,7 @@
 {
   "key": "racing",
   "title": "Гонки",
-  "updated_at": "2026-11-18T01:47:33Z",
+  "updated_at": "2026-11-19T01:39:34Z",
   "games": [
     {
       "slug": "disney-speedstorm-ps5",
@@ -62,6 +62,68 @@
       "edition_banner": "",
       "rent_days": [
         1,
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "flatout-4-total-insanity-ps4",
+      "title": "FlatOut 4: Total Insanity PS4",
+      "mark": "NEW",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07458_00/4/i_ced1d2e5ac5d7d073356b373671306807f097e1a6716af589de4b46bbfe8b02d/i/icon0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07458_00/4/i_ced1d2e5ac5d7d073356b373671306807f097e1a6716af589de4b46bbfe8b02d/i/icon0.png",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENT9YQg7BIe9K2zO1VmQTma/PREVIEW_SCREENSHOT9_151988.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTrBa0qAb414KWkE7qaqML/PREVIEW_SCREENSHOT8_151988.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTCJBHocpe5QcsaJkXNVwU/PREVIEW_SCREENSHOT7_146910.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTt5QkECunpLFAmEOvojXq/PREVIEW_SCREENSHOT6_146910.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTUfeLaqGqHzev8ZgQE9OP/PREVIEW_SCREENSHOT3_146910.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENT7Yzuqmpgs7A6y35rcNgp/PREVIEW_SCREENSHOT4_146910.jpg",
+        "https://image.api.playstation.com/cdn/UP3458/CUSA07843_00/FREE_CONTENTOCT9v3LGTnCFJ8BrMeCN/PREVIEW_SCREENSHOT5_146910.jpg"
+      ],
+      "description": "Прочувствуйте безумие FlatOut снова!\nНатиск, бойня, арена и другие: разрушайте все!\nУНИЧТОЖАЕМЫЕ МАШИНЫ И ОКРУЖЕНИЕ\nМНОГОПОЛЬЗОВАТЕЛЬСКИЕ РЕЖИМЫ\nДо 8 игроков в сети: выбейте самых диких пилотов!\nМасл-кары, внедорожники, фургоны с мороженым… Выберите свое!\nЗУБОДРОБИТЕЛЬНАЯ СКОРОСТЬ\nНитроглицериновое турбо вдавит вас в кресло!\nВОЗВРАЩЕНИЕ ЛЕГЕНДАРНОГО РЕЖИМА ТРЮКОВ\nГольф, Футбол, Стакан-понг… Заработайте своим пилотом максимум очков!\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Гонки",
+        "Новинки"
+      ],
+      "platforms": "PS4",
+      "platform_ps4": true,
+      "platform_ps5": false,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 699,
+          "28": 799
+        },
+        "p3": {
+          "7": 350,
+          "14": 500,
+          "21": 799,
+          "28": 899
+        }
+      },
+      "tilda_uid": "115034162393",
+      "sku": "",
+      "external_id": "v0njUNABe25c3aeLPcZk",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/115034162393-flatout-4-total-insanity-ps4",
+      "seo_title": "FlatOut 4: Total Insanity на PS4 аренда игры",
+      "seo_descr": "Аренда FlatOut 4: Total Insanity на PS4. Прочувствуйте безумие FlatOut снова! Натиск, бойня, арена и другие: разрушайте все! Быстрый доступ после оплаты.",
+      "rating": 3.35,
+      "release_date": "17/3/2017",
+      "publisher": "SIDEWALK GAMES LLC",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/227117",
+      "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07458_00/4/i_ced1d2e5ac5d7d073356b373671306807f097e1a6716af589de4b46bbfe8b02d/i/icon0.png",
+      "rent_days": [
         7,
         14,
         21,
@@ -273,61 +335,6 @@
       ]
     },
     {
-      "slug": "assetto-corsa-competizione-ps4-ps5",
-      "title": "Assetto Corsa Competizione PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202006/0821/BslGKgFzwgNgHGD1YiXr5kOf.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0821/BslGKgFzwgNgHGD1YiXr5kOf.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/1ccbd433eba4e4022861590bd3be0ff94ba14dffe38a96a0.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/452c8f2afeb6653dff5e78add4c247d73e67077d91fd8d81.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/af45a8c27669a16c59772a1182b2344b4d4c3f4994f93232.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/6c7df04bd8929910d50a443fc8720a422976fa9fe96059d3.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/d4c5c22106532852735013a283c887abcc76297d6adfdbbd.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202507/2413/68866af72f54233e17ad9e57ea4fdad1690d736bdf5fe238.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202006/0907/84ym7eYMeAWmn8w8bnIS1NfZ.jpg"
-      ],
-      "description": "Assetto Corsa Competizione от KUNOS Simulazioni предлагает реалистичный гоночный симулятор с точным моделированием движений автомобилей. Включает полный сезон Fanatec GT World Challenge Europe 2024 и ливреи за период с 2021 по 2024 год. Доступна сетевая игра до 30 участников и бесплатные личные лобби. Игра выходит на PS5 24 февраля 2022 года с улучшенной графикой и частотой ка…",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Спорт",
-        "Гонки"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700
-        },
-        "p3": {}
-      },
-      "tilda_uid": "236077326402",
-      "sku": "",
-      "external_id": "tNVbaEfHlrv2eN7l1439",
-      "url": "http://arenapsgm.ru/tproduct/236077326402-assetto-corsa-competizione-ps4-ps5",
-      "seo_title": "Assetto Corsa Competizione PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Assetto Corsa Competizione PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Assetto Corsa Competizione PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 3.67,
-      "release_date": "22/2/2022",
-      "publisher": "505 GAMES S.R.L.",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/234902",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2922/42a58ec7aff10990d3af0c968e9223b9f3b0e1aa7c516ae8.png",
-      "rent_days": [
-        7,
-        14,
-        21
-      ]
-    },
-    {
       "slug": "carmageddon-rogue-shift-ps5",
       "title": "Carmageddon: Rogue Shift PS5",
       "mark": "-59%",
@@ -390,24 +397,27 @@
       ]
     },
     {
-      "slug": "cars-3-ps4-ps5",
-      "title": "Cars 3 PS4/PS5",
+      "slug": "dirt-5-ps4-ps5",
+      "title": "Dirt 5 PS4/PS5",
       "mark": "",
       "price_from": 250,
       "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor6366-3731-4564-b530-663834326564/72418157.jpg",
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202007/2111/AU9y67cQ8s4t6S0Tg2peRQ5s.png",
       "screenshots": [
-        "https://static.tildacdn.com/stor6366-3731-4564-b530-663834326564/72418157.jpg",
-        "https://static.tildacdn.com/stor3064-6464-4237-b436-346133313061/27283139.jpg",
-        "https://static.tildacdn.com/stor6365-6666-4366-b964-353331393665/25430504.jpg",
-        "https://static.tildacdn.com/stor6431-3461-4631-a538-663934346661/69188022.jpg",
-        "https://static.tildacdn.com/stor6162-3566-4832-a539-353464653838/54838779.jpg",
-        "https://static.tildacdn.com/stor3033-3138-4664-b064-393165303262/63022273.jpg"
+        "https://image.api.playstation.com/vulcan/img/rnd/202007/2111/AU9y67cQ8s4t6S0Tg2peRQ5s.png",
+        "https://image.api.playstation.com/vulcan/img/rnd/202008/2712/j82hoCNKHj5bOvyLVblp2Cv8.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202008/2712/LPIeyunIY9iHHbld1GRkF49Y.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202008/2712/UlpUedgpEPyMeOjRVEYJFOpy.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202008/2712/RHD2nUgT0oOG17AYuKjdU9rn.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202008/2712/OveNIK24XFkzFHUXx42lQ8Ie.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202008/2712/ZYADNZnf07RR8IcsFuELpxp6.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202012/1611/id0PhQCybnYdPUF1MQgy9LMU.jpg"
       ],
-      "description": "Сюжет Cars 3: Driven to Win развернется спустя истории третьего фильма, после «финальной большой гонки». Игра расширит вселенную посредством скоростных соревнований.\nИгрокам будет доступно более 20 персонажей, которых можно будет кастомизировать, а также знакомые трассы. В проекте будет локальный мультиплеер с разделением экрана (можно играть вдвоем). Игроки смогут проходить задания вместе и соревноваться.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "description": "DIRT 5 - самая дерзкая игра в франшизе гонок по бездорожью. Покоряйте 70 маршрутов в 10 регионах мира с динамичными изменениями погоды и ландшафта. Гоняйтесь на разнообразных машинах от багги до болидов мощностью 900 л.с. Участвуйте в восьми типах гонок, включая спринты и джимхан, и соревnuйтесь онлайн или в специальных режимах.",
       "categories": [
         "Лента на главной",
         "Все игры",
+        "Спорт",
         "Гонки"
       ],
       "platforms": "PS4, PS5",
@@ -418,91 +428,29 @@
         "p2": {
           "7": 250,
           "14": 400,
-          "21": 700,
-          "28": 800
+          "21": 699,
+          "28": 799
         },
         "p3": {
           "7": 350,
           "14": 500,
-          "21": 800,
-          "28": 900
+          "21": 799,
+          "28": 899
         }
       },
-      "tilda_uid": "230065743762",
+      "tilda_uid": "983460834722",
       "sku": "",
-      "external_id": "d5kjB4LEMER0lkKBU79v",
-      "url": "http://arenapsgm.ru/tproduct/230065743762-cars-3-ps4-ps5",
-      "seo_title": "Cars 3 PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Cars 3 PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Cars 3 PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "crash-team-racing-nitro-fueled-spyro-game-bundle-ps4-ps5",
-      "title": "Crash Team Racing: Nitro-Fueled + Spyro Game Bundle PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3663-3163-4761-b061-646235643363/32200082.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3663-3163-4761-b061-646235643363/32200082.jpg",
-        "https://static.tildacdn.com/stor3735-3636-4836-a164-633137366636/82590660.jpg",
-        "https://static.tildacdn.com/stor6133-3466-4635-a232-326430663937/75720867.jpg",
-        "https://static.tildacdn.com/stor3933-3664-4339-b565-396437313738/22927280.jpg",
-        "https://static.tildacdn.com/stor6263-3537-4332-a234-366362623633/59976762.jpg",
-        "https://static.tildacdn.com/stor6133-6538-4661-a662-393961393130/24755356.jpg",
-        "https://static.tildacdn.com/stor3235-3733-4166-a239-393931323961/dff8d87341315c2fff94aa1835b15f98.jpg"
-      ],
-      "description": "Бандикут Крэш снова за рулем, а дракончик Спайро прибавляет жара! Наслаждайтесь легендарными схватками в наборе Crash™ Team Racing Nitro-Fueled* и Spyro™ Reignited Trilogy, куда входят четыре полных игры!\nВ комплекте:\n- Crash™ Team Racing Nitro-Fueled\n- Spyro™ Reignited Trilogy\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Приключения",
-        "Боевики",
-        "Гонки"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "tilda_uid": "132096178022",
-      "sku": "",
-      "external_id": "btRFIhrpPTxas1bn87pu",
-      "url": "http://arenapsgm.ru/tproduct/132096178022-crash-team-racing-nitro-fueled-spyro-game-bundle-ps4-ps5",
-      "seo_title": "Crash Team Racing: Nitro-Fueled + Spyro Game Bundle PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Crash Team Racing: Nitro-Fueled + Spyro Game Bundle PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Crash Team Racing: Nitro-Fueled + Spyro Game Bundle PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
+      "external_id": "x9dsnmbUNgU4omFTfjic",
+      "url": "http://arenapsgm.ru/tproduct/983460834722-dirt-5-ps4-ps5",
+      "seo_title": "Dirt 5 PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Dirt 5 PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Dirt 5 PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 3.78,
+      "release_date": "12/11/2020",
+      "publisher": "ELECTRONIC ARTS",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/234401",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2110/8ZEssUZl5TmCSdAV5C8mZuyY.png",
       "rent_days": [
         7,
         14,
@@ -613,6 +561,131 @@
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10010647",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/42b3ee6b1b2094212231b0b0a82824f687fc5c4dc9bde31c.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "gran-turismo-7-ps4-ps5",
+      "title": "Gran Turismo 7 PS4/PS5",
+      "mark": "",
+      "price_from": 300,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2806/wpHT6JXmOA9iECLZKRPRvt0U.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202202/2806/wpHT6JXmOA9iECLZKRPRvt0U.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202109/1322/zRgS2r8KKbbpMpVAwgVIiSGB.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202109/1322/12q4Li8WOeubgGLEt7TUwDTL.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202109/1322/CnjALeMIJ1ZyotqVr7uuzlM2.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202109/1322/FJ0yY9r7pP5HtdolN5Uxa628.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202109/1322/2E3peJmepuYHYfCy19reuNry.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202109/1322/YJb3HfYIejLj8LHzRDsa0Z4u.jpeg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202109/1322/rZ8lR5dheFXsFfad6kt2cH27.jpeg"
+      ],
+      "description": "Gran Turismo 7 предлагает полную иммерсивность в мире реального вождения, с более чем 400 машинами и 90 гоночными трассами. В режиме GT Simulation вы можете покупать, улучшать и водить автомобили. Версия для PS5 поддерживает 4K HDR, адаптивные триггеры и тактильную обратную связь. С 22 февраля 2023 года доступна интеграция с PlayStation®VR2.",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Спорт",
+        "Гонки",
+        "VR"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 300,
+          "14": 500,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 400,
+          "14": 600,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "145118068092",
+      "sku": "",
+      "external_id": "9O75o3XskxCKV6kTlepc",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/145118068092-gran-turismo-7-ps4-ps5",
+      "seo_title": "Gran Turismo 7 PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Gran Turismo 7 PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Gran Turismo 7 PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.37,
+      "release_date": "4/3/2022",
+      "publisher": "Sony Interactive Entertainment",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10000956",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0707/4c622dfa581566c2647bc907e5119cd375ce3a11c03e916e.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "grid-legends-ps4-ps5",
+      "title": "Grid Legends PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1309/1IzLC1VrBs7hYtisCOHMKq5J.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202107/1309/1IzLC1VrBs7hYtisCOHMKq5J.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202202/1811/ihE9NlA0yOHeWMJkBpW18ztT.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202202/1811/duKUzTl8O3HVEEQy5mSlCwpn.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202202/1811/bxuDFB7yIkvlGFHSalzVnjnM.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202202/1811/6XwQRm92MgvDf4AH8BqGgXj7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202202/1811/ExZumIOchEoZqbSbkLfpyFlX.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202202/1811/tzL8IOZwlrXSlnsA6jpVX6nN.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202202/1811/uykv1CnwAPqYb84XGVe9DnuU.jpg"
+      ],
+      "description": "Grid Legends - захватывающие гонки по всему миру с возможностью участия до 21 игрока. Игра предлагает социальные и масштабные события в рамках живой сюжетной линии. С начала сентября 2026 года доступ к сетевым функциям будет прекращён, включая многопользовательские режимы и кроссплатформенную игру.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Спорт",
+        "Гонки"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "658276092482",
+      "sku": "",
+      "external_id": "p5EHNzn8D9gagCnauT5u",
+      "url": "http://arenapsgm.ru/tproduct/658276092482-grid-legends-ps4-ps5",
+      "seo_title": "Grid Legends PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Grid Legends PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Grid Legends PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.02,
+      "release_date": "25/2/2022",
+      "publisher": "EA Swiss Sarl",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10003002",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2213/9bCyljPZ6TYi3xMTpFywSmlZ.png",
       "rent_days": [
         7,
         14,
