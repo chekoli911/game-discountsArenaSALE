@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-20T07:20:01Z",
-  "generated_at": "2026-11-20T07:23:29Z",
-  "count": 11488,
+  "catalog_id": "2026-11-20T16:29:50Z",
+  "generated_at": "2026-11-20T16:45:23Z",
+  "count": 11487,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -3046,8 +3046,8 @@
       "text_translation": "Русский, Английский",
       "rating": 5.0,
       "release_date": "20.11.2026",
-      "is_preorder": true,
-      "is_new": false,
+      "is_preorder": false,
+      "is_new": true,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1106/7380cfea4f72bdc12762e825ee840eef208ed0fa7aee3fad.png",
       "screenshots": [
         "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/aa94c38be49888c77a0b38d365ce2be9bfdb5f858a6997d7.jpg",
@@ -3065,6 +3065,73 @@
       "seo_descr": "Аренда Catgirl Fantasy: Oath of the Night Sky PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-20T04:47:33Z"
+    },
+    {
+      "id": "vice-magic-city-mayhem",
+      "slug": "vice-magic-city-mayhem",
+      "sku": "rent-vice-magic-city-mayhem",
+      "title": "Vice: Magic City Mayhem PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен, Приключение",
+      "categories": [],
+      "publisher": "Jurassic Sunset Games LLC",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 3.67,
+      "release_date": "19.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2502/6df9ec1b6f70da417c4accc9b620c921743dd9f54adf17cf.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1413/4a6f54f3f203cb503332453127396045860d5fec8d6e48d7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1413/ae57bf4233ea5ff93398a080f68436ea4717efb82df7a024.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1413/fe09a492028ff5076b3f966f0a8ace27244a231b59a15977.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1413/66e76bc930aadb5149a1c3227394e7e4bf953024d7a86734.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1413/0df84eca58335525f42728b5358492c7f347ea49d57e5c71.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1413/9502dc908049186280ba61b33e0b4221d34baf7b629fa2d1.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019299",
+      "description": "Вот тебе история из мира Vice! Это не просто игра с открытым миром, а настоящий квест по самой волшебной и загадочной части США - городу Майами. Ты попадаешь в 1987 год, когда город полон жизни, страстей и тайн.\n\nЗдесь можно пожить как богач в роскошной вилле или стать бандитом с оружием на лямке. От шикарных вечеринок до жарких ночей на пляже - атмосфера создана намеренно, чтобы ты мог полностью погрузиться в этот мир.",
+      "seo_title": "Vice: Magic City Mayhem PS5 аренда игры",
+      "seo_descr": "Аренда Vice: Magic City Mayhem PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-20T16:45:12Z"
     },
     {
       "id": "ritebound",
@@ -3477,168 +3544,6 @@
       "seo_descr": "Аренда Kitsune Zero PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-18T23:27:30Z"
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Наконец-то мы дошли до главного события в истории видеоигр. Grand Theft Auto VI уже здесь, и это совсем не та GTA, которую мы ждали годами. Это совершенно новый мир с новой историей, новым городом и новыми персонажами.\n\nТут всё меняется от самого начала: новые механики, новые способы взаимодействия со средой и атмосфера, которая сразу же погружает в этот бешеный гламурный Лас-Вегас. Удивительные открытия ждут вас на каждом углу.\n\nПолучите этот шедевр в своем исполнении Ultimate Edition прямо сейчас и станьте частью новой легенды.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-20T07:23:17Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром, который еще только предстоит открыть для себя.\n\nОжидается, что это будет самая масштабная часть франшизы по всем параметрам: от графики до объема действий. Готовьтесь к тому, что привычные правила будут пересмотрены, а интриги разворачиваться будут на новом уровне.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-20T07:23:17Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
     },
     {
       "id": "darkness-and-flame-3-the-dark-side",
