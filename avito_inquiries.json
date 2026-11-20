@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-20T19:45:44+03:00",
-  "updated_at_msk": "20.11.2026 19:45",
+  "updated_at": "2026-11-20T20:45:52+03:00",
+  "updated_at_msk": "20.11.2026 20:45",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 2975,
+  "total": 2977,
   "unique_games": 1051,
   "in_demand": 190,
   "one_off": 694,
@@ -1487,7 +1487,7 @@
       "title": "NHL 27 PS5",
       "item_id": "8355713865",
       "url": "https://avito.ru",
-      "count": 84,
+      "count": 86,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1688,7 +1688,7 @@
         71,
         75,
         81,
-        84
+        86
       ],
       "hourly": [
         0,
@@ -1863,7 +1863,7 @@
         0,
         4,
         6,
-        3
+        5
       ],
       "price_series": [
         null,
@@ -2041,7 +2041,7 @@
         257
       ],
       "first_at": "2026-09-05T21:51:28+03:00",
-      "last_at": "2026-11-20T19:06:10+03:00"
+      "last_at": "2026-11-20T20:19:57+03:00"
     },
     {
       "id": "call-of-duty-modern-warfare-4-vault-edition-ps5",
@@ -571401,6 +571401,18 @@
       "title": "NHL 27 PS5",
       "price": 257,
       "price_string": "257 ₽",
+      "at": "2026-11-20T20:19:57+03:00"
+    },
+    {
+      "title": "NHL 27 PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-20T20:15:30+03:00"
+    },
+    {
+      "title": "NHL 27 PS5",
+      "price": 257,
+      "price_string": "257 ₽",
       "at": "2026-11-20T19:06:10+03:00"
     },
     {
@@ -571624,18 +571636,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-19T21:03:40+03:00"
-    },
-    {
-      "title": "WWE 2K26 PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-19T21:03:12+03:00"
-    },
-    {
-      "title": "UFC 6 Ultimate Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-19T20:36:49+03:00"
     }
   ]
 }
