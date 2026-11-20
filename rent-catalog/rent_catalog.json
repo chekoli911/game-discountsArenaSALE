@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-20T00:54:11Z",
-  "generated_at": "2026-11-20T01:32:05Z",
+  "catalog_id": "2026-11-20T04:36:02Z",
+  "generated_at": "2026-11-20T04:40:29Z",
   "count": 11486,
   "items": [
     {
@@ -2998,6 +2998,142 @@
       "catalog_added_at": "2026-11-07T00:54:52Z"
     },
     {
+      "id": "catgirl-fantasy-oath-of-the-night-sky",
+      "slug": "catgirl-fantasy-oath-of-the-night-sky",
+      "sku": "rent-catgirl-fantasy-oath-of-the-night-sky",
+      "title": "Catgirl Fantasy: Oath of the Night Sky PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Ролевая игра",
+      "categories": [],
+      "publisher": "Minimum Studio Corp.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "20.11.2026",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1106/7380cfea4f72bdc12762e825ee840eef208ed0fa7aee3fad.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/aa94c38be49888c77a0b38d365ce2be9bfdb5f858a6997d7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/f0717e760b8081e0ac0a2ad49805affc6d7c0cb49b67b3ef.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/adce06f59bf9f5a2ddcbcb5217484d7793e9e9571a453f1a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/a9ede5d6109812170fe624e426dad7a400ac50028849d4cf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/5ef0252689976c1410a86b70d647769fb060cd468e676780.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/8cd391adf8d4c081c633ece9dcb4cd0dcc57a6a8a6f1f658.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/f25e710bf1a8bc11f282a55e103c4b5880df2bc96ac411e4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/ead2dc29cf9fc834696e9cad4e3dd0fc551d09a77304ff72.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021224",
+      "description": "Встретимся с Селлой в её родном городе Флоренция и отправимся на захватывающее приключение по ночному небу. Эта игра предлагает глубокую историю о дружбе, выборе и пути самопознания, где каждое решение действительно меняет ход событий.\n\nПогрузись в атмосферу тайны с помощью потрясающей графики PS5 и уникальной механики исследования мира. Селла - не просто персонаж с большим количеством хвоста, а живая личность со своими мотивами, мечтами и сложной психологией.\n\nЭто история о том, как маленькая девочка учится понимать себя, других людей и силу дружбы. Включите на PS5 и откройте для себя мир, где каждый день - это новое открытие.",
+      "seo_title": "Catgirl Fantasy: Oath of the Night Sky PS5 аренда игры",
+      "seo_descr": "Аренда Catgirl Fantasy: Oath of the Night Sky PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-20T04:29:20Z"
+    },
+    {
+      "id": "ritebound",
+      "slug": "ritebound",
+      "sku": "rent-ritebound",
+      "title": "Ritebound PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Стратегия",
+      "categories": [],
+      "publisher": "Brainium Games LLC",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "19.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1814/01cbd3427bbbb8372af7a45b605f8404892a64f431827aab.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1814/d4c81d624820a99407f39dac5996022ed1ab251a8968e085.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1814/293db5ec0efc66950120be280c4d371844e95a18ef348b26.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1814/497313f9b686b2d882a81b6f1d20cca1a517e28ba0aec249.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1814/cd758d476842723cce0876a7c85bc7b78bd85ad4f5837557.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1814/52ff2bd8f800253612459769c244b7cb8a970681a8e195c3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1814/28c048067250c8827cb9b706988bc4f10df21caacd134d92.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020961",
+      "description": "Мрачный фэнтези от студии The Game Kitchen уже в наличии на консоли PlayStation 5. История охотника за сокровищами, чьи магические способности работают только с нечистой силой, и проклятого кентавра, пытающегося вернуть жизнь своей возлюбленной.\n\nОригинальный стиль игры здесь полностью раскрыт: от мрачных подземелий до эпических битв. Сочетание атмосферной музыки, динамичного боя и глубокой сюжетной линии обещает захватить игрока с самого начала.",
+      "seo_title": "Ritebound PS5 аренда игры",
+      "seo_descr": "Аренда Ritebound PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-20T04:29:43Z"
+    },
+    {
       "id": "geo-book",
       "slug": "geo-book",
       "sku": "rent-geo-book",
@@ -3341,168 +3477,6 @@
       "seo_descr": "Аренда Kitsune Zero PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-18T23:27:30Z"
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Наконец-то мы дошли до главного события в истории видеоигр. Grand Theft Auto VI уже здесь, и это совсем не та GTA, которую мы ждали годами. Это совершенно новый мир с новой историей, новым городом и новыми персонажами.\n\nТут всё меняется от самого начала: новые механики, новые способы взаимодействия со средой и атмосфера, которая сразу же погружает в этот бешеный гламурный Лас-Вегас. Удивительные открытия ждут вас на каждом углу.\n\nПолучите этот шедевр в своем исполнении Ultimate Edition прямо сейчас и станьте частью новой легенды.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-20T00:55:47Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром, который еще только предстоит открыть для себя.\n\nОжидается, что это будет самая масштабная часть франшизы по всем параметрам: от графики до объема действий. Готовьтесь к тому, что привычные правила будут пересмотрены, а интриги разворачиваться будут на новом уровне.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-20T00:55:47Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
     },
     {
       "id": "darkness-and-flame-3-the-dark-side",
@@ -19060,7 +19034,7 @@
       "release_date": "22.10.2026",
       "is_preorder": false,
       "is_new": true,
-      "image_url": "https://static.tildacdn.com/stor6165-6633-4335-b232-386263613839/d6965415c9fc80d08757f8613fc5e84a.jpg",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1419/39e532d5d5a31d9113c7fa8f3e4c332af9428613efe01037.png",
       "screenshots": [
         "https://static.tildacdn.com/stor6339-6330-4339-b561-316166313261/1db7a3ae62cc68e3ff9bced255e27357.jpg",
         "https://static.tildacdn.com/stor3364-3463-4638-b364-386130323233/95583cb113198571a87856a061bc3d44.jpg",
