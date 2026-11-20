@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-19T02:02:55Z",
-  "server_time_utc": "2026-11-19T02:02:55Z",
+  "updated_at": "2026-11-20T02:02:49Z",
+  "server_time_utc": "2026-11-20T02:02:49Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-20T02:00:00Z",
-  "expires_at": "2026-11-20T02:00:00Z",
+  "next_rotation_at": "2026-11-21T02:00:00Z",
+  "expires_at": "2026-11-21T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 100,
@@ -21,10 +21,61 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-20T02:00:00Z"
+    "next_rotation_at": "2026-11-21T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "guardians-of-the-galaxy-ps4-ps5",
+      "title": "Guardians of the Galaxy PS4/PS5",
+      "description": "Marvel’s Guardians of the Galaxy - это динамичный экшен от третьего лица, где главный герой Питер «Звёздный Лорд» Квилл пытается собрать команду из самых неожиданных героев. Ему нужно не только заработать денег и выжить, но и защитить галактику от злых пришельцев, которые хотят разрушить мир.\n\nВселенная Мстителей вживую! Это про космос, мутантов и невероятные приключения. Играем с друзьями или одиночку - получится весело и захватывающе.",
+      "image_url": "https://static.tildacdn.com/stor3161-6534-4635-b439-663265616666/31513067.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2410/DdagEnKHDkOsjGQUSc6kdgUz.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2410/7YTJ4JbtK7CA4HjUlqThGXKx.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2410/DPUKozXFBdioX7GBhBOJmX9H.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2410/q6EJre9Y6x4SPnbIhNhZQQnM.jpg",
+        "https://image.api.playstation.com/vulcan/img/rnd/202109/2410/LcZxYzw8MJpUG4QEMLf4SQgB.jpg"
+      ],
+      "release_date": "26/10/2021",
+      "publisher": "Eidos Interactive Corp",
+      "platforms": "PS4, PS5",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.61,
+      "store_url": "https://store.playstation.com/en-tr/concept/234665",
+      "tilda_uid": "192208736222",
+      "sku": "",
+      "external_id": "2mZdgGTeTCjNlHTtZ3aZ",
+      "url": "http://arenapsgm.ru/tproduct/192208736222-guardians-of-the-galaxy-ps4-ps5",
+      "expires_at": "2026-11-21T02:00:00Z",
+      "published_at": "2026-11-20T02:02:49Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 100,
+          "21": 100,
+          "28": 100
+        },
+        "p3": {
+          "7": 200,
+          "14": 200,
+          "21": 200,
+          "28": 200
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 100,
+        "21": 100,
+        "28": 100
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Marvel's Guardians of the Galaxy - динамичный экшен от третьего лица про Питера Квилла, который собирает странную команду, чтобы заработать денег, выжить и спасти галактику от пришельцев.\n\nИграем с друзьями или одиночку во вселенной Мстителей вживую: космос, мутанты и захватывающие приключения ждут всех желающих."
+    }
+  ],
+  "history": [
     {
       "slug": "teenage-mutant-ninja-turtles-the-cowabunga-collection-ps4-ps5",
       "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection PS4/PS5",
@@ -49,34 +100,31 @@
       "sku": "",
       "external_id": "V1uacEjJXUa9XH9IBYX0",
       "url": "http://arenapsgm.ru/tproduct/331161291732-teenage-mutant-ninja-turtles-the-cowabunga-collection-ps4-ps5",
-      "expires_at": "2026-11-20T02:00:00Z",
       "published_at": "2026-11-19T02:02:55Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 100,
-          "21": 100,
-          "28": 100
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 200,
-          "21": 200,
-          "28": 200
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 100,
-        "21": 100,
-        "28": 100
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Черепашки-ниндзя: The Cowabunga Collection - это легендарная коллекция из 13 игр, которая закрепила серию Konami в истории жанра. Внутри ждут уникальные мультиплеерные режимы, сохранение прогресса и кучу красивых эскизов от разработчиков.\n\nКроме того, внутри собраны редкие исторические материалы из вселенной черепашек, а управление легко настраивать под…"
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "slime-rancher-2-ps5",
       "title": "Slime Rancher 2 PS5",
@@ -2985,54 +3033,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "TopSpin 2k25 - теннис, который чувствуется на каждом ударе.  \n\nПодачи, физика, корти и локальные соревнования - всё как у реального тенниса. Сражайтесь с легендами или просто поиграйте с друзьями."
-    },
-    {
-      "slug": "immortal-fenix-ps4-ps5",
-      "title": "Immortal Fenix PS4/PS5",
-      "description": "Сыграй за полубога с крыльями - врагов побеждаешь, головоломки решаешь и богов спасаешь.  \n\nМеч Ахилла, крылья Дедала и телекинез на помощь - урон огромный, как миф.  \n\nСражайся с циклопами и Медузой - в воздухе, на земле, где ужасы ждут за каждым поворотом.  \n\nОткрой 7 разных регионов открытого мира. Каждый - как отдельный мир мифов.  \n\nПиши сюда 📩 @ArenaPSGMadmin для аренды.",
-      "image_url": "https://static.tildacdn.com/stor6164-3065-4537-b530-376564633964/83912549.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor6164-3065-4537-b530-376564633964/83912549.jpg",
-        "https://static.tildacdn.com/stor6166-3663-4435-a161-393236646462/98561409.jpg",
-        "https://static.tildacdn.com/stor3162-3662-4433-b533-613531333066/99520157.jpg",
-        "https://static.tildacdn.com/stor3166-3963-4739-a435-326232633431/65427825.jpg",
-        "https://static.tildacdn.com/stor3236-3365-4731-b662-326361656638/18389359.jpg"
-      ],
-      "release_date": "",
-      "publisher": "",
-      "platforms": "",
-      "voice": "",
-      "text_translation": "",
-      "rating": null,
-      "store_url": "",
-      "tilda_uid": "273822390602",
-      "sku": "",
-      "external_id": "riAhOEl0t19775eMCzlZ",
-      "url": "http://arenapsgm.ru/tproduct/273822390602-immortal-fenix-ps4ps5",
-      "published_at": "2026-09-23T02:01:00Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Сыграй за полубога с крыльями - побеждаешь врагов, решаешь головоломки и спасаешь богов.  \nМеч Ахилла, крылья Дедала и телекинез - урон как из мифов. Сражайся с циклопами, Медузой и ужасами в каждом повороте. Открой 7 миров мифов - каждый - свой уникальный мир."
     }
   ]
 }
