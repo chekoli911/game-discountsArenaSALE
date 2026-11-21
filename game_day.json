@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-20T02:02:49Z",
-  "server_time_utc": "2026-11-20T02:02:49Z",
+  "updated_at": "2026-11-21T02:02:58Z",
+  "server_time_utc": "2026-11-21T02:02:58Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-21T02:00:00Z",
-  "expires_at": "2026-11-21T02:00:00Z",
+  "next_rotation_at": "2026-11-22T02:00:00Z",
+  "expires_at": "2026-11-22T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 100,
@@ -21,10 +21,62 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-21T02:00:00Z"
+    "next_rotation_at": "2026-11-22T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "disciples-liberation-ps4-ps5",
+      "title": "Disciples: Liberation PS4/PS5",
+      "description": "Disciples: Освобождение - это мрачная стратегия-RPG с пошаговыми боями, где каждое решение имеет последствия. Откройте земли Невендаара и разгадывайте тайны мира, в котором неверный шаг может обернуться трагедией.\n\nВ одиночной кампании более 80 часов: пройдите три акта, выполните 270 заданий и откройте пять уникальных концовок. Выбирайте одного из четырёх классов и стройте свою армию на основе ресурсов и добычи.\n\nПытайтесь своё мужество на монстрах, для каждого из которых нужна своя тактика, или бросьте вызов друзьям в двухигровых онлайн-сражениях. Ваши решения определит судьбу и то, каким лидером вы станете.",
+      "image_url": "https://static.tildacdn.com/stor3462-3665-4061-b430-343161643638/93556984.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202110/1512/F8NMJd4RkHRwU4wOVOSTZPvh.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202110/1512/Tcbh56hSjsBBjCxDfAMsBMPQ.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202110/1512/uyLdUYjTm0PFuiK6wWvduk3u.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202110/1512/psUVvRi8KtH4VjqAyN63CwWn.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202110/1512/1oz3B3LwDstDHlitTbAbK0Te.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202110/1512/AW37WuNBssnKrlxx2uSPxv8f.jpg"
+      ],
+      "release_date": "21/10/2021",
+      "publisher": "Kalypso Media GMBH",
+      "platforms": "PS4, PS5",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.19,
+      "store_url": "https://store.playstation.com/en-tr/concept/10000604",
+      "tilda_uid": "666985504492",
+      "sku": "",
+      "external_id": "gfHKsB0i1yfYtAjeSJp6",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/666985504492-disciples-liberation-ps4-ps5",
+      "expires_at": "2026-11-22T02:00:00Z",
+      "published_at": "2026-11-21T02:02:58Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 100,
+          "21": 100,
+          "28": 100
+        },
+        "p3": {
+          "7": 200,
+          "14": 200,
+          "21": 200,
+          "28": 200
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 100,
+        "21": 100,
+        "28": 100
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Disciples: Освобождение - мрачная RPG с пошаговыми боями, где каждый неверный шаг может стоить вам жизни. В одиночку можно потратить на 80 часов, пройти три акта и выбрать свою судьбу среди четырёх классов героев.\n\nОтправляйтесь в земли Невендаара, чтобы разгадывать тайны и строить армию, а затем проверяйте свои навыки против уникальных монстров или…"
+    }
+  ],
+  "history": [
     {
       "slug": "guardians-of-the-galaxy-ps4-ps5",
       "title": "Guardians of the Galaxy PS4/PS5",
@@ -48,34 +100,31 @@
       "sku": "",
       "external_id": "2mZdgGTeTCjNlHTtZ3aZ",
       "url": "http://arenapsgm.ru/tproduct/192208736222-guardians-of-the-galaxy-ps4-ps5",
-      "expires_at": "2026-11-21T02:00:00Z",
       "published_at": "2026-11-20T02:02:49Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 100,
-          "21": 100,
-          "28": 100
+          "7": 290,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 200,
-          "21": 200,
-          "28": 200
+          "7": 390,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 100,
-        "21": 100,
-        "28": 100
+        "7": 290,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Marvel's Guardians of the Galaxy - динамичный экшен от третьего лица про Питера Квилла, который собирает странную команду, чтобы заработать денег, выжить и спасти галактику от пришельцев.\n\nИграем с друзьями или одиночку во вселенной Мстителей вживую: космос, мутанты и захватывающие приключения ждут всех желающих."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "teenage-mutant-ninja-turtles-the-cowabunga-collection-ps4-ps5",
       "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection PS4/PS5",
@@ -2985,54 +3034,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Замок, тьма, что-то живое - Amnesia: The Dark Descent.  \n\nОдна игра - и вы уже не разберёте, кто вас спасает или убил."
-    },
-    {
-      "slug": "topspin-2k25-ps4-ps5",
-      "title": "Topspin 2к25 PS4/PS5",
-      "description": "🔥 TopSpin 2k25 - не просто теннис, а настоящий бой на корте.  \n\nФизика игры такая, что пыль поднимается, трава изнашивается - ты чувствуешь каждый удар. Новые подачи и индикатор тайминга делают игру точной и живой, как у реального профи.  \n\nПриглашайте друзей: в локальном режиме вы можете соревноваться вдвоем или вчетвером - без лишних слов, только азарт. А стиль игры? Выбирайте: от мощных подач до защёлок на базе - и даже создавайте собственного игрока MyPLAYER.  \n\nПогружайтесь в соревнования по миру - встречаются легендарные теннисисты, выходите на корты Уимблдона, Ролан-Гарроса и других Grand Slam®. Всё это - в режиме MyCAREER.  \n\nИли выложитесь в онлайн: бросайте вызов игрокам по всему миру или просто проведите дружеский матч с друзьями из 2K.  \n\nДля аренды игры пишите в чат 📩 @ArenaPSGMadmin",
-      "image_url": "https://static.tildacdn.com/stor6237-6537-4364-b038-613261383534/85331714.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor6237-6537-4364-b038-613261383534/85331714.jpg",
-        "https://static.tildacdn.com/stor3334-6365-4765-a664-313337666339/94825330.jpg",
-        "https://static.tildacdn.com/stor3738-6534-4231-b865-353737646530/22732704.jpg",
-        "https://static.tildacdn.com/stor3562-3233-4262-b966-626336343463/20377144.jpg",
-        "https://static.tildacdn.com/stor3533-3735-4733-b539-333438646331/83844014.jpg"
-      ],
-      "release_date": "",
-      "publisher": "",
-      "platforms": "",
-      "voice": "",
-      "text_translation": "",
-      "rating": null,
-      "store_url": "",
-      "tilda_uid": "486936473782",
-      "sku": "",
-      "external_id": "rhdAv8h0SGDTBM7SaNHI",
-      "url": "http://arenapsgm.ru/tproduct/486936473782-topspin-2k25-ps4ps5",
-      "published_at": "2026-09-24T02:01:16Z",
-      "prices": {
-        "p2": {
-          "7": 490,
-          "14": 680,
-          "21": 970,
-          "28": 1260
-        },
-        "p3": {
-          "7": 590,
-          "14": 780,
-          "21": 1070,
-          "28": 1360
-        }
-      },
-      "prices_p2": {
-        "7": 490,
-        "14": 680,
-        "21": 970,
-        "28": 1260
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "TopSpin 2k25 - теннис, который чувствуется на каждом ударе.  \n\nПодачи, физика, корти и локальные соревнования - всё как у реального тенниса. Сражайтесь с легендами или просто поиграйте с друзьями."
     }
   ]
 }
