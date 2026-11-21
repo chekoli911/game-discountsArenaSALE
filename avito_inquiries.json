@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-21T21:09:54+03:00",
-  "updated_at_msk": "21.11.2026 21:09",
+  "updated_at": "2026-11-21T21:11:32+03:00",
+  "updated_at_msk": "21.11.2026 21:11",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 3061,
+  "total": 3062,
   "unique_games": 1056,
   "in_demand": 200,
   "one_off": 691,
@@ -13339,13 +13339,14 @@
       "title": "OpsCam - Body Cam Shooter PS4",
       "item_id": "8277847246",
       "url": "https://avito.ru",
-      "count": 18,
+      "count": 19,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
       "max_price": 257,
       "last_price": 257,
       "prices": [
+        257,
         257,
         257,
         257,
@@ -13539,7 +13540,7 @@
         16,
         16,
         16,
-        18
+        19
       ],
       "hourly": [
         0,
@@ -13715,7 +13716,7 @@
         0,
         0,
         0,
-        2
+        3
       ],
       "price_series": [
         null,
@@ -577350,6 +577351,12 @@
       "at": "2026-11-21T21:06:49+03:00"
     },
     {
+      "title": "OpsCam - Body Cam Shooter PS4",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-21T21:06:49+03:00"
+    },
+    {
       "title": "Disney Speedstorm PS5",
       "price": 286,
       "price_string": "286 ₽",
@@ -577570,12 +577577,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-21T17:23:03+03:00"
-    },
-    {
-      "title": "Erica PS4/PS5",
-      "price": 200,
-      "price_string": "200 ₽",
-      "at": "2026-11-21T17:05:53+03:00"
     }
   ]
 }
