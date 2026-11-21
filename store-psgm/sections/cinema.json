@@ -1,7 +1,7 @@
 {
   "key": "cinema",
   "title": "Интерактивное кино",
-  "updated_at": "2026-11-20T01:39:11Z",
+  "updated_at": "2026-11-21T01:52:19Z",
   "games": [
     {
       "slug": "a-i-l-a-aila-ps5",
@@ -64,6 +64,76 @@
       "store_url": "",
       "edition_banner": "",
       "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "directive-8020-ps5",
+      "title": "Directive 8020 PS5",
+      "mark": "NEW",
+      "price_from": 472,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0522/cd5597316c7f1369ae9ebefba8ba4ebcbd969cce48539dfd.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0522/cd5597316c7f1369ae9ebefba8ba4ebcbd969cce48539dfd.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1014/e9a87e45327d556aadc6d95ba30f8f778d469a67046e062e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202508/1912/276caf3be792488e9d57563feedddec11695994db60b5519.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1618/829275b39862d5fab6e5f084f6deccc60009bb62be574b2e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1014/e0186e3eb1446bb5a4666cbb7bb4e7dc4f8b549928e13aef.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1618/b342c55b4d6dada7c28d1d29f04cfdf91d5b1467a1f3010e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1014/c64ed2cfa8aad66a9ca2c4fa5f885c00a732740a40e9f1b3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1618/777b385746f1c1055578803a32ef17530ff3e2e740c1bf19.jpg"
+      ],
+      "description": "Directive 8020 - новое научно-фантастическое приключение в жанре хоррор от создателей UNTIL DAWN и THE QUARRY. На борту корабля «Кассиопея» вас ожидает инопланетное существо, способное принимать облик человека. Вы должны перехитрить его, чтобы спастись и защитить других. Голливудская актриса Лашана Линч играет роль астронавта Янг.",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Интерактивное кино",
+        "Только PS5",
+        "Игры на двоих",
+        "Приключения",
+        "Хоррор",
+        "Новинки",
+        "Боевики"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 472,
+          "7": 739,
+          "14": 1292,
+          "21": 1444,
+          "28": 1678
+        },
+        "p3": {
+          "1": 673,
+          "7": 1092,
+          "14": 1492,
+          "21": 1728,
+          "28": 1933
+        }
+      },
+      "tilda_uid": "920780984142",
+      "sku": "",
+      "external_id": "RYnthyePAfF9AUvcfDuR",
+      "url": "http://arenapsgm.ru/tproduct/920780984142-directive-8020-ps5",
+      "seo_title": "Directive 8020 на PS5 аренда игры",
+      "seo_descr": "Аренда Directive 8020 на PS5. Научно-фантастический хоррор с выбором и последствиями, напряжённая атмосфера и сюжет. Играй без покупки, быстрый доступ к игре на PlayStation 5.",
+      "rating": 4.02,
+      "release_date": "12/5/2026",
+      "publisher": "Supermassive Games Ltd",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10008357",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0522/cd5597316c7f1369ae9ebefba8ba4ebcbd969cce48539dfd.png",
+      "rent_days": [
+        1,
         7,
         14,
         21,
@@ -219,67 +289,6 @@
       ]
     },
     {
-      "slug": "dozhit-do-rassveta-ps4",
-      "title": "Дожить до Рассвета PS4",
-      "mark": "Хит",
-      "price_from": 280,
-      "price_old": 390,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2910/d48262b72a5a2daa3ca3aed6c8f42c44f3fdaf2902265a13.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202401/2910/d48262b72a5a2daa3ca3aed6c8f42c44f3fdaf2902265a13.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/458ad702ed4f236443d39364d893595c82470e12f534ebd7.jpeg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/1e3e78798dd446f48dc8d27c8da40ab03f3af7808febafe1.jpeg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/494e9e6a9c810a5edd452ff6bcab277bd4c35e6c91f782b8.jpeg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/9de161e6f63b4a3faf42a77367f07276cff1fd62d8120347.jpeg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/1b6b561b9a00f8917f7e70898441871e93a5d51160bb4de0.jpeg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/b136cea3eb13354ef4d6adfa18af41666e5d34ac3500becb.jpeg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0810/ae0237c519d3b2f434481a071d663aa2673dbd02a66aeb16.jpeg"
-      ],
-      "description": "В «Until Dawn» вы попадаете в ужасающую историю о восьми друзьях, которые возвращаются в дом в горах после исчезновения двух товарищей. С каждым выбором ваша судьба и их будущее меняются - каждый персонаж живёт своей жизнью под контролем звёздных актёров. Игра переработана для PS5 с использованием Unreal Engine 5, даёт реалистичную атмосферу и глубокую динамику поведения персо…",
-      "categories": [
-        "Все игры",
-        "Лента на главной",
-        "Интерактивное кино"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 280,
-          "14": 412,
-          "21": 692,
-          "28": 752
-        },
-        "p3": {
-          "7": 380,
-          "14": 512,
-          "21": 792,
-          "28": 852
-        }
-      },
-      "tilda_uid": "414909446042",
-      "sku": "",
-      "external_id": "b4oubzBl8IMrIk2G3Mxj",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/414909446042-ps4",
-      "seo_title": "Дожить до Рассвета PS4 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Дожить до Рассвета PS4 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Дожить до Рассвета PS4 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.5,
-      "release_date": "4/10/2024",
-      "publisher": "Sony Interactive Entertainment",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10007897",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2910/d48262b72a5a2daa3ca3aed6c8f42c44f3fdaf2902265a13.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
       "slug": "as-dusk-falls-ps4-ps5",
       "title": "As Dusk Falls PS4/PS5",
       "mark": "",
@@ -403,87 +412,24 @@
       ]
     },
     {
-      "slug": "heavy-rain-amp-beyond-two-souls-ps4-ps5",
-      "title": "Heavy Rain &amp; Beyond: Two Souls PS4/PS5",
+      "slug": "erica-ps4-ps5",
+      "title": "Erica PS4/PS5",
       "mark": "",
       "price_from": 250,
       "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3539-6162-4632-b137-363962313635/34789550.jpg",
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11882_00/5/i_435a3bb225d3460637415b33f4a4a2a5f5b648982557e20c8e69d7e650d2bf57/i/icon0.png",
       "screenshots": [
-        "https://static.tildacdn.com/stor3539-6162-4632-b137-363962313635/34789550.jpg",
-        "https://static.tildacdn.com/stor3733-3431-4561-b532-363631323130/23007225.jpg",
-        "https://static.tildacdn.com/stor6331-6636-4136-a565-306438643936/41929741.jpg",
-        "https://static.tildacdn.com/stor3539-3263-4330-b835-656630316632/88804930.jpg",
-        "https://static.tildacdn.com/stor3738-3037-4630-b166-383537346262/53598898.jpg",
-        "https://static.tildacdn.com/stor3338-3966-4233-a433-383835306230/74850831.jpg"
+        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11882_00/5/i_435a3bb225d3460637415b33f4a4a2a5f5b648982557e20c8e69d7e650d2bf57/i/icon0.png",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307HEB46vnfVMles0Fpy_jbutp-fQxWIlAEk3qmGIEQ_mUHgfrvr-TzmXfFikPTGFqfVHLndh0uLUhIrwZExzY4gs_DEw-.png",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307eTeKW65SbUoP1NcULi-yOBtHMSfDN_ZG28IlBAfNyV88MXt0wtq4V72B7jm_CGD0nqXmaIUaE6HALhZT5mkb70lsyb4.png",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307I6MGMtgUS1HLt-T3mdHlfOWFncQzgrs2RUOlggImbnwZ8deU3lXTFPs_eJ659Btxjx-ha6iAE4dfEb1NutJi4IITHiC.png",
+        "https://image.api.playstation.com/vulcan/img/cfn/113074V_TeqlmPdpEtbK5fgettpBiPcmlZ-jzpcfcc2KtKyIP0-7LgiGnIobX7LOv7BNYDXjuw7aaXfxi5mlzuuoL4oX_9aY.png"
       ],
-      "description": "Создайте свои истории, полные драматизма, интриг и неожиданных поворотов в играх Heavy Rain™ и «ЗА ГРАНЬЮ: Две души™».\nДва наиболее захватывающих приключения, когда-либо вышедших на PlayStation®3, теперь выглядят еще лучше благодаря релизу на PlayStation®4.\nВаш выбор и действия определяют все. Как эти истории развернутся... чем они закончатся... все полностью зависит от вас.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "description": "Erica - интерактивный кинотриллер, в котором вы погружаетесь в тайну смерти отца главной герои. Изучайте прошлое Эрики и принимайте решения, которые меняют ход событий и приводят к разным концовкам. Игра доступна на PS4 и PS5.",
       "categories": [
         "Лента на главной",
         "Все игры",
-        "Интерактивное кино",
-        "Приключения"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "tilda_uid": "455596520642",
-      "sku": "",
-      "external_id": "vuO3P34mfUOlGhx1FRSK",
-      "url": "http://arenapsgm.ru/tproduct/455596520642-heavy-rain-amp-beyond-two-souls-ps4-ps5",
-      "seo_title": "Heavy Rain &amp; Beyond: Two Souls PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Heavy Rain &amp; Beyond: Two Souls PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Heavy Rain &amp; Beyond: Two Souls PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "heavy-rain-ps4-ps5",
-      "title": "Heavy Rain PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02355_00/2/i_dd302d88e4df97ecd1e9bc39e877aeda171fc12b99a116be8666d431a8f46697/i/icon0.png",
-      "screenshots": [
-        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02355_00/2/i_dd302d88e4df97ecd1e9bc39e877aeda171fc12b99a116be8666d431a8f46697/i/icon0.png",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02356_00/FREE_CONTENT4ciyTekJeZnkiPzoAcAV/5.jpg",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02356_00/FREE_CONTENTaEmarIQPOdMNbUCJsL18/4.jpg",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02356_00/FREE_CONTENTiSnYKG5yrTk0O0RJ5NNa/3.jpg",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02356_00/FREE_CONTENTEibT2tImgK4d7pZch26M/2.jpg",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA02356_00/FREE_CONTENTpCmVGKEwoG9XybjUeCVU/1.jpg"
-      ],
-      "description": "Возглавьте охоту, чтобы разгадать тайну Мастера Оригами, управляя четырьмя незнакомцами в напряжённом психологическом триллере. История развивается по вашему выбору - каждый шаг влияет на исход событий. Игра доступна на PS4 и PS5. Разработана Quantic Dream.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Интерактивное кино",
-        "Игры на двоих",
-        "Приключения"
+        "Интерактивное кино"
       ],
       "platforms": "PS4",
       "platform_ps4": true,
@@ -503,19 +449,19 @@
           "28": 900
         }
       },
-      "tilda_uid": "977487970362",
+      "tilda_uid": "510275139952",
       "sku": "",
-      "external_id": "f2mkcIxe3sxvgl5GM3EZ",
-      "url": "http://arenapsgm.ru/tproduct/977487970362-heavy-rain-ps4-ps5",
-      "seo_title": "Heavy Rain PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Heavy Rain PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Heavy Rain PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.44,
-      "release_date": "2/3/2016",
+      "external_id": "PsAcnPjOcp18GZDmPtuZ",
+      "url": "http://arenapsgm.ru/tproduct/510275139952-erica-ps4-ps5",
+      "seo_title": "Erica PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Erica PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Erica PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.05,
+      "release_date": "19/8/2019",
       "publisher": "Sony Interactive Entertainment",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/201902",
-      "edition_banner": "https://image.api.playstation.com/vulcan/img/rnd/202011/0518/rfaNTagTT8uQV0YfxNNLbzr0.png",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/234806",
+      "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11882_00/5/i_435a3bb225d3460637415b33f4a4a2a5f5b648982557e20c8e69d7e650d2bf57/i/icon0.png",
       "rent_days": [
         7,
         14,
@@ -585,27 +531,97 @@
       ]
     },
     {
-      "slug": "house-of-ashes-ps4-ps5",
-      "title": "House of Ashes PS4/PS5",
+      "slug": "life-is-strange-reunion-ps5",
+      "title": "Life is Strange: Reunion PS5",
+      "mark": "",
+      "price_from": 257,
+      "price_old": 649,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0417/9c35156a43661a69e4fa0e3e913e956946ef20e1c42abe9a.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/0417/9c35156a43661a69e4fa0e3e913e956946ef20e1c42abe9a.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1017/8d4737b215f8170de785efb11bb5943d861c01cf58cc3af7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1017/0aff6caf7fd8ce33e5be38cf31330669f70a0be7a0371f62.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1017/c9a7f152a521489ebee96b1cb8d7a696afcc4e9b95a5374f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1017/2ec4a2261f0c64963501774c77642b3ec9187eca1d7aa11c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1017/b5dfac6648c3167df35a987bbc8d102dbc7e66966bddac9f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1017/d0fc00e113fd03fcf1ac75d8b1cb942a41f5f5836cbfc738.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202512/1017/aefa97e686a0feda1c7fd1cd380a6bd3614fc31805f83a89.jpg"
+      ],
+      "description": "Макс Колфилд до сих пор не может смириться с тем, что потеряла свою спутницу по жизни, Хлою Прайс. Теперь история продолжается в Life is Strange Reunion на PlayStation 5, где игрокам предстоит снова столкнуться с последствиями выбора и силой времени.\nЕсли вас интересует аренда Life is Strange Reunion на PS5 , это отличный способ пройти игру без покупки и полностью погрузиться в эмоциональный сюжет. История переносит игроков в Каледонский университет, где Хлоя пытается разобраться в странных воспоминаниях и кошмарах, а Макс сталкивается с новой угрозой.\nЧерез три дня Каледон может исчезнуть в огне, и только совместные решения героев способны изменить будущее. Аренда Life is Strange Reunion на PS5 позволяет начать прохождение сразу после получения доступа и исследовать все сюжетные ветки без переплаты за полную версию.\nИспользуйте способности перемотки времени, принимайте сложные решения и влияйте на судьбу персонажей. Для тех, кто ищет аренду игр PS5 , сюжетные приключения и атмосферные истории, эта игра станет отличным выбором.\nАренда Life is Strange Reunion на PS5 — это удобный способ познакомиться с новинкой, пройти игру в комфортном темпе и получить максимум эмоций от каждой сцены.\nаренда игр PS5, аренда PlayStation 5, взять игру в аренду PS5\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Приключения",
+        "Боевики",
+        "Только PS5",
+        "Лента на главной",
+        "Новинки",
+        "Интерактивное кино",
+        "Игры на двоих"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 257,
+          "7": 449,
+          "14": 499,
+          "21": 749,
+          "28": 999
+        },
+        "p3": {
+          "1": 349,
+          "7": 549,
+          "14": 599,
+          "21": 849,
+          "28": 1099
+        }
+      },
+      "tilda_uid": "540166582612",
+      "sku": "",
+      "external_id": "O4TmXyhMFN700P2ZNtCM",
+      "url": "http://arenapsgm.ru/tproduct/540166582612-life-is-strange-reunion-ps5",
+      "seo_title": "Life is Strange Reunion на PS5 аренда игры",
+      "seo_descr": "Аренда Life is Strange Reunion на PS5. Эмоциональное приключение с выбором и последствиями, захватывающий сюжет и атмосфера. Играй без покупки, быстрый доступ к игре на PlayStation 5.",
+      "rating": 4.72,
+      "release_date": "26/3/2026",
+      "publisher": "Square Enix LTD",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10013938",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0417/9c35156a43661a69e4fa0e3e913e956946ef20e1c42abe9a.png",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "little-hope-ps4-ps5",
+      "title": "Little Hope PS4/PS5",
       "mark": "",
       "price_from": 259,
       "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3534-3135-4261-a639-313232613261/45427647.jpg",
+      "image_url": "https://static.tildacdn.com/stor3439-3932-4436-b462-306333383632/28380500.jpg",
       "screenshots": [
-        "https://static.tildacdn.com/stor3534-3135-4261-a639-313232613261/45427647.jpg",
-        "https://static.tildacdn.com/stor3338-6232-4435-b937-356634623630/94979197.jpg",
-        "https://static.tildacdn.com/stor6136-6263-4965-b036-303838333935/76864278.jpg",
-        "https://static.tildacdn.com/stor3430-6265-4432-b366-323435376537/73591115.jpg",
-        "https://static.tildacdn.com/stor3031-6433-4636-a237-396532633930/29796603.jpg",
-        "https://static.tildacdn.com/stor3230-3165-4638-a330-656162353033/82004272.jpg"
+        "https://static.tildacdn.com/stor3439-3932-4436-b462-306333383632/28380500.jpg",
+        "https://static.tildacdn.com/stor3630-3166-4564-a135-613438376232/98704410.jpg",
+        "https://static.tildacdn.com/stor3330-3435-4034-a330-616235343031/20822509.jpg",
+        "https://static.tildacdn.com/stor3866-3733-4661-b737-653331633333/86660767.jpg",
+        "https://static.tildacdn.com/stor6163-3838-4161-b464-366337353830/42732884.jpg",
+        "https://static.tildacdn.com/stor3866-3434-4535-a534-653661326662/14058051.jpg",
+        "https://static.tildacdn.com/stor3466-6237-4035-a364-653637386636/34060427.jpg"
       ],
-      "description": "The Dark Pictures Anthology#nbsp;— это серия напряжённых кинематографичных игр в жанре ужасов с разветвлённым сюжетом, где ваши решения определяют развитие событий.\nHouse of Ashes#nbsp;— третья игра в серии.\nИрак, 2003 год. Конфликт близится к концу, и отряд военных в сопровождении агента ЦРУ Рейчел Кинг получает задание проверить потенциальную фабрику химического оружия у подножия горы Загрос.\nПрибыв на место, поисковый отряд попадает в засаду местного патруля, которым командует сержант Салим Отман.\nВо время боя из-за землетрясения на поверхности образуется провал, и оба отряда попадают в погребённые руины шумерского храма, где во тьме пробудилось нечто зловещее. У древних ненасытных созданий появилась новая добыча.\nОтряду предстоит столкнуться с ужасающими открытиями и принимать невозможные решения на пути к выходу из подземного лабиринта.\nЧто они выберут: выжить любой ценой или забыть старую вражду и объединиться с недавними противниками?\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "description": "The Dark Pictures Anthology#nbsp;— серия игр в жанре ужасов с одиночным и многопользовательским режимами и разветвлённым сюжетом.\n4 студента и профессор бегут от призраков прошлого в заброшенном городе Литтл Хоуп.\nИграйте по сети с другом или впятером перед экраном.\nОставь надежду, всяк сюда входящий!\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
       "categories": [
         "Лента на главной",
         "Все игры",
-        "Игры на двоих",
-        "Боевики",
-        "Интерактивное кино"
+        "Интерактивное кино",
+        "Игры на двоих"
       ],
       "platforms": "PS4, PS5",
       "platform_ps4": true,
@@ -625,12 +641,12 @@
           "28": 745
         }
       },
-      "tilda_uid": "128059556852",
+      "tilda_uid": "147844274232",
       "sku": "",
-      "external_id": "k5vFn08nXAkOCN7YpvaZ",
-      "url": "http://arenapsgm.ru/tproduct/128059556852-house-of-ashes-ps4-ps5",
-      "seo_title": "House of Ashes PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда House of Ashes PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры House of Ashes PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "external_id": "tfUAGjNvOy6Ab995B7Av",
+      "url": "http://arenapsgm.ru/tproduct/147844274232-little-hope-ps4-ps5",
+      "seo_title": "Little Hope PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Little Hope PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Little Hope PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
       "rating": null,
       "release_date": "",
       "publisher": "",
@@ -646,27 +662,27 @@
       ]
     },
     {
-      "slug": "late-shift-ps4-ps5",
-      "title": "Late Shift PS4/PS5",
+      "slug": "man-of-medan-ps4-ps5",
+      "title": "Man of Medan PS4/PS5",
       "mark": "",
-      "price_from": 250,
+      "price_from": 259,
       "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0111/2e7def48cfbbddea87e772e158e276990d8edaded94abb1c.png",
+      "image_url": "https://static.tildacdn.com/stor3163-3865-4232-b032-356237633162/60870949.jpg",
       "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202306/0111/2e7def48cfbbddea87e772e158e276990d8edaded94abb1c.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202305/1813/6b73876be28b208bbf9854fbc979cf9e924374916ebbc9b3.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202305/1813/30b673fdeb30a930db0b60a75aa969f3bd1940ad39dc2efb.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202305/1813/308989aa09b6ed326de1790a2bf60291d70f4249dcf42ca5.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202305/1813/77c63a7bca3954df8fddcfdd946597af282f0e4f21ae022e.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202305/1813/da75ab0e4bcdabd54442c07e31c90c523c2f003e1ac7be57.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202305/1813/1788210aa76606defa4fe2f6af3ba6b7dec143a0e5e1aad5.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202305/1813/283c253b86f42afe9e073cf02340ff3d1fc1907d1da724be.jpg"
+        "https://static.tildacdn.com/stor3163-3865-4232-b032-356237633162/60870949.jpg",
+        "https://static.tildacdn.com/stor3130-6663-4631-a265-393538346231/52039128.jpg",
+        "https://static.tildacdn.com/stor3532-3032-4537-a536-386437643132/23677799.jpg",
+        "https://static.tildacdn.com/stor6230-3865-4263-a463-656231636364/18499291.jpg",
+        "https://static.tildacdn.com/stor3231-6239-4565-b439-306437356165/85094064.jpg",
+        "https://static.tildacdn.com/stor3564-3761-4136-b561-306562646139/46296125.jpg",
+        "https://static.tildacdn.com/stor3165-6334-4439-a231-343731646432/30837769.jpg"
       ],
-      "description": "Late Shift - криминальный FMV-триллер, где каждый выбор влияет на судьбу Мэтта, насильно втянутого в ограбление лондонского аукционного дома. Снято в Лондоне с живыми актёрами и несколькими концовками по стилю «выбери-себя-приключение». Повествование развивается без пауз, подталкивая к решению, которое может кардинально изменить исход.",
+      "description": "Оцените улучшенную версию Man of Medan, которая теперь доступна на PS4™ и PS5™.\nНовые возможности: настройки сложности и предупреждения о QTE, улучшенный интерфейс и взаимодействие, обновлённое изображение курса и триггеры событий, повышенная скорость ходьбы и более широкий выбор параметров специальных возможностей, включая размер субтитров.\nГлава «Затопление» расширена, и теперь в кульминационной концовке игры доступно больше смертей!\nАнтология The Dark Pictures#nbsp;— цикл киноигр в жанре хоррор. В Man of Medan пятеро друзей отправились на дайвинг, но шторм превратил их поездку в настоящий кошмар.\nЖуткая история!\nИсследуйте страшный корабль-призрак.\nЛюбой герой может погибнуть.\nКого вы спасёте?\nНЕ ИГРАЙТЕ В ОДИНОЧКУ!\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
       "categories": [
         "Лента на главной",
         "Все игры",
         "Интерактивное кино",
+        "Хоррор",
         "Приключения"
       ],
       "platforms": "PS4, PS5",
@@ -675,32 +691,100 @@
       "platforms_choice": true,
       "prices": {
         "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
+          "7": 259,
+          "14": 399,
+          "21": 545,
+          "28": 645
         },
         "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
+          "7": 359,
+          "14": 499,
+          "21": 645,
+          "28": 745
         }
       },
-      "tilda_uid": "967511453602",
+      "tilda_uid": "281770483422",
       "sku": "",
-      "external_id": "YktAVFY5M99LpOLfIaus",
-      "url": "http://arenapsgm.ru/tproduct/967511453602-late-shift-ps4-ps5",
-      "seo_title": "Late Shift PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Late Shift PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Late Shift PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.41,
-      "release_date": "29/5/2023",
-      "publisher": "Wales Interactive Limited",
+      "external_id": "LCXXBKAIRnaCrA0VJiTK",
+      "url": "http://arenapsgm.ru/tproduct/281770483422-man-of-medan-ps4-ps5",
+      "seo_title": "Man of Medan PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Man of Medan PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Man of Medan PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "mixtape-ps5",
+      "title": "Mixtape PS5",
+      "mark": "",
+      "price_from": 257,
+      "price_old": 649,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2012/e4c9f69e0eb116cc4cb8e804e5033da3f3c1e7800104bd12.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/2012/e4c9f69e0eb116cc4cb8e804e5033da3f3c1e7800104bd12.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/0323/d4d550aa623d6eabe3d21697f9df43692f6e51f7af620da0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/0323/89ab07a8a9c2419a2e506d7199730fa470ceb8cee7030d38.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/0323/b2c804f3734cce14fe3065bca9486a79aaa631e5dd4bf7f5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/0323/072cd83ca598c8bd6dfc10f752bc7b7a1bae3e2f9b643966.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/0323/79787e65d5adea967d929462d2ba144a5b93b78a6f729da5.jpg"
+      ],
+      "description": "В Mixtape трое друзей возвращаются в подростковые годы, погружаются в мечтательные воспоминания и переживают ключевые моменты школьной жизни. Слушая классику от DEVO до The Cure, игрок участвует в поездках на скейте, ночах в парке и танцах перед разлукой. Игра передаёт атмосферу неприкаянности, озорства и драматических эмоций юности.",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Приключения",
+        "Боевики",
+        "Только PS5",
+        "Лента на главной",
+        "Новинки",
+        "Интерактивное кино",
+        "Игры на двоих"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 257,
+          "7": 449,
+          "14": 499,
+          "21": 749,
+          "28": 999
+        },
+        "p3": {
+          "1": 349,
+          "7": 549,
+          "14": 599,
+          "21": 849,
+          "28": 1099
+        }
+      },
+      "tilda_uid": "182459504342",
+      "sku": "",
+      "external_id": "kc5HvbXf2vXmySYMG6HZ",
+      "url": "http://arenapsgm.ru/tproduct/182459504342-mixtape-ps5",
+      "seo_title": "Mixtape на PS5 аренда игры",
+      "seo_descr": "Аренда Mixtape на PS5. Атмосферное приключение о дружбе, музыке и воспоминаниях с ярким визуальным стилем и эмоциональным сюжетом. Играй без покупки на PlayStation 5.",
+      "rating": 4.7,
+      "release_date": "7/5/2026",
+      "publisher": "Annapurna Interactive",
       "voice": "Английский",
       "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/227163",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1715/erjJTa6cdYMcGmEs0FAa8wWV.png",
+      "store_url": "https://store.playstation.com/en-tr/concept/10014780",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2012/e4c9f69e0eb116cc4cb8e804e5033da3f3c1e7800104bd12.png",
       "rent_days": [
+        1,
         7,
         14,
         21,
@@ -906,6 +990,134 @@
       "store_url": "https://store.playstation.com/en-tr/concept/10004192",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1812/yuiSSqLTAg0LzXTROCBr9NzV.png",
       "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "twin-mirror-ps4-ps5",
+      "title": "Twin Mirror PS4/PS5",
+      "mark": "",
+      "price_from": 350,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1202/z5tGmstkqZ5YZ8U4DvKNcpbZ.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1202/z5tGmstkqZ5YZ8U4DvKNcpbZ.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1101/9I0N2By2xr2vM5QsriG3tPAU.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1101/IRplrnRNqvZEy5iVEpfLAi9O.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1101/TkaGmGNFpikPuF67v5NlWIIV.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1101/R7Kv4bGaNDloDC4Q37eyBKf3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1101/RAL1u0uZWgx2u5os90UrwC1f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1101/5iIB1DmGve1gKZEzEhKy0RC2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1101/040MBK13UYvXU10Owj5V7L5R.jpg"
+      ],
+      "description": "Сэм Хиггс возвращается в родной город Басвуд, чтобы попрощаться с другом, но вскоре понимает, что его прошлое и настоящий выбор переплетены. В ходе расследования он сталкивается с тайными интригами и неуверенностью в себе. Его дедуктивное мышление и воображение помогут раскрыть скрытую истину, но каждое решение изменит путь его судьбы.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Интерактивное кино"
+      ],
+      "platforms": "PS4",
+      "platform_ps4": true,
+      "platform_ps5": false,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 350,
+          "14": 550,
+          "21": 900,
+          "28": 990
+        },
+        "p3": {
+          "7": 450,
+          "14": 650,
+          "21": 1000,
+          "28": 1090
+        }
+      },
+      "tilda_uid": "438672480562",
+      "sku": "",
+      "external_id": "fRkOJ3sVn7xAFRfeL9tc",
+      "url": "http://arenapsgm.ru/tproduct/438672480562-twin-mirror-ps4-ps5",
+      "seo_title": "Twin Mirror PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Twin Mirror PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Twin Mirror PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 3.97,
+      "release_date": "1/12/2020",
+      "publisher": "DON'T NOD ENTERTAINMENT SARL",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/232892",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1202/z5tGmstkqZ5YZ8U4DvKNcpbZ.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "will-follow-the-light-ps5",
+      "title": "WILL: Follow The Light PS5",
+      "mark": "",
+      "price_from": 257,
+      "price_old": 649,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2910/3e9b3c498de43d32ecc527dd128280da0920ae7c28cf65c1.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/2910/3e9b3c498de43d32ecc527dd128280da0920ae7c28cf65c1.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1219/c55a681d34529c73b544cda8cdde2149b09742a2886bd111.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1219/80cda657c8a6eba2930474dbac766081ae690e8f2395c4dc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1219/71e98282210c5f8c7b3f16ed2476ab7acca214a1a92ea332.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1219/d312530bc5315b8327e696fbc7aaa466a91aa003b9879e7e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1219/3f0ac785aa158488224421e1a4c8a4ec64d2ee8d5b72647a.jpg"
+      ],
+      "description": "WILL: Follow The Light - приключенческая головоломка от первого лица о поиске сына в северных широтах. Игрок управляет Уиллом, смотрителем маяка, чьи отношения с семьёй подвергаются испытанию на пути к правде. Путешествие разворачивается по заснеженным пейзажам и загадочным местам: острове, горах и разрушенном доме. Игра сочетает реалистичные морские и северные пейзажи с глубо…",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Приключения",
+        "Боевики",
+        "Только PS5",
+        "Лента на главной",
+        "Новинки",
+        "Интерактивное кино"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 257,
+          "7": 449,
+          "14": 499,
+          "21": 749,
+          "28": 999
+        },
+        "p3": {
+          "1": 349,
+          "7": 549,
+          "14": 599,
+          "21": 849,
+          "28": 1099
+        }
+      },
+      "tilda_uid": "720545475762",
+      "sku": "",
+      "external_id": "Y2TVFgd8GG3iRcuAszH6",
+      "url": "http://arenapsgm.ru/tproduct/720545475762-will-follow-the-light-ps5",
+      "seo_title": "WILL Follow The Light на PS5 аренда игры",
+      "seo_descr": "Аренда WILL Follow The Light на PS5. Атмосферное приключение с исследованием, сюжетом и красивым визуальным стилем. Играй без покупки и получи быстрый доступ к игре на PlayStation 5.",
+      "rating": 3.95,
+      "release_date": "7/5/2026",
+      "publisher": "TOMORROWHEAD LLC",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10018694",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2910/3e9b3c498de43d32ecc527dd128280da0920ae7c28cf65c1.png",
+      "rent_days": [
+        1,
         7,
         14,
         21,
