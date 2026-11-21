@@ -1,10 +1,10 @@
 {
-  "version": 2,
-  "catalog_id": "2026-11-20T16:29:50Z",
-  "generated_at": "2026-11-21T01:35:47Z",
-  "count": 11488,
+  "version": 1795257896,
+  "catalog_id": "2026-11-21T10:20:32Z",
+  "generated_at": "2026-11-21T10:44:52Z",
+  "count": 11257,
   "chunk_size": 100,
-  "chunk_count": 115,
+  "chunk_count": 113,
   "chunks": [
     "rent_catalog_chunk_000.json",
     "rent_catalog_chunk_001.json",
@@ -118,10 +118,12 @@
     "rent_catalog_chunk_109.json",
     "rent_catalog_chunk_110.json",
     "rent_catalog_chunk_111.json",
-    "rent_catalog_chunk_112.json",
-    "rent_catalog_chunk_113.json",
-    "rent_catalog_chunk_114.json"
+    "rent_catalog_chunk_112.json"
   ],
   "full_catalog": "catalog/rent_catalog.json",
-  "search_index": "rent_catalog_search.json"
+  "search_index": "rent_catalog_search.json",
+  "pinned_slugs": [
+    "grand-theft-auto-vi",
+    "grand-theft-auto-vi-ultimate-edition"
+  ]
 }
