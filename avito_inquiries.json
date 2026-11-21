@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-21T16:09:02+03:00",
-  "updated_at_msk": "21.11.2026 16:09",
+  "updated_at": "2026-11-21T17:07:32+03:00",
+  "updated_at_msk": "21.11.2026 17:07",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 3017,
+  "total": 3019,
   "unique_games": 1056,
   "in_demand": 195,
   "one_off": 694,
@@ -3187,7 +3187,7 @@
       "title": "NBA 2K27 Ultra Edition PS5",
       "item_id": "8276992073",
       "url": "https://avito.ru",
-      "count": 53,
+      "count": 55,
       "demand": "high",
       "avg_price": 274,
       "min_price": 257,
@@ -3389,7 +3389,7 @@
         52,
         53,
         53,
-        53
+        55
       ],
       "hourly": [
         0,
@@ -3565,7 +3565,7 @@
         1,
         1,
         0,
-        0
+        2
       ],
       "price_series": [
         null,
@@ -3744,7 +3744,7 @@
         257
       ],
       "first_at": "2026-08-20T13:33:54+03:00",
-      "last_at": "2026-11-19T19:51:58+03:00"
+      "last_at": "2026-11-21T16:18:43+03:00"
     },
     {
       "id": "grand-theft-auto-v-playstation5-ps5",
@@ -577299,6 +577299,18 @@
   ],
   "recent": [
     {
+      "title": "NBA 2K27 Ultra Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-21T16:18:43+03:00"
+    },
+    {
+      "title": "NBA 2K27 Ultra Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-21T16:18:43+03:00"
+    },
+    {
       "title": "Microsoft Flight Simulator 2024 PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -577525,18 +577537,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-20T22:23:59+03:00"
-    },
-    {
-      "title": "Football Manager 27 Console PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-20T21:08:20+03:00"
-    },
-    {
-      "title": "Peak PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-20T20:53:30+03:00"
     }
   ]
 }
