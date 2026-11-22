@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-21T15:00:00Z",
+  "updated_at": "2026-11-22T02:10:12Z",
   "games": [
     {
       "slug": "007-first-light-ps5",
       "title": "007 First Light PS5",
       "mark": "NEW",
-      "price_from": 697,
+      "price_from": 390,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0215/f98041a10ccc22d45fc2f6eded09eec50abd106d01547a5d.png",
       "categories": [
-        "Все игры",
         "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
         "Только PS5",
         "Шутеры",
         "Приключения",
-        "Боевики",
-        "Новинки"
+        "Боевики"
       ],
       "platforms": "PS5"
     },
@@ -24,6 +24,28 @@
       "mark": "",
       "price_from": 3890,
       "image_url": "https://static.tildacdn.com/stor6337-6564-4566-a535-376163313635/99558278.png",
+      "categories": [
+        "Карты оплаты"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "1500-tl-popolnenie-bumazhnika",
+      "title": "1500 TL Пополнение бумажника",
+      "mark": "",
+      "price_from": 5835,
+      "image_url": "https://static.tildacdn.com/stor3733-6261-4130-a234-663662353464/54537068.png",
+      "categories": [
+        "Карты оплаты"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "2000-tl-popolnenie-bumazhnika",
+      "title": "2000 TL Пополнение бумажника",
+      "mark": "",
+      "price_from": 7780,
+      "image_url": "https://static.tildacdn.com/stor3762-3932-4263-a236-356636646235/55857160.png",
       "categories": [
         "Карты оплаты"
       ],
@@ -74,6 +96,21 @@
       "platforms": "PS5"
     },
     {
+      "slug": "7-days-to-die-ps5",
+      "title": "7 Days to Die PS5",
+      "mark": "",
+      "price_from": 359,
+      "image_url": "https://static.tildacdn.com/stor3936-6634-4364-b863-306233303034/90114568.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Приключения",
+        "Хоррор"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "750-tl-popolnenie-bumazhnika",
       "title": "750 TL Пополнение бумажника",
       "mark": "",
@@ -81,6 +118,46 @@
       "image_url": "https://static.tildacdn.com/stor3338-3365-4635-b361-386636393966/94845492.png",
       "categories": [
         "Карты оплаты"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "a-plague-tale-innocence-ps5-ps4",
+      "title": "A Plague Tale: Innocence PS5/PS4",
+      "mark": "",
+      "price_from": 280,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA10812_00/3/i_a4d09cfb51b390c3d5f3ea77531bc847294e59386ed520f6edeb6ef377a3b4d7/i/icon0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "a-plague-tale-requiem-ps5",
+      "title": "A Plague Tale: Requiem PS5",
+      "mark": "",
+      "price_from": 350,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/xIQOO3Mo5YMnIm81qkH3y5kJ.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Приключения"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "a-quiet-place-the-road-ahead-ps5",
+      "title": "A Quiet Place: The Road Ahead PS5",
+      "mark": "",
+      "price_from": 390,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1308/d679096b4b823b91c36857007219e0f95867f970776164ae.png",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Хоррор"
       ],
       "platforms": "PS5"
     },
@@ -100,24 +177,18 @@
       "platforms": "PS4"
     },
     {
-      "slug": "a-i-l-a-aila-ps5",
-      "title": "A.I.L.A AILA PS5",
-      "mark": "NEW",
-      "price_from": 289,
-      "image_url": "https://static.tildacdn.com/stor6561-6466-4736-a632-653730333836/46f6f311a296a8f9dd18e8d25aa285d8.jpg",
+      "slug": "ace-combat-7-skies-unknown-ps4-ps5",
+      "title": "ACE COMBAT 7: SKIES UNKNOWN PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07202_00/4/i_27e8211b463ec94c70e8e8c04cc652fe8d58389ad41f4aea0d0d0e86f9d4cd7e/i/icon0.png",
       "categories": [
         "Лента на главной",
         "Все игры",
-        "Боевики",
-        "Только PS5",
-        "Новинки",
-        "Приключения",
-        "РПГ",
-        "Стратегии и симуляторы",
-        "Новинка главная шапка",
-        "Интерактивное кино"
+        "VR",
+        "Стратегии и симуляторы"
       ],
-      "platforms": "PS5"
+      "platforms": "PS4"
     },
     {
       "slug": "ace-combat-8-wings-of-theve-ps5",
@@ -162,6 +233,22 @@
         "Новинки",
         "Только PS5",
         "Приключения",
+        "РПГ",
+        "Платформеры",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "age-of-empires-iv-anniversary-edition-ps5",
+      "title": "Age of Empires IV: Anniversary Edition PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor3131-3235-4063-a232-393832343030/6fc5403ae4e927dce9ef35de1c437aa7.jpg",
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Только PS5",
         "РПГ",
         "Платформеры",
         "Стратегии и симуляторы"
@@ -355,24 +442,6 @@
         "Новинка главная шапка",
         "Только PS5",
         "Хоррор"
-      ],
-      "platforms": "PS5"
-    },
-    {
-      "slug": "arc-raiders-ps5",
-      "title": "ARC Raiders PS5",
-      "mark": "",
-      "price_from": 450,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1515/3ef1ea90a64952c060b797fde8602ee745c2e7c73277c4a5.png",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Приключения",
-        "РПГ",
-        "Только PS5",
-        "Новинки",
-        "Новинка главная шапка",
-        "Шутеры"
       ],
       "platforms": "PS5"
     },
@@ -613,35 +682,15 @@
       "platforms": "PS5"
     },
     {
-      "slug": "atomic-heart-blood-on-crystal-ps4-ps5",
-      "title": "Atomic Heart - Blood On Crystal PS4/PS5",
-      "mark": "NEW",
-      "price_from": 539,
-      "image_url": "https://static.tildacdn.com/stor3366-6330-4634-b461-343935313264/e19a7561a97a06d7488ffed20d68d174.jpg",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Лента на главной",
-        "Приключения",
-        "Шутеры",
-        "Боевики",
-        "Новинки"
-      ],
-      "platforms": "PS4, PS5"
-    },
-    {
-      "slug": "atomic-heart-chary-morskih-glubin-ps4-ps5",
-      "title": "Atomic Heart: «Чары морских глубин» PS4/PS5",
-      "mark": "NEW",
-      "price_from": 539,
-      "image_url": "https://static.tildacdn.com/stor3939-3037-4737-b466-663562373130/83180985.jpg",
+      "slug": "atomic-heart-ps4-ps5",
+      "title": "Atomic Heart PS4/PS5",
+      "mark": "",
+      "price_from": 299,
+      "image_url": "https://static.tildacdn.com/stor6439-3830-4338-a530-353963613762/66742695.png",
       "categories": [
         "Все игры",
         "Лента на главной",
-        "Приключения",
-        "Шутеры",
-        "Боевики",
-        "Новинки"
+        "Шутеры"
       ],
       "platforms": "PS4, PS5"
     },
@@ -676,6 +725,22 @@
       "platforms": "PS4, PS5"
     },
     {
+      "slug": "avatar-frontiers-of-pandora-ps5",
+      "title": "Avatar: Frontiers of Pandora PS5",
+      "mark": "",
+      "price_from": 639,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png",
+      "categories": [
+        "Все игры",
+        "Spider man 2 рекомендации",
+        "Лента на главной",
+        "Hogwarts Legacy Deluxe рекомендации",
+        "RAFT Рекомендации",
+        "Только PS5"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "back-4-blood-deluxe-edition-ps4-ps5",
       "title": "Back 4 Blood: Deluxe Edition PS4/PS5",
       "mark": "",
@@ -702,6 +767,33 @@
         "Новинки",
         "Только PS5",
         "Хоррор"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "baldurs-gate-3-ps5",
+      "title": "Baldurs Gate 3 PS5",
+      "mark": "",
+      "price_from": 649,
+      "image_url": "https://static.tildacdn.com/stor6163-6431-4238-a634-646462646666/98242625.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Игры на двоих",
+        "Приключения",
+        "РПГ",
+        "Стратегии и симуляторы",
+        "Alane Wake 2 рекомендации",
+        "RAFT Рекомендации",
+        "Warhammer 40 рекомендации",
+        "Assassin’s Creed Shadows рекомендации",
+        "Lego Horizon Adventures PS5 Рекомендации",
+        "Silent Hilll 2 рекомендации",
+        "COD 6 рекомендации",
+        "Dragon Age: 2024 рекомендации",
+        "Wukong рекомендации",
+        "Game Awards 2024"
       ],
       "platforms": "PS5"
     },
@@ -804,6 +896,20 @@
       "platforms": "PS4"
     },
     {
+      "slug": "battlefield-5-ps4-ps5",
+      "title": "Battlefield 5 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2217/7fb7a918a4b9dd1c98de342ec3adfe1421d06627f60397b9.png",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Боевики",
+        "Шутеры"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "battlefield-6-standard-edition-ps5",
       "title": "Battlefield 6 Standard Edition PS5",
       "mark": "Хит",
@@ -835,6 +941,51 @@
       "platforms": "PS4"
     },
     {
+      "slug": "battlefront-1-ps4-ps5",
+      "title": "Battlefront 1 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3439-3136-4062-b634-613536356534/56234194.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Шутеры",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "battlefront-2-ps4-ps5",
+      "title": "Battlefront 2 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor6330-3463-4236-b234-333133396430/31876121.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Шутеры",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "beamng-drive-ps5",
+      "title": "BeamNG.drive PS5",
+      "mark": "NEW",
+      "price_from": 390,
+      "image_url": "https://static.tildacdn.com/stor3833-3736-4837-b631-343463363231/2366d56572cdb16bb7e6d6cfca704e0e.jpg",
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Новинки",
+        "Только PS5",
+        "Гонки",
+        "Приключения",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "beast-of-reincarnation-ps5",
       "title": "Beast of Reincarnation PS5",
       "mark": "NEW",
@@ -850,17 +1001,137 @@
       "platforms": "PS5"
     },
     {
-      "slug": "blue-prince-ps5",
-      "title": "Blue Prince PS5",
+      "slug": "beholgar-ps5",
+      "title": "Beholgar PS5",
       "mark": "",
-      "price_from": 490,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1222/155cec2bad7676df9a1aa7e96cdd9f363e117c1650a43c34.png",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/3013/ghShkdmA7grBQMIKeTLp0tAm.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "beyond-good-amp-evil-20th-anniversary-edition-ps4-ps5",
+      "title": "Beyond Good &amp; Evil 20th Anniversary Edition PS4/PS5",
+      "mark": "",
+      "price_from": 290,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2319/6861665ab5e3e206984293796b276b97de3ecaf175a62d97.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "biomutant-ps4-ps5",
+      "title": "Biomutant PS4/PS5",
+      "mark": "",
+      "price_from": 300,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0418/cfbTDvs2m1P9mArX74ClI9HR.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "black-myth-wukong-ps5",
+      "title": "Black Myth: Wukong PS5",
+      "mark": "SALE",
+      "price_from": 499,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/bd406f42e9352fdb398efcf21a4ffe575b2306ac40089d21.png",
+      "categories": [
+        "Вуконг",
+        "Alane Wake 2 рекомендации",
+        "Silent Hilll 2 рекомендации",
+        "Новинки",
+        "Warhammer 40 рекомендации",
+        "COD 6 рекомендации",
+        "Assassin’s Creed Shadows рекомендации",
+        "Star wars рекомендации",
+        "Until Dawn remake рекомендации",
+        "Dead Rising рекомендации",
+        "Test Drive Рекомендации",
+        "FC 25 рекомендации",
+        "Все игры",
+        "GOD2 рекомендации",
+        "Life is Strange: Double Exposure рекомендации",
+        "A Quiet Place рекомендации",
+        "Dragon Age: 2024 рекомендации",
+        "Lego Horizon Adventures PS5 Рекомендации",
+        "Spider man 2 рекомендации",
+        "Hogwarts Legacy Deluxe рекомендации",
+        "RAFT Рекомендации",
+        "Только PS5",
+        "Game Awards 2024"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "blair-witch-ps4-ps5",
+      "title": "Blair Witch PS4/PS5",
+      "mark": "",
+      "price_from": 299,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1916/154e3f08f7cf714e9b06c37e08fafe10a738bf2c3242b4b0.png",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Боевики",
+        "Приключения",
+        "Хоррор"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "blasphemous-2-ps4-ps5",
+      "title": "Blasphemous 2 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202410/3115/691423c0153320ea4e576899c45e07fbeb65c91f9e23038c.png",
       "categories": [
         "Лента на главной",
         "Все игры",
         "Приключения"
       ],
-      "platforms": "PS5"
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "bloodborne-goty-edition-ps4-ps5",
+      "title": "Bloodborne Goty Edition PS4/PS5",
+      "mark": "",
+      "price_from": 300,
+      "image_url": "https://static.tildacdn.com/stor3665-6464-4563-a630-643934346665/76507839.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Хоррор",
+        "РПГ"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "bloodborne-ps4-ps5",
+      "title": "Bloodborne PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0713/WSZqsrnejjt85wYmUqeBQvMQ.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "РПГ",
+        "Приключения",
+        "Хоррор"
+      ],
+      "platforms": "PS4"
     },
     {
       "slug": "bo-path-of-the-teal-lotus-ps5",
@@ -898,6 +1169,20 @@
       "platforms": "PS5"
     },
     {
+      "slug": "borderlands-3-ps5-ps4",
+      "title": "Borderlands 3 PS5/PS4",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08025_00/2/i_282052c0284d44dfc8a1c011fde114ea1a280f9f387f1be3bd204a65b5be322e/i/icon0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Шутеры"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "borderlands-4-ps5",
       "title": "Borderlands 4 PS5",
       "mark": "",
@@ -911,6 +1196,73 @@
         "Только PS5",
         "Лента на главной",
         "Новинки"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "bramble-the-mountain-king-ps4-ps5",
+      "title": "Bramble: The Mountain King PS4/PS5",
+      "mark": "",
+      "price_from": 299,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2814/0UJhKmBamV5MzeIfAZQSYK4H.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "broforce-ps5-ps4",
+      "title": "Broforce PS5/PS4",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1206/ZBrZdWMpe8J5dHsXfJxWsGHr.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "brothers-a-tale-of-two-sons-remake-ps5",
+      "title": "Brothers: A Tale of Two Sons Remake PS5",
+      "mark": "",
+      "price_from": 290,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2219/ec6ee0fb9c9419a77e360f50d5597ea1759e15254f289199.png",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Приключения"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "bum-simulator-ps4-ps5",
+      "title": "Bum Simulator PS4/PS5",
+      "mark": "",
+      "price_from": 289,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1310/f9dad731c9e170693651b9445befa4fc7f4d373e8823a93d.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "burning-shores-dlya-horizon-forbidden-west-ps5",
+      "title": "Burning Shores для Horizon Forbidden West PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor6431-3863-4966-a264-346633346535/85788400.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Боевики"
       ],
       "platforms": "PS5"
     },
@@ -946,6 +1298,20 @@
         "Все игры",
         "Боевики",
         "Новинки"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "call-of-duty-black-ops-iiii-ps4-ps5",
+      "title": "Call of Duty Black Ops IIII PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3033-3930-4430-b639-343466626133/64360905.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Шутеры",
+        "Боевики"
       ],
       "platforms": "PS4"
     },
@@ -1014,20 +1380,6 @@
       "platforms": "PS4, PS5"
     },
     {
-      "slug": "call-of-duty-ghost-ps4-ps5",
-      "title": "Call of Duty Ghost PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "image_url": "https://static.tildacdn.com/stor3834-3265-4365-a662-646463373535/84707849.png",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Шутеры",
-        "Боевики"
-      ],
-      "platforms": "PS4"
-    },
-    {
       "slug": "call-of-duty-infinite-warfare-ps4-ps5",
       "title": "Call of Duty Infinite Warfare PS4/PS5",
       "mark": "",
@@ -1090,33 +1442,60 @@
       "platforms": "PS4"
     },
     {
-      "slug": "call-of-duty-advanced-warfare-ps4-ps5",
-      "title": "Call Of Duty: Advanced Warfare PS4/PS5",
-      "mark": "",
-      "price_from": 359,
-      "image_url": "https://static.tildacdn.com/tild3637-3138-4636-b266-343332356634/71rKhB0P1ML_AC_UF100.jpg",
+      "slug": "call-of-duty-black-ops-6-ps4-ps5",
+      "title": "Call of Duty: Black Ops 6 PS4/PS5",
+      "mark": "-45%",
+      "price_from": 499,
+      "image_url": "https://static.tildacdn.com/stor6565-6238-4935-a366-653739343863/34144736.png",
       "categories": [
-        "Шутеры",
-        "Silent Hilll 2 рекомендации",
-        "Wukong рекомендации",
-        "Alane Wake 2 рекомендации",
-        "Warhammer 40 рекомендации",
-        "COD 6 рекомендации",
-        "Assassin’s Creed Shadows рекомендации",
-        "Star wars рекомендации",
-        "Until Dawn remake рекомендации",
-        "Dead Rising рекомендации",
-        "Test Drive Рекомендации",
-        "FC 25 рекомендации",
         "Все игры",
-        "GOD2 рекомендации",
-        "Life is Strange: Double Exposure рекомендации",
-        "A Quiet Place рекомендации",
-        "Dragon Age: 2024 рекомендации",
-        "Lego Horizon Adventures PS5 Рекомендации",
-        "Spider man 2 рекомендации",
-        "Hogwarts Legacy Deluxe рекомендации",
-        "RAFT Рекомендации"
+        "Новинки",
+        "COD 6",
+        "Шутеры",
+        "Лента на главной",
+        "Боевики"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "call-of-duty-black-ops-ii-ps4-ps5",
+      "title": "Call of Duty: Black Ops II PS4/PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor3833-6364-4234-b233-346334633863/59077c484b88d59af4552d0f13a3ae89.jpg",
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Шутер",
+        "Новинки"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "call-of-duty-black-ops-ps4-ps5",
+      "title": "Call of Duty: Black Ops PS4/PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor3335-3064-4631-a139-333961646264/9617b41c42173f3e38b5d23dbbc0b235.jpg",
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Шутер",
+        "Новинки"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "call-of-duty-modern-warfare-2-campaign-remastered-ps4-ps5",
+      "title": "Call of Duty: Modern Warfare 2 Campaign Remastered PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor6635-3239-4239-b532-343962663232/81167813.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Шутеры",
+        "Боевики"
       ],
       "platforms": "PS4"
     },
@@ -1245,6 +1624,20 @@
       "platforms": "PS5"
     },
     {
+      "slug": "call-of-duty-vanguard-ps4-ps5",
+      "title": "Call of Duty: Vanguard PS4/PS5",
+      "mark": "",
+      "price_from": 290,
+      "image_url": "https://static.tildacdn.com/stor6136-3263-4435-b431-353539346134/15439769.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Шутеры",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "call-of-duty-wwii-gold-edition-ps4-ps5",
       "title": "Call of Duty: WWII Gold Edition PS4/PS5",
       "mark": "",
@@ -1277,6 +1670,19 @@
       "platforms": "PS4"
     },
     {
+      "slug": "callisto-protocol-final-transmission-ps4-ps5",
+      "title": "Callisto Protocol: Final Transmission PS4/PS5",
+      "mark": "",
+      "price_from": 299,
+      "image_url": "https://static.tildacdn.com/stor6639-6262-4166-b862-626231646639/73290100.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Хоррор"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "carmageddon-rogue-shift-ps5",
       "title": "Carmageddon: Rogue Shift PS5",
       "mark": "-59%",
@@ -1292,6 +1698,19 @@
       "platforms": "PS5"
     },
     {
+      "slug": "cars-3-ps4-ps5",
+      "title": "Cars 3 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor6366-3731-4564-b530-663834326564/72418157.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Гонки"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "castlevania-belmont-s-curse-ps5",
       "title": "Castlevania: Belmont's Curse PS5",
       "mark": "NEW",
@@ -1305,6 +1724,20 @@
         "Платформеры"
       ],
       "platforms": "PS5"
+    },
+    {
+      "slug": "cat-quest-3-ps4-ps5",
+      "title": "Cat Quest 3 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1605/k3Muky7sjOFOSLIpwfQKeqrF.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "РПГ"
+      ],
+      "platforms": "PS4"
     },
     {
       "slug": "chernobylite-complete-edition-ps5",
@@ -1323,20 +1756,32 @@
       "platforms": "PS5"
     },
     {
-      "slug": "cities-vr-ps5",
-      "title": "Cities VR PS5",
+      "slug": "chernobylite-ps5",
+      "title": "Chernobylite PS5",
       "mark": "",
-      "price_from": 499,
-      "image_url": "https://static.tildacdn.com/stor3330-3363-4562-a664-663665623666/30752263.jpg",
+      "price_from": 290,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2119/150d779c1b72ec85eeb0bc7ab32a58044f9b44d36e603260.png",
       "categories": [
-        "Все игры",
-        "Приключения",
-        "Только PS5",
         "Лента на главной",
-        "Новинки",
-        "VR"
+        "Все игры",
+        "Шутеры",
+        "Хоррор"
       ],
       "platforms": "PS5"
+    },
+    {
+      "slug": "civilization-vi-platinum-edition-ps4-ps5",
+      "title": "Civilization VI Platinum Edition PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3161-3335-4365-b166-363733356162/49887004.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Стратегии и симуляторы",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
     },
     {
       "slug": "clair-obscur-expedition-33-ps5",
@@ -1376,38 +1821,60 @@
       "platforms": "PS5"
     },
     {
-      "slug": "clive-barker-s-hellraiser-revival-ps5",
-      "title": "Clive Barker's Hellraiser: Revival PS5",
-      "mark": "NEW",
-      "price_from": 697,
-      "image_url": "https://static.tildacdn.com/stor3765-6261-4466-b664-396332663166/cddae9e8c9cec6e60c0edfa95c1b068d.jpg",
+      "slug": "cocoon-ps4-ps5",
+      "title": "COCOON PS4/PS5",
+      "mark": "",
+      "price_from": 299,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0320/edce2d3e20cb874ad82bbf54f00c9e2a3adf7f5bf77665ca.png",
       "categories": [
-        "Новинка главная шапка",
+        "Лента на главной",
         "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Хоррор",
-        "Приключения",
-        "Платформеры"
+        "Приключения"
       ],
-      "platforms": "PS5"
+      "platforms": "PS4, PS5"
     },
     {
-      "slug": "code-violet-ps5",
-      "title": "Code Violet PS5",
-      "mark": "NEW",
+      "slug": "contra-anniversary-collection-ps4-ps5",
+      "title": "Contra Anniversary Collection PS4/PS5",
+      "mark": "",
       "price_from": 250,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2720/0c27d4ae8bd3a297a8a47742d48728c187b4f9e8d43ad268.png",
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA15488_00/1/i_479a004fbcc67147b766af5aab471a373bdfee0602cc5ffedffd10627d8d6cc0/i/icon0.png",
       "categories": [
-        "Новинка главная шапка",
         "Лента на главной",
-        "Только PS5",
-        "Новинки",
-        "Шутеры",
-        "Приключения",
-        "Все игры"
+        "Все игры",
+        "Боевики",
+        "Шутеры"
       ],
-      "platforms": "PS5"
+      "platforms": "PS4"
+    },
+    {
+      "slug": "contra-operation-galuga-ps4-ps5",
+      "title": "Contra: Operation Galuga PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1601/44cb8a12bb12a74028d2961970b76687d7b4e63071acf0ca.png",
+      "categories": [
+        "Игры на двоих",
+        "Шутеры",
+        "Все игры",
+        "Боевики",
+        "Лента на главной",
+        "Платформеры"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "control-ps5-ps4",
+      "title": "Control PS5/PS4",
+      "mark": "",
+      "price_from": 290,
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202102/0111/feFiOE59b8t3dKE25z85OJLV.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
     },
     {
       "slug": "control-resonant-ps5",
@@ -1429,21 +1896,75 @@
       "platforms": "PS5"
     },
     {
-      "slug": "crimson-desert-ps5",
-      "title": "Crimson Desert PS5",
-      "mark": "NEW",
-      "price_from": 257,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2905/0a3fc6d3f858e52566fe0390b13387a29243ddeecc70293f.png",
+      "slug": "crash-bandicoot-nabor-quadrilogy-ps4-ps5",
+      "title": "Crash Bandicoot - набор Quadrilogy PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor6432-6464-4666-b766-333964323130/92eb7208951e125418e98fbf3f40a1b8.jpg",
       "categories": [
-        "Новинка главная шапка",
         "Лента на главной",
-        "Только PS5",
-        "Новинки",
-        "Приключения",
         "Все игры",
-        "Хоррор"
+        "Приключения",
+        "Боевики"
       ],
-      "platforms": "PS5"
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "crash-bandicoot-4-it-s-about-time-ps4-ps5",
+      "title": "Crash Bandicoot 4: It’s About Time PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/1602/TYk0GalUXvrSG0J6aAyfd1h6.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "crash-bandicoot-n-sane-trilogy-ps4-ps5",
+      "title": "Crash Bandicoot N. Sane Trilogy PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07399_00/1/i_ad1b44b4dafe727193cf9003f7557081aa563f3f4198901dbb12592956003ec8/i/icon0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "crash-team-racing-nitro-fueled-spyro-game-bundle-ps4-ps5",
+      "title": "Crash Team Racing: Nitro-Fueled + Spyro Game Bundle PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3663-3163-4761-b061-646235643363/32200082.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики",
+        "Гонки"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "creed-rise-to-glory-ps4-ps5",
+      "title": "Creed Rise to glory PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3363-3234-4333-a264-346131623035/11107178.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Спорт",
+        "VR"
+      ],
+      "platforms": "PS4, PS5"
     },
     {
       "slug": "cronos-the-new-dawn-deluxe-edition-ps5",
@@ -1577,6 +2098,23 @@
       "platforms": "PS5"
     },
     {
+      "slug": "cyberpunk-2077-ps4-ps5",
+      "title": "Cyberpunk 2077 PS4/PS5",
+      "mark": "",
+      "price_from": 350,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1517/UyPJCxbE3EoeLtUxjoFBnsD4.png",
+      "categories": [
+        "Шутеры",
+        "Все игры",
+        "Боевики",
+        "Лента на главной",
+        "Dying light 2 Stay Human рекомендации",
+        "Приключения",
+        "РПГ"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "cyberpunk-2077-phantom-liberty-ps5",
       "title": "Cyberpunk 2077: Phantom Liberty PS5",
       "mark": "",
@@ -1607,6 +2145,20 @@
       "platforms": "PS4"
     },
     {
+      "slug": "dark-souls-iii-deluxe-edition-ps4-ps5",
+      "title": "DARK SOULS III - Deluxe Edition PS4/PS5",
+      "mark": "",
+      "price_from": 300,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA03365_00/2/i_1bf8d3317ff642710196c85c859320f0a9345e3c65a9132d588239fab877d81a/i/icon0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "РПГ"
+      ],
+      "platforms": "PS4"
+    },
+    {
       "slug": "dark-souls-iii-ps4-ps5",
       "title": "Dark Souls III PS4/PS5",
       "mark": "",
@@ -1616,6 +2168,20 @@
         "Лента на главной",
         "Все игры",
         "Приключения",
+        "РПГ",
+        "Боевики"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "dark-souls-remastered-ps4-ps5",
+      "title": "DARK SOULS: REMASTERED PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08495_00/4/i_e1d39aec96b1583322c0c83a100142424b2dadd351510fcf0f2c3eed02830576/i/icon0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
         "РПГ",
         "Боевики"
       ],
@@ -1799,24 +2365,6 @@
       "platforms": "PS5"
     },
     {
-      "slug": "death-stranding-2-on-the-beach",
-      "title": "DEATH STRANDING 2: ON THE BEACH",
-      "mark": "",
-      "price_from": 939,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2115/ae183c63bbeb38d05ecce96aa7f693b4a3769a1835020b63.png",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Только PS5",
-        "Приключения",
-        "РПГ",
-        "Хоррор",
-        "Новинки",
-        "Новинка главная шапка"
-      ],
-      "platforms": "PS5"
-    },
-    {
       "slug": "death-stranding-director-s-cut-ps4-ps5",
       "title": "Death Stranding Director's Cut PS4/PS5",
       "mark": "",
@@ -1899,20 +2447,6 @@
       "platforms": "PS4, PS5"
     },
     {
-      "slug": "devil-may-cry-4-ps4-ps5",
-      "title": "Devil May Cry 4 PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "image_url": "https://static.tildacdn.com/stor3539-3863-4634-a136-306536666261/39137278.jpg",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Боевики",
-        "Приключения"
-      ],
-      "platforms": "PS4, PS5"
-    },
-    {
       "slug": "devil-may-cry-5-special-edition-ps4-ps5",
       "title": "Devil May Cry 5 Special Edition PS4/PS5",
       "mark": "",
@@ -1985,18 +2519,16 @@
       "slug": "directive-8020-ps5",
       "title": "Directive 8020 PS5",
       "mark": "NEW",
-      "price_from": 472,
+      "price_from": 417,
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0522/cd5597316c7f1369ae9ebefba8ba4ebcbd969cce48539dfd.png",
       "categories": [
-        "Новинка главная шапка",
         "Все игры",
-        "Интерактивное кино",
-        "Только PS5",
-        "Игры на двоих",
-        "Приключения",
-        "Хоррор",
+        "Новинка главная шапка",
         "Новинки",
-        "Боевики"
+        "Только PS5",
+        "Приключения",
+        "Боевики",
+        "Хоррор"
       ],
       "platforms": "PS5"
     },
@@ -2290,6 +2822,20 @@
       "platforms": "PS4"
     },
     {
+      "slug": "drift-ce-ps4-ps5",
+      "title": "DRIFT CE PS4/PS5",
+      "mark": "",
+      "price_from": 290,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/2011/159a73262b5ae84eb770e4e6d8e5fa89f9b548b598e4824e.png",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Гонки",
+        "Спорт"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "dune-awakening-ps5",
       "title": "Dune: Awakening PS5",
       "mark": "NEW",
@@ -2299,6 +2845,34 @@
         "Предзаказы"
       ],
       "platforms": "PS5"
+    },
+    {
+      "slug": "dying-light-2-stay-human-ps4-ps5",
+      "title": "Dying light 2 Stay Human PS4/PS5",
+      "mark": "",
+      "price_from": 299,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/3115/3c17bf3bb4c9b5b572f69217554f0afdebade3a37959bac3.png",
+      "categories": [
+        "Лента на главной",
+        "Dying light 2 Stay Human",
+        "Все игры",
+        "Wukong рекомендации",
+        "Test Drive Рекомендации",
+        "Alane Wake 2 рекомендации",
+        "Silent Hilll 2 рекомендации",
+        "COD 6 рекомендации",
+        "Assassin’s Creed Shadows рекомендации",
+        "Star wars рекомендации",
+        "Dragon Age: 2024 рекомендации",
+        "Dead Rising рекомендации",
+        "Until Dawn remake рекомендации",
+        "Spider man 2 рекомендации",
+        "A Quiet Place рекомендации",
+        "Hogwarts Legacy Deluxe рекомендации",
+        "Lego Horizon Adventures PS5 Рекомендации",
+        "RAFT Рекомендации"
+      ],
+      "platforms": "PS4, PS5"
     },
     {
       "slug": "dying-light-ps4-ps5",
@@ -2329,6 +2903,28 @@
         "Приключения",
         "Хоррор",
         "Новинки"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "ea-play-1-mesyats-turtsiya",
+      "title": "EA Play 1 месяц Турция",
+      "mark": "",
+      "price_from": 2290,
+      "image_url": "https://static.tildacdn.com/stor3766-6135-4766-b034-613564663336/78381525.jpg",
+      "categories": [
+        "ЕА Play"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "ea-play-12-mesyatsev-turtsiya",
+      "title": "EA Play 12 месяцев Турция",
+      "mark": "",
+      "price_from": 6749,
+      "image_url": "https://static.tildacdn.com/stor3661-6663-4435-b331-633761323731/77529515.jpg",
+      "categories": [
+        "ЕА Play"
       ],
       "platforms": "PS5"
     },
@@ -2676,6 +3272,23 @@
       "platforms": "PS4, PS5"
     },
     {
+      "slug": "fear-the-timeloop-ps5",
+      "title": "Fear The Timeloop PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor3839-3739-4662-b030-396638373831/dfb91cf0e0068223b069f1ac7c927429.jpg",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Шутеры",
+        "Боевики",
+        "Хоррор"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "fears-to-fathom-ironbark-lookout-ps5",
       "title": "Fears to Fathom - Ironbark Lookout PS5",
       "mark": "",
@@ -2807,6 +3420,20 @@
       "platforms": "PS5"
     },
     {
+      "slug": "flatout-4-total-insanity-ps4",
+      "title": "FlatOut 4: Total Insanity PS4",
+      "mark": "NEW",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07458_00/4/i_ced1d2e5ac5d7d073356b373671306807f097e1a6716af589de4b46bbfe8b02d/i/icon0.png",
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Гонки",
+        "Новинки"
+      ],
+      "platforms": "PS4"
+    },
+    {
       "slug": "floor-9-ps5",
       "title": "Floor 9 PS5",
       "mark": "NEW",
@@ -2861,6 +3488,47 @@
       "platforms": "PS5"
     },
     {
+      "slug": "fortnite-2-800-v-bucks",
+      "title": "Fortnite - 2,800 V-Bucks",
+      "mark": "",
+      "price_from": 2366,
+      "image_url": "https://static.tildacdn.com/stor3365-3763-4562-b863-383664373534/17192173.jpg",
+      "categories": [
+        "Fortnite"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "fortniteps4-ps5",
+      "title": "FortnitePS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1715/a34caaac0a34f9342a7d2d27a64fa91873044271e66be67f.png",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "forza-horizon-5-ps5",
+      "title": "Forza Horizon 5 PS5",
+      "mark": "",
+      "price_from": 350,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/42b3ee6b1b2094212231b0b0a82824f687fc5c4dc9bde31c.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Гонки",
+        "Приключения",
+        "Новинки",
+        "Test Drive Рекомендации"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "forza-horizon-6-ps5",
       "title": "Forza Horizon 6 PS5",
       "mark": "NEW",
@@ -2868,6 +3536,38 @@
       "image_url": "https://static.tildacdn.com/stor6161-3030-4763-b630-613037316562/83cc6e27599a67a29053e8292f22d414.jpg",
       "categories": [
         "Предзаказы"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "froggy-hates-snow-ps5",
+      "title": "Froggy Hates Snow PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor3461-3137-4537-b838-343832303465/561c53d02c332647a8249adc1bd66c76.jpg",
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Новинки",
+        "Только PS5",
+        "Приключения",
+        "Платформеры"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "from-the-ashes-expansion-dlc-avatar-frontiers-of-pandora-ps5",
+      "title": "From The Ashes Expansion DLC Avatar: Frontiers of Pandora PS5",
+      "mark": "",
+      "price_from": 390,
+      "image_url": "https://static.tildacdn.com/stor3736-3234-4163-b331-323862316664/a7f1181322dc1818c7b0999b69f8fcc1.jpg",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Лента на главной",
+        "Только PS5",
+        "Приключения",
+        "Новинки"
       ],
       "platforms": "PS5"
     },
@@ -2904,6 +3604,94 @@
         "Боевики"
       ],
       "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "game-pass-ultimate-1-mesyats",
+      "title": "Game Pass Ultimate 1 месяц",
+      "mark": "",
+      "price_from": 1823,
+      "image_url": "https://static.tildacdn.com/stor6637-3961-4438-b638-643366316166/27384633.jpg",
+      "categories": [
+        "Xbox Game Pass"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "game-pass-ultimate-10-mesyatsev",
+      "title": "Game Pass Ultimate 10 месяцев",
+      "mark": "",
+      "price_from": 10325,
+      "image_url": "https://static.tildacdn.com/stor6636-3438-4731-b831-646537653932/71157349.jpg",
+      "categories": [
+        "Xbox Game Pass"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "game-pass-ultimate-12-mesyatsev",
+      "title": "Game Pass Ultimate 12 месяцев",
+      "mark": "",
+      "price_from": 12520,
+      "image_url": "https://static.tildacdn.com/stor6236-6662-4632-a663-653266313561/13446108.png",
+      "categories": [
+        "Xbox Game Pass"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "game-pass-ultimate-13-mesyatsev",
+      "title": "Game Pass Ultimate 13 месяцев",
+      "mark": "",
+      "price_from": 12820,
+      "image_url": "https://static.tildacdn.com/stor6538-6634-4664-b132-656261363830/18644169.jpg",
+      "categories": [
+        "Xbox Game Pass"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "game-pass-ultimate-2-mesyatsa",
+      "title": "Game Pass Ultimate 2 месяца",
+      "mark": "",
+      "price_from": 2790,
+      "image_url": "https://static.tildacdn.com/stor6131-6435-4432-b734-363161316261/69076060.jpg",
+      "categories": [
+        "Xbox Game Pass"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "game-pass-ultimate-3-mesyatsa",
+      "title": "Game Pass Ultimate 3 месяца",
+      "mark": "",
+      "price_from": 3790,
+      "image_url": "https://static.tildacdn.com/stor3866-3538-4563-b437-323731336363/73612706.jpg",
+      "categories": [
+        "Xbox Game Pass"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "game-pass-ultimate-4-mesyatsa",
+      "title": "Game Pass Ultimate 4 месяца",
+      "mark": "",
+      "price_from": 5435,
+      "image_url": "https://static.tildacdn.com/stor3231-3837-4337-a439-353134393663/94718582.jpg",
+      "categories": [
+        "Xbox Game Pass"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "game-pass-ultimate-7-mesyatsev",
+      "title": "Game Pass Ultimate 7 месяцев",
+      "mark": "",
+      "price_from": 8131,
+      "image_url": "https://static.tildacdn.com/stor3038-3236-4234-a436-373739623265/33334825.jpg",
+      "categories": [
+        "Xbox Game Pass"
+      ],
+      "platforms": "PS5"
     },
     {
       "slug": "gears-of-war-reloaded-ps5",
@@ -3283,22 +4071,19 @@
       "platforms": "PS4, PS5"
     },
     {
-      "slug": "hades-2-ps5",
-      "title": "Hades 2 PS5",
-      "mark": "NEW",
-      "price_from": 450,
-      "image_url": "https://static.tildacdn.com/stor6235-3862-4133-b431-323130663637/6fd1f1b6fca19184cd6f8069a8336408.jpg",
+      "slug": "guns-gore-and-cannoli-2-ps4-ps5",
+      "title": "Guns Gore and Cannoli 2 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08317_00/5/i_95126c29a96d2d8f85894a59b53a681204b83ac35ab0bc728d97c538bdf60b18/i/icon0.png",
       "categories": [
-        "Новинка главная шапка",
-        "Лента на главной",
-        "Только PS5",
-        "Новинки",
-        "Приключения",
         "Все игры",
-        "Хоррор",
-        "Платформеры"
+        "Лента на главной",
+        "Игры на двоих",
+        "Приключения",
+        "Боевики"
       ],
-      "platforms": "PS5"
+      "platforms": "PS4"
     },
     {
       "slug": "halloween-the-game-ps5",
@@ -3367,6 +4152,49 @@
       "platforms": "PS5"
     },
     {
+      "slug": "heavenly-bodies-ps4-ps5",
+      "title": "Heavenly bodies PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202112/0209/eTNAclmYfZEjX0OGqdl0CL0k.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Игры на двоих"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "heavy-rain-amp-beyond-two-souls-ps4-ps5",
+      "title": "Heavy Rain &amp; Beyond: Two Souls PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3539-6162-4632-b137-363962313635/34789550.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Интерактивное кино",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "heavy-rain-ps4-ps5",
+      "title": "Heavy Rain PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02355_00/2/i_dd302d88e4df97ecd1e9bc39e877aeda171fc12b99a116be8666d431a8f46697/i/icon0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Интерактивное кино",
+        "Игры на двоих",
+        "Приключения"
+      ],
+      "platforms": "PS4"
+    },
+    {
       "slug": "hell-is-us-ps5",
       "title": "Hell is Us PS5",
       "mark": "",
@@ -3380,6 +4208,21 @@
         "Лента на главной",
         "Новинки",
         "Новинка главная шапка"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "hell-let-loose-ps5",
+      "title": "Hell Let Loose PS5",
+      "mark": "",
+      "price_from": 349,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2316/86150b8e592e33e766539e1f4250ec79f097b8bd02509381.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Шутеры",
+        "Боевики",
+        "Только PS5"
       ],
       "platforms": "PS5"
     },
@@ -3409,6 +4252,155 @@
       "platforms": "PS5"
     },
     {
+      "slug": "helldivers-2-ps5",
+      "title": "Helldivers 2 PS5",
+      "mark": "",
+      "price_from": 359,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0318/639067b46cf9bbdb40befd0de613b1e407af6565e99e8680.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Только PS5"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "hello-neighbor-2-ps4-ps5",
+      "title": "Hello Neighbor 2 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0613/249503ec6c4aa1d4c2fd6fbc5350fadaa32a13697c5bb2fc.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Хоррор",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "hi-fi-rush-ps5",
+      "title": "Hi-FI RUSH PS5",
+      "mark": "",
+      "price_from": 290,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0615/6c0f8d23c70f7a4c925958886f53181ba43ca5145d471209.png",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Приключения",
+        "Боевики",
+        "Только PS5"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "high-on-life-2-ps5",
+      "title": "High on Life 2 PS5",
+      "mark": "NEW",
+      "price_from": 499,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2223/5d9328392c4b258f76f9496bed0884c3bfa24fed24588ad4.png",
+      "categories": [
+        "Новинка главная шапка",
+        "Лента на главной",
+        "Только PS5",
+        "Новинки",
+        "Шутеры",
+        "Приключения",
+        "Все игры"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "hitman-2-gold-edition-ps4-ps5",
+      "title": "HITMAN 2 - Gold Edition PS4/PS5",
+      "mark": "",
+      "price_from": 300,
+      "image_url": "https://static.tildacdn.com/stor3762-3531-4130-b839-353933646536/52946657.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "hitman-world-of-assassination-ps4-ps5",
+      "title": "HITMAN World of Assassination PS4/PS5",
+      "mark": "",
+      "price_from": 350,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2511/8d212ab3ddbc4c13cff24032748d6486fb79f7e56ca313b7.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "hogwarts-legacy-deluxe-ps4-ps5",
+      "title": "Hogwarts Legacy Deluxe PS4/PS5",
+      "mark": "",
+      "price_from": 449,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png",
+      "categories": [
+        "Test Drive Рекомендации",
+        "Hogwarts Legacy Deluxe",
+        "Wukong рекомендации",
+        "Alane Wake 2 рекомендации",
+        "Silent Hilll 2 рекомендации",
+        "Warhammer 40 рекомендации",
+        "COD 6 рекомендации",
+        "Assassin’s Creed Shadows рекомендации",
+        "Star wars рекомендации",
+        "Until Dawn remake рекомендации",
+        "Dead Rising рекомендации",
+        "FC 25 рекомендации",
+        "Все игры",
+        "GOD2 рекомендации",
+        "Life is Strange: Double Exposure рекомендации",
+        "A Quiet Place рекомендации",
+        "Dragon Age: 2024 рекомендации",
+        "Lego Horizon Adventures PS5 Рекомендации",
+        "Spider man 2 рекомендации",
+        "Лента на главной",
+        "RAFT Рекомендации"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "hollow-knight-silksong-ps4-ps5",
+      "title": "Hollow Knight: Silksong PS4/PS5",
+      "mark": "Хит",
+      "price_from": 499,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2505/66f43d82a3d31493a2b3edec5359872e45c0c097115a9fbd.png",
+      "categories": [
+        "Лента на главной",
+        "Приключения",
+        "РПГ",
+        "Платформеры",
+        "Новинки",
+        "Новинка главная шапка",
+        "Все игры"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "hollow-knight-voidheart-edition-ps4-ps5",
+      "title": "Hollow Knight: Voidheart Edition PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3865-3263-4662-b662-396666346436/33059320.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "horizon-call-of-the-mountain-ps5",
       "title": "Horizon Call of the Mountain PS5",
       "mark": "",
@@ -3419,6 +4411,20 @@
         "Все игры",
         "Только PS5",
         "VR",
+        "Боевики",
+        "Приключения"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "horizon-zero-dawn-ps4-ps5",
+      "title": "Horizon Zero Dawn PS4/PS5",
+      "mark": "Хит",
+      "price_from": 300,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0221/vC7trMorHJgbImp8PCQvpI0p.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
         "Боевики",
         "Приключения"
       ],
@@ -3439,38 +4445,129 @@
       "platforms": "PS5"
     },
     {
-      "slug": "indiana-jones-and-the-great-circle-ps5",
-      "title": "Indiana Jones and the Great Circle PS5",
-      "mark": "",
-      "price_from": 257,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/76248a273eb9e5f940cb4793256b30c165536acafe602483.png",
+      "slug": "horizon-forbidden-west-ps4-ps5",
+      "title": "Horizon: Forbidden West PS4/PS5",
+      "mark": "Хит",
+      "price_from": 300,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2915/kifM3lnke5lExwRd96mIDojQ.png",
       "categories": [
+        "Лента на главной",
         "Все игры",
         "Приключения",
-        "РПГ",
-        "Боевики",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "hot-wheels-unleashed-ps4-ps5",
+      "title": "HOT WHEELS UNLEASHED PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0813/kiJhC325Kns3OaBzJeFWmENK.png",
+      "categories": [
         "Лента на главной",
-        "Новинки",
-        "статья под индиана джонс",
+        "Все игры",
+        "Гонки"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "house-of-ashes-ps4-ps5",
+      "title": "House of Ashes PS4/PS5",
+      "mark": "",
+      "price_from": 259,
+      "image_url": "https://static.tildacdn.com/stor3534-3135-4261-a639-313232613261/45427647.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Игры на двоих",
+        "Боевики",
+        "Интерактивное кино"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "humankind-ps4-ps5",
+      "title": "HUMANKIND PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1711/OMuwkb08ac0MQxLGFpHXGIbX.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "hunt-call-of-the-wild-ps4-ps5",
+      "title": "Hunt Call of the wild PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08368_00/4/i_05034add1b438ea13fe506bcae383f189eca060827c418141e8505dbcf18ad13/i/icon0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Шутеры"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "hunt-showdown-ps5",
+      "title": "Hunt: Showdown PS5",
+      "mark": "",
+      "price_from": 299,
+      "image_url": "https://static.tildacdn.com/stor6336-6266-4166-a664-343462636130/94998662.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Приключения",
         "Только PS5"
       ],
       "platforms": "PS5"
     },
     {
-      "slug": "indiana-jones-and-the-great-circle-the-order-of-giants-dlc-ps5",
-      "title": "Indiana Jones and the Great Circle: The Order of Giants DLC PS5",
-      "mark": "",
+      "slug": "i-am-security-ps5",
+      "title": "I Am Security PS5",
+      "mark": "NEW",
       "price_from": 257,
-      "image_url": "https://static.tildacdn.com/stor3032-3534-4939-b038-313034666535/506984b681cffa35708248cfe9cf737f.jpg",
+      "image_url": "https://static.tildacdn.com/stor3936-6437-4662-b565-666336386439/360ee55e827eb61d38a97ed3b3d6defe.jpg",
       "categories": [
-        "Новинка главная шапка",
         "Все игры",
-        "Приключения",
-        "РПГ",
-        "Боевики",
-        "Лента на главной",
         "Новинки",
-        "статья под индиана джонс"
+        "Только PS5",
+        "Приключения",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "immortal-fenix-ps4-ps5",
+      "title": "Immortal Fenix PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor6164-3065-4537-b530-376564633964/83912549.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "indiana-jones-and-the-great-circle-ps5",
+      "title": "Indiana Jones and the Great Circle PS5",
+      "mark": "NEW",
+      "price_from": 697,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/76248a273eb9e5f940cb4793256b30c165536acafe602483.png",
+      "categories": [
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Приключения",
+        "Боевики"
       ],
       "platforms": "PS5"
     },
@@ -3505,6 +4602,33 @@
         "Только PS5"
       ],
       "platforms": "PS5"
+    },
+    {
+      "slug": "infamous-second-son-ps4-ps5",
+      "title": "inFamous Second Son PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0700/enLAr4eVGBxWjrHh5nLTUSnn.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "injustice-2-legendary-edition-ps4-ps5",
+      "title": "Injustice 2 - legendary edition PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3962-3135-4132-b563-663166356165/69342446.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
     },
     {
       "slug": "inside-ps4-ps5",
@@ -3579,6 +4703,32 @@
       "platforms": "PS4, PS5"
     },
     {
+      "slug": "kao-the-kangaroo-ps4-ps5",
+      "title": "Kao the Kangaroo PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2810/1GPzmQKEw6vTAqGpEEwQTFI4.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "kena-bridge-of-spirits-ps4-ps5",
+      "title": "Kena: Bridge of Spirits PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2307/kQzDCY5RCrSXCeeFjPGUzkGI.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "killing-time-resurrected-ps4",
       "title": "Killing Time: Resurrected PS4",
       "mark": "NEW",
@@ -3593,20 +4743,18 @@
       "platforms": "PS4, PS5"
     },
     {
-      "slug": "kingdom-come-deliverance-ii-ps5",
-      "title": "Kingdom Come: Deliverance II PS5",
+      "slug": "kingdom-come-deliverance-ps4-ps5",
+      "title": "Kingdom Come: Deliverance PS4/PS5",
       "mark": "",
-      "price_from": 350,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1208/05a84ce968125d79fa36484c5a756a1c8d9b05622aae21c1.png",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2908/OR0IcUYHcvqz3IhLR6vZFLcZ.png",
       "categories": [
+        "Лента на главной",
         "Все игры",
         "Приключения",
-        "РПГ",
-        "Боевики",
-        "Лента на главной",
-        "Новинки"
+        "Боевики"
       ],
-      "platforms": "PS5"
+      "platforms": "PS4, PS5"
     },
     {
       "slug": "kingdom-hearts-collection-i-iii-ps5",
@@ -3621,6 +4769,118 @@
         "Только PS5",
         "Приключения",
         "Платформеры"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "knack-knack-2-ps4-ps5",
+      "title": "Knack + Knack 2 PS4/PS5",
+      "mark": "",
+      "price_from": 299,
+      "image_url": "https://static.tildacdn.com/stor3133-3633-4538-b836-633339353764/46543239.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики",
+        "Игры на двоих"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "knights-and-bikes-ps4",
+      "title": "Knights and Bikes PS4",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor3138-3766-4664-a439-366465383838/3e7b459f92bc76964c6d352a6ac8c27e.jpg",
+      "categories": [
+        "Все игры",
+        "Спорт",
+        "Приключения"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "l-a-noire-ps4-ps5",
+      "title": "L.A. Noire PS4/PS5",
+      "mark": "",
+      "price_from": 290,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA09172_00/3/i_4e484f183c1e8aaad6bc80b05e40b634ae09651dfcb1c378f170bd8a2d7e6770/i/icon0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "lake-ps5",
+      "title": "Lake PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor3761-6235-4539-b461-646532666437/15936532.jpg",
+      "categories": [
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Приключения"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "last-of-us-part-i-ps5",
+      "title": "Last of Us Part I PS5",
+      "mark": "",
+      "price_from": 390,
+      "image_url": "https://static.tildacdn.com/stor3831-6233-4865-b332-316135643937/86231254.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "last-of-us-ps4",
+      "title": "Last of us PS4",
+      "mark": "Хит",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor6264-3737-4032-a237-393638633436/56368399.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "late-shift-ps4-ps5",
+      "title": "Late Shift PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0111/2e7def48cfbbddea87e772e158e276990d8edaded94abb1c.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Интерактивное кино",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "layers-of-fear-ps5",
+      "title": "Layers of Fear PS5",
+      "mark": "",
+      "price_from": 300,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1213/397a59cdac9756831b58e2e2b4b43039ce4ff8f92bfdb265.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Хоррор"
       ],
       "platforms": "PS5"
     },
@@ -3640,37 +4900,17 @@
       "platforms": "PS4, PS5"
     },
     {
-      "slug": "lego-batman-3-pokidaya-gotem-ps4-ps5",
-      "title": "LEGO Batman 3: Покидая Готэм PS4/PS5",
+      "slug": "lego-builder-s-journey-ps4-ps5",
+      "title": "Lego Builder’s Journey PS4/PS5",
       "mark": "",
       "price_from": 250,
-      "image_url": "https://static.tildacdn.com/stor6564-3063-4033-b766-663532396362/1a2274e3f5fe17687e920c628a2dfd22.webp",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0310/7HHNZEzG5P8nyJ5LRshV2oXx.png",
       "categories": [
-        "Лента на главной",
         "Все игры",
-        "Приключения",
-        "Боевики"
+        "Лента на главной",
+        "Приключения"
       ],
       "platforms": "PS4, PS5"
-    },
-    {
-      "slug": "lego-batman-nasledie-temnogo-rytsarya-ps5",
-      "title": "LEGO BATMAN: Наследие Темного рыцаря PS5",
-      "mark": "NEW",
-      "price_from": 697,
-      "image_url": "https://static.tildacdn.com/stor6232-6630-4163-b061-303434633632/c609a2fc000cf8fe48127e14e78e5282.jpg",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Шутеры",
-        "Лента на главной",
-        "Только PS5",
-        "Боевики",
-        "Игры на двоих",
-        "Приключения",
-        "Платформеры"
-      ],
-      "platforms": "PS5"
     },
     {
       "slug": "lego-harry-potter-collection-ps4",
@@ -3688,134 +4928,37 @@
       "platforms": "PS5"
     },
     {
-      "slug": "lego-marvel-avengers-ps4-ps5",
-      "title": "LEGO Marvel Avengers PS4/PS5",
+      "slug": "lego-horizon-adventures-ps5",
+      "title": "Lego Horizon Adventures PS5",
       "mark": "",
-      "price_from": 250,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02122_00/4/i_d405122ed664648de3e89bba9158c250736b929115c7f368e223091bc0d71925/i/icon0.png",
+      "price_from": 499,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0615/49738f6fcecfdb8d9aeef78ac743a0caa69317a3671f0a97.png",
       "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Приключения",
-        "Боевики"
-      ],
-      "platforms": "PS4"
-    },
-    {
-      "slug": "lego-marvel-collection-ps4-ps5",
-      "title": "LEGO Marvel Collection PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "image_url": "https://static.tildacdn.com/stor3461-3638-4464-a262-363239323233/45710722.jpg",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Приключения",
-        "Боевики"
-      ],
-      "platforms": "PS4, PS5"
-    },
-    {
-      "slug": "lego-marvel-super-heroes-2-ps4-ps5",
-      "title": "LEGO Marvel Super Heroes 2 PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08476_00/2/i_0f6e47669d519e19483775e0c43a4550cbb60f1e63697877ae153f8280bb1f8b/i/icon0.png",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Приключения",
-        "Боевики"
-      ],
-      "platforms": "PS4"
-    },
-    {
-      "slug": "lego-marvel-super-heroes-ps4-ps5",
-      "title": "LEGO Marvel Super Heroes PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00044_00/9/i_f912240e371b4d4f34454b1e5ca368f94e82b3001093b78b0240923baebcee7c/i/icon0.png",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Приключения",
-        "Боевики"
-      ],
-      "platforms": "PS4"
-    },
-    {
-      "slug": "lego-ninjago-ps4-ps5",
-      "title": "LEGO NINJAGO PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "image_url": "https://static.tildacdn.com/stor3131-6334-4362-b637-306566336132/32861509.jpg",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Приключения",
-        "Боевики"
-      ],
-      "platforms": "PS4, PS5"
-    },
-    {
-      "slug": "lego-star-wars-the-skywalker-saga-ps4-ps5",
-      "title": "LEGO Star Wars: The Skywalker Saga PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Боевики",
-        "Приключения"
-      ],
-      "platforms": "PS4, PS5"
-    },
-    {
-      "slug": "lies-of-p-ps4-ps5",
-      "title": "Lies of P PS4/PS5",
-      "mark": "",
-      "price_from": 359,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2308/06b354c8015b3c71e54f43aa883aab4641285d4a91734681.png",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "РПГ",
-        "Боевики"
-      ],
-      "platforms": "PS4, PS5"
-    },
-    {
-      "slug": "lies-of-p-overture-bundle-ps4-ps5",
-      "title": "Lies of P: Overture Bundle PS4/PS5",
-      "mark": "NEW",
-      "price_from": 899,
-      "image_url": "https://static.tildacdn.com/stor3933-6263-4761-a265-643861396336/80890106.jpg",
-      "categories": [
-        "Все игры",
         "Новинки",
-        "Silent Hilll 2 рекомендации",
         "Wukong рекомендации",
+        "Test Drive Рекомендации",
+        "Silent Hilll 2 рекомендации",
         "Alane Wake 2 рекомендации",
         "Warhammer 40 рекомендации",
         "COD 6 рекомендации",
         "Assassin’s Creed Shadows рекомендации",
-        "Star wars",
+        "Star wars рекомендации",
         "Until Dawn remake рекомендации",
         "Dead Rising рекомендации",
-        "Test Drive Рекомендации",
         "FC 25 рекомендации",
+        "Все игры",
         "GOD2 рекомендации",
         "Life is Strange: Double Exposure рекомендации",
         "A Quiet Place рекомендации",
         "Dragon Age: 2024 рекомендации",
-        "Lego Horizon Adventures PS5 Рекомендации",
+        "Lego Horizon Adventures PS5",
         "Spider man 2 рекомендации",
         "Hogwarts Legacy Deluxe рекомендации",
         "RAFT Рекомендации",
-        "Только PS5"
+        "Только PS5",
+        "Игры на двоих"
       ],
-      "platforms": "PS4, PS5"
+      "platforms": "PS5"
     },
     {
       "slug": "life-is-strange-2-complete-season-ps4-ps5",
@@ -3842,6 +4985,37 @@
         "Приключения"
       ],
       "platforms": "PS4"
+    },
+    {
+      "slug": "life-is-strange-double-exposure-ultimate-edition-ps5",
+      "title": "Life is Strange: Double Exposure Ultimate Edition PS5",
+      "mark": "NEW",
+      "price_from": 359,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3015/ba7365d7ffa1559f80333addf7fa56e8d2068a3249ae1fc0.png",
+      "categories": [
+        "Новинки",
+        "Wukong рекомендации",
+        "Test Drive Рекомендации",
+        "Silent Hilll 2 рекомендации",
+        "Warhammer 40 рекомендации",
+        "Assassin’s Creed Shadows рекомендации",
+        "Star wars рекомендации",
+        "Until Dawn remake рекомендации",
+        "Dead Rising рекомендации",
+        "FC 25 рекомендации",
+        "GOD2 рекомендации",
+        "Все игры",
+        "Life is Strange: Double Exposure PS5",
+        "A Quiet Place рекомендации",
+        "Dragon Age: 2024 рекомендации",
+        "Lego Horizon Adventures PS5 Рекомендации",
+        "Spider man 2 рекомендации",
+        "Hogwarts Legacy Deluxe рекомендации",
+        "RAFT Рекомендации",
+        "Только PS5",
+        "Интерактивное кино"
+      ],
+      "platforms": "PS5"
     },
     {
       "slug": "life-is-strange-reunion-ps5",
@@ -3957,6 +5131,23 @@
       "platforms": "PS4, PS5"
     },
     {
+      "slug": "little-nightmares-iii-ps4-ps5",
+      "title": "Little Nightmares III PS4/PS5",
+      "mark": "Хит",
+      "price_from": 599,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2912/a1066329a4165e89ce5c7258634bdc402d3bfdb39db8fe4f.png",
+      "categories": [
+        "Новинка главная шапка",
+        "Приключения",
+        "РПГ",
+        "Лента на главной",
+        "Новинки",
+        "Платформеры",
+        "Все игры"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "lonely-mountains-downhill-ps4",
       "title": "Lonely Mountains: Downhill PS4",
       "mark": "NEW",
@@ -3981,19 +5172,6 @@
         "Только PS5",
         "Приключения",
         "Боевики"
-      ],
-      "platforms": "PS5"
-    },
-    {
-      "slug": "lost-records-bloom-and-rage-ps5",
-      "title": "Lost Records: Bloom and Rage PS5",
-      "mark": "",
-      "price_from": 490,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2715/07bf96a36a06916df02327fe518597c83b5264cf4add8f64.png",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Приключения"
       ],
       "platforms": "PS5"
     },
@@ -4092,23 +5270,6 @@
       "platforms": "PS5"
     },
     {
-      "slug": "mafia-the-old-country-ps5-new-price",
-      "title": "Mafia: The Old Country PS5 New Price",
-      "mark": "",
-      "price_from": 250,
-      "image_url": "https://static.tildacdn.com/stor6633-3237-4162-b730-313461396235/57085481.jpg",
-      "categories": [
-        "Лента на главной",
-        "Хоррор",
-        "Все игры",
-        "Приключения",
-        "РПГ",
-        "Только PS5",
-        "Новинки"
-      ],
-      "platforms": "PS5"
-    },
-    {
       "slug": "mafia-trilogy-ps4-ps5",
       "title": "Mafia: Trilogy PS4/PS5",
       "mark": "",
@@ -4161,24 +5322,6 @@
         "Шутеры",
         "Приключения",
         "Боевики"
-      ],
-      "platforms": "PS5"
-    },
-    {
-      "slug": "marathon-standard-edition-ps5",
-      "title": "Marathon Standard Edition PS5",
-      "mark": "",
-      "price_from": 449,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1601/f68da39bd795007b0b88651f6dad8ecf92e2d130dd2de4ac.png",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Приключения",
-        "РПГ",
-        "Только PS5",
-        "Новинки",
-        "Новинка главная шапка",
-        "Шутеры"
       ],
       "platforms": "PS5"
     },
@@ -4355,6 +5498,22 @@
       "platforms": "PS4, PS5"
     },
     {
+      "slug": "mercenary-corps-ps5",
+      "title": "Mercenary Corps PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor3036-3334-4532-a562-353764636662/3049a5c0dfcb9de3bc1ee33d741db034.jpg",
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Новинки",
+        "Только PS5",
+        "Шутеры",
+        "Боевики"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "metal-gear-solid-v-the-definitive-experience-ps4-ps5",
       "title": "Metal Gear Solid V: The Definitive Experience PS4/PS5",
       "mark": "",
@@ -4427,6 +5586,20 @@
       "platforms": "PS4, PS5"
     },
     {
+      "slug": "metro-exodus-ps4-ps5",
+      "title": "Metro Exodus PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11407_00/2/i_e46ce2ddd1957c71c5e0a8a2a6e6aa00e4c211d0ccdf50a2cc901e0234214fc1/i/icon0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Шутеры",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "metro-redux-bundle-ps4-ps5",
       "title": "Metro Redux Bundle PS4/PS5",
       "mark": "",
@@ -4439,22 +5612,6 @@
         "Боевики"
       ],
       "platforms": "PS4, PS5"
-    },
-    {
-      "slug": "microsoft-flight-simulator-2024-standard-edition-ps5",
-      "title": "Microsoft Flight Simulator 2024 - Standard Edition PS5",
-      "mark": "NEW",
-      "price_from": 499,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1718/36050534f6a08332f7a0bd39cd3bf26f2136d43ea2ca64b9.png",
-      "categories": [
-        "Новинка главная шапка",
-        "Лента на главной",
-        "Только PS5",
-        "Стратегии и симуляторы",
-        "Новинки",
-        "Все игры"
-      ],
-      "platforms": "PS5"
     },
     {
       "slug": "middle-earth-shadow-of-war-ps4-ps5",
@@ -4480,6 +5637,52 @@
         "Предзаказы"
       ],
       "platforms": "PS5"
+    },
+    {
+      "slug": "minecraft-dungeons-ps4-ps5",
+      "title": "Minecraft Dungeons PS4/PS5",
+      "mark": "",
+      "price_from": 290,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18797_00/4/i_ef3d4a1a539cc23669e31e597bdb5d56bc645ac6e2a824cfe6fb6ed61a7f13ee/i/icon0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Игры на двоих",
+        "РПГ",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "minecraft-ps4-ps5",
+      "title": "Minecraft PS4/PS5",
+      "mark": "",
+      "price_from": 290,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "РПГ",
+        "Стратегии и симуляторы",
+        "Платформеры"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "mirror-s-edge-catalyst-ps4-ps5",
+      "title": "Mirror's Edge Catalyst PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01499_00/5/i_16dbe91c60d409ba8a64dee1367b780f6cae3e0e3825dbd86ffb0b15a08769e1/i/icon0_01.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4"
     },
     {
       "slug": "mistfall-hunter-ps5",
@@ -4517,6 +5720,21 @@
       "platforms": "PS5"
     },
     {
+      "slug": "monopoly-plus-ps4-ps5",
+      "title": "Monopoly Plus PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3437-6431-4436-a661-323736343863/66680890.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Стратегии и симуляторы",
+        "Приключения",
+        "Платформеры"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "monster-hunter-wilds-ps5",
       "title": "Monster Hunter Wilds PS5",
       "mark": "",
@@ -4530,6 +5748,63 @@
         "РПГ",
         "Wukong рекомендации",
         "Новинки"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "monster-hunter-world-iceborne-ps4-ps5",
+      "title": "Monster Hunter World: Iceborne PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3136-3365-4130-a233-393366643564/70341071.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "mortal-kombat-1-ps5",
+      "title": "Mortal Kombat 1 PS5",
+      "mark": "",
+      "price_from": 350,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/1cc63f4f4b2c9a9852fabefba4ca7eea936b1ef7867811a5.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Игры на двоих",
+        "Только PS5",
+        "Боевики"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "mortal-kombat-11-ultimate-ps4-ps5",
+      "title": "Mortal Kombat 11 Ultimate PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0123/bF1qmEL5RM6aMfL0oLcxRe8B.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Игры на двоих",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "mortal-kombat-xl-ps4-ps5",
+      "title": "Mortal Kombat XL PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/1cc63f4f4b2c9a9852fabefba4ca7eea936b1ef7867811a5.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Игры на двоих",
+        "Боевики"
       ],
       "platforms": "PS5"
     },
@@ -4566,21 +5841,48 @@
       "platforms": "PS5"
     },
     {
-      "slug": "mouse-p-i-for-hire-ps5",
-      "title": "MOUSE: P.I. For Hire PS5",
-      "mark": "NEW",
-      "price_from": 257,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0206/ec04116f30616ee2ef7e91c70c96bb7773b9d95a54e4d2b9.png",
+      "slug": "mortal-shell-ps4-ps5",
+      "title": "Mortal Shell PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202103/0410/GKT3pw7UrRCWNOujHj38aIjv.png",
       "categories": [
-        "Новинка главная шапка",
         "Лента на главной",
-        "Только PS5",
-        "Новинки",
-        "Шутеры",
-        "Приключения",
-        "Все игры"
+        "Все игры",
+        "Боевики",
+        "РПГ"
       ],
-      "platforms": "PS5"
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "moving-out-ps4-ps5",
+      "title": "Moving Out PS4/PS5",
+      "mark": "-59%",
+      "price_from": 299,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA17675_00/1/i_f393a5dbe728e9ff0408b9dfbc6206433f75b83411b24c786888f367c49efa5f/i/icon0.png",
+      "categories": [
+        "Все игры",
+        "Платформеры",
+        "Боевики",
+        "Приключения",
+        "Шутеры",
+        "Новинки"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "mudrunner-ps4-ps5",
+      "title": "MudRunner PS4/PS5",
+      "mark": "",
+      "price_from": 290,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA09958_00/3/i_0c0d51b4bc70ce01226e14f2d938e412ae3644b3c3d6608c6440026dd8a6b5e9/i/icon0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Гонки",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS4"
     },
     {
       "slug": "mutant-boxing-league-vr-ps5",
@@ -4643,19 +5945,43 @@
       "platforms": "PS5"
     },
     {
-      "slug": "nascar-26-ps5",
-      "title": "NASCAR 26 PS5",
-      "mark": "NEW",
-      "price_from": 697,
-      "image_url": "https://static.tildacdn.com/stor3565-3235-4231-b530-306234323937/bd82b907c5e7ce8b67c37f3a4f89601c.jpg",
+      "slug": "naruto-storm-2-ps4-ps5",
+      "title": "Naruto Storm 2 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3637-6338-4362-b061-656263333364/f518d36a182dc47c7b093db2699beaf8.jpg",
       "categories": [
-        "Новинка главная шапка",
+        "Лента на главной",
         "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Спорт",
-        "Гонки",
-        "Стратегии и симуляторы"
+        "Боевики",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "naruto-storm-4-ps4-ps5",
+      "title": "Naruto Storm 4 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor6465-6666-4231-b464-643630616236/36267035.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "nba-2k20-ps4-ps5",
+      "title": "NBA 2K20 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2918/051c550e0911aca1661b8f8df951de66a5e5fd28830e4594.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Спорт"
       ],
       "platforms": "PS5"
     },
@@ -4688,6 +6014,117 @@
         "Только PS5",
         "Игры на двоих",
         "Спорт"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "nba23-ps4-ps5",
+      "title": "NBA23 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3535-3131-4630-a238-616430303564/96419605.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Спорт"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "nba24-ps4-ps5",
+      "title": "NBA24 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor6133-6131-4639-a139-326530613532/35833952.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Спорт"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "nba25-ps4-ps5",
+      "title": "NBA25 PS4/PS5",
+      "mark": "NEW",
+      "price_from": 490,
+      "image_url": "https://static.tildacdn.com/stor3034-3363-4134-b661-316236353836/60503214.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Игры на двоих",
+        "Спорт",
+        "Новинки"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "need-for-speed-2015-ps4-ps5",
+      "title": "Need For Speed (2015) PS4/PS5",
+      "mark": "Хит",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3862-6338-4464-b436-616164623734/55646011.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Спорт",
+        "Гонки"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "need-for-speed-heat-ps4-ps5",
+      "title": "Need for Speed Heat PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/3121/Xz6kd2CORZxe8JnfNJwvA35A.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Гонки",
+        "Спорт"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "need-for-speed-payback-ps4-ps5",
+      "title": "Need for Speed Payback PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/3122/P3Apt9Q4oXtXArsrnl0R6XTh.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Гонки",
+        "Спорт"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "need-for-speed-rivals-ps4-ps5",
+      "title": "Need for Speed Rivals PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00168_00/5/i_2637b7a92d8b09615c9b919a27546c7a1b52102ceaee6a0354fc6f5f671b4aec/i/icon0_01.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Спорт",
+        "Гонки"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "need-for-speed-unbound-ps5",
+      "title": "Need for Speed Unbound PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0913/3CmlwTUjrvYOei0WDNdBsYPp.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Спорт",
+        "Гонки"
       ],
       "platforms": "PS5"
     },
@@ -4848,6 +6285,22 @@
       "platforms": "PS4, PS5"
     },
     {
+      "slug": "overcooked-2-ps4-ps5",
+      "title": "Overcooked! 2 PS4/PS5",
+      "mark": "NEW",
+      "price_from": 280,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA10870_00/1/i_b3bed562e3d8ff4f75d84c2989ae7f4e5bbe759ebce0fb37e35ec5337b83f273/i/icon0.png",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Игры на двоих",
+        "Приключения",
+        "Стратегии и симуляторы",
+        "Платформеры"
+      ],
+      "platforms": "PS4"
+    },
+    {
       "slug": "painkiller-ps5",
       "title": "Painkiller PS5",
       "mark": "-59%",
@@ -4936,20 +6389,6 @@
       "platforms": "PS5"
     },
     {
-      "slug": "plants-vs-zombies-ps4-ps5",
-      "title": "Plants vs Zombies PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "image_url": "https://static.tildacdn.com/stor3236-3239-4638-b963-343266613133/29471824.jpg",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Шутеры",
-        "Боевики"
-      ],
-      "platforms": "PS4, PS5"
-    },
-    {
       "slug": "plateup-ps4",
       "title": "PlateUp! PS4",
       "mark": "NEW",
@@ -4961,46 +6400,6 @@
         "Платформеры"
       ],
       "platforms": "PS4, PS5"
-    },
-    {
-      "slug": "police-simulator-patrol-officers-ps4-ps5",
-      "title": "Police Simulator: Patrol Officers PS4/PS5",
-      "mark": "",
-      "price_from": 290,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0408/fe8jiL5pHOLyF8DbRrJXOlYE.png",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Хоррор",
-        "Приключения"
-      ],
-      "platforms": "PS4, PS5"
-    },
-    {
-      "slug": "poppy-playtime-chapter-2-ps5",
-      "title": "Poppy Playtime: Chapter 2 PS5",
-      "mark": "",
-      "price_from": 250,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2820/7981c9f8f122ac08d5febb8b883578b895300f8248f8cb1a.png",
-      "categories": [
-        "Хоррор",
-        "Все игры",
-        "Лента на главной"
-      ],
-      "platforms": "PS5"
-    },
-    {
-      "slug": "poppy-playtime-chapter-3-ps5",
-      "title": "Poppy Playtime: Chapter 3 PS5",
-      "mark": "",
-      "price_from": 359,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2820/3ac645931328e4ca5a7775db1164c09fef421589e6a50b88.png",
-      "categories": [
-        "Хоррор",
-        "Все игры",
-        "Лента на главной"
-      ],
-      "platforms": "PS5"
     },
     {
       "slug": "poppy-playtime-chapter-4-ps5",
@@ -5033,19 +6432,6 @@
       "platforms": "PS5"
     },
     {
-      "slug": "poppy-ps4-ps5",
-      "title": "Poppy PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "image_url": "https://static.tildacdn.com/stor6461-3137-4562-b838-633463303430/33211320.jpg",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Хоррор"
-      ],
-      "platforms": "PS4, PS5"
-    },
-    {
       "slug": "powerwash-simulator-2-ps5",
       "title": "PowerWash Simulator 2 PS5",
       "mark": "",
@@ -5076,24 +6462,6 @@
       "platforms": "PS4, PS5"
     },
     {
-      "slug": "pragmata-ps5",
-      "title": "PRAGMATA PS5",
-      "mark": "NEW",
-      "price_from": 289,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2605/3d57b6ae9b22a4982f0272ef1c716ebbfee59b7ea1fe60af.png",
-      "categories": [
-        "Новинка главная шапка",
-        "Лента на главной",
-        "Только PS5",
-        "Новинки",
-        "Приключения",
-        "Все игры",
-        "Хоррор",
-        "Шутеры"
-      ],
-      "platforms": "PS5"
-    },
-    {
       "slug": "prey-ps4-ps5",
       "title": "Prey PS4/PS5",
       "mark": "HIT",
@@ -5122,6 +6490,28 @@
       "platforms": "PS4, PS5"
     },
     {
+      "slug": "ps-plus-deluxe-turtsiya",
+      "title": "PS Plus Deluxe Турция",
+      "mark": "",
+      "price_from": 19458,
+      "image_url": "https://static.tildacdn.com/stor6161-3432-4364-a130-343762396635/0bcd8922babe4387467b09de2a682ff4.png",
+      "categories": [
+        "Подписка Plus"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "ps-plus-essential-turtsiya",
+      "title": "PS Plus Essential Турция",
+      "mark": "",
+      "price_from": 10290,
+      "image_url": "https://static.tildacdn.com/stor6266-3263-4536-b839-306636383738/3e1925bf3dbe3fe7ca8116158ea37700.png",
+      "categories": [
+        "Подписка Plus"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "psychonauts-2-ps4-ps5",
       "title": "Psychonauts 2 PS4/PS5",
       "mark": "",
@@ -5147,6 +6537,38 @@
         "Шутеры"
       ],
       "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "raft-ps5",
+      "title": "Raft PS5",
+      "mark": "NEW",
+      "price_from": 280,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2516/606714c3dea91947fb3bd8f300b80bee3e205cd89497e962.png",
+      "categories": [
+        "Новинки",
+        "Лента на главной",
+        "Test Drive Рекомендации",
+        "Alane Wake 2 рекомендации",
+        "Silent Hilll 2 рекомендации",
+        "Warhammer 40 рекомендации",
+        "Assassin’s Creed Shadows рекомендации",
+        "COD 6 рекомендации",
+        "Star wars рекомендации",
+        "Until Dawn remake рекомендации",
+        "FC 25 рекомендации",
+        "Dead Rising рекомендации",
+        "GOD2 рекомендации",
+        "Все игры",
+        "A Quiet Place рекомендации",
+        "Dragon Age: 2024 рекомендации",
+        "Lego Horizon Adventures PS5 Рекомендации",
+        "Spider man 2 рекомендации",
+        "Hogwarts Legacy Deluxe рекомендации",
+        "Dying light 2 Stay Human рекомендации",
+        "RAFT",
+        "Только PS5"
+      ],
+      "platforms": "PS5"
     },
     {
       "slug": "rage-2-ps4-ps5",
@@ -5242,22 +6664,34 @@
       "title": "REANIMAL: The Prisoner PS5",
       "mark": "NEW",
       "price_from": 257,
-      "image_url": "https://static.tildacdn.com/stor3865-6464-4633-a630-613964323532/818be47b924daee49fa7399b8cf6b4d8.jpg",
+      "image_url": "https://static.tildacdn.com/stor6634-3235-4637-b035-343764373935/459303ea7e85c5d0aea25108c3365d43.jpg",
       "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Боевики",
-        "Только PS5",
-        "Новинки",
-        "Приключения",
-        "РПГ",
-        "Стратегии и симуляторы",
         "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
         "Игры на двоих",
+        "Приключения",
         "Платформеры",
         "Хоррор"
       ],
       "platforms": "PS5"
+    },
+    {
+      "slug": "red-dead-redemption-1-ps4-ps5",
+      "title": "Red Dead Redemption 1 PS4/PS5",
+      "mark": "",
+      "price_from": 350,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08519_00/12/i_3da1cf7c41dc7652f9b639e1680d96436773658668c7dc3930c441291095713b/i/icon0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Шутеры",
+        "Боевики",
+        "Приключения",
+        "Hogwarts Legacy Deluxe рекомендации"
+      ],
+      "platforms": "PS4"
     },
     {
       "slug": "red-dead-redemption-2-ps4-ps5",
@@ -5348,6 +6782,22 @@
       "platforms": "PS4, PS5"
     },
     {
+      "slug": "resident-evil-4-ps4-ps5",
+      "title": "Resident Evil 4 PS4/PS5",
+      "mark": "Хит",
+      "price_from": 490,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Шутеры",
+        "Приключения",
+        "Хоррор",
+        "VR"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "resident-evil-5-ps4-ps5",
       "title": "Resident Evil 5 PS4/PS5",
       "mark": "",
@@ -5378,19 +6828,16 @@
       "platforms": "PS4, PS5"
     },
     {
-      "slug": "resident-evil-requiem-deluxe-edition-ps5",
-      "title": "Resident Evil Requiem Deluxe Edition PS5",
+      "slug": "resident-evil-requiem-ps5",
+      "title": "Resident Evil Requiem PS5",
       "mark": "NEW",
       "price_from": 257,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png",
+      "image_url": "https://static.tildacdn.com/stor6531-6264-4239-b238-623030373365/2d7d0443e9c0908af5e8da2e5e1e1de4.jpg",
       "categories": [
-        "Новинка главная шапка",
-        "Лента на главной",
-        "Только PS5",
-        "Новинки",
-        "Шутеры",
-        "Приключения",
         "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Шутеры",
         "Хоррор"
       ],
       "platforms": "PS5"
@@ -5704,12 +7151,11 @@
       "categories": [
         "Новинка главная шапка",
         "Все игры",
-        "Шутеры",
-        "Лента на главной",
-        "Только PS5",
-        "Боевики",
         "Новинки",
-        "Приключения"
+        "Только PS5",
+        "Шутеры",
+        "Приключения",
+        "Боевики"
       ],
       "platforms": "PS5"
     },
@@ -5918,6 +7364,22 @@
       "platforms": "PS4"
     },
     {
+      "slug": "shrek-2-remastered-ps5",
+      "title": "Shrek 2 Remastered PS5",
+      "mark": "NEW",
+      "price_from": 697,
+      "image_url": "https://static.tildacdn.com/stor6336-6437-4232-b061-336662636434/8349d73d42e3540b7ff3c5e8367fb9f2.jpg",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Приключения",
+        "Платформеры"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "sifu-ps4-ps5",
       "title": "SIFU PS4/PS5",
       "mark": "",
@@ -6012,6 +7474,21 @@
       "platforms": "PS4, PS5"
     },
     {
+      "slug": "skull-and-bones-ps5",
+      "title": "SKULL AND BONES PS5",
+      "mark": "",
+      "price_from": 349,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2720/c6ca32575a52c42b36b365c24cf59fa1ee0bca47ba4781ef.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Приключения",
+        "VR"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "sky-children-of-the-light-ps4",
       "title": "Sky: Children of the Light PS4",
       "mark": "NEW",
@@ -6025,6 +7502,65 @@
       "platforms": "PS4"
     },
     {
+      "slug": "skyrim-ps4-ps5",
+      "title": "Skyrim PS4/PS5",
+      "mark": "",
+      "price_from": 299,
+      "image_url": "https://static.tildacdn.com/stor6232-6163-4336-a166-353065326434/62372702.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "РПГ",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "slime-rancher-2-ps5",
+      "title": "Slime Rancher 2 PS5",
+      "mark": "",
+      "price_from": 359,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202404/0820/0e36563e506bcd3fb47a8bd61904bbf4af578f850217b469.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "sniper-elite-4-ps4-ps5",
+      "title": "Sniper Elite 4 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA04099_00/3/i_c0ab7eef40ba7db7e4440093e88e9fd5425a5f2e07d14351b9181b7031e8527f/i/icon0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Приключения",
+        "Шутеры"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "sniper-elite-5-ps4-ps5",
+      "title": "Sniper Elite 5 PS4/PS5",
+      "mark": "",
+      "price_from": 300,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2116/59jHCjMBRhuRhPUKUUy2gkNd.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Шутеры",
+        "Боевики",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "sniper-elite-resistance-ps4-ps5",
       "title": "Sniper Elite: Resistance PS4/PS5",
       "mark": "",
@@ -6036,6 +7572,93 @@
         "Шутеры",
         "Боевики",
         "Новинки"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "sniper-ghost-warrior-contracts-1-amp-2-double-pack-ps4-ps5",
+      "title": "Sniper Ghost Warrior Contracts 1 &amp; 2 Double Pack PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3532-3661-4036-a336-356234363433/81982705.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Приключения",
+        "Шутеры"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "sniper-ghost-warrior-contracts-1-ps4-ps5",
+      "title": "Sniper Ghost Warrior Contracts 1 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202104/2909/fYka67cdczJPdp6LwQrLuZ3Y.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Шутеры",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "sniper-ghost-warrior-contracts-2-ps4-ps5",
+      "title": "Sniper Ghost Warrior Contracts 2 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202104/2909/fYka67cdczJPdp6LwQrLuZ3Y.png",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Шутеры",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "snowrunner-premium-edition-ps4-ps5",
+      "title": "SnowRunner - Premium Edition PS4/PS5",
+      "mark": "",
+      "price_from": 280,
+      "image_url": "https://static.tildacdn.com/stor3864-6561-4563-b230-343232376636/20085897.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Стратегии и симуляторы",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "sonic-frontiers-ps4-ps5",
+      "title": "Sonic Frontiers PS4/PS5",
+      "mark": "",
+      "price_from": 350,
+      "image_url": "https://static.tildacdn.com/stor3664-6439-4365-a661-663437633066/62945284.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Платформеры"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "sonic-superstar-ps4-ps5",
+      "title": "Sonic Superstar PS4/PS5",
+      "mark": "",
+      "price_from": 390,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/9fb7d209dbb62357ddd5c305f6019a97238fc1bd1b540560.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Платформеры"
       ],
       "platforms": "PS4, PS5"
     },
@@ -6072,6 +7695,112 @@
       "platforms": "PS5"
     },
     {
+      "slug": "spider-man-game-of-the-year-edition-ps4-ps5",
+      "title": "Spider Man Game of the Year Edition PS4/PS5",
+      "mark": "",
+      "price_from": 300,
+      "image_url": "https://static.tildacdn.com/stor6636-3365-4136-a635-646437303066/36000888.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "spider-man-miles-morales-ps4-ps5",
+      "title": "Spider Man Miles Morales PS4/PS5",
+      "mark": "",
+      "price_from": 350,
+      "image_url": "https://static.tildacdn.com/stor3637-6463-4662-b466-653362393830/51919144.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "spider-man-remastered-ps5",
+      "title": "Spider Man: Remastered PS5",
+      "mark": "",
+      "price_from": 350,
+      "image_url": "https://static.tildacdn.com/stor3739-6433-4833-b031-343766663637/88767079.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "split-fiction-ps5",
+      "title": "Split Fiction PS5",
+      "mark": "Язык Английский!",
+      "price_from": 449,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2918/90ad70c1ef581f93454184750cba9e0ca37bc7e30a4d1f55.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Игры на двоих",
+        "Приключения",
+        "Платформеры",
+        "Новинки"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "sprawl-zero-ps5",
+      "title": "SPRAWL zero PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor3834-3932-4764-b636-356539666264/4c86247ef6025ed143fa68f4c043691f.jpg",
+      "categories": [
+        "Все игры",
+        "Только PS5",
+        "Шутеры",
+        "Приключения",
+        "РПГ",
+        "Платформеры",
+        "Боевики",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "star-wars-jedi-fallen-order-ps4-ps5",
+      "title": "Star Wars Jedi: Fallen Order PS4/PS5",
+      "mark": "",
+      "price_from": 280,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202012/1013/DKYIpVhskEQ4jbzr1PVxsO0Z.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "star-wars-jedi-survivor-ps5",
+      "title": "Star Wars Jedi: Survivor PS5",
+      "mark": "",
+      "price_from": 350,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2222/l8QTN7ThQK3lRBHhB3nX1s7h.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Приключения"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "star-wars-outlaws-ps5",
       "title": "Star Wars Outlaws PS5",
       "mark": "NEW",
@@ -6104,6 +7833,66 @@
       "platforms": "PS5"
     },
     {
+      "slug": "star-wars-outlaws-dopolnenie-a-pirate-s-fortune-ps5",
+      "title": "Star Wars Outlaws: дополнение A Pirate's Fortune PS5",
+      "mark": "NEW",
+      "price_from": 899,
+      "image_url": "https://static.tildacdn.com/stor3530-3365-4333-a438-636536646236/13748767.png",
+      "categories": [
+        "Все игры",
+        "Dragon Age: 2024 рекомендации",
+        "Until Dawn remake рекомендации",
+        "Assassin’s Creed Shadows рекомендации",
+        "Life is Strange: Double Exposure рекомендации",
+        "Test Drive Рекомендации",
+        "Spider man 2 рекомендации",
+        "Silent Hilll 2 рекомендации",
+        "COD 6 рекомендации",
+        "Dead Rising рекомендации",
+        "Wukong рекомендации",
+        "GOD2 рекомендации",
+        "A Quiet Place рекомендации",
+        "Lego Horizon Adventures PS5 Рекомендации",
+        "Star wars рекомендации",
+        "Hogwarts Legacy Deluxe рекомендации",
+        "FC 25 рекомендации",
+        "Warhammer 40 рекомендации",
+        "RAFT Рекомендации",
+        "Шутеры"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "star-wars-outlaws-dopolnenie-wild-card-ps5",
+      "title": "Star Wars Outlaws: дополнение Wild Card PS5",
+      "mark": "NEW",
+      "price_from": 899,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/3020/bca42b94af09b7a7ffd27fcb76a7bb1e46b60ed0c5f99322.png",
+      "categories": [
+        "Все игры",
+        "Star wars рекомендации",
+        "Wukong рекомендации",
+        "Test Drive Рекомендации",
+        "Silent Hilll 2 рекомендации",
+        "Warhammer 40 рекомендации",
+        "COD 6 рекомендации",
+        "Assassin’s Creed Shadows рекомендации",
+        "Until Dawn remake рекомендации",
+        "Dead Rising рекомендации",
+        "FC 25 рекомендации",
+        "GOD2 рекомендации",
+        "Life is Strange: Double Exposure рекомендации",
+        "A Quiet Place рекомендации",
+        "Dragon Age: 2024 рекомендации",
+        "Lego Horizon Adventures PS5 Рекомендации",
+        "Spider man 2 рекомендации",
+        "Hogwarts Legacy Deluxe рекомендации",
+        "RAFT Рекомендации",
+        "Шутеры"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "star-wars-zero-company-ps5",
       "title": "STAR WARS Zero Company PS5",
       "mark": "NEW",
@@ -6118,6 +7907,36 @@
         "Боевики"
       ],
       "platforms": "PS5"
+    },
+    {
+      "slug": "star-wars-battlefront-ii-ps4-ps5",
+      "title": "Star Wars: Battlefront II PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05749_00/4/i_d1fb05cea9c9978c82fce182d4e79120430b33de101d0652ef91edf150fedb9b/i/icon0_01.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Шутеры",
+        "Боевики",
+        "Приключения"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "star-wars-battlefront-ps4-ps5",
+      "title": "Star Wars: Battlefront PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00634_00/3/i_bd22c9c5ff495c10c426c43b96fdbaf5766a8c7cf9cb11996283ced3402d9292/i/icon0_01.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики",
+        "Шутеры"
+      ],
+      "platforms": "PS4"
     },
     {
       "slug": "star-wars-galactic-racer-ps5",
@@ -6136,6 +7955,21 @@
       "platforms": "PS5"
     },
     {
+      "slug": "star-wars-squadrons-ps4-ps5",
+      "title": "Star Wars: Squadrons PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1219/aP7aCfJPhs5O0QfzeaoxzrjG.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики",
+        "Шутеры"
+      ],
+      "platforms": "PS4"
+    },
+    {
       "slug": "starfield-ps5",
       "title": "Starfield PS5",
       "mark": "NEW",
@@ -6148,6 +7982,40 @@
         "Шутеры",
         "Приключения",
         "РПГ"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "starfield-ps5-na-russkom-yazyke",
+      "title": "Starfield PS5 на Русском языке",
+      "mark": "NEW",
+      "price_from": 697,
+      "image_url": "https://static.tildacdn.com/stor3237-6631-4432-b462-383735613034/26c200ef6d6690c2e46f0d9353c53185.jpg",
+      "categories": [
+        "Новинка главная шапка",
+        "Лента на главной",
+        "Только PS5",
+        "Новинки",
+        "Приключения",
+        "Все игры",
+        "Шутеры",
+        "РПГ",
+        "Боевики"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "steelrising-ps5",
+      "title": "Steelrising PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/0208/c56f18fb92e2d0099051d5f582e804e1c202b8eadc0bea23.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Приключения",
+        "Боевики"
       ],
       "platforms": "PS5"
     },
@@ -6179,7 +8047,95 @@
         "Spider man 2 рекомендации",
         "Hogwarts Legacy Deluxe рекомендации",
         "RAFT Рекомендации",
-        "Только PS5"
+        "Только PS5",
+        "Лента на главной",
+        "Боевики",
+        "Приключения"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "still-wakes-the-deep-ps5",
+      "title": "Still Wakes the Deep PS5",
+      "mark": "",
+      "price_from": 259,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1516/e7de31353c4f10f9a9de88c2494e6ad3c366d47684ee3551.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Хоррор",
+        "Боевики"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "stray-ps4-ps5",
+      "title": "Stray PS4/PS5",
+      "mark": "",
+      "price_from": 280,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0300/E2vZwVaDJbhLZpJo7Q10IyYo.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "street-fighter-6-ps5",
+      "title": "Street Fighter 6 PS5",
+      "mark": "",
+      "price_from": 290,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Спорт",
+        "Игры на двоих"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "street-of-rage-4-ps4-ps5",
+      "title": "Street of Rage 4 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA16221_00/1/i_5346de103a52708c12687fcc267c4e28855ff7a6e28dc1cfb0a69c9a73721645/i/icon0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "subnautica-ps4-ps5",
+      "title": "Subnautica PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202009/3006/C76j3lYg8BNBWJRSYtI2ONbo.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "suicide-squad-kill-the-justice-league-ps5",
+      "title": "Suicide Squad: Kill the Justice League PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1017/927b473e6de3d838b418fddb52f9efb13f19cf4ee8c8dfed.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Боевики",
+        "Шутеры"
       ],
       "platforms": "PS5"
     },
@@ -6197,6 +8153,60 @@
         "Стратегии и симуляторы"
       ],
       "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "syberia-the-world-before-ps4-ps5",
+      "title": "Syberia - The World Before PS4/PS5",
+      "mark": "",
+      "price_from": 280,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2115/H4VoqAkqQ4wMgqlIYdN2WLTD.png",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "system-shock-ps4-ps5",
+      "title": "System Shock PS4/PS5",
+      "mark": "",
+      "price_from": 350,
+      "image_url": "https://static.tildacdn.com/stor3233-3434-4236-a563-616339383537/16011629.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "РПГ"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "tales-of-arise-ps4-ps5",
+      "title": "Tales of Arise PS4/PS5",
+      "mark": "",
+      "price_from": 280,
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202109/1414/F6vtLdqsnKP4VWwqiSpwmhlO.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "teardown-ps5",
+      "title": "Teardown PS5",
+      "mark": "",
+      "price_from": 290,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1509/a634acd2429a3848de5de286d078f340b37543b8b86a647b.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Стратегии и симуляторы",
+        "Боевики"
+      ],
+      "platforms": "PS5"
     },
     {
       "slug": "teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants-ps4-ps5",
@@ -6231,6 +8241,21 @@
       "platforms": "PS4, PS5"
     },
     {
+      "slug": "teenage-mutant-ninja-turtles-shredder-s-revenge-ps4-ps5",
+      "title": "Teenage Mutant Ninja Turtles: Shredder’s Revenge PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0919/hq6KtnlrPbnUj7iNNI0V6gwe.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Игры на двоих",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "teenage-mutant-ninja-turtles-splintered-fate-ps4-ps5",
       "title": "Teenage Mutant Ninja Turtles: Splintered Fate PS4/PS5",
       "mark": "NEW",
@@ -6242,6 +8267,21 @@
         "Игры на двоих",
         "Приключения",
         "Платформеры"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "teenage-mutant-ninja-turtles-the-cowabunga-collection-ps4-ps5",
+      "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0823/Y0bXkLgt0Yet3SvbjV94OHID.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Игры на двоих",
+        "Приключения",
+        "Боевики"
       ],
       "platforms": "PS4, PS5"
     },
@@ -6403,21 +8443,6 @@
       "platforms": "PS4, PS5"
     },
     {
-      "slug": "the-beast-inside-ps4-ps5",
-      "title": "The Beast Inside PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2315/md7GEzGKdqbjcFRMhIQa4Uge.png",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Хоррор",
-        "Боевики",
-        "Приключения"
-      ],
-      "platforms": "PS5"
-    },
-    {
       "slug": "the-binding-of-isaac-repentance-ps5",
       "title": "The Binding of Isaac: Repentance PS5",
       "mark": "NEW",
@@ -6461,40 +8486,6 @@
         "Боевики"
       ],
       "platforms": "PS4, PS5"
-    },
-    {
-      "slug": "the-casting-of-frank-stone-ps5",
-      "title": "The Casting of Frank Stone PS5",
-      "mark": "-30%",
-      "price_from": 290,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/0320/6410b2c91023e9bdc53bc408a308b27d03751c1a70aa35f2.png",
-      "categories": [
-        "Все игры",
-        "Silent Hilll 2 рекомендации",
-        "Wukong рекомендации",
-        "Alane Wake 2 рекомендации",
-        "Новинки",
-        "Warhammer 40 рекомендации",
-        "COD 6 рекомендации",
-        "Assassin’s Creed Shadows рекомендации",
-        "Star wars рекомендации",
-        "Until Dawn remake рекомендации",
-        "Dead Rising рекомендации",
-        "Test Drive Рекомендации",
-        "FC 25 рекомендации",
-        "GOD2 рекомендации",
-        "Life is Strange: Double Exposure рекомендации",
-        "A Quiet Place рекомендации",
-        "Dragon Age: 2024 рекомендации",
-        "Lego Horizon Adventures PS5 Рекомендации",
-        "Spider man 2 рекомендации",
-        "Hogwarts Legacy Deluxe рекомендации",
-        "RAFT Рекомендации",
-        "Только PS5",
-        "Игры на двоих",
-        "Интерактивное кино"
-      ],
-      "platforms": "PS5"
     },
     {
       "slug": "the-chant-ps5",
@@ -6696,6 +8687,21 @@
       "platforms": "PS4, PS5"
     },
     {
+      "slug": "the-jackbox-party-starter-ps4",
+      "title": "The Jackbox Party Starter PS4",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor6533-6230-4564-a535-636134353566/74086671.jpg",
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Игры на двоих",
+        "Приключения",
+        "Платформеры"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "the-king-is-watching-ps5",
       "title": "The King is Watching PS5",
       "mark": "NEW",
@@ -6778,6 +8784,35 @@
       "platforms": "PS5"
     },
     {
+      "slug": "the-last-of-us-part-ii-remastered-ps4-ps5",
+      "title": "The Last of Us Part II REMASTERED PS4/PS5",
+      "mark": "",
+      "price_from": 490,
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png",
+      "categories": [
+        "Все игры",
+        "Spider man 2 рекомендации",
+        "Лента на главной",
+        "Hogwarts Legacy Deluxe рекомендации",
+        "Wukong рекомендации",
+        "Test Drive Рекомендации",
+        "Alane Wake 2 рекомендации",
+        "Silent Hilll 2 рекомендации",
+        "Warhammer 40 рекомендации",
+        "COD 6 рекомендации",
+        "Assassin’s Creed Shadows рекомендации",
+        "GOD2 рекомендации",
+        "Life is Strange: Double Exposure рекомендации",
+        "Lego Horizon Adventures PS5 Рекомендации",
+        "Dragon Age: 2024 рекомендации",
+        "A Quiet Place рекомендации",
+        "Until Dawn remake рекомендации",
+        "RAFT Рекомендации",
+        "Только PS5"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "the-lord-of-the-rings-gollum-ps4-ps5",
       "title": "The Lord of the Rings: Gollum PS4/PS5",
       "mark": "",
@@ -6817,24 +8852,6 @@
         "Шутеры"
       ],
       "platforms": "PS4"
-    },
-    {
-      "slug": "the-outer-worlds-2-ps5",
-      "title": "The Outer Worlds 2 PS5",
-      "mark": "",
-      "price_from": 399,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1609/a4fda8e001ee32a4f11cba7bac0c5bbeefc7cd47947ccff6.png",
-      "categories": [
-        "Хоррор",
-        "Все игры",
-        "Приключения",
-        "РПГ",
-        "Только PS5",
-        "Лента на главной",
-        "Новинки",
-        "Новинка главная шапка"
-      ],
-      "platforms": "PS5"
     },
     {
       "slug": "the-outer-worlds-ps4-ps5",
@@ -6911,6 +8928,23 @@
       "platforms": "PS5"
     },
     {
+      "slug": "the-quarry-ps4-ps5",
+      "title": "The Quarry PS4/PS5",
+      "mark": "",
+      "price_from": 350,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0501/FUr3M0kGxyddUfUeuKBBFf2w.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Интерактивное кино",
+        "Игры на двоих",
+        "Хоррор",
+        "Until Dawn remake рекомендации",
+        "Silent Hilll 2 рекомендации"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "the-sims-4-ps4",
       "title": "The Sims 4 PS4",
       "mark": "NEW",
@@ -6922,6 +8956,22 @@
         "Стратегии и симуляторы"
       ],
       "platforms": "PS4"
+    },
+    {
+      "slug": "the-sinking-city-2-ps5",
+      "title": "The Sinking City 2 PS5",
+      "mark": "NEW",
+      "price_from": 697,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2214/601a67ac0787ae26a4575d61ba77aa9a4b757c9d33dcc5b9.png",
+      "categories": [
+        "Предзаказы",
+        "Все игры",
+        "Новинка главная шапка",
+        "Только PS5",
+        "Новинки",
+        "Хоррор"
+      ],
+      "platforms": "PS5"
     },
     {
       "slug": "the-sinking-city-deluxe-ps5",
@@ -6959,6 +9009,21 @@
       "platforms": "PS5"
     },
     {
+      "slug": "the-walking-dead-the-telltale-definitive-series-ps4-ps5",
+      "title": "The Walking Dead: The Telltale Definitive Series PS4/PS5",
+      "mark": "",
+      "price_from": 290,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA16490_00/11/i_d760d0948c9c39dc458f88648ff13d967b0ebb884894ddab0ffec0094abb5e7a/i/icon0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Интерактивное кино",
+        "Приключения",
+        "Хоррор"
+      ],
+      "platforms": "PS4"
+    },
+    {
       "slug": "the-witcher-3-wild-hunt-game-of-the-year-edition-ps4-ps5",
       "title": "The Witcher 3: Wild Hunt – Game of the Year Edition PS4/PS5",
       "mark": "",
@@ -6972,20 +9037,6 @@
         "РПГ"
       ],
       "platforms": "PS4, PS5"
-    },
-    {
-      "slug": "the-wolf-among-us-ps4-ps5",
-      "title": "The Wolf Among Us PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01009_00/4/i_6efe059b013e55b4da55f0c3e9964d063143dfe4ff6c2e1fd55aa2e4ea505a46/i/icon0.png",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Приключения",
-        "Боевики"
-      ],
-      "platforms": "PS4"
     },
     {
       "slug": "the-wolf-among-us-remastered-ps5",
@@ -7118,20 +9169,6 @@
       "platforms": "PS4, PS5"
     },
     {
-      "slug": "topspin-2k25-ps4-ps5",
-      "title": "Topspin 2к25 PS4/PS5",
-      "mark": "",
-      "price_from": 490,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0618/5eb7a7431f949782b41e96f098f555ad492c2981d1156f18.png",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Спорт",
-        "Стратегии и симуляторы"
-      ],
-      "platforms": "PS4, PS5"
-    },
-    {
       "slug": "trails-in-the-sky-2nd-chapter-ps5",
       "title": "Trails in the Sky 2nd Chapter PS5",
       "mark": "NEW",
@@ -7186,19 +9223,6 @@
         "Приключения"
       ],
       "platforms": "PS4, PS5"
-    },
-    {
-      "slug": "twin-mirror-ps4-ps5",
-      "title": "Twin Mirror PS4/PS5",
-      "mark": "",
-      "price_from": 350,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1202/z5tGmstkqZ5YZ8U4DvKNcpbZ.png",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Интерактивное кино"
-      ],
-      "platforms": "PS4"
     },
     {
       "slug": "ufc-3-ps4-ps5",
@@ -7263,21 +9287,6 @@
         "Новинка главная шапка"
       ],
       "platforms": "PS5"
-    },
-    {
-      "slug": "ultimate-ea-sports-fc-26-dlya-ps4-ps5",
-      "title": "Ultimate EA SPORTS FC 26 для PS4/PS5",
-      "mark": "",
-      "price_from": 490,
-      "image_url": "https://static.tildacdn.com/stor6437-3438-4764-b961-643338386165/79854004.jpg",
-      "categories": [
-        "Новинка главная шапка",
-        "Новинки",
-        "Все игры",
-        "Игры на двоих",
-        "Спорт"
-      ],
-      "platforms": "PS4, PS5"
     },
     {
       "slug": "uncharted-1-2-3-drake-collection-ps4-ps5",
@@ -7408,6 +9417,22 @@
       "platforms": "PS4, PS5"
     },
     {
+      "slug": "until-dawn-2-ps5",
+      "title": "Until Dawn 2 PS5",
+      "mark": "NEW",
+      "price_from": 697,
+      "image_url": "https://static.tildacdn.com/stor3530-6134-4637-b736-663438373962/e9d468f3ad8b43f4fdd5d7ede10a6759.jpg",
+      "categories": [
+        "Предзаказы",
+        "Все игры",
+        "Новинка главная шапка",
+        "Новинки",
+        "Только PS5",
+        "Хоррор"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "until-dawn-remake-ps5",
       "title": "Until Dawn remake PS5",
       "mark": "NEW",
@@ -7483,6 +9508,19 @@
       "platforms": "PS4"
     },
     {
+      "slug": "visage-ps4-ps5",
+      "title": "Visage PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1322/zz3hYWUBYCDYoe1bwz0sa3Qo.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Хоррор"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "warhammer-40-000-space-marine-2-ps5",
       "title": "Warhammer 40,000: Space Marine 2 PS5",
       "mark": "NEW",
@@ -7516,6 +9554,48 @@
       "platforms": "PS5"
     },
     {
+      "slug": "watch-dogs-2-deluxe-edition-ps4-ps5",
+      "title": "Watch Dogs 2 - Deluxe Edition PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/cdn/UP0001/CUSA04459_00/qBxvfDJJ9dbavai6xsWOcWaxRDGRb7h0.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Приключения"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "watch-dogs-ps4-ps5",
+      "title": "Watch Dogs PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00016_00/3/i_36e2b7c37c766c3c8028a3740918af1bec0cd873f2583ffc0264aeae38683cca/i/icon0.png",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "watch-dogs-legion-ps4-ps5",
+      "title": "Watch Dogs: Legion PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0200/ohDfr1TcylLqbwva38ONyLHO.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "who-s-your-daddy-ps4",
       "title": "Who's Your Daddy?! PS4",
       "mark": "NEW",
@@ -7545,6 +9625,20 @@
       "platforms": "PS5"
     },
     {
+      "slug": "winx-club-the-magic-is-back-ps5",
+      "title": "Winx Club: The Magic is Back PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "image_url": "https://static.tildacdn.com/stor6536-3864-4138-b934-363631626131/6018e102d91c2c95c656f0cd80efa999.jpg",
+      "categories": [
+        "Все игры",
+        "Только PS5",
+        "Игры на двоих",
+        "Платформеры"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "wo-long-2-wings-of-ember-ps5",
       "title": "Wo Long 2: Wings of Ember PS5",
       "mark": "NEW",
@@ -7554,6 +9648,62 @@
         "Предзаказы"
       ],
       "platforms": "PS5"
+    },
+    {
+      "slug": "wolfenstein-alt-history-collection-ps4-ps5",
+      "title": "Wolfenstein: Alt History Collection PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor6637-6537-4239-b333-396366636265/92283994.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Шутеры",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "wolfenstein-the-new-order-ps4-ps5",
+      "title": "Wolfenstein: The New Order PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3004/ZKYzTfaw4UrsLLt6VjYGwh5r.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Шутеры"
+      ],
+      "platforms": "PS4"
+    },
+    {
+      "slug": "worms-armageddon-ps4-ps5",
+      "title": "Worms Armageddon PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3332-3864-4563-b539-363731343365/70106357.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Игры на двоих"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "worms-rumble-ps4-ps5",
+      "title": "Worms Rumble PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1220/zoRNQGzwMQRJDpRSKjifE1vu.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
     },
     {
       "slug": "worms-wmd-ps4-ps5",
@@ -7571,6 +9721,34 @@
       "platforms": "PS4"
     },
     {
+      "slug": "wrc-9-ps4-ps5",
+      "title": "WRC 9 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3534-3161-4131-a635-663939666237/68849543.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Спорт",
+        "Гонки"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "wreckfest-ps4-ps5",
+      "title": "Wreckfest PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/1411/SkZZUr3taWJ7pb0LGpm7OaMf.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Гонки",
+        "Спорт"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
       "slug": "wuchang-fallen-feathers-ps5",
       "title": "WUCHANG: Fallen Feathers PS5",
       "mark": "",
@@ -7585,6 +9763,48 @@
         "Новинки"
       ],
       "platforms": "PS5"
+    },
+    {
+      "slug": "wwe-22-ps4-ps5",
+      "title": "WWE 22 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2617/7d34370effa78b3d662f03900e7934d577d48b030d192f97.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Игры на двоих",
+        "Спорт"
+      ],
+      "platforms": "PS5"
+    },
+    {
+      "slug": "wwe-23-ps4-ps5",
+      "title": "WWE 23 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3764-3865-4338-b035-303964626631/90738723.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Игры на двоих",
+        "Спорт"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "wwe-2k-battlegrounds-digital-deluxe-ps4-ps5",
+      "title": "WWE 2K Battlegrounds Digital Deluxe PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor3662-3336-4836-b763-626137393338/44590325.png",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Спорт",
+        "Игры на двоих"
+      ],
+      "platforms": "PS4, PS5"
     },
     {
       "slug": "xcom-2-collection-ps4-ps5",
@@ -7715,6 +9935,35 @@
       "platforms": "PS4, PS5"
     },
     {
+      "slug": "gubka-bob-kvadratnye-shtany-giganty-glubin-ps5",
+      "title": "Губка Боб Квадратные Штаны: Гиганты глубин PS5",
+      "mark": "Хит",
+      "price_from": 599,
+      "image_url": "https://static.tildacdn.com/stor3238-3466-4935-b565-363866376635/aea79f0554f4b75156c1e4b79f21d701.jpg",
+      "categories": [
+        "Новинка главная шапка",
+        "Приключения",
+        "Лента на главной",
+        "Новинки",
+        "Платформеры",
+        "Все игры"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "dozhit-do-rassveta-ps4",
+      "title": "Дожить до Рассвета PS4",
+      "mark": "Хит",
+      "price_from": 280,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2910/d48262b72a5a2daa3ca3aed6c8f42c44f3fdaf2902265a13.png",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Интерактивное кино"
+      ],
+      "platforms": "PS5"
+    },
+    {
       "slug": "dopolnitelnye-hody-dlya-collection-card-10-sht",
       "title": "Дополнительные ходы для Collection Card 10 шт.",
       "mark": "",
@@ -7817,20 +10066,6 @@
       "platforms": "PS4, PS5"
     },
     {
-      "slug": "metro-2033-ps4-ps5",
-      "title": "Метро 2033 PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "image_url": "https://static.tildacdn.com/stor6238-6139-4239-a661-643636343063/27254222.jpg",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Шутеры",
-        "Боевики"
-      ],
-      "platforms": "PS4, PS5"
-    },
-    {
       "slug": "pustoy-akkaunt-dlya-playstation-ps4-ps5",
       "title": "Пустой аккаунт для Playstation PS4/PS5",
       "mark": "",
@@ -7839,6 +10074,19 @@
       "categories": [
         "Fortnite",
         "Продажа акаунтов пустых"
+      ],
+      "platforms": "PS4, PS5"
+    },
+    {
+      "slug": "puteshestvie-ps4-ps5",
+      "title": "Путешествие PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "image_url": "https://static.tildacdn.com/stor6365-3939-4634-a131-323839393761/39798238.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Приключения"
       ],
       "platforms": "PS4, PS5"
     },
@@ -8000,6 +10248,20 @@
         "Ходы для игры"
       ],
       "platforms": "PS5"
+    },
+    {
+      "slug": "strazhi-galaktiki-ps4-ps5",
+      "title": "Стражи Галактики PS4/PS5",
+      "mark": "",
+      "price_from": 290,
+      "image_url": "https://static.tildacdn.com/stor3636-6237-4964-b965-633230356465/36760637.jpg",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5"
     }
   ]
 }
