@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-22T21:09:49+03:00",
-  "updated_at_msk": "22.11.2026 21:09",
+  "updated_at": "2026-11-22T22:06:29+03:00",
+  "updated_at_msk": "22.11.2026 22:06",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 3195,
+  "total": 3199,
   "unique_games": 1069,
   "in_demand": 221,
   "one_off": 685,
@@ -5470,19 +5470,15 @@
     {
       "id": "shrek-2-remastered-ps5",
       "title": "Shrek 2 Remastered PS5",
-      "item_id": "8514497607",
+      "item_id": "8554396184",
       "url": "https://avito.ru",
-      "count": 40,
+      "count": 44,
       "demand": "high",
-      "avg_price": 316,
+      "avg_price": 310,
       "min_price": 257,
       "max_price": 591,
-      "last_price": 591,
+      "last_price": 257,
       "prices": [
-        257,
-        257,
-        257,
-        257,
         257,
         257,
         257,
@@ -5498,7 +5494,11 @@
         497,
         497,
         591,
-        591
+        591,
+        257,
+        257,
+        257,
+        257
       ],
       "counts": [
         0,
@@ -5675,7 +5675,7 @@
         39,
         39,
         40,
-        40
+        44
       ],
       "hourly": [
         0,
@@ -5852,7 +5852,7 @@
         1,
         0,
         1,
-        0
+        4
       ],
       "price_series": [
         null,
@@ -6029,10 +6029,10 @@
         591,
         591,
         591,
-        591
+        257
       ],
       "first_at": "2026-10-29T20:15:07+03:00",
-      "last_at": "2026-11-21T12:46:31+03:00"
+      "last_at": "2026-11-22T21:47:30+03:00"
     },
     {
       "id": "ufc-3",
@@ -587718,6 +587718,30 @@
   ],
   "recent": [
     {
+      "title": "Shrek 2 Remastered PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-22T21:47:30+03:00"
+    },
+    {
+      "title": "Shrek 2 Remastered PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-22T21:47:30+03:00"
+    },
+    {
+      "title": "Shrek 2 Remastered PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-22T21:47:30+03:00"
+    },
+    {
+      "title": "Shrek 2 Remastered PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-22T21:47:30+03:00"
+    },
+    {
       "title": "Manhunt PS4",
       "price": 257,
       "price_string": "257 ₽",
@@ -587932,30 +587956,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-22T15:14:56+03:00"
-    },
-    {
-      "title": "UFC 6 Ultimate Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-22T15:14:56+03:00"
-    },
-    {
-      "title": "UFC 6 Ultimate Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-22T15:14:56+03:00"
-    },
-    {
-      "title": "UFC 6 Ultimate Edition PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-22T15:14:56+03:00"
-    },
-    {
-      "title": "PS5 Dualsense GTA VI (6) Limited Edition",
-      "price": 13000,
-      "price_string": "13 000 ₽",
-      "at": "2026-11-22T15:11:24+03:00"
     }
   ]
 }
