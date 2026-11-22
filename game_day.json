@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-21T02:02:58Z",
-  "server_time_utc": "2026-11-21T02:02:58Z",
+  "updated_at": "2026-11-22T02:07:44Z",
+  "server_time_utc": "2026-11-22T02:07:44Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-22T02:00:00Z",
-  "expires_at": "2026-11-22T02:00:00Z",
+  "next_rotation_at": "2026-11-23T02:00:00Z",
+  "expires_at": "2026-11-23T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 100,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-22T02:00:00Z"
+    "next_rotation_at": "2026-11-23T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "gotham-knights-ps5",
+      "title": "Gotham Knights PS5",
+      "description": "Бэтмена больше нет, но Готэм не рухнул. Теперь на страже города стоит его семья: Бэтгёрл, Найтвинга, Красный Колпака и Робин. Им предстоит вернуть надежду гражданам, наказать преступников и даже немного дисциплинировать полицию, если понадобится.\n\nВас ждут яркие приключения в открытом мире. От расследования загадочных тайн до захватывающих боев с самыми известными злодеями - всё это происходит прямо в оживлённых улицах Готэм-Сити.\n\nВыбирайте любого из героев, патрулируйте один из пяти районов города и пресекайте преступность там, где бы вы её ни нашли. История начинается сейчас. Станьте рыцарем.",
+      "image_url": "https://static.tildacdn.com/stor3738-3632-4932-a363-373765383636/31820970.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202204/2218/45fkqkN8fss0CIdMX5Lp59B3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202204/2218/bzBtoURDvFXREbTLOG7iawZY.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202204/2218/RIOTM96b7LYyirtXh5RNOaAR.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202204/2218/E2hcIfi85AxZiDHlxfH5WWgx.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1021/QxXSLSn548KtaXDOVsS7spHU.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1021/2BkDJdUfar5m3vwy62Ua7XQX.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202205/1021/DDlqOTLIN1BKiO2L170Opxg3.jpg"
+      ],
+      "release_date": "21/10/2022",
+      "publisher": "WARNER BROS. INTERACTIVE",
+      "platforms": "PS5",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 3.22,
+      "store_url": "https://store.playstation.com/en-tr/concept/233383",
+      "tilda_uid": "526647240672",
+      "sku": "",
+      "external_id": "hK00liiLAS6ntVHnSYz2",
+      "url": "http://arenapsgm.ru/tproduct/526647240672-gotham-knights-ps5",
+      "expires_at": "2026-11-23T02:00:00Z",
+      "published_at": "2026-11-22T02:07:44Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 100,
+          "21": 100,
+          "28": 100
+        },
+        "p3": {
+          "7": 200,
+          "14": 200,
+          "21": 200,
+          "28": 200
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 100,
+        "21": 100,
+        "28": 100
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Бэтмен ушел с поста, но Готэм остался жив: теперь его защищают Бэтгёрл, Найтвинга и другие герои из «Бэтмена: На страже города».\n\nВас ждут открытое исследование улиц, захватывающие бои с злодеями и возможность даже немного дисциплинировать полицию. Выбирайте героя, выбирайте район и становитесь рыцарем в этом новом приключении."
+    }
+  ],
+  "history": [
     {
       "slug": "disciples-liberation-ps4-ps5",
       "title": "Disciples: Liberation PS4/PS5",
@@ -49,34 +102,31 @@
       "sku": "",
       "external_id": "gfHKsB0i1yfYtAjeSJp6",
       "url": "http://arenapsgm.ru/gamescatalog/tproduct/666985504492-disciples-liberation-ps4-ps5",
-      "expires_at": "2026-11-22T02:00:00Z",
       "published_at": "2026-11-21T02:02:58Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 100,
-          "21": 100,
-          "28": 100
+          "7": 390,
+          "14": 450,
+          "21": 590,
+          "28": 690
         },
         "p3": {
-          "7": 200,
-          "14": 200,
-          "21": 200,
-          "28": 200
+          "7": 490,
+          "14": 550,
+          "21": 690,
+          "28": 790
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 100,
-        "21": 100,
-        "28": 100
+        "7": 390,
+        "14": 450,
+        "21": 590,
+        "28": 690
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Disciples: Освобождение - мрачная RPG с пошаговыми боями, где каждый неверный шаг может стоить вам жизни. В одиночку можно потратить на 80 часов, пройти три акта и выбрать свою судьбу среди четырёх классов героев.\n\nОтправляйтесь в земли Невендаара, чтобы разгадывать тайны и строить армию, а затем проверяйте свои навыки против уникальных монстров или…"
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "guardians-of-the-galaxy-ps4-ps5",
       "title": "Guardians of the Galaxy PS4/PS5",
@@ -2984,56 +3034,6 @@
       "p3_extra": 0,
       "is_game_day": false,
       "short_description": "Наконец-то - мяч в руках, а баскетбол на экране! 🏀  \nNBA 2K23 дает полный календарь и разные стили игры – от командных поединков до индивидуального боёв."
-    },
-    {
-      "slug": "amnesia-collection-ps4-ps5",
-      "title": "Amnesia: Collection PS4/PS5",
-      "description": "Замок. Тьма. Воспоминания, которые не хотят умирать.  \nВ Amnesia: The Dark Descent вы просыпаетесь в пустом замке - и понимаете, что тут ждёт не просто страх, а что-то живое.  \n\nАдская машина. Дети на грани. Снова проснётся человек, который уже боялся сна.  \nВ Amnesia: A Machine For Pigs Освальд должен спасти своих детей - даже если это означает вступить в безумие.  \n\nА в Justine - вы сами становитесь жертвой разума, который не хочет вас оставить.  \nРискнете ли вы за других? Или просто пойдёте на убытие? 🤯  \n\nСмотрите, как игра сжигает мозг - и в то же время дарит глубокие ощущения.  \nАрендовать можно - пишите в чат 👇",
-      "image_url": "https://static.tildacdn.com/stor3061-3330-4066-b832-643739313534/79368395.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/cdn/EP1188/CUSA05457_00/FREE_CONTENTHwgrZ8GniZry0hxAYwaV/1.jpg",
-        "https://image.api.playstation.com/cdn/EP1188/CUSA05457_00/FREE_CONTENTBnDxaaZFfWqg1PnzhM1Y/2.jpg",
-        "https://image.api.playstation.com/cdn/EP1188/CUSA05457_00/FREE_CONTENTOuWFtAWX6aSFEBY88p2j/3.jpg",
-        "https://image.api.playstation.com/cdn/EP1188/CUSA05457_00/FREE_CONTENTNWGWGPMOXJTcnuzBMPQu/4.jpg",
-        "https://image.api.playstation.com/cdn/EP1188/CUSA05457_00/FREE_CONTENTV5HWhViKW5HIMj5xM0wk/5.jpg",
-        "https://image.api.playstation.com/cdn/EP1188/CUSA05457_00/FREE_CONTENTXhN9xrV9BimKuqFAQGjv/6.jpg",
-        "https://image.api.playstation.com/cdn/EP1188/CUSA05457_00/FREE_CONTENTHYQMjxjutTyw3FUwIoCB/7.jpg"
-      ],
-      "release_date": "22/11/2016",
-      "publisher": "FRICTIONAL GAMES AB",
-      "platforms": "PS4",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.31,
-      "store_url": "https://store.playstation.com/en-tr/concept/221671",
-      "tilda_uid": "357783095222",
-      "sku": "",
-      "external_id": "uZp4ItbCRkjUdtMcRv5B",
-      "url": "http://arenapsgm.ru/tproduct/357783095222-amnesia-collection-ps4ps5",
-      "published_at": "2026-09-25T02:01:05Z",
-      "prices": {
-        "p2": {
-          "7": 350,
-          "14": 400,
-          "21": 590,
-          "28": 695
-        },
-        "p3": {
-          "7": 450,
-          "14": 500,
-          "21": 690,
-          "28": 795
-        }
-      },
-      "prices_p2": {
-        "7": 350,
-        "14": 400,
-        "21": 590,
-        "28": 695
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Замок, тьма, что-то живое - Amnesia: The Dark Descent.  \n\nОдна игра - и вы уже не разберёте, кто вас спасает или убил."
     }
   ]
 }
