@@ -1,9 +1,171 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-22T11:50:33Z",
-  "generated_at": "2026-11-22T12:25:51Z",
-  "count": 11511,
+  "catalog_id": "2026-11-22T17:24:57Z",
+  "generated_at": "2026-11-22T17:35:08Z",
+  "count": 11508,
   "items": [
+    {
+      "id": "grand-theft-auto-vi",
+      "slug": "grand-theft-auto-vi",
+      "sku": "rent-grand-theft-auto-vi",
+      "title": "Grand Theft Auto VI PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 2898,
+          "7": 2998,
+          "14": 3998,
+          "21": 4998,
+          "28": 5998,
+          "56": 10796
+        },
+        "p3": {
+          "1": 2899,
+          "7": 2999,
+          "14": 3999,
+          "21": 4999,
+          "28": 5999,
+          "56": 10798
+        }
+      },
+      "prices_p2": {
+        "1": 2898,
+        "7": 2998,
+        "14": 3998,
+        "21": 4998,
+        "28": 5998,
+        "56": 10796
+      },
+      "prices_p3": {
+        "1": 2899,
+        "7": 2999,
+        "14": 3999,
+        "21": 4999,
+        "28": 5999,
+        "56": 10798
+      },
+      "price_min": 2898,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Приключения",
+        "Предзаказы"
+      ],
+      "publisher": "Rockstar Games",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 0.0,
+      "release_date": "18.11.2026",
+      "is_preorder": true,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
+      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром.",
+      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
+      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-22T17:27:26Z",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28,
+        56
+      ],
+      "lock_prices": true,
+      "skip_edition_mult": true
+    },
+    {
+      "id": "grand-theft-auto-vi-ultimate-edition",
+      "slug": "grand-theft-auto-vi-ultimate-edition",
+      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
+      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 3198,
+          "7": 3998,
+          "14": 4998,
+          "21": 5998,
+          "28": 6998,
+          "56": 12596
+        },
+        "p3": {
+          "1": 3199,
+          "7": 3999,
+          "14": 4999,
+          "21": 5999,
+          "28": 6999,
+          "56": 12598
+        }
+      },
+      "prices_p2": {
+        "1": 3198,
+        "7": 3998,
+        "14": 4998,
+        "21": 5998,
+        "28": 6998,
+        "56": 12596
+      },
+      "prices_p3": {
+        "1": 3199,
+        "7": 3999,
+        "14": 4999,
+        "21": 5999,
+        "28": 6999,
+        "56": 12598
+      },
+      "price_min": 3198,
+      "lang_label": "",
+      "genre": "Экшен",
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Новинки",
+        "Только PS5",
+        "Шутеры",
+        "Приключения",
+        "Боевики",
+        "Предзаказы"
+      ],
+      "publisher": "Rockstar Games",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "18.11.2026",
+      "is_preorder": true,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
+      "description": "Grand Theft Auto VI Ultimate Edition — расширенное издание с доп. контентом. Аренда на выбранный срок, П2 или П3.",
+      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
+      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-22T17:27:26Z",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28,
+        56
+      ],
+      "lock_prices": true,
+      "skip_edition_mult": true
+    },
     {
       "id": "final-fantasy-vii-revelation",
       "slug": "final-fantasy-vii-revelation",
@@ -4012,168 +4174,6 @@
       "seo_descr": "Аренда Kitsune Zero PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-21T11:35:35Z"
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Наконец-то мы дошли до главного события в истории видеоигр. Grand Theft Auto VI уже здесь, и это совсем не та GTA, которую мы ждали годами. Это совершенно новый мир с новой историей, новым городом и новыми персонажами.\n\nТут всё меняется от самого начала: новые механики, новые способы взаимодействия со средой и атмосфера, которая сразу же погружает в этот бешеный гламурный Лас-Вегас. Удивительные открытия ждут вас на каждом углу.\n\nПолучите этот шедевр в своем исполнении Ultimate Edition прямо сейчас и станьте частью новой легенды.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-22T12:23:19Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром, который еще только предстоит открыть для себя.\n\nОжидается, что это будет самая масштабная часть франшизы по всем параметрам: от графики до объема действий. Готовьтесь к тому, что привычные правила будут пересмотрены, а интриги разворачиваться будут на новом уровне.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-22T12:23:19Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
     },
     {
       "id": "darkness-and-flame-3-the-dark-side",
@@ -764844,66 +764844,6 @@
       "catalog_added_at": "2026-08-24T15:39:18Z"
     },
     {
-      "id": "gta-6-ultimate-2",
-      "slug": "gta-6-ultimate-2",
-      "sku": "rent-gta-6-ultimate-2",
-      "title": "Продажа GTA 6 Ultimate П2 профиль PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "",
-      "genre": "",
-      "categories": [],
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "",
-      "screenshots": [],
-      "store_url": "",
-      "description": "Друзья, наконец-то можно вернуться в свой любимый мир! Игра GTA 6 уже доступна на PlayStation 5 и ждёт своих фанатов.\n\nВ этом уникальном профиле «Ultimate» вы получаете полный доступ к всем функциям и возможностям игры для максимально комфортного прохождения.",
-      "seo_title": "Продажа GTA 6 Ultimate П2 профиль PS5 аренда игры",
-      "seo_descr": "Аренда Продажа GTA 6 Ultimate П2 профиль PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-21T16:35:49Z"
-    },
-    {
       "id": "game",
       "slug": "game",
       "sku": "rent-game",
@@ -771375,66 +771315,6 @@
       "catalog_added_at": "2026-09-18T21:25:21Z"
     },
     {
-      "id": "gta-6-ps5",
-      "slug": "gta-6-ps5",
-      "sku": "rent-gta-6-ps5",
-      "title": "GTA 6 PS5 | Аренда аккаунта предзаказ PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "",
-      "genre": "",
-      "categories": [],
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "",
-      "screenshots": [],
-      "store_url": "",
-      "description": "Готовься к самой масштабной игре в истории гейминга - GTA 6 уже на PS5. Это не просто продолжение, а полноценная новая история про Лас-Вегас и его вечные перипетии.\n\nРазработчики обещали безумие по меркам этой франшизы: от легендарных персонажей вроде Брухо до новых технологий, которые сменят правила стрельбы и вождения. Визуал просто зашкаливает, а физика мира наигранная настолько реалистична, что уже сейчас хочется врываться прямо из спальни.\n\nГлавное преимущество арендного аккаунта - ты сразу получаешь доступ к предзаказу и всему контент-плану, который разворачивается по мере выхода игры. Никаких долгих очередей за стартовые диски или мучительного ожидания релиза: игра ждет только тебя на платформе PS5.",
-      "seo_title": "GTA 6 PS5 | Аренда аккаунта предзаказ PS5 аренда игры",
-      "seo_descr": "Аренда GTA 6 PS5 | Аренда аккаунта предзаказ PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-21T16:35:49Z"
-    },
-    {
       "id": "grounded-ps4-ps5",
       "slug": "grounded-ps4-ps5",
       "sku": "rent-grounded-ps4-ps5",
@@ -771633,66 +771513,6 @@
       "seo_descr": "Аренда Greedland PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-08-24T15:39:18Z"
-    },
-    {
-      "id": "grand-theft-auto-6-standard-2-3",
-      "slug": "grand-theft-auto-6-standard-2-3",
-      "sku": "rent-grand-theft-auto-6-standard-2-3",
-      "title": "Grand Theft Auto 6 Standard | Покупка П2 П3 PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
-        },
-        "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
-        }
-      },
-      "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
-      },
-      "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
-      },
-      "price_min": 697,
-      "lang_label": "",
-      "genre": "",
-      "categories": [],
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "",
-      "is_preorder": false,
-      "is_new": false,
-      "image_url": "",
-      "screenshots": [],
-      "store_url": "",
-      "description": "Представь себе Лас-Вегас, Сан-Андреас и все их прелести в новой реальности, созданной Rockstar Games. Это уже не просто криминальная история - это настоящий мир со своей политикой, коррумпированной полицией и бесконечным потоком бандитов, готовых на любые подвиги.\n\nТы вернешься в игру после долгой паузы и почувствуешь себя как дома: от открытия своего особняка до погони за главными злодеями города. Grand Theft Auto 6 обещает не только масштабные сюжетные линии, но и невероятную свободу действий в самой реалистичной игровой вселенной на данный момент.",
-      "seo_title": "Grand Theft Auto 6 Standard | Покупка П2 П3 PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto 6 Standard | Покупка П2 П3 PS5 на PlayStation.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-21T16:35:49Z"
     },
     {
       "id": "gothic-classic",
