@@ -1,8 +1,75 @@
 {
   "key": "rpg",
   "title": "РПГ",
-  "updated_at": "2026-11-22T02:10:12Z",
+  "updated_at": "2026-11-23T01:45:57Z",
   "games": [
+    {
+      "slug": "a-i-l-a-aila-ps5",
+      "title": "A.I.L.A AILA PS5",
+      "mark": "NEW",
+      "price_from": 289,
+      "price_old": 649,
+      "image_url": "https://static.tildacdn.com/stor6561-6466-4736-a632-653730333836/46f6f311a296a8f9dd18e8d25aa285d8.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6561-6466-4736-a632-653730333836/46f6f311a296a8f9dd18e8d25aa285d8.jpg",
+        "https://static.tildacdn.com/stor3034-6164-4332-b034-346437623662/74b406133946f5e061fe913ceb70474a.jpg",
+        "https://static.tildacdn.com/stor3338-6464-4331-b735-313431656334/a82f132351c4c48fa4d65a003a1d6821.jpg",
+        "https://static.tildacdn.com/stor3662-3139-4566-b838-666665316162/ad8413f923208bbe50c3ec5bf35f8581.jpg",
+        "https://static.tildacdn.com/stor6436-6530-4765-a431-653130323432/bea72625826e2a0c0976c8e916be3dee.webp",
+        "https://static.tildacdn.com/stor3332-6265-4763-b165-313737373633/07de05cd47aaf47e353ff958a5d77746.webp",
+        "https://static.tildacdn.com/stor6337-3062-4231-a239-613937326465/c3a56242b736b09fec83c237ffbf84ef.webp"
+      ],
+      "description": "Вам выпала роль игрового тестировщика нового революционного искусственного интеллекта. A.I.L.A на PS5 это атмосферный хоррор, доступный в формате аренды игры для PlayStation 5, который позволяет пройти проект без покупки и лишних затрат.\nПогружайтесь в леденящие кровь хоррор-испытания, созданные A.I.L.A на основе ваших самых потаённых страхов. Аренда аккаунта PS5 даёт возможность играть сразу после оплаты, получив цифровую версию A.I.L.A на ограниченное время.\nСпасайтесь от безумных культистов, решайте жуткие головоломки, сражайтесь со средневековой нежитью в жестоких боях и испытайте себя в напряжённой атмосфере ужаса. Аренда A.I.L.A на PS5 это удобный способ познакомиться с новинкой, сэкономить на покупке и получить полный доступ к игре.\nДля аренды игры писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Только PS5",
+        "Новинки",
+        "Приключения",
+        "РПГ",
+        "Стратегии и симуляторы",
+        "Новинка главная шапка",
+        "Интерактивное кино"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 289,
+          "14": 399,
+          "21": 545,
+          "28": 645
+        },
+        "p3": {
+          "7": 389,
+          "14": 499,
+          "21": 645,
+          "28": 745
+        }
+      },
+      "tilda_uid": "981351356522",
+      "sku": "",
+      "external_id": "V8TGx6pV5MeLGOfrJv3B",
+      "url": "http://arenapsgm.ru/tproduct/981351356522-a-i-l-a-aila-ps5",
+      "seo_title": "A.I.L.A AILA PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда A.I.L.A AILA PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры A.I.L.A AILA PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
     {
       "slug": "age-of-empires-ii-definitive-edition-ps5",
       "title": "Age of Empires II: Definitive Edition PS5",
@@ -64,141 +131,6 @@
       "text_translation": "",
       "store_url": "",
       "edition_banner": "",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "age-of-empires-iv-anniversary-edition-ps5",
-      "title": "Age of Empires IV: Anniversary Edition PS5",
-      "mark": "NEW",
-      "price_from": 257,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3131-3235-4063-a232-393832343030/6fc5403ae4e927dce9ef35de1c437aa7.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3131-3235-4063-a232-393832343030/6fc5403ae4e927dce9ef35de1c437aa7.jpg",
-        "https://static.tildacdn.com/stor3466-3563-4464-a331-653636323263/b9c47ad7a4ae882866476e84887be9a9.jpg",
-        "https://static.tildacdn.com/stor3337-3732-4530-b333-343736306337/c3df32e1e4d57a9d163c57e3a47a5980.jpg",
-        "https://static.tildacdn.com/stor6335-3632-4362-b566-653439376339/2c29e1a875f8651aa23985539a260d03.jpg",
-        "https://static.tildacdn.com/stor3236-3639-4165-a530-363237333035/64328d923656ab8abe076bb90f43cee3.jpg",
-        "https://static.tildacdn.com/stor3831-6562-4566-b561-303835333263/83a28b7e9d9bb5df3509be201479ab60.jpg",
-        "https://static.tildacdn.com/stor3336-3332-4336-a337-376263303435/63e14e8f458351b3c44390afad72d30f.jpg",
-        "https://static.tildacdn.com/stor3833-6338-4562-b661-616330393136/61fb791749a164ebdf564775088e53bb.jpg"
-      ],
-      "description": "Игровой процесс одной из лучших представительниц всеми любимой серии был досконально адаптирован для консолей: мы сохранили интуитивное и понятное управление с помощью контроллера, не пожертвовав стратегической глубиной.\nAge of Empires IV знакомит новое поколение игроков с одной из самых культовых стратегических серий в истории — лауреатом номинации «Лучший симулятор/стратегия» The Game Awards 2021 года, лучшей стратегической игрой по версии журнала PC Gamer и обладательницей многочисленных наград «Выбор редакции» и «Игра года».\nНапишите собственную историю\nМиллионы игроков Age of Empires IV: Anniversary Edition по всему миру уже успели оказаться в центре эпических сражений, изменивших мир. Погружайтесь в масштабные исторические кампании, командуйте разнообразными цивилизациями и ведите свою империю в бой.\n• Возглавьте одну из 10 уникальных цивилизаций:\nвыберите любую из 10 цивилизаций со всего света, включая англичан, китайцев, Делийский султанат и могущественных малийцев из Западной Африки. Каждая из них предлагает свои преимущества, уникальных бойцов и стратегические возможности, превращая каждый матч в неповторимый опыт.\n• Проживите 500 лет истории в ходе четырех кампаний:\nпроходя четыре тщательно проработанные кампании, вы станете свидетелем поворотных моментов истории. В 35 миссиях, охватывающих период от Темных веков до эпохи Возрождения, вам предстоит управлять ключевыми историческими фигурами и определять исход сражений на суше и на море.\n• Обретите величие вместе с выдающимися деятелями истории: дайте отпор англичанам в обличье Жанны д’Арк или покорите Азию, возглавив монгольские орды Чингисхана. От ваших решений зависит исход сражений на суше и на море.\n• Изучите и познайте «Искусство войны»: новых игроков ждут подробные обучающие задания и сюжетный режим кампании, а соревновательный многопользовательский режим потребует от ветеранов знания и понимания стратегических приемов.\n• Бросьте вызов всему миру: сражайтесь вместе с друзьями или против них в рейтинговых и нерейтинговых сетевых матчах. Игра поддерживает до 8 участников в каждом матче.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Только PS5",
-        "РПГ",
-        "Платформеры",
-        "Стратегии и симуляторы"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 257,
-          "7": 357,
-          "14": 490,
-          "21": 699,
-          "28": 799
-        },
-        "p3": {
-          "1": 357,
-          "7": 459,
-          "14": 590,
-          "21": 799,
-          "28": 899
-        }
-      },
-      "tilda_uid": "925228875463",
-      "sku": "",
-      "external_id": "V6ddMa_OeEozyo99tsW5",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/925228875463-age-of-empires-iv-anniversary-edition-ps5",
-      "seo_title": "Age of Empires IV: Anniversary Edition на PS5 аренда игры",
-      "seo_descr": "Аренда Age of Empires IV: Anniversary Edition на PS5. Игровой процесс одной из лучших представительниц всеми любимой серии был досконально адаптирован для консолей: мы сохранили интуитивное и понятное управление с… Быстрый доступ после оплаты.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "assassin-s-creed-black-flag-resynced-ps5",
-      "title": "Assassin's Creed Black Flag Resynced PS5",
-      "mark": "NEW",
-      "price_from": 257,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/0962bc91a4952e6433367fcfec38b7e0655c6bd29b431712.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/0962bc91a4952e6433367fcfec38b7e0655c6bd29b431712.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1313/d478cb56002fd2cb2e04d8cfd8490942fced08e62db2933e.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1313/e8b9a90a1b989b14aec6fca118bccdfced151d199994ab52.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1313/0d9e9f056f2d03bbf86ee2dcb1815bc071504109baa86b88.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1313/b4e22cd44ad3f5fb7a9dc551401c1a9991a58bb6df3cd8df.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1313/8063607e29c74f35e590945fa66ac18de08ef03c6cc09f85.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/2a9a124fd03b1e72ea2f1916ccfdeff0424505836b660853.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1313/65c06c7dec254e17b441d653fb0f696a5cfac5c3a6f77a95.jpg"
-      ],
-      "description": "Ведите пиратскую войну как капитан Эдвард Кенуэй в Assassin's Creed Black Flag Resynced. Управляйте кораблями, боритесь с противниками и разыскивайте угрозы в деталях открытого мира на PS5. Сражения стали динамичнее - теперь важны парирования и скрытность, а морские бои получили новые режимы стрельбы. Мир оживает благодаря новому движку Anvil и технологиям Dolby Atmos.",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Боевики",
-        "РПГ"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 257,
-          "7": 357,
-          "14": 490,
-          "21": 699,
-          "28": 799
-        },
-        "p3": {
-          "1": 357,
-          "7": 459,
-          "14": 590,
-          "21": 799,
-          "28": 899
-        }
-      },
-      "tilda_uid": "141389576413",
-      "sku": "",
-      "external_id": "W2eZFd1w6CILpHt2D_Gl",
-      "url": "http://arenapsgm.ru/tproduct/141389576413-assassin-s-creed-black-flag-resynced-ps5",
-      "seo_title": "Assassin's Creed Black Flag Resynced на PS5 аренда игры",
-      "seo_descr": "Аренда Assassin's Creed Black Flag Resynced на PS5. Вселяйте страх в сердца врагов, топите их суда или берите их на абордаж в роли капитана «Галки» – Эдварда Кенуэя. Быстрый доступ после оплаты.",
-      "rating": 4.6,
-      "release_date": "8/7/2026",
-      "publisher": "Ubisoft",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/product/EP0001-PPSA28183_00-DELUXE0000000000",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/0962bc91a4952e6433367fcfec38b7e0655c6bd29b431712.png",
       "rent_days": [
         1,
         7,
@@ -668,6 +600,71 @@
       ]
     },
     {
+      "slug": "death-s-gambit-afterlife-ps4",
+      "title": "Death's Gambit: Afterlife PS4",
+      "mark": "NEW",
+      "price_from": 257,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor6561-6161-4235-b330-353730366365/38341953.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6561-6161-4235-b330-353730366365/38341953.jpg",
+        "https://static.tildacdn.com/stor6532-6564-4838-b934-386161613937/128fcc7571d430a707aeec9f8fe9e48d.jpg",
+        "https://static.tildacdn.com/stor3961-3165-4135-a633-303239633663/b34e92ad0c744e40ff3781fbbccfce95.jpg",
+        "https://static.tildacdn.com/stor6235-3630-4538-a661-643239396366/a9fe02a8303f24c9bc250924dff9075e.jpg",
+        "https://static.tildacdn.com/stor3836-6535-4239-b532-313831623937/267e30026b8c59501530fc98ee9b5eef.jpg",
+        "https://static.tildacdn.com/stor3263-3536-4062-b337-356465363438/29ba5f81d5e0451670d817cd0e1b3782.jpg",
+        "https://static.tildacdn.com/stor3465-3730-4637-b334-313530666634/9ea74ba22cc857ab84a58f5b42719db1.jpg"
+      ],
+      "description": "Обещание бессмертия лежит в основе Сирадона. Как десница Смерти, бросьте вызов бессмертным стражам царства и выдержите вечную борьбу за очищение их душ.\nDeath's Gambit: Afterlife - это новое расширенное издание оригинального хардкорного 2D-ролевого платформера. Овладейте точным боем, используя широкий спектр оружия и способностей, чтобы противостоять ужасам, скрывающимся в Сирадоне. Исследуйте таинственный и беспощадный мир и узнайте истинную цену бессмертия.\nAfterlife предлагает игрокам массу нового контента, который можно испытать поверх оригинальной игры, в том числе 10 новых уровней, более 30 видов оружия, 5 новых боссов, механический ремонт и многое другое. Ваш выбор повлияет на эпический финал сказки Соруна.\n• Обширный мир - путешествуйте по огромному миру, состоящему из более чем 20 прекрасно прорисованных уровней. Познакомьтесь с причудливыми персонажами из всех слоев общества и раскройте их секреты.\n• Метроидвания - разблокируйте уникальные возможности передвижения и боевые улучшения, которые открывают и расширяют мир.\n• Классы персонажей - выберите один из 7 игровых классов, выберите из более чем 100 талантов в дереве навыков и мультиклассы, чтобы адаптировать стиль боя к своим предпочтениям.\n• Невероятные боссы - охотьтесь на 20 высоких монстров и других легендарных существ. Каждый босс - это проверка навыков, требующая уникальных стратегий для победы.\n• Героический режим - побежденные боссы получают второе дыхание в экспоненциально более сложном героическом режиме, доступном сразу после победы над ними. Бросьте себе все новые вызовы и овладейте своими новыми способностями.\n• Нелинейное исследование - исследуйте уровни и боссов в нелинейном порядке, открывайте побочные области с большим количеством секретов, которые нужно разгадать, и врагов, которых нужно уничтожить.\n• Настройка персонажа - экипируйте своего персонажа более чем 30 видами оружия, включая луки, косы, длинные мечи, алебарды и многое другое. Настройте то, как вы ими владеете, с помощью множества способностей и улучшений.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Все игры",
+        "Приключения",
+        "РПГ",
+        "Платформеры",
+        "Хоррор"
+      ],
+      "platforms": "PS4",
+      "platform_ps4": true,
+      "platform_ps5": false,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799
+        },
+        "p3": {
+          "1": 357,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899
+        }
+      },
+      "tilda_uid": "774732907953",
+      "sku": "",
+      "external_id": "UO6-RcdyaScOEhixCHUv",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/774732907953-death-s-gambit-afterlife-ps4",
+      "seo_title": "Death's Gambit: Afterlife на PS4 аренда игры",
+      "seo_descr": "Аренда Death's Gambit: Afterlife на PS4. Обещание бессмертия лежит в основе Сирадона. Как десница Смерти, бросьте вызов бессмертным стражам царства и выдержите вечную борьбу за очищение их душ. Быстрый доступ после оплаты.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
       "slug": "dispatch-ps5",
       "title": "Dispatch PS5",
       "mark": "NEW",
@@ -994,201 +991,6 @@
       ]
     },
     {
-      "slug": "hollow-knight-silksong-ps4-ps5",
-      "title": "Hollow Knight: Silksong PS4/PS5",
-      "mark": "Хит",
-      "price_from": 499,
-      "price_old": 599,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2505/66f43d82a3d31493a2b3edec5359872e45c0c097115a9fbd.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202508/2505/66f43d82a3d31493a2b3edec5359872e45c0c097115a9fbd.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202508/2505/4c666cab506dfdf3e9469c4835f51ee3e472ab350b03b4a3.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202508/2505/df324b3ee1c4f136f5749164e21ba6656c18d5a6e1790e75.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202508/2505/155e14df406bbfea7ea5ffea758936061396bf91803da6a2.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202508/2505/52f93db9eed66234db64703fc279d673cbc83dec97eb6bb2.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202508/2505/08b19c7ef4fcc3a6ca370ce65c6ea3bb855e36b584e4044a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202508/2505/3980a8757252ca77f4627bd0e0e505348da978f6c2b3a453.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202508/2505/fa66979a641221b116a5eeb1a04a01d0fa63b4cae019fcc7.jpg"
-      ],
-      "description": "Станьте смертоносной охотницей Хорнет и отправьтесь в странствия по царству, в котором правят шёлк и песня! Хоть вы и попали в плен и оказались в этом незнакомом мире помимо своей воли, вам придётся сражаться с могучими врагами и разгадывать древние загадки, совершая смертельное паломничество к самой вершине царства.\nHollow Knight: Silksong — эпическое продолжение удостоенной множества наград приключенческой игры Hollow Knight. Путешествуйте по новым землям, открывайте в себе новые способности, сражайтесь с полчищами чудищ и насекомых и раскрывайте тайны, связанные с вашей сущностью и вашим прошлым.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Лента на главной",
-        "Приключения",
-        "РПГ",
-        "Платформеры",
-        "Новинки",
-        "Новинка главная шапка",
-        "Все игры"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 499,
-          "14": 699,
-          "21": 899,
-          "28": 1099
-        },
-        "p3": {
-          "7": 699,
-          "14": 899,
-          "21": 1099,
-          "28": 1299
-        }
-      },
-      "tilda_uid": "284499310972",
-      "sku": "",
-      "external_id": "9IN3MUOrX1UOcGTFen7t",
-      "url": "http://arenapsgm.ru/tproduct/284499310972-hollow-knight-silksong-ps4-ps5",
-      "seo_title": "Hollow Knight: Silksong PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Hollow Knight: Silksong PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Hollow Knight: Silksong PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.64,
-      "release_date": "4/9/2025",
-      "publisher": "Team Cherry Pty Ltd",
-      "voice": "",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10005908",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2505/66f43d82a3d31493a2b3edec5359872e45c0c097115a9fbd.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "little-nightmares-iii-ps4-ps5",
-      "title": "Little Nightmares III PS4/PS5",
-      "mark": "Хит",
-      "price_from": 599,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2912/a1066329a4165e89ce5c7258634bdc402d3bfdb39db8fe4f.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202309/2912/a1066329a4165e89ce5c7258634bdc402d3bfdb39db8fe4f.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1514/a9a09a8a45d5aa03c7c3b528ca1ce46e349f8b2498363a47.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1514/6c1eb8bbcf2a0b46c317b1a4b27b17a5717c13fb1e962e31.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1514/b638fd7e7a332f1755d0f7dee3c7e2b897a0d1ca90e04a5d.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1514/9ca54996970d4f2f51ac436dce76652e99f3a96ddb49366e.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1514/eb401ba0d53c6e733de30db18d808a0cbbe6d3d1915bbdfd.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1514/a7b233b6c85a18cbf889bc3f35549ac8049fb233e8912c1d.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1514/41979934bd7d81db39ebca081ea37ec48e7f101ff8696459.jpg"
-      ],
-      "description": "Играйте за Малого и Одну, лучших друзей, которые до знакомства скитались по пустынным землям порознь. У каждого из них есть любимое оружие: Малой носит лук, а Одна#nbsp;— гаечный ключ. Вместе они пытаются выжить, пробираясь по тайным лазам, преодолевая препятствия и защищая друг друга.\nЧтобы прокладывать себе путь и находить то, что скрыто, вам придётся полагаться не только на себя, но и на союзника, будь то ваш друг или персонаж, управляемый компьютером. Вам встретится множество подсказок и лазеек, которыми могут воспользоваться изобретательные дети. Стреляя из лука, Малой способен сбивать высоко расположенные цели, перерезать верёвки и поражать летающих противников, а гаечный ключ помогает Одной добивать оглушённых неприятелей, рушить преграды и управлять огромными механизмами.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Новинка главная шапка",
-        "Приключения",
-        "РПГ",
-        "Лента на главной",
-        "Новинки",
-        "Платформеры",
-        "Все игры"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 599,
-          "14": 699,
-          "21": 799,
-          "28": 899
-        },
-        "p3": {
-          "7": 799,
-          "14": 899,
-          "21": 999,
-          "28": 1099
-        }
-      },
-      "tilda_uid": "331866790052",
-      "sku": "",
-      "external_id": "ldOCxK20D5yC6HO11f0M",
-      "url": "http://arenapsgm.ru/tproduct/331866790052-little-nightmares-iii-ps4-ps5",
-      "seo_title": "Little Nightmares III PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Little Nightmares III PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Little Nightmares III PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 3.81,
-      "release_date": "10/10/2025",
-      "publisher": "BANDAI NAMCO ENTERTAINMENT EUROPE",
-      "voice": "",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10003713",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1512/2847939df260cbe4fd68ff4c36af6813da3590e0bef55ce6.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "middle-earth-shadow-of-war-ps4-ps5",
-      "title": "Middle-earth: Shadow of War PS4/PS5",
-      "mark": "NEW",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA04402_00/4/i_104ac8e1b4e4e700ac38bff7103b9a3625959a28797b01db7d9935cbebc51160/i/icon0.png",
-      "screenshots": [
-        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA04402_00/4/i_104ac8e1b4e4e700ac38bff7103b9a3625959a28797b01db7d9935cbebc51160/i/icon0.png",
-        "https://image.api.playstation.com/cdn/EP1018/CUSA04402_00/FREE_CONTENTU1g13LOubqZsMkMfga6M/1.jpg",
-        "https://image.api.playstation.com/cdn/EP1018/CUSA04402_00/FREE_CONTENTROqE25qBQvu90XKiXmjX/2.jpg",
-        "https://image.api.playstation.com/cdn/EP1018/CUSA04402_00/FREE_CONTENTLzwdaYEzLtzJX7X0ZxIl/3.jpg",
-        "https://image.api.playstation.com/cdn/EP1018/CUSA04402_00/FREE_CONTENTkW4xITjzwB06791T5nCu/4.jpg",
-        "https://image.api.playstation.com/cdn/EP1018/CUSA04402_00/FREE_CONTENTe5CWXsOH32ehgo8GX0dj/5.jpg",
-        "https://image.api.playstation.com/cdn/EP1018/CUSA04402_00/FREE_CONTENTwGJ773QqCaHUrWMTeNNr/6.jpg",
-        "https://image.api.playstation.com/cdn/EP1018/CUSA04402_00/FREE_CONTENTgfKOApODp1c02yVyeLLN/7.jpg"
-      ],
-      "description": "Отправляйтесь в тыл врага и правьте Мордором изнутри. Каждый враг и союзник живёт своей историей - как в настоящем сериале.",
-      "categories": [
-        "Все игры",
-        "Новинки",
-        "Приключения",
-        "РПГ"
-      ],
-      "platforms": "PS4",
-      "platform_ps4": true,
-      "platform_ps5": false,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 250,
-          "7": 260,
-          "14": 360,
-          "21": 430,
-          "28": 469
-        },
-        "p3": {
-          "1": 350,
-          "7": 360,
-          "14": 460,
-          "21": 530,
-          "28": 569
-        }
-      },
-      "tilda_uid": "817715140083",
-      "sku": "",
-      "external_id": "Rd1vxfTtWAmP0TnGYUqM",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/817715140083-middle-earth-shadow-of-war-ps4-ps5",
-      "seo_title": "Middle-earth: Shadow of War на PS4 аренда игры",
-      "seo_descr": "Аренда Middle-earth: Shadow of War на PS4. Полное издание Средиземье™: Тени войны™ Познакомьтесь с легендарным открытым миром, создайте новое Кольцо Власти, захватывайте крепости и правьте Мордором при помощи… Быстрый доступ после оплаты.",
-      "rating": 4.45,
-      "release_date": "10/10/2017",
-      "publisher": "WARNER BROS. INTERACTIVE",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/216695",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2600/WSkix0tJlfF141wAlSbZQCAb.png",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
       "slug": "mistfall-hunter-ps5",
       "title": "Mistfall Hunter PS5",
       "mark": "NEW",
@@ -1240,73 +1042,6 @@
       "url": "http://arenapsgm.ru/tproduct/430609429413-mistfall-hunter-ps5",
       "seo_title": "Mistfall Hunter на PS5 аренда игры",
       "seo_descr": "Аренда Mistfall Hunter на PS5. Увлекательная игра в жанре экшен, ролевая игра на PlayStation. Быстрый доступ после оплаты.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "mortal-shell-ii-devout-edition-ps5",
-      "title": "Mortal Shell II: Devout Edition PS5",
-      "mark": "NEW",
-      "price_from": 257,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3736-6233-4432-b661-363262633339/ef18be6567f4b51ff8baa823b81e06dc.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3736-6233-4432-b661-363262633339/ef18be6567f4b51ff8baa823b81e06dc.jpg",
-        "https://static.tildacdn.com/stor6465-3364-4637-b138-346161333135/d5af0c78c98dd6451b8444f9b7d9c456.jpg",
-        "https://static.tildacdn.com/stor3139-3839-4238-b030-376539633538/c5e3a92e6388149d0206f8b4bbeed13c.jpg",
-        "https://static.tildacdn.com/stor3833-6635-4562-b838-363565626239/0310be5979d067931a7b899b4e9b7250.jpg",
-        "https://static.tildacdn.com/stor6566-3065-4662-a439-613136336637/e11afe30d011dad37460c9aae799ea9c.jpg",
-        "https://static.tildacdn.com/stor6639-3437-4830-a239-653338323961/e37bcbf7bbaf31720c248a22380b62fb.jpg",
-        "https://static.tildacdn.com/stor3738-3062-4031-a236-663933383761/4721ae485698ae2e38db85caf169c55c.jpg",
-        "https://static.tildacdn.com/stor6433-6335-4334-a633-343762666432/b2cee63dbadfdc015043f20dd90e3dbc.jpg"
-      ],
-      "description": "Mortal Shell II — это полноценное продолжение игры Mortal Shell, в котором вы сможете ближе познакомиться с миром. Вас ждут еще более стремительные и жестокие сражения, а также детально проработанное оружие с обширными возможностями улучшения. В новой части упор сделан на свободное исследование небольшого открытого мира.\nВ разрушенном мире Mortal Shell II повсюду покоятся тела выдающихся воинов. В любое из них можно вселиться, чтобы пробудить врожденные способности и приобретенные навыки.\nОсваивайте уникальные способности этих воинов и создавайте собственный стиль боя. Выведайте их тайны, открывая утраченные воспоминания.\nНебольшой открытый мир Mortal Shell II полон извилистых троп, охраняемых свирепыми и фанатичными врагами. Следуя по этим тропам, вы будете находить новых воинов, в которых можно вселиться, фрагменты сюжета, мощное и необычное оружие, улучшения, диковины и многое другое.\nЗаглядывайте в заброшенные храмы древних богов, в запретные чащи и стылые склепы, в костяные крепости.\nМежду забытыми ключевыми местами разбросаны более 80 подземелий, и в каждом из них вам предстоит проверить на прочность умения и оружие, которыми вы овладели по пути.\nВы управляете Предвестником —существом, которому надлежит собрать похищенные яйца Андермефер, ревностно охраняемые уродливыми и опасными тварями.\nMortal Shell II отличается скоростной и насыщенной системой боя. Мы убрали полоски выносливости и добавили новые казни. В результате получилось динамичное и непредсказуемое темное фэнтези, где в ожесточенных схватках от вас потребуется четкость действий и собранность.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "РПГ",
-        "Боевики"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 257,
-          "7": 357,
-          "14": 490,
-          "21": 699,
-          "28": 799
-        },
-        "p3": {
-          "1": 357,
-          "7": 459,
-          "14": 590,
-          "21": 799,
-          "28": 899
-        }
-      },
-      "tilda_uid": "653699952123",
-      "sku": "",
-      "external_id": "-eC5zo5SjGEvgDToG1wT",
-      "url": "http://arenapsgm.ru/tproduct/653699952123-mortal-shell-ii-devout-edition-ps5",
-      "seo_title": "Mortal Shell II: Devout Edition на PS5 аренда игры",
-      "seo_descr": "Аренда Mortal Shell II: Devout Edition на PS5. Mortal Shell II — это полноценное продолжение игры Mortal Shell, в котором вы сможете ближе познакомиться с миром. Быстрый доступ после оплаты.",
       "rating": null,
       "release_date": "",
       "publisher": "",
@@ -1385,75 +1120,6 @@
       ]
     },
     {
-      "slug": "onimusha-way-of-the-sword-ps5",
-      "title": "Onimusha: Way of the Sword PS5",
-      "mark": "NEW",
-      "price_from": 697,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1506/c77b4ae6d2884cb4f7b87b2141d7611de3a4527c7d9f46a1.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1506/c77b4ae6d2884cb4f7b87b2141d7611de3a4527c7d9f46a1.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/9bbe870eb2dd273ad42b1ddb57a51aa7cb6a000ad0ebda0d.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/b50676d769f35c4089de6ad1d433d2f9e645bb174eed848e.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/32f8cee2b53940013d9a81929ad3f4800205539f25bb044e.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/ddd84a8c08110da33cc4b5ea6697ab86889c1d8e0f12f9c9.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/bd0e0f6488362bceb7e59a7064bc1c7736b349fa7a34daa0.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/52e7232cf638434d02d6cc76d595a3ad3d912e16523646e7.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/ba30a5bf1a2501d44971dba15ab2da2617bfe000cdd2ef61.jpg"
-      ],
-      "description": "«Предзаказ - Требует немедленной оплаты»\nПодробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного соглашения Sony Entertainment Network. Автоматическая загрузка осуществляется, если на системе PS5™ включены настройки «Автоматический вход в систему» и «Автоматический вход в сеть».\nНабор содержит амулет и облик меча для использования в игре.\n2. Облик меча: запечатанное проклятье\nПокажите искусное владение мечом на залитом кровью поле боя. Исследуйте Киото, столицу Японии периода Эдо, окутанную жуткими облаками Злобы.\nВ мрачной фэнтезийной истории загадки, интриги и опасности поджидают на каждом шагу. Дайте бой гэмма — монстрам из подземного мира!\nСтаньте героем истории о самурае, обладающем перчаткой Они — мистическим артефактом, дарующим владельцу силы для уничтожения гэмма.\nВ жестоких кровопролитных битвах он ищет свой смысл продолжать борьбу. Что ждет его в конце пути?\nМиямото Мусаси, главный герой\nПылкий самурай прибывает в Киото, чтобы доказать, что ему нет равных на пути меча. Но неожиданный поворот событий меняет все.\nГлавный герой — ярый молодой самурай, вся жизнь которого представляет собой череду кровавых и суровых боев. При создании образа харизматичного самурая Миямото Мусаси команда Capcom взяла за основу внешность и манеру легендарного японского актера Тосиро Мифунэ.\nПерчатка Они дарует Мусаси сверхчеловеческую силу. Она помогает ему расправляться с гэмма, а также дает огромное количество других возможностей. Например, способность поглощать души гэмма и извлекать из них еще большую силу. Но чей же голос раздается из перчатки?\nОбычно гэмма водятся в глубинах преисподней, но Злоба, окутывающая Киото, привела этих демонов в мир живых. Их беспрестанные зверства повергли столицу в страх и панику.\nВ сражении с гэмма Мусаси столкнется с могущественными противниками, чье боевое мастерство не уступает его собственному. Что же впереди: победа или поражение? В столице его ожидают кровавые битвы не на жизнь, а на смерть.\nДействие игры происходит в Киото, где находится великое множество святилищ и храмов, таких как храм Киёмидзу-дэра. Искаженная Злобой столица приобретает мрачный, жуткий вид.\nДля игры необходимо принять условия Лицензионного соглашения с конечным пользователем (https://manual.capcom.com/eula/game/).\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "РПГ",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078
-        },
-        "p3": {
-          "1": 497,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933
-        }
-      },
-      "tilda_uid": "557646131573",
-      "sku": "",
-      "external_id": "Trl8ynOIuewyFVWz0hd6",
-      "url": "http://arenapsgm.ru/tproduct/557646131573-onimusha-way-of-the-sword-ps5",
-      "seo_title": "Onimusha: Way of the Sword на PS5 аренда игры",
-      "seo_descr": "Аренда Onimusha: Way of the Sword на PS5. Покажите искусное владение мечом на залитом кровью поле боя. Исследуйте Киото, столицу Японии периода Эдо, окутанную жуткими облаками Злобы. Быстрый доступ после оплаты.",
-      "rating": null,
-      "release_date": "24/9/2026",
-      "publisher": "Capcom U.S.A., Inc.",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "https://store.playstation.com/en-tr/product/UP0102-PPSA27836_00-0000000000000001",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/79a186e6a055909cfeb66264230ad3d76915587b0269cd0d.png",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
       "slug": "path-of-exile-2-ps5",
       "title": "Path of Exile 2 PS5",
       "mark": "NEW",
@@ -1517,71 +1183,6 @@
       "store_url": "https://store.playstation.com/en-tr/concept/10010602",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0521/ccddabd7901e62fd58b72cd0d0fafc45d4c58ab1ee2fffa0.png",
       "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "persona-3-reload-ps4-ps5",
-      "title": "Persona 3 Reload PS4/PS5",
-      "mark": "NEW",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2601/85487475426de191c3c100b47ddc61f77c515b513948272e.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2601/85487475426de191c3c100b47ddc61f77c515b513948272e.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2605/49a5206692fb82a463a3495344749df372ca4a3348874729.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2605/8148f8ca0c781735ff9f9a706e1eef6b0fb86870f21c7005.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2605/12c52aff2b402f42389999ec287083475dd2552cc1356a67.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2605/bc61fe4b1b5618dfe42ae148a04c09f264efd70970d5c9be.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2605/a13b4f3ab90965fb763b136b5c6162a9d7f42b91a38ddf04.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2605/9f0a17ca27ab3a1e57429c9b2ba7633a58ab85c6b06d1b0d.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202307/2605/5b070735c405dbf36cd0f4e4459fb91c9230884c6cd8e838.jpg"
-      ],
-      "description": "Этот продукт дает вам право загрузить как цифровую версию игры для PS4™, так и цифровую версию игры для PS5™.\nОткройте для себя Темный час и пробудите силы в глубинах своего сердца.\nЦифровое делюкс-издание Persona 3 Reload содержит:\n– Цифровой артбук (64 страницы с зарисовками персонажей, концепт-артами, фонами и другими иллюстрациями из игры).\n– Цифровой саундтрек (60 новых композиций, включая музыку из оригинальной Persona 3 в новой аранжировке и новые треки, созданные композиторами Atlus специально для Persona 3 Reload).\nНовая школа, новые друзья и неожиданное попадание в новую реальность, которая доступна в течение одного часа «между сегодня и завтра». Обретите невероятную силу и раскройте тайны Темного часа, сражайтесь за своих друзей и навсегда оставьте след в их памяти.\nPersona 3 Reload — захватывающее современное переосмысление культовой ролевой игры.\n– Насладитесь одной из самых известных игр серии Persona, воссозданной с нуля: вас ждет передовая графика, современные возможности и интерфейс в фирменном стиле.\n– С головой погрузитесь в эмоциональное захватывающее приключение: новые видеовставки, больше озвученных реплик и возможностей общения с персонажами.\n– Решайте, как именно проводить каждый день, выбирая из множества различных вариантов: от исследования Порт-Айленда до выстраивания отношений с любимыми персонажами.\n– Соберите идеальный отряд под своим командованием, чтобы сразить потусторонние Тени и приблизиться к правде.\nЕсли у вас уже есть версия этой игры для PS4™, вы можете получить ее цифровую версию для PS5™ без каких-либо дополнительных затрат – вам не придется снова покупать этот продукт. Владельцы диска с игрой для PS4™ должны вставлять его в PS5™ каждый раз, когда они хотят загрузить или воспроизвести цифровую версию игры для PS5™. Владельцы дисков с играми для PS4™, купившие консоль PS5™ без дисковода, не смогут получить версию игры PS5™ без дополнительной платы.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "РПГ",
-        "Новинки"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "1": 250,
-          "7": 275,
-          "14": 400,
-          "21": 599,
-          "28": 699
-        },
-        "p3": {
-          "1": 350,
-          "7": 375,
-          "14": 500,
-          "21": 699,
-          "28": 799
-        }
-      },
-      "tilda_uid": "824885542723",
-      "sku": "",
-      "external_id": "3i0jTC46Vqq7RYbRcTCj",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/824885542723-persona-3-reload-ps4-ps5",
-      "seo_title": "Persona 3 Reload на PS4 и PS5 аренда игры",
-      "seo_descr": "Аренда Persona 3 Reload на PS4 и PS5. Этот продукт дает вам право загрузить как цифровую версию игры для PS4™, так и цифровую версию игры для PS5™. Быстрый доступ после оплаты.",
-      "rating": 4.86,
-      "release_date": "2/2/2024",
-      "publisher": "SEGA EUROPE LTD",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10001555",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2807/5c56b94067d4469d428d6d259adb6f800b1193b04a396dae.png",
-      "rent_days": [
-        1,
         7,
         14,
         21,
@@ -1663,6 +1264,80 @@
       ]
     },
     {
+      "slug": "reanimal-the-prisoner-ps5",
+      "title": "REANIMAL: The Prisoner PS5",
+      "mark": "NEW",
+      "price_from": 257,
+      "price_old": 689,
+      "image_url": "https://static.tildacdn.com/stor3865-6464-4633-a630-613964323532/818be47b924daee49fa7399b8cf6b4d8.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3865-6464-4633-a630-613964323532/818be47b924daee49fa7399b8cf6b4d8.jpg",
+        "https://static.tildacdn.com/stor6436-6438-4264-a263-666330653435/aead5769e08da6dae2d894cea3673732.jpg",
+        "https://static.tildacdn.com/stor6262-3536-4837-b535-386361393666/2293b18bcf93ff1a3e2aad85a6be7c25.jpg",
+        "https://static.tildacdn.com/stor6630-3337-4137-a166-323837616565/37a7586d2ce9794a0e1eba44fbd3caa0.jpg",
+        "https://static.tildacdn.com/stor6666-3164-4361-b263-326634623062/441a99a670a9b91b3fd784aea586e454.jpg",
+        "https://static.tildacdn.com/stor3639-6564-4234-a132-323063366431/0e1d926a447e8a4c96310bb2c72c04b3.jpg"
+      ],
+      "description": "Tarsier Studios возвращается с новой главой мрачного кооперативного хоррор-приключения REANIMAL.\nВ этом DLC появляются два новых персонажа — Солдат и Заключённый , которым предстоит выжить на разрушенных войной улицах некогда знакомого места. Их путешествие приведёт их в кроличью нору, которая навсегда изменит их жизни.\nИсследуйте ранее неизвестные уголки мира REANIMAL — пешком и не только — и узнайте, что война может быть настоящим адом, но некоторые вещи оказываются ещё страшнее.\nThe Prisoner — первая из трёх частей DLC для REANIMAL. Каждая из них продолжит историю новых персонажей — Солдата и Заключённого.\nОсобенности:\n• Новая история и персонажи в ранее неизведанной части мира REANIMAL\n• Уникальная атмосфера хоррора и новая пугающая угроза\n• Новые локации и неожиданные изменения знакомых мест\n• Новая глава минималистичного и символичного повествования REANIMAL\n• Возможность разделить страх с другом благодаря Friend's Pass\nДля аренды игры писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Боевики",
+        "Только PS5",
+        "Новинки",
+        "Приключения",
+        "РПГ",
+        "Стратегии и симуляторы",
+        "Новинка главная шапка",
+        "Игры на двоих",
+        "Платформеры",
+        "Хоррор"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 257,
+          "3": 339,
+          "7": 349,
+          "14": 423,
+          "21": 587,
+          "28": 695
+        },
+        "p3": {
+          "1": 350,
+          "3": 439,
+          "7": 449,
+          "14": 523,
+          "21": 687,
+          "28": 795
+        }
+      },
+      "tilda_uid": "102924467413",
+      "sku": "",
+      "external_id": "JRkeT1CeHaVJAVi0rsFf",
+      "url": "http://arenapsgm.ru/tproduct/102924467413-reanimal-the-prisoner-ps5",
+      "seo_title": "Аренда REANIMAL: The Prisoner DLC PS5 — дополнение",
+      "seo_descr": "Аренда DLC REANIMAL: The Prisoner для PS5. Новая глава хоррор-приключения REANIMAL с двумя новыми персонажами, локациями и продолжением истории.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        1,
+        3,
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
       "slug": "sprawl-zero-ps5",
       "title": "SPRAWL zero PS5",
       "mark": "NEW",
@@ -1715,71 +1390,6 @@
       "url": "http://arenapsgm.ru/gamescatalog/tproduct/225977314703-sprawl-zero-ps5",
       "seo_title": "SPRAWL zero на PS5 аренда игры",
       "seo_descr": "Аренда SPRAWL zero на PS5. FPS-шутер в стиле культовых консольных игр 2000-х SPRAWL zero— это шутер от первого лица, вдохновением для которого стали консольные игры 2000-х годов. Быстрый доступ после оплаты.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "starfield-ps5",
-      "title": "Starfield PS5",
-      "mark": "NEW",
-      "price_from": 257,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3237-6631-4432-b462-383735613034/26c200ef6d6690c2e46f0d9353c53185.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3237-6631-4432-b462-383735613034/26c200ef6d6690c2e46f0d9353c53185.jpg",
-        "https://static.tildacdn.com/stor6432-6661-4365-b637-663632373461/ba86e9f4b171b70d3cf23044c94e2536.jpg",
-        "https://static.tildacdn.com/stor3336-6436-4031-b534-353166336437/4aaf3718c344fbd2b5a1471ed8ca0083.jpg",
-        "https://static.tildacdn.com/stor3663-6136-4061-a335-306135303063/e2c045d6f44243da7d0a5f7738e6d8dc.jpg",
-        "https://static.tildacdn.com/stor6563-3161-4363-a432-353462366332/b141b4ea5c7053832213fdd0ab6461d0.jpg",
-        "https://static.tildacdn.com/stor3938-3937-4263-a462-323763346464/f0909dea4281e5c39b3a6ea6c020d012.jpg"
-      ],
-      "description": "Starfield — первая более чем за 25 лет новая игровая вселенная от Bethesda Game Studios, авторов The Elder Scrolls V: Skyrim и Fallout 4. В этой космической ролевой игре вы сможете создать любого персонажа и исследовать вселенную так, как вам этого хочется. Раскройте величайшую тайну человечества.\nВ 2330 году люди осваивают планеты за пределами Солнечной системы. Вступайте в ряды «Созвездия» и покоряйте космос в самой масштабной игре Bethesda Game Studios.\nВыберите свою внешность, биографию и черты. Кто вы: опытный путешественник, обаятельный дипломат, скрытный киберагент или некто иной?\nИССЛЕДУЙТЕ ДАЛЬНИЙ КОСМОС\nИсследуйте более 1000 планет, города, базы и причудливые миры. Нанимайте персонажей, работайте на разные фракции и выполняйте задания.\nУПРАВЛЯЙТЕ КОРАБЛЁМ МЕЧТЫ\nМеняйте облик корабля, модифицируйте его системы, назначайте членов экипажа. Сражайтесь с врагами, выполняйте случайные задания и берите вражеские суда на абордаж.\nИССЛЕДУЙТЕ, СОБИРАЙТЕ, СТРОЙТЕ\nСобирайте на планетах ресурсы для изготовления предметов. Стройте аванпосты, нанимайте людей для автодобычи и создавайте торговые пути. Ведите научные проекты, чтобы открыть уникальные рецепты.\nКосмос опасен, но у вас много оружия, в том числе снайперские винтовки, лазеры или взрывчатка. Невесомость делает бои хаотичными, а реактивные ранцы дают огромную свободу действий.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "РПГ"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 257,
-          "7": 357,
-          "14": 490,
-          "21": 699,
-          "28": 799
-        },
-        "p3": {
-          "1": 357,
-          "7": 459,
-          "14": 590,
-          "21": 799,
-          "28": 899
-        }
-      },
-      "tilda_uid": "140174503823",
-      "sku": "",
-      "external_id": "ZA6rrB7hSDv8H7vxv21I",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/140174503823-starfield-ps5",
-      "seo_title": "Starfield на PS5 аренда игры",
-      "seo_descr": "Аренда Starfield на PS5. Starfield — первая более чем за 25 лет новая игровая вселенная от Bethesda Game Studios, авторов The Elder Scrolls V: Skyrim и Fallout 4. Быстрый доступ после оплаты.",
       "rating": null,
       "release_date": "",
       "publisher": "",
@@ -2128,41 +1738,30 @@
       ]
     },
     {
-      "slug": "baldurs-gate-3-ps5",
-      "title": "Baldurs Gate 3 PS5",
+      "slug": "arc-raiders-ps5",
+      "title": "ARC Raiders PS5",
       "mark": "",
-      "price_from": 649,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor6163-6431-4238-a634-646462646666/98242625.jpg",
+      "price_from": 450,
+      "price_old": 649,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1515/3ef1ea90a64952c060b797fde8602ee745c2e7c73277c4a5.png",
       "screenshots": [
-        "https://static.tildacdn.com/stor6163-6431-4238-a634-646462646666/98242625.jpg",
-        "https://static.tildacdn.com/stor3933-6133-4238-b735-353563623131/70888034.jpg",
-        "https://static.tildacdn.com/stor3636-3663-4738-a464-663139343261/19351516.jpg",
-        "https://static.tildacdn.com/stor6661-3062-4238-a130-653533643463/78518370.jpg",
-        "https://static.tildacdn.com/stor3637-3734-4562-b366-393965343739/70599318.jpg",
-        "https://static.tildacdn.com/stor3230-6130-4163-a261-346136303033/45176869.jpg",
-        "https://static.tildacdn.com/stor3365-6661-4430-b863-353530366631/16951855.jpg",
-        "https://static.tildacdn.com/stor6565-6238-4561-b538-353437633761/92762101.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202504/1515/3ef1ea90a64952c060b797fde8602ee745c2e7c73277c4a5.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202509/1814/d8fe1cbb0a3f30673003363089667bc932e5bd1f2f4ab4b2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202509/1814/545919c3eb68b7a80f26585a9eb213f62cd8bfa1da4c52a5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202509/1814/1854db4af5285cf9e6a2d5e64188f2cf61dcf373e12cc8db.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202509/1814/e52c17aca8d3dedc85e586c97502787ddf22b6823684b6c9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202509/1814/8cbbaa5b92d0ce745153ac6ea4ab5083546729e80b792023.jpg"
       ],
-      "description": "Лишившись дома, друзей, даже будущего, вы превращаетесь в чудовище, но вместе с тьмой внутри вас растет и ваша сила. Вас ждет история о дружбе и предательстве, выживании и самопожертвовании, о сладком зове абсолютной власти. Втянутые против воли в войну между богами, дьяволами и зловещими потусторонними силами, вы и ваш отряд определите судьбу Забытых Королевств.\nСОВЕРШЕННОЕ ВОПЛОЩЕНИЕ МИРА D&D\nИграйте за героя с детально продуманной историей или же выбирайте из множества рас и классов D&D. Сражайтесь, покоряйте сердца, обчищайте карманы и ищите приключений на свою голову в Забытых Королевствах и за их пределами. Играйте в одиночку или с друзьями по сети, в совместной игре до четырех игроков. И не забудьте тщательно подобрать себе спутников.\nМГНОВЕННОЕ ПЕРЕКЛЮЧЕНИЕ МЕЖДУ ОДИНОЧНЫМ РЕЖИМОМ И СЕТЕВОЙ ИГРОЙ\nСлагайте ваши собственные истории – в одиночку или с друзьями. Объединяйте силы в бою или разделяйте отряд, чтобы заниматься каждый своими делами и заданиями. Вместе выработайте идеальный план кампании... или внесите в него элемент хаоса в самый неожиданный для товарищей момент. Совместная ли это игра для двух игроков в режиме разделения экрана на PlayStation®5 или сетевая игра для вплоть до четырех человек, Baldur's Gate 3 – приключение, которое затянет и одного, и целую компанию.\nНИ ОДНО ПРИКЛЮЧЕНИЕ НЕ ПОВТОРЯЕТ ДРУГОЕ\nЗабытые Королевства – огромный, детально проработанный и разнообразный мир, практически каждая пядь которого полна секретов: вертикальность здесь не роскошь, а неотъемлемая часть приключения. Крадитесь в тенях, купайтесь в водоемах, толкайте предметы, прыгайте и залезайте на все подряд везде – от глубин Подземья до сверкающих крыш Верхнего города. Как вы будете выживать и какой след оставите после себя в этом мире, решать только вам.\nЗРЕЛИЩНАЯ ИСТОРИЯ ЭПИЧЕСКОГО МАСШТАБА\nПостроенная на новом движке Divinity 4.0, Baldur’s Gate 3 дает вам непревзойденную свободу действий: исследуйте, экспериментируйте, взаимодействуйте с миром, который по-настоящему реагирует на ваши действия и решения.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "description": "ОХОТА ЗА ДОБЫЧЕЙ, ВЫЖИВАНИЕ, БОГАТСТВА\nВ ARC Raiders вас ждет Поверхность, которой заправляют смертоносные машины, и красочный подземный мир Сперанцы. Мастерите, чините и улучшайте экипировку в безопасности собственной мастерской, а затем совершайте вылазки на Поверхность, в разоренный, но все еще прекрасный мир. Играйте в одиночку или в группе до трех человек и вступайте в противостояние с нескончаемыми машинами ARC и непредсказуемыми выжившими. Только вам решать, каким рейдером стать. На что вы готовы пойти ради победы?\nДля аренды игры писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
       "categories": [
         "Лента на главной",
         "Все игры",
-        "Только PS5",
-        "Игры на двоих",
         "Приключения",
         "РПГ",
-        "Стратегии и симуляторы",
-        "Alane Wake 2 рекомендации",
-        "RAFT Рекомендации",
-        "Warhammer 40 рекомендации",
-        "Assassin’s Creed Shadows рекомендации",
-        "Lego Horizon Adventures PS5 Рекомендации",
-        "Silent Hilll 2 рекомендации",
-        "COD 6 рекомендации",
-        "Dragon Age: 2024 рекомендации",
-        "Wukong рекомендации",
-        "Game Awards 2024"
+        "Только PS5",
+        "Новинки",
+        "Новинка главная шапка",
+        "Шутеры"
       ],
       "platforms": "PS5",
       "platform_ps4": false,
@@ -2170,344 +1769,31 @@
       "platforms_choice": false,
       "prices": {
         "p2": {
-          "7": 649,
-          "14": 1190,
-          "21": 1690,
-          "28": 1990
-        },
-        "p3": {
-          "7": 749,
-          "14": 1290,
-          "21": 1790,
-          "28": 2090
-        }
-      },
-      "tilda_uid": "859966718052",
-      "sku": "",
-      "external_id": "CyfbeczHcyfzz0i2MiEr",
-      "url": "http://arenapsgm.ru/tproduct/859966718052-baldurs-gate-3-ps5",
-      "seo_title": "Baldur’s Gate 3 только PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Baldur’s Gate 3 только PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Baldur’s Gate 3 только PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "bloodborne-goty-edition-ps4-ps5",
-      "title": "Bloodborne Goty Edition PS4/PS5",
-      "mark": "",
-      "price_from": 300,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3665-6464-4563-a630-643934346665/76507839.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3665-6464-4563-a630-643934346665/76507839.jpg",
-        "https://static.tildacdn.com/stor3061-3061-4465-b631-646436363232/55443302.jpg",
-        "https://static.tildacdn.com/stor3234-3233-4632-b631-356265383566/70527778.jpg",
-        "https://static.tildacdn.com/stor3562-3562-4638-b335-623065616330/78228475.jpg",
-        "https://static.tildacdn.com/stor3231-3964-4066-b464-656464346365/19382267.jpg",
-        "https://static.tildacdn.com/stor6662-6631-4038-b563-373665353464/87592651.jpg"
-      ],
-      "description": "Творение студии, создавшей Demon’s Souls™ и Dark Souls™, динамичная ролевая игра, с восторгом принятая критиками и двумя миллионами игроков по всему миру.\nОдинокий путник. Проклятый город. Смертоносная тайна, уничтожающая все, к чему она прикоснется. Взгляните в лицо своим страхам на улицах загнивающего Ярнама#nbsp;— проклятого места, разъедаемого ужасным, всепоглощающим мором. Доживете ли до рассвета?\nСпециальный выпуск игры, Game of the Year Edition, содержит дополнение The Old Hunters#nbsp;— новую сюжетную кампанию, в которой вам предстоит узнать трагическую историю охотников, некогда превративших Ярнам в площадку для своих безумных игр.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Боевики",
-        "Хоррор",
-        "РПГ"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 300,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        },
-        "p3": {
-          "7": 400,
-          "14": 600,
-          "21": 900,
-          "28": 1000
-        }
-      },
-      "tilda_uid": "559769830942",
-      "sku": "",
-      "external_id": "3s1gd752bKPjD94BoK8A",
-      "url": "http://arenapsgm.ru/tproduct/559769830942-bloodborne-goty-edition-ps4-ps5",
-      "seo_title": "Bloodborne Goty Edition PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Bloodborne Goty Edition PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Bloodborne Goty Edition PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "bloodborne-ps4-ps5",
-      "title": "Bloodborne PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0713/WSZqsrnejjt85wYmUqeBQvMQ.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/img/rnd/202011/0713/WSZqsrnejjt85wYmUqeBQvMQ.png",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA00207_00/FREE_CONTENTqTph7aohFHoFoDDgHrpm/Bloodborne_1.jpg",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA00207_00/FREE_CONTENTnrxMl17Bh6Tx8oAHWlZI/Bloodborne_2.jpg",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA00207_00/FREE_CONTENTV9Veu3vRyCrPbLkHyWew/Bloodborne_3.jpg",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA00207_00/FREE_CONTENTQFFX3Fb9mYD3yRbCDwJt/Bloodborne_4.jpg",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA00207_00/FREE_CONTENTtkr9sbDH5VqUi0WBhE9L/Bloodborne_5.jpg",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA00207_00/FREE_CONTENTgLjwx8ay9MW2jnITRRYi/Bloodborne_6.jpg",
-        "https://image.api.playstation.com/cdn/EP9000/CUSA00207_00/FREE_CONTENTHvpl05YETqnSosZ9miWJ/Bloodborne_7.jpg"
-      ],
-      "description": "Bloodborne - жестокая, погружающая в кошмары история о путешествии одиночного героя по проклятому Ярнаму. В городе, разъедаемом ужасами, вы столкнетесь с мрачными тайнами и сражайтесь за жизнь холодным оружием. Поддерживается онлайн-модуль для 2-5 игроков при наличии подписки PlayStation®Plus DUALSHOCK®4.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Боевики",
-        "РПГ",
-        "Приключения",
-        "Хоррор"
-      ],
-      "platforms": "PS4",
-      "platform_ps4": true,
-      "platform_ps5": false,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 800,
-          "28": 900
-        },
-        "p3": {
-          "7": 250,
-          "14": 500,
-          "21": 900,
-          "28": 1000
-        }
-      },
-      "tilda_uid": "261625026682",
-      "sku": "",
-      "external_id": "cKpEped15tXkGBJ2B6LZ",
-      "url": "http://arenapsgm.ru/tproduct/261625026682-bloodborne-ps4-ps5",
-      "seo_title": "Bloodborne PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Bloodborne PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Bloodborne PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.74,
-      "release_date": "25/3/2015",
-      "publisher": "Sony Interactive Entertainment",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/200520",
-      "edition_banner": "https://image.api.playstation.com/vulcan/img/rnd/202011/2320/E3hXKQ8iL9BJtAT8gR9nmIMF.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "cat-quest-3-ps4-ps5",
-      "title": "Cat Quest 3 PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1605/k3Muky7sjOFOSLIpwfQKeqrF.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202009/1605/k3Muky7sjOFOSLIpwfQKeqrF.png",
-        "https://image.api.playstation.com/vulcan/img/cfn/1130729k35sj4rcRtH1OJWt1xD8_ng7LdDdDZFIUtEN8eigsxQLiuqgfVt6EVYK-qjFyHzZPr1zQmdMMY1wad0AuzCcKcVIS.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/11307pweyIpX1lTrpFpIx0_6Nf-lMPMPnNZs2GmiJ27b0x182DCtj4NkcwqJmq2LSmedFhWb51CCcNxpdmjdwwfUZ5M-s3iG.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/11307-lxFeoWXOigpJR51IMf76MwXNp_1c_6LRBja_5_h32wxGQ0p7AquDwtE0cUmYuP63InOk7gzGCnWedvpsOBLPceYBkv.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/11307QDO7M1Omzqa3mSwABqNDj42FZ2QNucV8RuOLWBAiswsNnWvMznbBxjZ0JwfkSg0wrC-Bpm6AvqKqzkFkVAARbYgBGsR.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/11307G6l-KiiUb_VHKL2av4FKuJgYDjq4ltze_zthH9IyEpAuSdEO1Ajjzf9RXvDrym1HqbUhzPa_yLa2wvlbGmSWo8zIgtf.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/11307nQxYm9eIbOeQtEjla4e5iRKllXm7v7cn9cnaOs03Yvo1-jy5X4IZ8M071bo2rA7dphn2NiLKG-Hh_hxnougMOw_0oX-.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/11307HuCKVhueIOLaEqJNNfJOyXhmQyXEysy1FxJIMNALtV07RyG1FwhaKiUIauwOsXUw45EXVVUD43B59a7hXB-zXQkZjUy.jpg"
-      ],
-      "description": "Cat Quest III - 2,5D-ролевая игра в открытом мире на PS4 и PS5. Станьте мурр-ским разбойником и отправляйтесь в пиратское приключение по Муррибскому морю. Исследуйте берега, подземелья и биомы, сражайтесь с хвостатыми пиратами и найдите сокровища. Играйте как в одиночку или в локальном кооперативе.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Приключения",
-        "РПГ"
-      ],
-      "platforms": "PS4",
-      "platform_ps4": true,
-      "platform_ps5": false,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 699,
-          "28": 799
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 799,
-          "28": 899
-        }
-      },
-      "tilda_uid": "313129830802",
-      "sku": "",
-      "external_id": "OPx5KbIZLnKJ8HkYfgKJ",
-      "url": "http://arenapsgm.ru/tproduct/313129830802-cat-quest-3-ps4-ps5",
-      "seo_title": "Cat Quest 3 PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Cat Quest 3 PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Cat Quest 3 PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.61,
-      "release_date": "24/10/2019",
-      "publisher": "Kepler Interactive Limited",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/234578",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1605/k3Muky7sjOFOSLIpwfQKeqrF.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "cyberpunk-2077-ps4-ps5",
-      "title": "Cyberpunk 2077 PS4/PS5",
-      "mark": "",
-      "price_from": 350,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1517/UyPJCxbE3EoeLtUxjoFBnsD4.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202202/1517/UyPJCxbE3EoeLtUxjoFBnsD4.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202202/1514/To8WFTjfrMQtrX63D0GoCNRj.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202202/1514/SWnz126faKV0CbPOVzCk2R3M.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202202/1514/qJkuelKsYZ6dVRdnInF3kqDJ.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202202/1514/cEaFSSbQCTgZsNJf0ckbN2fG.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202202/1514/PT2qWfNzcGncIlTB0SlzFYY9.jpg"
-      ],
-      "description": "Cyberpunk 2077 - приключенческая ролевая игра с открытым миром о киберпанке-наёмнике Ви в мегаполисе Найт-Сити. Создайте персонажа, выберите стиль игры и начните бороться за жизнь в мрачном будущем. Ваши решения влияют на город и его жителей. Станьте оснащённым имплантами преступником и постройте своё имя в мире киберпанка.",
-      "categories": [
-        "Шутеры",
-        "Все игры",
-        "Боевики",
-        "Лента на главной",
-        "Dying light 2 Stay Human рекомендации",
-        "Приключения",
-        "РПГ"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 350,
-          "14": 599,
-          "21": 645,
-          "28": 745
-        },
-        "p3": {
           "7": 450,
-          "14": 699,
-          "21": 745,
-          "28": 845
-        }
-      },
-      "tilda_uid": "997783661042",
-      "sku": "",
-      "external_id": "x8NfjxdkdSAff1NrF3Dd",
-      "url": "http://arenapsgm.ru/tproduct/997783661042-cyberpunk-2077-ps4-ps5",
-      "seo_title": "Cyberpunk 2077 PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Cyberpunk 2077 PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Cyberpunk 2077 PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.52,
-      "release_date": "15/2/2022",
-      "publisher": "CD PROJEKT SA",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/234567",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "dark-souls-ii-scholar-of-the-first-sin-ps4-ps5",
-      "title": "Dark Souls II:Scholar of the First Sin PS4/PS5",
-      "mark": "",
-      "price_from": 300,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01589_00/4/i_4775fa4753de7530e6c4fa3e985e1869552054a23931b74414eac03cba388ed8/i/icon0.png",
-      "screenshots": [
-        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01589_00/4/i_4775fa4753de7530e6c4fa3e985e1869552054a23931b74414eac03cba388ed8/i/icon0.png",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA01589_00/FREE_CONTENTncgnmFCym5Zu0AhYOXaK/PREVIEW_SCREENSHOT2_448367.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA01589_00/FREE_CONTENTbTdPuxpBtekMPs1mezls/PREVIEW_SCREENSHOT3_448367.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA01589_00/FREE_CONTENTCR2nDBvsyjmRmgAeeeIE/PREVIEW_SCREENSHOT4_448367.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA01589_00/FREE_CONTENTeUmm6GMtFckygIG6lK8N/PREVIEW_SCREENSHOT5_448367.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA01589_00/FREE_CONTENTYTvvO1pu11aQ9vOOyc41/PREVIEW_SCREENSHOT6_448367.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA01589_00/FREE_CONTENTSg6REBjw8TDAMXPE1G8Y/PREVIEW_SCREENSHOT7_448367.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA01589_00/FREE_CONTENT697A2tyM6IB8f9LKjb4S/PREVIEW_SCREENSHOT8_448367.jpg"
-      ],
-      "description": "Лучшая ролевая игра 2015 года по версии GamesCom.\n- Наиболее полное издание DARK SOULS™ II включает все ранние материалы и многое другое!\n- Число кадров в секунду возросло с 30 до 60 в 1080p, а динамическая контрастность DARK SOULS™ II поражает.\n- Пересмотр расположения врагов полностью изменил динамику игры. Опытным бойцам придется забыть все, чему они научились, и заново знакомиться с DARK SOULS™ II.\n- В игре по сети стало проще подбирать себе противников. Появился регулирующий собранные души предмет, а число игроков выросло с 4 до 6.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Лента на главной",
-        "Приключения",
-        "Все игры",
-        "РПГ",
-        "Боевики"
-      ],
-      "platforms": "PS4",
-      "platform_ps4": true,
-      "platform_ps5": false,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 300,
-          "14": 500,
-          "21": 700,
-          "28": 800
+          "14": 499,
+          "21": 749,
+          "28": 999
         },
         "p3": {
-          "7": 400,
-          "14": 600,
-          "21": 800,
-          "28": 900
+          "7": 550,
+          "14": 599,
+          "21": 849,
+          "28": 1099
         }
       },
-      "tilda_uid": "104442550162",
+      "tilda_uid": "825521295232",
       "sku": "",
-      "external_id": "8LZK0KIisxOhjVxdkivp",
-      "url": "http://arenapsgm.ru/tproduct/104442550162-dark-souls-ii-scholar-of-the-first-sin-ps4-ps5",
-      "seo_title": "Dark Souls II:Scholar of the First Sin PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Dark Souls II:Scholar of the First Sin PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Dark Souls II:Scholar of the First Sin PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.51,
-      "release_date": "2/4/2015",
-      "publisher": "BANDAI NAMCO ENTERTAINMENT EUROPE",
+      "external_id": "TPNv3bULx1S7vvdGri0L",
+      "url": "http://arenapsgm.ru/tproduct/825521295232-arc-raiders-ps5",
+      "seo_title": "ARC Raiders PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда ARC Raiders PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры ARC Raiders PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.2,
+      "release_date": "30/10/2025",
+      "publisher": "Embark Studios AB",
       "voice": "Английский",
       "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/226237",
-      "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01589_00/4/i_4775fa4753de7530e6c4fa3e985e1869552054a23931b74414eac03cba388ed8/i/icon0.png",
+      "store_url": "https://store.playstation.com/en-tr/concept/10003610",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1515/3ef1ea90a64952c060b797fde8602ee745c2e7c73277c4a5.png",
       "rent_days": [
         7,
         14,
@@ -2563,69 +1849,6 @@
       "url": "http://arenapsgm.ru/tproduct/483328405322-dark-souls-iii-deluxe-edition-ps4-ps5",
       "seo_title": "DARK SOULS III - Deluxe Edition PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
       "seo_descr": "Аренда DARK SOULS III - Deluxe Edition PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры DARK SOULS III - Deluxe Edition PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.78,
-      "release_date": "12/4/2016",
-      "publisher": "BANDAI NAMCO ENTERTAINMENT EUROPE",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/201190",
-      "edition_banner": "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/gSJkkVfpqk8qEp3fQglGcu3OLbXeHJ1W.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "dark-souls-iii-ps4-ps5",
-      "title": "Dark Souls III PS4/PS5",
-      "mark": "",
-      "price_from": 300,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA03365_00/2/i_1bf8d3317ff642710196c85c859320f0a9345e3c65a9132d588239fab877d81a/i/icon0.png",
-      "screenshots": [
-        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA03365_00/2/i_1bf8d3317ff642710196c85c859320f0a9345e3c65a9132d588239fab877d81a/i/icon0.png",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/FREE_CONTENTNavElMiks1YcJgipLQSK/PREVIEW_SCREENSHOT1_483510.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/FREE_CONTENTjP1836AKBvtlGUWQ12gX/PREVIEW_SCREENSHOT2_483510.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/FREE_CONTENTIaD4V6arQ7Qf3xqC60OG/PREVIEW_SCREENSHOT3_483510.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/FREE_CONTENTR9EXm59pT5ZvmofoljeG/PREVIEW_SCREENSHOT4_483510.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/FREE_CONTENTph5CrzNfPcNtcamDTblu/PREVIEW_SCREENSHOT5_483510.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/FREE_CONTENTt0ubmgUtzvxAV2XcUyly/PREVIEW_SCREENSHOT6_483510.jpg",
-        "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/FREE_CONTENTYZdH1QlG5irR0U4Be7ho/PREVIEW_SCREENSHOT7_483510.jpg"
-      ],
-      "description": "Dark Souls III предлагает вызов в новой главе саги, где мир погружается в руины и битвы становятся еще более жестокими. Игра сохраняет мрачную атмосферу и напряжённый геймплей, испытывая игрока на прочность. Доступна в версиях для PS4 и PS5 с поддержкой онлайн-режима по подписке PlayStation®Plus DUALSHOCK®4.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Приключения",
-        "РПГ",
-        "Боевики"
-      ],
-      "platforms": "PS4",
-      "platform_ps4": true,
-      "platform_ps5": false,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 300,
-          "14": 500,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 400,
-          "14": 600,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "tilda_uid": "149237716642",
-      "sku": "",
-      "external_id": "EOpUEMoittNX2NuKh9y2",
-      "url": "http://arenapsgm.ru/tproduct/149237716642-dark-souls-iii-ps4-ps5",
-      "seo_title": "Dark Souls III PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Dark Souls III PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Dark Souls III PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
       "rating": 4.78,
       "release_date": "12/4/2016",
       "publisher": "BANDAI NAMCO ENTERTAINMENT EUROPE",
@@ -2756,6 +1979,72 @@
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/221850",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1014/ORrwkbfh9B1OwfQbPGLBsgs7.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "death-stranding-2-on-the-beach",
+      "title": "DEATH STRANDING 2: ON THE BEACH",
+      "mark": "",
+      "price_from": 939,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2115/ae183c63bbeb38d05ecce96aa7f693b4a3769a1835020b63.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202511/2115/ae183c63bbeb38d05ecce96aa7f693b4a3769a1835020b63.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202503/1410/8215d0fe14e6b6c32bfdbeb5fd8230706fe9ad7d66738e3f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202503/1410/3d3a2e91ca5efa8538a0bbdc393b7122d0f74ee55f5edcc3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202503/1410/562fedabab3fa6f71d6f38436dbe8c23bb5872a26c87001c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202503/1410/bdd9c17589208d2713df3244db2a5662ddb1b35dae0bc70d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202503/1410/0ea8c05bf9bfdd1c2b4bb0844a6d2fdb529cc78e85f6483d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202503/1410/7afe353c1fd31601db5564ca48608a1de52be5760b90898b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202503/1410/92325b2342b4db4ba1d093592624629a6d24bc7ce277a4bd.jpg"
+      ],
+      "description": "DEATH STRANDING 2: ON THE BEACH - экшн-игра для PS5, где Сэм продолжает бороться за выживание человечества за пределами UCA. В мире полны таинственных врагов и непреодолимых препятствий. Хидео Кодзима создаёт новый вызов в истории своей легендарной серии.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Приключения",
+        "РПГ",
+        "Хоррор",
+        "Новинки",
+        "Новинка главная шапка"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 939,
+          "14": 1129,
+          "21": 1394,
+          "28": 1414
+        },
+        "p3": {
+          "7": 1129,
+          "14": 1329,
+          "21": 1594,
+          "28": 1614
+        }
+      },
+      "tilda_uid": "175800524712",
+      "sku": "",
+      "external_id": "sKXvDn1RygijMUO1aZcV",
+      "url": "http://arenapsgm.ru/tproduct/175800524712-death-stranding-2-on-the-beach",
+      "seo_title": "DEATH STRANDING 2: ON THE BEACH PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда DEATH STRANDING 2: ON THE BEACH на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры DEATH STRANDING 2: ON THE BEACH для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.87,
+      "release_date": "26/6/2025",
+      "publisher": "Sony Interactive Entertainment",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10001538",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2115/ae183c63bbeb38d05ecce96aa7f693b4a3769a1835020b63.png",
       "rent_days": [
         7,
         14,
@@ -2943,132 +2232,6 @@
       ]
     },
     {
-      "slug": "divinity-original-sin-2-definitive-edition-ps4-ps5",
-      "title": "Divinity Original Sin 2-Definitive Edition PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0115/b1f0ccb1a71396d16b504f5852c9e400e1cc62ba5873cec1.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202512/0115/b1f0ccb1a71396d16b504f5852c9e400e1cc62ba5873cec1.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202512/0115/49051cec4d83078bab9b0e0a590960907d7fff468e52db44.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202512/0115/5dcedbb8bdc2e249b25028a303c6c657ab9575225ee681bb.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202512/0115/194a81ad0955ce6174b35b0613da58e26a01796005c4cdb5.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202512/0115/29a0a0fed6210c1a8d441148d2816f31083da9e39da2e931.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202512/0115/96b1365d46fce4c9a16fb61b61c0c4ac7184ca8fd3cbb915.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202512/0115/6c388f9fb7cb6611e72cd83bf311627d7d034cbc0d2f1500.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202512/0115/d97eb535e9de1dfdf397d785105246cc98f166f71ba6b554.jpg"
-      ],
-      "description": "Divinity: Original Sin 2 - Definitive Edition для PS4 и PS5 позволяет исследовать миры, где каждый выбор меняет судьбу мира. Выберите одну из пяти рас, создайте команду или оставайтесь в одиночестве и бросьте вызов Ордену. Издание включает самую полную версию культового RPG с динамичным персонажем и глубокой игрой на поступках. Доступен мультиплеер для 2-4 игроков.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "РПГ",
-        "Приключения",
-        "Боевики"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "tilda_uid": "925231900842",
-      "sku": "",
-      "external_id": "P3cadhAC7VO75ypaNIIN",
-      "url": "http://arenapsgm.ru/tproduct/925231900842-divinity-original-sin-2-definitive-edition-ps4-ps5",
-      "seo_title": "Divinity Original Sin 2-Definitive Edition PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Divinity Original Sin 2-Definitive Edition PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Divinity Original Sin 2-Definitive Edition PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.69,
-      "release_date": "15/12/2025",
-      "publisher": "Larian Studios Games Ltd",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/232084",
-      "edition_banner": "",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "dragon-s-dogma-2-ps5",
-      "title": "Dragon's Dogma 2 PS5",
-      "mark": "",
-      "price_from": 649,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202305/3007/2fff756fa904befe46b838dd6f27fa49f6b53d9f3dbbb776.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202305/3007/2fff756fa904befe46b838dd6f27fa49f6b53d9f3dbbb776.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202403/2105/2c1fba13cb71cfe9da928b69912707648e0b46d87fecd3bc.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202305/3007/b35255499bb8926e5c54b13b04294904be270a980c35142d.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202305/3007/baabfbfef43c16ce321cc4a3a4754e0e29dfc4b30b7ecbf7.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202305/3007/287c15a1820492dcedfe1a2116252163bc99d0eb31484103.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202305/3007/0c9fa7a3b5e6507dd6fddc8b693e8fe97334c9e01b09b62a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202305/3007/d13d40d5f1578ccc7ef86982d2ae55a402b87fde7054cd8b.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202305/3007/15f65967b2092372c3df484a11b5eca9a804cfe09fe62d9f.jpg"
-      ],
-      "description": "Восставший, отправляйся в великое приключение!\nDragon's Dogma — это однопользовательская ролевая игра, где игрок может выбрать практически все: внешность своего Восставшего, профессию, партию, решения в различных ситуациях и многое другое. А в долгожданном продолжении Dragon's Dogma 2 вас ждет глубокий фэнтезийный мир, в котором захочется исследовать каждый уголок.\nВ путешествии к вам присоединятся пешки — загадочные потусторонние существа, настолько уникальные, что вам покажется, будто вас сопровождают настоящие живые игроки.\nЭто стало возможным благодаря реалистичной физике, искусственному интеллекту (ИИ) и великолепной графике, которые вместе создают захватывающий фэнтезийный мир Dragon's Dogma 2.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "РПГ",
-        "Приключения",
-        "Боевики"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 649,
-          "14": 890,
-          "21": 1390,
-          "28": 1490
-        },
-        "p3": {
-          "7": 749,
-          "14": 990,
-          "21": 1490,
-          "28": 1590
-        }
-      },
-      "tilda_uid": "530026208442",
-      "sku": "",
-      "external_id": "PhnaorDutj7jXELYLgYh",
-      "url": "http://arenapsgm.ru/tproduct/530026208442-dragon-s-dogma-2-ps5",
-      "seo_title": "Dragon's Dogma 2 PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Dragon's Dogma 2 PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Dragon's Dogma 2 PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.05,
-      "release_date": "22/3/2024",
-      "publisher": "CE EUROPE LIMITED",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10005844",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0203/37bd2f7293cecbc4045d33578d487127ccaa1840eb15eeb5.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
       "slug": "echoes-of-the-end-enhanced-edition-ps5",
       "title": "Echoes of the End: Enhanced Edition PS5",
       "mark": "-59%",
@@ -3134,119 +2297,133 @@
       ]
     },
     {
-      "slug": "elden-ring-ps4-ps5",
-      "title": "Elden Ring PS4/PS5",
+      "slug": "indiana-jones-and-the-great-circle-ps5",
+      "title": "Indiana Jones and the Great Circle PS5",
       "mark": "",
-      "price_from": 550,
+      "price_from": 257,
       "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0902/fS3Hhaq06TqLrbjMVplA8MaY.png",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/76248a273eb9e5f940cb4793256b30c165536acafe602483.png",
       "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202107/0902/fS3Hhaq06TqLrbjMVplA8MaY.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/R6278uNp9ZrJmzZ4fMYov9PT.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/2nx5IP3VQuMZ6BK1dSjbfQnp.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/ua04Gy1Ch2nPUHLWs5eFShmT.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/G6SAcR7cTiPeFbqYJGyp3YTU.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/zRg1huMgVDiMstlD9oU0wXtK.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/Y3HVnfeolYDiEB3rGyya6R1K.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/OvYs69X5ZWUmGzREyimpaiw0.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/76248a273eb9e5f940cb4793256b30c165536acafe602483.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/4011b3b2b419b9e7f56aca88bbd76f9e35a699bf55885002.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/f89153c9bb46ff88548a052bca4d545bb29c91fb3fa97261.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/90bfb371de3c3ca7eac1a8941c7a9ca25e4dd63f9c2af1e4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/4ccb3c027b89461edcf9e70780421e96f0b45daa9df7a55c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/cb2925b00cc52bd0370ae37666686735eaba25217706d69c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/9ea72b53c5300ed3cfde3b8b6365f0d23f562ca9e2b1b158.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1520/abc89156a3e28cbf6435d465556bd89134361c27efdfc573.jpg"
       ],
-      "description": "Elden Ring - новый ролевой экшен в фэнтези-мире. Погрузитесь в огромный мир с открытыми пространствами и подземельями. Создайте героя, настройте его внешность и способности, пройдите сложную историю, рожденную из мифов. Играйте с другим игроком в синхронном или асинхронном режиме.",
+      "description": "В 1937 году Индиана Джонс должен разгадать одну из величайших тайн человечества - тайну великого круга. В поиске древних загадок он путешествует по миру, от пирамид Египта до улиц Ватикана и затонувших храмов Сукхотая. Сражается с гигантами, решает головоломки и использует знаменитый кнут как оружие и инструмент для преодоления препятствий.",
       "categories": [
-        "Лента на главной",
         "Все игры",
         "Приключения",
         "РПГ",
-        "Боевики"
+        "Боевики",
+        "Лента на главной",
+        "Новинки",
+        "статья под индиана джонс",
+        "Только PS5"
       ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
+      "platforms": "PS5",
+      "platform_ps4": false,
       "platform_ps5": true,
-      "platforms_choice": true,
+      "platforms_choice": false,
       "prices": {
         "p2": {
-          "14": 550,
-          "21": 890,
-          "28": 990
+          "1": 257,
+          "7": 649,
+          "14": 799,
+          "21": 949,
+          "28": 1199
         },
         "p3": {
-          "14": 650,
-          "21": 990,
-          "28": 1090
+          "1": 349,
+          "7": 549,
+          "14": 699,
+          "21": 849,
+          "28": 1099
         }
       },
-      "tilda_uid": "162670860242",
+      "tilda_uid": "980652415812",
       "sku": "",
-      "external_id": "Jsi6R5diYpXyxZkCLdIk",
-      "url": "http://arenapsgm.ru/tproduct/162670860242-elden-ring-ps4-ps5",
-      "seo_title": "Elden Ring PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Elden Ring PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Elden Ring PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.71,
-      "release_date": "25/2/2022",
-      "publisher": "BANDAI NAMCO ENTERTAINMENT EUROPE",
+      "external_id": "375vEPHknhKCiO2gpZJM",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/980652415812-indiana-jones-and-the-great-circle-ps5",
+      "seo_title": "Indiana Jones and the Great Circle PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Indiana Jones and the Great Circle PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Indiana Jones and the Great Circle PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.55,
+      "release_date": "17/4/2025",
+      "publisher": "Bethesda",
       "voice": "Английский",
       "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10000333",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0Jz6uJLxOK7JOMMfcfHFBi1D.png",
+      "store_url": "https://store.playstation.com/en-tr/concept/10012238",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1203/bac7ed51767fc46855424b4fbe42427cb6aee1bd06cab09b.png",
       "rent_days": [
+        1,
+        7,
         14,
         21,
         28
       ]
     },
     {
-      "slug": "elden-ring-shadow-of-the-erdtree-ps4-ps5",
-      "title": "Elden Ring: Shadow of the Erdtree PS4/PS5",
+      "slug": "kingdom-come-deliverance-ii-ps5",
+      "title": "Kingdom Come: Deliverance II PS5",
       "mark": "",
-      "price_from": 990,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3466-3234-4737-b133-316439623065/18129154.jpg",
+      "price_from": 350,
+      "price_old": 899,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1208/05a84ce968125d79fa36484c5a756a1c8d9b05622aae21c1.png",
       "screenshots": [
-        "https://static.tildacdn.com/stor3466-3234-4737-b133-316439623065/18129154.jpg",
-        "https://static.tildacdn.com/stor3837-6335-4065-b437-613361336530/95591755.jpg",
-        "https://static.tildacdn.com/stor3933-6166-4666-a166-663932636333/70915012.jpg",
-        "https://static.tildacdn.com/stor6666-3161-4536-b939-316138366661/96602669.jpg",
-        "https://static.tildacdn.com/stor3261-3866-4565-b763-373762396432/80968354.jpg",
-        "https://static.tildacdn.com/stor3039-3330-4337-b262-643263646566/49694779.jpg",
-        "https://static.tildacdn.com/stor6235-3136-4461-b330-316665363838/be025798e40f29cdb018382f8535c8f1.jpg"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1208/05a84ce968125d79fa36484c5a756a1c8d9b05622aae21c1.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/3111/b450391989829f258885484b561e337c7823be8ba98248ba.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/3111/413fc7ab673d994c9131d8c542acb85ddd1d70e588f20bfa.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/3115/47f85ecd87172f865a9dd1b87dd478b85ce65a26a7197b78.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/3115/c799a20cc1baa2dc007a42b0867c09a526ff1e30dadb2fdf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/3111/03cad5968a7bc9d71ce7184cc3a4dac44390b5ad85d7af67.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/3111/705804d37efcbf9f13f2ed8858534ec53244964fb3893ea9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/3115/02aba4981d224b355f9c956856dfa0805d4ce2b5c3c24daf.jpg"
       ],
-      "description": "ELDEN RING#nbsp;— нашумевший ролевой боевик в мрачном фэнтезийном мире, удостоенный сотни наград, включая The Game Awards в номинации «Игра года» и Golden Joystick Awards в номинации «Лучшая игра года». Игроки отправляются в долгое путешествие и исследуют полные опасности земли в своём темпе.\nДействие дополнения Shadow of the Erdtree разворачивается в землях Теней, где вас ждут новые тайны.\nОткрывайте неизведанные места, сражайтесь с грозными противниками и наслаждайтесь вкусом победы. Следите за увлекательными взаимоотношениями героев. Погрузитесь в историю, полную драм и интриг, которая никого не оставит равнодушным.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "description": "Kingdom Come: Deliverance II#nbsp;— это захватывающая ролевой экшен, который перенесёт вас во времена Богемской войны XV#nbsp;века.\nВам предстоит играть за Индржиха из Скалицы#nbsp;— обычного человека с необычной судьбой, который начал свой путь «из кузнецов в королевский двор» в поисках отмщения за предательство, исследуя прекрасное, но жестокое Средневековье.\nИзучайте невероятный открытый мир средневековой Европы, отправившись в увлекательное путешествие по оживлённым городкам и густым лесам.\nОСОБЕННОСТИ\nИстория любви и отмщения\nПроживите жизнь юного Индржиха, который решил отомстить за гибель своих родителей. В этой истории, проиллюстрированной пятью часами видеороликов, герой превращается из честолюбивого солдата в мятежника. Во время своих незабываемых приключений он встречает интересных персонажей и выступает против короля Венгрии Сигизмунда по прозвищу Рыжий Лис и его грозных союзников.\nРолевая игра в своём истинном понимании\nОт ваших действий зависит судьба Индржиха и то, как с ним будут взаимодействовать другие персонажи. Меняйте внешность, навыки и экипировку героя и выберите свою нравственную позицию в происходящих событиях. Путешествуйте и выполняйте уникальные задания вроде ковки оружия или охоты из лука, чтобы полностью погрузиться в этот удивительный регион Европы, где ваши действия будут влиять на происходящее.\nЖизнь в Средневековье\nНевероятно аутентичное изображение Богемии XV#nbsp;века позволит вам полностью погрузиться в атмосферу этой эпохи. Отправляйтесь в оживлённый город, общайтесь с крестьянами и дворянами, исследуйте наполненную деталями обширную сельскую местность с тавернами, купальнями, замками и многое другое.\nРеалистичные битвы от первого лица\nЗвон стали и жестокие сражения#nbsp;— вас ждут невероятные бои в реальном времени. Каждый может выбрать для себя исторически достоверное оружие и подходящий боевой стиль. Сражаться можно в качестве пешего воина, на лошади или скрытно с помощью меча, мощного ударного оружия или нанося смертоносные атаки на расстоянии.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
       "categories": [
-        "Лента на главной",
         "Все игры",
         "Приключения",
         "РПГ",
-        "Боевики"
+        "Боевики",
+        "Лента на главной",
+        "Новинки"
       ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
+      "platforms": "PS5",
+      "platform_ps4": false,
       "platform_ps5": true,
-      "platforms_choice": true,
+      "platforms_choice": false,
       "prices": {
         "p2": {
-          "14": 990,
-          "21": 1390,
-          "28": 2390
+          "7": 350,
+          "14": 550,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "14": 1090,
-          "21": 1490,
-          "28": 2490
+          "7": 550,
+          "14": 750,
+          "21": 900,
+          "28": 990
         }
       },
-      "tilda_uid": "384720355302",
+      "tilda_uid": "774155027312",
       "sku": "",
-      "external_id": "B0ckv4TnU4rN041vJOOy",
-      "url": "http://arenapsgm.ru/tproduct/384720355302-elden-ring-shadow-of-the-erdtree-ps4-ps5",
-      "seo_title": "Elden Ring: Shadow of the Erdtree PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Elden Ring: Shadow of the Erdtree PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Elden Ring: Shadow of the Erdtree PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
+      "external_id": "Fs55I6hJzGIBnbny5DXg",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/774155027312-kingdom-come-deliverance-ii-ps5",
+      "seo_title": "Kingdom Come: Deliverance II PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Kingdom Come: Deliverance II PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Kingdom Come: Deliverance II PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.61,
+      "release_date": "4/2/2025",
+      "publisher": "Deep Silver",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10006210",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1208/05a84ce968125d79fa36484c5a756a1c8d9b05622aae21c1.png",
       "rent_days": [
+        7,
         14,
         21,
         28
@@ -3305,131 +2482,6 @@
       "text_translation": "",
       "store_url": "",
       "edition_banner": "",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "minecraft-dungeons-ps4-ps5",
-      "title": "Minecraft Dungeons PS4/PS5",
-      "mark": "",
-      "price_from": 290,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18797_00/4/i_ef3d4a1a539cc23669e31e597bdb5d56bc645ac6e2a824cfe6fb6ed61a7f13ee/i/icon0.png",
-      "screenshots": [
-        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18797_00/4/i_ef3d4a1a539cc23669e31e597bdb5d56bc645ac6e2a824cfe6fb6ed61a7f13ee/i/icon0.png",
-        "https://image.api.playstation.com/vulcan/img/cfn/11307XmGwDVVAJmaGmRBOdAKpAKyodn7CtZsg-t-Z9K0TeBAjAQ03suEHxaCv9xS_aAAmsSuf6HaQmzXzkA26S9cV1QdMMMK.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/11307BeKpZ9CnrQs8D0UYmurMhx8hUN4P2aNzBXHxb5gU9josjNQvXWWBNwdTGqJZ2Nnwvy1iirDV10J1I8h1z624pEwKYWF.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/113074lWmqMCl2fNDf11d6qVI0nzG_BrAOdcjl1dvgt7nvKokk0D63shHxAUIsLkfuZtp5Fi8So1s2AzJXGE-RtVOwUwHPLC.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/11307XGsNG7xlS3KI0iCunIvjIM9h_FIkeJizuIP5DnZqAyEXKRape4wF9-8whm7QpnFv4jF0_NtNt5Pm9pl3X3ptvkJZH0b.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/11307xq115993VgbKyESjt9J9_av83hY1PKycodm3SzgXTMgaxosovgQGCk5dDE2PCnU_odjorcW_lzYjUpJgrqyXhIoHSZt.jpg",
-        "https://image.api.playstation.com/vulcan/img/cfn/11307ahvEwM9FcxqEXcBnkGZgAWwxxNH0r-3XYjUWgULZH4krbL_CPcuv8Xcg-jkRxYdDCNQaBJaQxq3lNU9jYjL_LUJrdaa.jpg"
-      ],
-      "description": "Minecraft Dungeons - динамичная игра во вселенной Minecraft, где вы пробиваетесь через врагов в подземельях. Побеждайте Архизлодеянина вместе с друзьями до четырёх игроков. Уникальные предметы и оружие с мощными атаками помогут вам становиться сильнее.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Игры на двоих",
-        "РПГ",
-        "Приключения",
-        "Боевики"
-      ],
-      "platforms": "PS4",
-      "platform_ps4": true,
-      "platform_ps5": false,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 290,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 390,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "tilda_uid": "620137141422",
-      "sku": "",
-      "external_id": "l5yV4cPAj236AAr7tTrl",
-      "url": "http://arenapsgm.ru/tproduct/620137141422-minecraft-dungeons-ps4-ps5",
-      "seo_title": "Minecraft Dungeons PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Minecraft Dungeons PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Minecraft Dungeons PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.34,
-      "release_date": "26/5/2020",
-      "publisher": "Mojang AB",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10000378",
-      "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18779_00/4/i_c7b0467e8d83d7fa53d63d40a50e65e5da0edc39e07306e356cf5a6f2aba1977/i/icon0.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "minecraft-ps4-ps5",
-      "title": "Minecraft PS4/PS5",
-      "mark": "",
-      "price_from": 290,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202407/2423/6fe83bf38f93a06816c21b46ce73945f157260319c4a77d2.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202407/2423/0193d3b773501fffe0609513ab4e134ff14759ede12d4423.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202407/2423/fc3e64baae92f6976c2ec81e4020e7862c9afaaf103c1317.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202407/2423/51311490f915043da2f955969ac22133541f122c78c168f5.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202407/2423/94dd1a47ceec2cd4fbd4839938ddfcc51d8cad604b57c595.jpg"
-      ],
-      "description": "Мinecraft - бесконечный мир для свободного творчества на PS4 и PS5. Строите, исследуйте биомы и ведёте баталии с мобами в ярком графическом обновлении. Играйте с друзьями в режиме многопользовательской игры или на частном сервере через Realms Plus.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Приключения",
-        "РПГ",
-        "Стратегии и симуляторы",
-        "Платформеры"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 290,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 390,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "tilda_uid": "391207322902",
-      "sku": "",
-      "external_id": "uROVV1a22IpXvOPu2765",
-      "url": "http://arenapsgm.ru/tproduct/391207322902-minecraft-ps4-ps5",
-      "seo_title": "Minecraft PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Minecraft PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Minecraft PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.29,
-      "release_date": "22/10/2024",
-      "publisher": "MOJANG AB",
-      "voice": "",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/212779",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
       "rent_days": [
         7,
         14,
@@ -3565,6 +2617,67 @@
       ]
     },
     {
+      "slug": "nioh-1-ps4-ps5",
+      "title": "Nioh 1 PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3934-3932-4466-b564-663464366462/60595573.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3934-3932-4466-b564-663464366462/60595573.jpg",
+        "https://static.tildacdn.com/stor6662-3861-4164-b661-633337353235/24518723.jpg",
+        "https://static.tildacdn.com/stor3133-3130-4337-a163-343631656636/77203309.jpg",
+        "https://static.tildacdn.com/stor3039-6563-4862-a566-313838343261/92029768.jpg",
+        "https://static.tildacdn.com/stor6537-6335-4466-b761-333130626364/55740250.jpg",
+        "https://static.tildacdn.com/stor6635-3134-4432-b563-636433343537/64264878.jpg"
+      ],
+      "description": "Готовьте клинки – в этой ролевой игре на территории огромной страны, охваченной гражданской войной, изнурительные бои поджидают за каждым углом.\nЧтобы побеждать, вам нужно набраться терпения, внимательно изучая сильные стороны своих врагов – будь то люди или демоны, – и воспользоваться их уязвимыми местами.\nКаждое поражение следует воспринимать как очередной шаг вперед. Только через смерть вы сможете пройти путь истинного самурая.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "РПГ",
+        "Приключения",
+        "Боевики"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "713006152512",
+      "sku": "",
+      "external_id": "d0XXp7jVRvsByg0SKe6n",
+      "url": "http://arenapsgm.ru/tproduct/713006152512-nioh-1-ps4-ps5",
+      "seo_title": "Nioh 1 PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Nioh 1 PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Nioh 1 PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
       "slug": "nioh-3-ps5",
       "title": "Nioh 3 PS5",
       "mark": "",
@@ -3631,21 +2744,21 @@
       ]
     },
     {
-      "slug": "shadow-of-mordor-game-of-the-year-edition-ps4-ps5",
-      "title": "Shadow of Mordor Game of the Year Edition PS4/PS5",
+      "slug": "nioh-collection-ps4-ps5-remastered",
+      "title": "Nioh Collection PS4/PS5 Remastered",
       "mark": "",
       "price_from": 250,
       "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor6562-3839-4630-a136-633931646334/30b4ed58c5238275e9ea0ebfab142ce1.jpg",
+      "image_url": "https://static.tildacdn.com/stor3863-3134-4363-b136-393366383035/36025351.jpg",
       "screenshots": [
-        "https://static.tildacdn.com/stor6562-3839-4630-a136-633931646334/30b4ed58c5238275e9ea0ebfab142ce1.jpg",
-        "https://static.tildacdn.com/stor6366-3732-4438-b963-316466336536/75f4b165741210b6943f49ffab6ea33a.jpg",
-        "https://static.tildacdn.com/stor3661-6663-4632-a631-303139613731/cbc118341cba649f1d6b1be20898efc1.jpg",
-        "https://static.tildacdn.com/stor3833-6538-4137-a430-623031636636/18ee21a8093623f86b49151debd87f21.jpg",
-        "https://static.tildacdn.com/stor3930-6466-4432-b465-666261363063/c40f4c4c9b18f9f3b973f095b10a1504.jpg",
-        "https://static.tildacdn.com/stor3665-3736-4663-b238-316334343335/6ed525195f5b433c6dd29f65de229f92.jpg"
+        "https://static.tildacdn.com/stor3863-3134-4363-b136-393366383035/36025351.jpg",
+        "https://static.tildacdn.com/stor6266-6366-4535-b033-613939343239/55461160.jpg",
+        "https://static.tildacdn.com/stor3165-3830-4635-b734-366233353136/26546875.jpg",
+        "https://static.tildacdn.com/stor3964-6130-4335-a362-333863363236/59653175.jpg",
+        "https://static.tildacdn.com/stor6464-3831-4634-b262-383863326338/89005419.jpg",
+        "https://static.tildacdn.com/stor3436-3662-4438-b463-386634353738/17763129.jpg"
       ],
-      "description": "«Средиземье: Тени Мордора» – игра нового поколения, события которой происходят в знаменитом Средиземье. Вас ждет захватывающая история о мести и искуплении. Исполните роль следопыта Талиона, чья семья погибла от рук прислужников Саурона. Талион и сам не избежал жестокой участи, однако Дух отмщения вернул его к жизни и наделил сверхъестественными силами. Теперь вернувшемуся из мертвых следопыту предстоит отправиться в глубины Мордора, чтобы исполнить клятву и уничтожить тех, кто разрушил его жизнь. Со временем ему откроется правда о том, что за Дух вернул его в мир, он узнает о кольцах власти и сразится со своим врагом.\nКаждый противник, которого встретит игрок, будет уникальным – со своими особенностями, сильными и слабыми сторонами. Благодаря механике Nemesis System взаимоотношения врагов и их характеристики определяются в зависимости от действий игрока и его решений. Динамичный мир «Средиземье: Тени Мордора» помнит вас, реагирует на ваши решения и приспосабливается к ним. Здесь каждый игрок проживет свое – неповторимое – приключение.\nВ комплекте издания:\ncюжетное дополнение «Светлый Властелин»;\nсюжетное дополнение «Великая охота»;\nвсе ранее выпущенные руны, костюмы, задания и испытания.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "description": "Издание Nioh Collection #nbsp;приготовило для геймера жестокие и сверхбыстрые бои с кошмарными врагами и легендарными воинами\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
       "categories": [
         "Лента на главной",
         "Все игры",
@@ -3671,72 +2784,12 @@
           "28": 900
         }
       },
-      "tilda_uid": "491973800382",
+      "tilda_uid": "625449322802",
       "sku": "",
-      "external_id": "by1bjOpuTvykFgaFjNUH",
-      "url": "http://arenapsgm.ru/tproduct/491973800382-shadow-of-mordor-game-of-the-year-edition-ps4-ps5",
-      "seo_title": "Shadow of Mordor Game of the Year Edition PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Shadow of Mordor Game of the Year Edition PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Shadow of Mordor Game of the Year Edition PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "skyrim-ps4-ps5",
-      "title": "Skyrim PS4/PS5",
-      "mark": "",
-      "price_from": 299,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor6232-6163-4336-a166-353065326434/62372702.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor6232-6163-4336-a166-353065326434/62372702.jpg",
-        "https://static.tildacdn.com/stor3066-6366-4530-a434-363439373365/0761c115c4b36ab2fc136a4f8ce81ed4.jpg",
-        "https://static.tildacdn.com/stor6330-3238-4434-a265-313236646436/853813a9018374c56a8091db711be1bc.jpg",
-        "https://static.tildacdn.com/stor6235-3730-4866-b535-393561336134/8dacbe400db1cd26c3c85a2cc1da39ed.jpg",
-        "https://static.tildacdn.com/stor3337-3236-4139-a336-643439396635/7e4b4d3ffeb2cef8fbfc16a65f4224b0.jpg",
-        "https://static.tildacdn.com/stor3834-3737-4133-a431-666635343366/ac744cc429c0aeb92df1cbd50a4e5338.jpg"
-      ],
-      "description": "ВОЗРОЖДЕНИЕ ЭПИЧЕСКОГО ФЭНТЕЗИ\nSkyrim переосмысливает и коренным образом меняет взгляд на игры с открытым миром, перенося вас в живой виртуальный мир, который вы можете исследовать так, как захотите.\nНОВАЯ ЖИЗНЬ В НОВОМ МИРЕ\nСоздайте себе персонажа по своему вкусу и занимайтесь тем, чем хочется; легендарная свобода выбора, сюжет и приключения вселенной The Elder Scrolls никогда еще не были столь всеобъемлющими.\nИГРАЙТЕ ТАК, КАК ВАМ ХОЧЕТСЯ\nВам доступны сотни видов оружия, заклинаний и способностей. Новая система развития персонажа позволяет играть именно так, как вам хочется, и определять себя через действия персонажа.\nСРАЖАЙТЕСЬ С ДРАКОНАМИ\nСражайтесь с древними драконами, о которых раньше лишь слышали в легендах, познавайте их тайны, как истинный Драконорожденный, и используйте их силу в бою.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "РПГ",
-        "Приключения"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 299,
-          "14": 499,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 399,
-          "14": 599,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "tilda_uid": "878836073902",
-      "sku": "",
-      "external_id": "Tv5dCtBNAGGU9k14DGTb",
-      "url": "http://arenapsgm.ru/tproduct/878836073902-skyrim-ps4-ps5",
-      "seo_title": "Skyrim PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Skyrim PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Skyrim PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "external_id": "N3FMtCMuTyJ82ju0CGCf",
+      "url": "http://arenapsgm.ru/tproduct/625449322802-nioh-collection-ps4-ps5-remastered",
+      "seo_title": "Nioh Collection PS4/PS5 Remastered PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Nioh Collection PS4/PS5 Remastered на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Nioh Collection PS4/PS5 Remastered для PlayStation. Быстрый доступ, без переплат.",
       "rating": null,
       "release_date": "",
       "publisher": "",
@@ -3932,71 +2985,6 @@
       ]
     },
     {
-      "slug": "the-first-berserker-khazan-ps5",
-      "title": "The First Berserker: Khazan PS5",
-      "mark": "",
-      "price_from": 350,
-      "price_old": 739,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2604/78cf326a8cceaed3f4a807fe9e3f811abdfb5df96fe0cd06.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/2604/78cf326a8cceaed3f4a807fe9e3f811abdfb5df96fe0cd06.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/3001/637050df21c4329f6b3a18a561f32b383d1da0cc1cf8f358.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/3001/2b22df494a5f497b8b2b7b221a81cdda525ec1d54e9c8dca.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/3001/9b6b83232d53798f0a163a493854382a1e79334929003e02.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/1802/c530111d34848a38ba545e6641aad483aa03ebd7beff6603.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/1802/927adb172896d41fdabc085a3ba25fdb310d399226f07b3b.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/1802/5397b72afab023a35da5fe23cf4afa420d61c313a1dce814.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/1802/5bf7c7e56f766894a936657a6717450714354ed2acdff1fd.jpg"
-      ],
-      "description": "1. Эпические битвы с боссами и насыщенный игровой процесс\nThe First Berserker: Khazan во многом напоминает Dungeon Fighter Online. Молниеносные схватки в жанре hack&slash в сочетании с высочайшим уровнем сложности делают игру невероятно захватывающей. Напряженные сражения с боссами делают игру еще тяжелее. Ни одна победа не дастся вам легко!\n2. Невероятная история мести\nВ 89 году империи Пеллос великий генерал Хадзан был ложно обвинен в измене и сослан в заснеженные горы. Он чудом избежал смерти и теперь хочет отомстить. Вместе с ним раскройте заговор, уничтоживший его прежнюю жизнь, вспомните утраченные боевые навыки и узнайте всю правду об империи.\n3. 3D-графика с сел-шейдингом\nИгра создана на движке Unreal Engine и использует сел-шейдинг, стилистикой напоминая трехмерное аниме. Континент Арад приобрел новый облик: смелая графика с сел-шейдингом сочетается с яркими и реалистичными текстурами.\n[Особенности игры]\n1. Динамичная система сбора предметов и прогресса\nХадзан владеет множеством видов оружия, от парного оружия до копья и двуручного меча. Ищите и улучшайте это оружие и разные элементы брони. Собирайте комплекты снаряжения и разрабатывайте собственные стили боя.\n2. Многочисленные комбинации навыков\nУ каждого оружия несколько способностей, которые можно сочетать друг с другом. Забудьте о примитивных атаках и защитах: здесь вам понадобятся креативность и стратегическое мышление.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Только PS5",
-        "Боевики",
-        "Приключения",
-        "Новинки",
-        "РПГ"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 350,
-          "14": 550,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 550,
-          "14": 750,
-          "21": 900,
-          "28": 1000
-        }
-      },
-      "tilda_uid": "984028779152",
-      "sku": "",
-      "external_id": "Mz7JBpHsh0ZuoKanbkri",
-      "url": "http://arenapsgm.ru/tproduct/984028779152-the-first-berserker-khazan-ps5",
-      "seo_title": "The First Berserker: Khazan PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда The First Berserker: Khazan PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры The First Berserker: Khazan PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.49,
-      "release_date": "27/3/2025",
-      "publisher": "NEXON",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10009937",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2604/78cf326a8cceaed3f4a807fe9e3f811abdfb5df96fe0cd06.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
       "slug": "the-last-faith-ps4-ps5",
       "title": "The last faith PS4/PS5",
       "mark": "",
@@ -4052,6 +3040,72 @@
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/10005554",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1102/70b8ca1f5df59bd0d14527d6635ba7a372d554632c9bf1a4.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "the-outer-worlds-2-ps5",
+      "title": "The Outer Worlds 2 PS5",
+      "mark": "",
+      "price_from": 399,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1609/a4fda8e001ee32a4f11cba7bac0c5bbeefc7cd47947ccff6.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/1609/a4fda8e001ee32a4f11cba7bac0c5bbeefc7cd47947ccff6.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/3008/f4ab4eef829d15a38a24a00f52c984d99b5307aca2947fd6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/3008/ffd58e860f4f54e7ed83e957a562f0bc544201c7001a0d57.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/3008/5f0abb3652ce229432a3beb7c4339a2a98f3a574b3b51e7a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/3008/5730d0012ad418d46fb2178b0f894592c6cabc3c53f511cd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/3008/264eb249cbcff384c45ee93eef16f3ba43da24f8cf1c3376.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/3008/9c7d2c5a120a71544c590a3319266fd52590f526d2498afe.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/3008/b9cdaa93a15fe38e4a2178c8c36a565687f277953b21bfb7.jpg"
+      ],
+      "description": "The Outer Worlds 2#nbsp;— долгожданное продолжение титулованной научно-фантастической ролевой игры от первого лица от Obsidian Entertainment (оцените эти эпитеты!) Пора выделить время в расписании — готовьтесь к захватывающему приключению с новой командой и новым оружием в новой колонии, где поджидают новые враги! Кто на новенькое?\nВы#nbsp;— отважный и, скорее всего, привлекательный агент Правления Земли. Ваша задача#nbsp;— докопаться до причины возникновения разрушительных разломов, которые грозят полным уничтожением человечества. Расследование приводит вас в Аркадию, где возникла технология скачкового двигателя, и теперь судьба всей колонии#nbsp;— а в конечном итоге и галактики#nbsp;— зависит от вас. Ваших решений, ваших сильных и слабых сторон, вашей команды и тех, кого вы выберете себе в союзники.\nДля аренды игры писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Хоррор",
+        "Все игры",
+        "Приключения",
+        "РПГ",
+        "Только PS5",
+        "Лента на главной",
+        "Новинки",
+        "Новинка главная шапка"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 399,
+          "14": 798,
+          "21": 1199,
+          "28": 1299
+        },
+        "p3": {
+          "7": 499,
+          "14": 898,
+          "21": 1299,
+          "28": 1399
+        }
+      },
+      "tilda_uid": "645651957212",
+      "sku": "",
+      "external_id": "SGejsmORvNRKZxmzikZ7",
+      "url": "http://arenapsgm.ru/horror/tproduct/645651957212-the-outer-worlds-2-ps5",
+      "seo_title": "The Outer Worlds 2 PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда The Outer Worlds 2 PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры The Outer Worlds 2 PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.18,
+      "release_date": "29/10/2025",
+      "publisher": "Microsoft Corporation",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10011796",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1609/a4fda8e001ee32a4f11cba7bac0c5bbeefc7cd47947ccff6.png",
       "rent_days": [
         7,
         14,
@@ -4299,70 +3353,6 @@
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/205200",
       "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA03468_00/3/i_b53500af29886a40317286383edd4c0c960ea66a4ceef006051963f97dc7c2d1/i/icon0.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "wuchang-fallen-feathers-ps5",
-      "title": "WUCHANG: Fallen Feathers PS5",
-      "mark": "",
-      "price_from": 499,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0311/b3f7ebea4f31c2b33cb8119f893f07f5ad9c605137b06b8d.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202504/0311/b3f7ebea4f31c2b33cb8119f893f07f5ad9c605137b06b8d.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0520/7fd2fc1bde6a08d51cb47f60a63ce81f5979d0e40c919ba3.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0520/5d252906fcb93b6ca74b438431a6c2deb990a9b1a164d117.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0520/334f4644d3d89a74eebd1a96fb52a746a8acdb405e2d082f.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0520/d1e7208398d74393261b916e3211dedaf05d593fa896db2c.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0520/94bf005ad859d8e3c8442d5e373030f602cae4f01e7e8849.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0520/217dcc8778b1d28f2c09a103a466a85c736c4c3b7a7a7fc2.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0520/84db1c50a34849ae64a6ed25b9589caa5db6338d919907b3.jpg"
-      ],
-      "description": "Вы играете за Учан, бывалую пиратку и грозу морей, потерявшую память. Ей предстоит столкнуться с призраками прошлого и выжить после заражения жуткой болезнью – Пернатой хворью. Исследуйте глубины Шу, собирайте арсенал оружия и осваивайте новые навыки, побеждая врагов. Совершенствуйте боевой стиль, жертвуя таинственную Красную ртуть, и получайте новые техники в этом захватывающем экшен-приключении. Усиливайте оружие мощными чарами и выработайте свою уникальную манеру боя.\nСражайтесь с жуткими порождениями мрака и попробуйте спасти остатки человечества от наступления тьмы, черпая силы в древних знаниях. Вам предстоит посетить заброшенные храмы, заросшие руины и самые тёмные тропы этого мира. Соберите воспоминания Учан воедино, и вас ждет одна из нескольких концовок. Какая именно – зависит от принятых вами решений, раскрытых тайн и союзников, которым вы решите довериться.\nВас ждут глубокий сюжет, динамичная боевая система и невероятной красоты приключение в землях хаоса и смерти. Сможете ли вы узнать правду о проклятии Учан и принести мир в Шу или падете жертвой кошмаров, что таятся в ночи? Судьба целого мира зависит от вас.\nДля аренды игры писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Все игры",
-        "Приключения",
-        "РПГ",
-        "Только PS5",
-        "Лента на главной",
-        "Новинки"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 499,
-          "14": 699,
-          "21": 899,
-          "28": 1099
-        },
-        "p3": {
-          "7": 699,
-          "14": 899,
-          "21": 1099,
-          "28": 1299
-        }
-      },
-      "tilda_uid": "640351547912",
-      "sku": "",
-      "external_id": "JLcJgNZVZeFdcCTmIl76",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/640351547912-wuchang-fallen-feathers-ps5",
-      "seo_title": "WUCHANG: Fallen Feathers PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда WUCHANG: Fallen Feathers PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры WUCHANG: Fallen Feathers PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 3.89,
-      "release_date": "24/7/2025",
-      "publisher": "505 GAMES S.R.L.",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10005853",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2515/7a30e03231f8ea811a225b4b4e21ffdc8bf260e41145f196.png",
       "rent_days": [
         7,
         14,
