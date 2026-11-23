@@ -1,100 +1,110 @@
 {
   "version": 1,
   "source": "popular_games_10d.json ∩ rent_catalog",
-  "built_date_msk": "2026-11-10",
-  "updated_at": "2026-11-10T13:11:43.684385+03:00",
+  "built_date_msk": "2026-11-23",
+  "updated_at": "2026-11-23T13:18:53.911084+03:00",
   "days": 10,
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "pct": 15,
+      "pct": 28,
+      "title": "Shrek 2 Remastered PS5",
+      "title_src": "Shrek 2 Remastered PS5",
+      "slug": "shrek-2-remastered",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1520/55a2d8335f4cf30e94ae7747778dc007fda46a2c963e44ac.png",
+      "price_min": 591,
+      "price_day": 591
+    },
+    {
+      "rank": 2,
+      "pct": 14,
       "title": "Call of Duty: Modern Warfare 4 PS5",
       "title_src": "Call of Duty: Modern Warfare 4 PS5",
       "slug": "call-of-duty-modern-warfare-4",
       "image_url": "https://static.tildacdn.com/stor6165-6633-4335-b232-386263613839/d6965415c9fc80d08757f8613fc5e84a.jpg",
-      "price_min": 1497
-    },
-    {
-      "rank": 2,
-      "pct": 13,
-      "title": "Onimusha: Way of the Sword PS5",
-      "title_src": "Onimusha: Way of the Sword PS5",
-      "slug": "onimusha-way-of-the-sword",
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/79a186e6a055909cfeb66264230ad3d76915587b0269cd0d.png",
-      "price_min": 591
+      "price_min": 591,
+      "price_day": 874
     },
     {
       "rank": 3,
-      "pct": 11,
-      "title": "Marvel’s Wolverine PS5",
-      "title_src": "Marvels Wolverine PS5",
-      "slug": "marvel-s-wolverine",
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2215/a69481c5fa50fe19f42896d84fb7cbf37ab8646801a93322.png",
-      "price_min": 591
-    },
-    {
-      "rank": 4,
-      "pct": 11,
-      "title": "Phantom Blade Zero PS5",
-      "title_src": "Phantom Blade Zero PS5",
-      "slug": "phantom-blade-zero",
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2810/8ea15bce1b7336894aa364867c03a3ea32ecd2f1455a4333.png",
-      "price_min": 591
-    },
-    {
-      "rank": 5,
-      "pct": 9,
-      "title": "REANIMAL PS5",
-      "title_src": "REANIMAL PS5",
-      "slug": "reanimal",
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/3574955c64a46d1405b273ce98314c3e29b699be4ad12812.png",
-      "price_min": 279
-    },
-    {
-      "rank": 6,
-      "pct": 9,
+      "pct": 10,
       "title": "007 First Light PS5",
       "title_src": "007 First Light PS5",
       "slug": "007-first-light",
       "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0215/f98041a10ccc22d45fc2f6eded09eec50abd106d01547a5d.png",
-      "price_min": 392
+      "price_min": 392,
+      "price_day": 392
+    },
+    {
+      "rank": 4,
+      "pct": 8,
+      "title": "NBA 2K27 PS5",
+      "title_src": "NBA 2K27 PS5",
+      "slug": "nba-2k27",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2913/4a31f711e2ff460cd44ad646983f36533278cea61f639be9.png",
+      "price_min": 591,
+      "price_day": 591
+    },
+    {
+      "rank": 5,
+      "pct": 8,
+      "title": "FIFA 23 PS4/PS5",
+      "title_src": "FIFA 23 PS4/PS5",
+      "slug": "fifa-23",
+      "image_url": "https://static.tildacdn.com/stor3562-3861-4439-b633-383061653361/17948033.png",
+      "price_min": 200,
+      "price_day": 200
+    },
+    {
+      "rank": 6,
+      "pct": 8,
+      "title": "UFC 6 PS5",
+      "title_src": "UFC 6 PS5",
+      "slug": "ufc-6",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2216/83baec5746075ec3e379c096dfe68111095c91cb7139a633.png",
+      "price_min": 392,
+      "price_day": 392
     },
     {
       "rank": 7,
-      "pct": 9,
-      "title": "SILENT HILL: Townfall PS5",
-      "title_src": "SILENT HILL: Townfall PS5",
-      "slug": "silent-hill-townfall",
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1407/420dcf45979ace1b7c97122a2dc0eb479428590ecab89c2b.png",
-      "price_min": 392
+      "pct": 6,
+      "title": "Dispatch PS5",
+      "title_src": "Dispatch PS5",
+      "slug": "dispatch",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0621/4fb935ea5e75490740d6726da42d05d953cb50a693188174.png",
+      "price_min": 359,
+      "price_day": 359
     },
     {
       "rank": 8,
-      "pct": 9,
-      "title": "Call of Duty: Modern Warfare II PS4/PS5",
-      "title_src": "Call of Duty: Modern Warfare II PS4/PS5",
-      "slug": "call-of-duty-modern-warfare-ii",
-      "image_url": "https://static.tildacdn.com/stor3036-6230-4931-b263-636631623364/60345488.jpg",
-      "price_min": 287
+      "pct": 6,
+      "title": "REANIMAL PS5",
+      "title_src": "REANIMAL PS5",
+      "slug": "reanimal",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/3574955c64a46d1405b273ce98314c3e29b699be4ad12812.png",
+      "price_min": 279,
+      "price_day": 279
     },
     {
       "rank": 9,
-      "pct": 7,
-      "title": "Clive Barker's Hellraiser: Revival PS5",
-      "title_src": "Clive Barkers Hellraiser: Revival PS5",
-      "slug": "clive-barker-s-hellraiser-revival",
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/519956b48e154b9614439f012e7a7bb05130ddbdabf600e7.png",
-      "price_min": 831
+      "pct": 6,
+      "title": "UFC 3 PS5",
+      "title_src": "UFC 3 PS5",
+      "slug": "ufc-3",
+      "image_url": "https://static.tildacdn.com/stor3231-3831-4964-a136-643534343464/10641417.jpg",
+      "price_min": 239,
+      "price_day": 239
     },
     {
       "rank": 10,
-      "pct": 7,
-      "title": "EA SPORTS FC 27 PS5",
-      "title_src": "EA SPORTS FC 27 PS5",
-      "slug": "ea-sports-fc-27",
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2321/c7c534e1e9b24ccf7ff11c429948f31494ccce402b452647.png",
-      "price_min": 591
+      "pct": 6,
+      "title": "Split Fiction PS5",
+      "title_src": "Split Fiction PS5",
+      "slug": "split-fiction",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2918/90ad70c1ef581f93454184750cba9e0ca37bc7e30a4d1f55.png",
+      "price_min": 359,
+      "price_day": 359
     }
   ]
 }
