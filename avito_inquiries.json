@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-23T09:14:29+03:00",
-  "updated_at_msk": "23.11.2026 09:14",
+  "updated_at": "2026-11-23T10:09:00+03:00",
+  "updated_at_msk": "23.11.2026 10:09",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 3222,
+  "total": 3226,
   "unique_games": 1071,
   "in_demand": 223,
   "one_off": 685,
@@ -371,7 +371,7 @@
       "title": "NHL 27 Deluxe Edition PS5",
       "item_id": "8277605536",
       "url": "https://avito.ru",
-      "count": 108,
+      "count": 112,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -575,7 +575,7 @@
         108,
         108,
         108,
-        108
+        112
       ],
       "hourly": [
         0,
@@ -753,7 +753,7 @@
         0,
         0,
         0,
-        0
+        4
       ],
       "price_series": [
         null,
@@ -934,7 +934,7 @@
         257
       ],
       "first_at": "2026-08-27T06:50:45+03:00",
-      "last_at": "2026-11-14T22:38:31+03:00"
+      "last_at": "2026-11-23T09:27:15+03:00"
     },
     {
       "id": "nhl-27-ps5",
@@ -592038,6 +592038,30 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-23T09:27:15+03:00"
+    },
+    {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-23T09:27:15+03:00"
+    },
+    {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-23T09:27:15+03:00"
+    },
+    {
+      "title": "NHL 27 Deluxe Edition PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-23T09:27:15+03:00"
+    },
+    {
       "title": "NHL 27 PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -592252,30 +592276,6 @@
       "price": 591,
       "price_string": "591 ₽",
       "at": "2026-11-22T19:16:15+03:00"
-    },
-    {
-      "title": "EA sports FC 27 PS5",
-      "price": 591,
-      "price_string": "591 ₽",
-      "at": "2026-11-22T19:16:15+03:00"
-    },
-    {
-      "title": "Gorilla Tag PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-22T19:13:14+03:00"
-    },
-    {
-      "title": "Gorilla Tag PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-22T19:13:14+03:00"
-    },
-    {
-      "title": "Gorilla Tag PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-22T19:13:14+03:00"
     }
   ]
 }
