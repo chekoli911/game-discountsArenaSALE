@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-23T16:09:58+03:00",
-  "updated_at_msk": "23.11.2026 16:09",
+  "updated_at": "2026-11-23T16:11:47+03:00",
+  "updated_at_msk": "23.11.2026 16:11",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 3233,
+  "total": 3237,
   "unique_games": 1071,
   "in_demand": 224,
   "one_off": 685,
@@ -6071,7 +6071,7 @@
       "title": "EA sports FC 27 Ultimate Edition PS4 & PS5",
       "item_id": "8276915748",
       "url": "https://avito.ru",
-      "count": 39,
+      "count": 43,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -6275,7 +6275,7 @@
         35,
         35,
         39,
-        39
+        43
       ],
       "hourly": [
         0,
@@ -6453,7 +6453,7 @@
         0,
         0,
         4,
-        0
+        4
       ],
       "price_series": [
         null,
@@ -6634,7 +6634,7 @@
         257
       ],
       "first_at": "2026-08-28T10:12:25+03:00",
-      "last_at": "2026-11-22T23:45:14+03:00"
+      "last_at": "2026-11-23T16:08:22+03:00"
     },
     {
       "id": "ufc-3",
@@ -592041,6 +592041,30 @@
   ],
   "recent": [
     {
+      "title": "EA sports FC 27 Ultimate Edition PS4 & PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-23T16:08:22+03:00"
+    },
+    {
+      "title": "EA sports FC 27 Ultimate Edition PS4 & PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-23T16:08:22+03:00"
+    },
+    {
+      "title": "EA sports FC 27 Ultimate Edition PS4 & PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-23T16:08:22+03:00"
+    },
+    {
+      "title": "EA sports FC 27 Ultimate Edition PS4 & PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-23T16:08:22+03:00"
+    },
+    {
       "title": "Into the Radius 2 PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -592255,30 +592279,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-22T21:47:30+03:00"
-    },
-    {
-      "title": "Shrek 2 Remastered PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-22T21:47:30+03:00"
-    },
-    {
-      "title": "Shrek 2 Remastered PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-22T21:47:30+03:00"
-    },
-    {
-      "title": "Manhunt PS4",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-22T19:27:08+03:00"
-    },
-    {
-      "title": "Manhunt PS4",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-22T19:27:08+03:00"
     }
   ]
 }
