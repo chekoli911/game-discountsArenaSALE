@@ -1,171 +1,9 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-23T22:28:06Z",
-  "generated_at": "2026-11-23T22:33:06Z",
-  "count": 11512,
+  "catalog_id": "2026-11-23T22:40:44Z",
+  "generated_at": "2026-11-23T22:56:44Z",
+  "count": 11513,
   "items": [
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-23T22:29:58Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Grand Theft Auto VI Ultimate Edition — расширенное издание с доп. контентом. Аренда на выбранный срок, П2 или П3.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-23T22:29:58Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
     {
       "id": "final-fantasy-vii-revelation",
       "slug": "final-fantasy-vii-revelation",
@@ -3295,6 +3133,75 @@
       "catalog_added_at": "2026-11-23T17:29:54Z"
     },
     {
+      "id": "the-floor-above",
+      "slug": "the-floor-above",
+      "sku": "rent-the-floor-above",
+      "title": "The Floor Above PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Хоррор",
+      "categories": [],
+      "publisher": "SwyTapp OU",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "23.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0612/af9ddc6cb23b0c8bdf91195924aa010e33ca65b3b8deea4b.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0612/4a63cabaaf20efee1aa307a909a2c7e04000ab9b09ad94f6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0612/d47447a626b349ea4a056656caaad3049123cfc359671a32.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0612/4e80c04c9a70347666d0a2e812cf119fd5a020ecd6a49b0c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0612/6641571b022ecc36c117839c1b4fa09cee405c48c4e370ca.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0612/1cb53c34cc74b5d223bef4e29bc04796139c4c8da0477ccf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0612/5514f2c58b430ba1de9ac4cf611e5d44be3088b63640bf0c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0612/2bd5cedcf5c10b4de5fc24c6014dda00beea52327eba9a8f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0612/9bfef72d7420a552368b125d71344050bfed684396bebd65.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10019825",
+      "description": "Самый настоящий хоррор о том, что происходит за твоими плечами. Игра с невероятной атмосферой и детализацией, где тишина пугает больше всего.\n\nТы сможешь почувствовать каждую деталь интерьера, услышать скрип половиц и запах старой пыли. Это погружение в реальность на новый уровень, которое сложно даже представить без PS5.\n\nПросто загрузи игру в консоль и погрузись в эту загадочную историю вместе с нами.",
+      "seo_title": "The Floor Above PS5 аренда игры",
+      "seo_descr": "Аренда The Floor Above PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-23T22:40:31Z"
+    },
+    {
       "id": "one-more-delve",
       "slug": "one-more-delve",
       "sku": "rent-one-more-delve",
@@ -3362,6 +3269,142 @@
       "seo_descr": "Аренда One More Delve PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-23T17:29:54Z"
+    },
+    {
+      "id": "one-map-never-ending-battle-royale",
+      "slug": "one-map-never-ending-battle-royale",
+      "sku": "rent-one-map-never-ending-battle-royale",
+      "title": "ONE MAP - Never Ending Battle Royale PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Шутер, Экшен",
+      "categories": [],
+      "publisher": "Appcano LLC",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 4.4,
+      "release_date": "23.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0422/55ebde2f9d57144fce309818d1a5b88cba360a6a8662c694.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2704/65871d20ac3fcf71cf8f526d58d119815e026bdb7c53b49f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2704/db44e5129a4aecd063928f662724a118878ca5e0f1f89e8c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2704/73ae5293fee20781ad7a934a2f95ffec1bb066772c933618.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2704/23ae5413932f2aeae082fc3f2771cde876972bdca1e49d65.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2704/0546163482b014c8957e04d19f557700223990f7cb6e1ef4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2704/226eddccd7f7d0dcccfaf7b05c6a72aae49a28357b57de40.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2704/4583895110b7d8159047f7f758d4cc2ee803da67ee65c4ba.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2704/921353b65b211da634e190a7d36455cdea17619bdad7e741.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10015216",
+      "description": "Вот идея для карточки аренды:\n\nСамая затяжная битва в истории! ONE MAP - это бесконечная арена, где карта никогда не меняется, а враги появляются с невероятной скоростью. Никаких перерывов и долгих переходов между зонами, только чистый ад безумного выживания.\n\nЗдесь нет привычных коридоров и спавна на каждом углу. Весь мир - это поле боя, и здесь можно встретить любого соперника, которого ты видел раньше. Твоя задача проста: дожить до последнего и захватить трофей.\n\nИдеально для тех, кто любит динамичный шутер без лишнего декоративного мусора, где главное - это выживание и умение держать дистанцию в бесконечном раю ада.",
+      "seo_title": "ONE MAP - Never Ending Battle Royale PS5 аренда игры",
+      "seo_descr": "Аренда ONE MAP - Never Ending Battle Royale PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-23T22:40:15Z"
+    },
+    {
+      "id": "a-fold-apart-recrafted",
+      "slug": "a-fold-apart-recrafted",
+      "sku": "rent-a-fold-apart-recrafted",
+      "title": "A Fold Apart: Recrafted PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Головоломка",
+      "categories": [],
+      "publisher": "Lightning Rod Games Inc.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "23.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1701/51f2dd4a763105cdf6b9631d88b6d33e37af39160d1f129b.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1701/9e04d9aca4a8721981aa219462862e1213187bc39c1d8304.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1421/4c09015eda6bd42c57cf39a5a6198483db1c1d3217090423.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1421/c7bdf22db6466c295d010eb61def115d865bd5c66d1b4f0e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1421/d5fe07e60f8c2584a330a998d6daf1e64d8c3798a0b0ce3c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1701/d7cd7eddef4d9d8dff7d6edd79949d83e9d191fa217bfc88.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1421/981c261febea7b8118afa3727b27ebd6ce1e1db51bc144d9.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020917",
+      "description": "Вот игра, в которой вам предстоит пережить разлуку с близким человеком.\n\nГлавная тема - это не столько хоррор или мистика, сколько глубокий анализ отношений и того, как расстояние разрушает привязанность. Вы погрузитесь в историю о том, что остается после расставания, когда люди живут рядом физически, но отдалены друг от друга эмоционально.\n\nПолноценный эксклюзив для консоли PlayStation 5.",
+      "seo_title": "A Fold Apart: Recrafted PS5 аренда игры",
+      "seo_descr": "Аренда A Fold Apart: Recrafted PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-23T22:39:55Z"
     },
     {
       "id": "one-hop-further",
