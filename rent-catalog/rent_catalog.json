@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-24T09:57:48Z",
-  "generated_at": "2026-11-24T10:00:17Z",
-  "count": 11515,
+  "catalog_id": "2026-11-24T10:39:08Z",
+  "generated_at": "2026-11-24T10:44:52Z",
+  "count": 11517,
   "items": [
     {
       "id": "grand-theft-auto-vi",
@@ -72,7 +72,7 @@
       "seo_title": "Grand Theft Auto VI PS5 аренда игры",
       "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
       "external_id": "",
-      "catalog_added_at": "2026-11-24T09:59:35Z",
+      "catalog_added_at": "2026-11-24T10:42:58Z",
       "rent_days": [
         1,
         7,
@@ -154,7 +154,7 @@
       "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
       "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
       "external_id": "",
-      "catalog_added_at": "2026-11-24T09:59:35Z",
+      "catalog_added_at": "2026-11-24T10:42:58Z",
       "rent_days": [
         1,
         7,
@@ -3158,6 +3158,142 @@
       "seo_descr": "Аренда Winx Club - Moonlight Quest PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-21T12:13:58Z"
+    },
+    {
+      "id": "tales-of-lagoona-orphans-of-the-ocean",
+      "slug": "tales-of-lagoona-orphans-of-the-ocean",
+      "sku": "rent-tales-of-lagoona-orphans-of-the-ocean",
+      "title": "Tales of Lagoona: Orphans of the Ocean PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "OCEAN MEDIA LLC",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "24.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1313/0730bbb67f83686209b3fe136341d73d41f247570e2b4370.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1313/fc2303f59cbc44d5b937125d8bca8482731cd62a00cd91d7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1313/1329e3c89f2cc820f8d925dc6d22074f581e0993d4b14809.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1313/3b9136d8fc16a9de5ea2c91589f262b2c0eaf6c894d186a8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1313/aa3d5d504211c00d24c6fc66f0490e12a54a2651bef5c701.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1313/a696e4e187c5f0bea46f24a7ba2aeee1db2db8b82e9c166a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1313/9d2f42dac245e7d83b8d9f7e394b9c57e699f5b6f3f8e2d9.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021470",
+      "description": "В «Талес Лагуона» вам предстоит бросить вызов огромному океану, чтобы спасти корабль и выжить во время шторма. Это не просто приключение - здесь каждый шаг требует от вас смекалки, тактического мышления и готовности к непредсказуемым сюрпризам.\n\nВам придется преодолевать бесконечные волны, сражаться со злыми морскими обитателями и решать головоломки, которые могут поставить в тупик даже опытных моряков. Каждая встреча становится уникальной, а атмосфера игры затягивает с первых минут.\n\nЭто динамичная аркада для тех, кто любит активное геймплей, не боится сложных вызовов и хочет погрузиться в захватывающее путешествие под открытым небом.",
+      "seo_title": "Tales of Lagoona: Orphans of the Ocean PS5 аренда игры",
+      "seo_descr": "Аренда Tales of Lagoona: Orphans of the Ocean PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-24T10:38:46Z"
+    },
+    {
+      "id": "storage-hunter-simulator",
+      "slug": "storage-hunter-simulator",
+      "sku": "rent-storage-hunter-simulator",
+      "title": "Storage Hunter Simulator PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Симулятор",
+      "categories": [],
+      "publisher": "astragon Entertainment GmbH",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "24.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2313/93858e606b83a84265db09fc40c541e0387b2ceb70098933.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/3012/940b5a765adafd21db9c25fdd5943c27a7d3f78bbb4b9627.JPG",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/3012/b48f714a777126828a50f4f750444fa3c9be5091f945250e.JPG",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/3012/9c2416158056b46135f515567b0cbb0e664e34965d5cbf05.JPG",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/3012/33a8e033a9753dd95b25ddbe7c7996cfb4e217c24cb3b0f0.JPG",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/3012/9a223316df8882fe9e86e399c6f5f3462379ca04e27bbab9.JPG",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/3012/77220a7e3e4769b7c215d498032bd5190207d394346bfab3.JPG",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/3012/a152930684c31dac79263533a16640ccd6d91fe87ba12e42.JPG",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/3012/4f6cce13d727f1eb35e3322373a66fc78a0019818229e651.JPG"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10017770",
+      "description": "Включи консоль и погружайся в хаос! Storage Hunter Simulator на PlayStation 5 - это уникальная аркада, где главная задача игрока - находить место для вещей, пока они не заполнят комнату.\n\nТы играешь за одного из тех самых «хранилищ», которым приходится жить вечно. Задача проста: собирать предметы, перемещать их и освобождать пространство, чтобы угодить владельцам квартир или офисов.\n\nОжидай неожиданных поворотов сюжета и реальных ситуаций с неряшливыми жильцами. Это весело, смешно и невероятно затягивает!",
+      "seo_title": "Storage Hunter Simulator PS5 аренда игры",
+      "seo_descr": "Аренда Storage Hunter Simulator PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-24T10:38:10Z"
     },
     {
       "id": "grimlord-vr",
