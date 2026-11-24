@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-23T02:03:26Z",
-  "server_time_utc": "2026-11-23T02:03:26Z",
+  "updated_at": "2026-11-24T02:02:58Z",
+  "server_time_utc": "2026-11-24T02:02:58Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-24T02:00:00Z",
-  "expires_at": "2026-11-24T02:00:00Z",
+  "next_rotation_at": "2026-11-25T02:00:00Z",
+  "expires_at": "2026-11-25T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 100,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-24T02:00:00Z"
+    "next_rotation_at": "2026-11-25T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "mafia-definitive-edition-ps4-ps5",
+      "title": "Mafia: Definitive Edition PS4/PS5",
+      "description": "В «Mafia: Definitive Edition» вы попадете в суровую атмосферу Сицилийского острова 1900-х годов, чтобы своими глазами увидеть истоки организованной преступности. Действие перенесут и в Лост-Хэвен 1930 года, где вас ждет история Томми Анджело - таксиста, чья жизнь кардинально изменится после одной роковой ночи с итальянской мафией.\n\nВ этой полной переработке оригинальной классики вы станете частью жестокого мира криминальных кланов Дона Сальери и Морелло. Игра предлагает уникальную возможность разобраться в коварных интригах Лост-Хэвена, где каждый знакомый может стать предателем, а друзей не так просто узнать по лицу.\n\nПолностью переработанный с нуля, проект включает 4K-графику, HDR и новые механики вроде мотоциклов, но главное - это развивающийся сюжет, который делает эту историю незабываемой.",
+      "image_url": "https://static.tildacdn.com/stor6339-3764-4035-b661-363962343530/54341184.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202006/1023/3vVJqMeMu3hOZ8SgUzdhvNwv.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202006/1023/g4ytpjOqPv6nA7MjGhfsNi8v.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202006/1023/RW5MpnR7eSpzVBCMUNDYCI95.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202006/1023/WOmG71rm0RUwLDlGllpBF2oP.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202006/1023/RdVVSxgIPGhL2e68NbTclToL.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202006/1023/H9SYmRDM9RxcrHQZd8peW0Y6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202006/1023/gdKI3z3TFDczZjryvql1sqwB.jpg"
+      ],
+      "release_date": "25/9/2020",
+      "publisher": "2K",
+      "platforms": "PS4",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.41,
+      "store_url": "https://store.playstation.com/en-tr/concept/235302",
+      "tilda_uid": "555935613252",
+      "sku": "",
+      "external_id": "o6EdgKGiej6MgTfjfjJe",
+      "url": "http://arenapsgm.ru/tproduct/555935613252-mafia-definitive-edition-ps4-ps5",
+      "expires_at": "2026-11-25T02:00:00Z",
+      "published_at": "2026-11-24T02:02:58Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 100,
+          "21": 100,
+          "28": 100
+        },
+        "p3": {
+          "7": 200,
+          "14": 200,
+          "21": 200,
+          "28": 200
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 100,
+        "21": 100,
+        "28": 100
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Узнайте истоки мафии в сицилийском прошлом и следуйте за Томми Анджело на фоне легендарных событий 1930-х.\n\nВ этой переделанной классике вы сможете погрузиться в жестокие интриги кланов, наслаждаясь 4K-графикой и новым сюжетом."
+    }
+  ],
+  "history": [
     {
       "slug": "wolfenstein-alt-history-collection-ps4-ps5",
       "title": "Wolfenstein: Alt History Collection PS4/PS5",
@@ -48,34 +101,31 @@
       "sku": "",
       "external_id": "3KrKoRtMLd2s18a5a1nS",
       "url": "http://arenapsgm.ru/tproduct/749035357022-wolfenstein-alt-history-collection-ps4-ps5",
-      "expires_at": "2026-11-24T02:00:00Z",
       "published_at": "2026-11-23T02:03:26Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 100,
-          "21": 100,
-          "28": 100
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 200,
-          "21": 200,
-          "28": 200
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 100,
-        "21": 100,
-        "28": 100
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "В альтернативную историю, где нацисты не проиграли войну. В сборнике Wolfenstein Alt History Collection вам предстоит сражаться в четырех играх разных эпох от 40-х до 80-х годов.\n\nМасштабный проект объединяет мрачную графику и бесконечные очереди на расстрелы. Режим мультиплеера в Youngblood позволит играть вместе с друзьями."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "gotham-knights-ps5",
       "title": "Gotham Knights PS5",
@@ -2984,56 +3034,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Virtua Fighter 5: Ultimate Showdown - новая эпоха файтинга с гиперреалистичной графикой и мощными механиками.  \nБои до 16 игроков, турниры, лиги - всё в одном движке, без потерь и с настоящим драйвом."
-    },
-    {
-      "slug": "crash-bandicoot-4-it-s-about-time-ps4-ps5",
-      "title": "Crash Bandicoot 4: It’s About Time PS4/PS5",
-      "description": "Крэш и Коко снова на борту - но теперь они сражаются не просто за свой мир, а за всю мультивселенную! 🌌  \n\nНео Кортекс и Эн-Тропия возвращаются - и это разрушает законы реальности. Чтобы спасти всё, герои должны собрать четыре квантовые маски и проложить путь сквозь параллельные измерения.  \n\nНовые способности, боссы с улыбкой, больше персонажей - и да, даже джорты из другой вселенной! 😎  \n\nИгра в духе классики, но с новой силой и харизмой. Всё, что вы любите - теперь в одном потрясающем приключении.",
-      "image_url": "https://static.tildacdn.com/stor6535-3837-4437-a266-643661623738/32431809.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202102/2418/Jl3rXlG2VLFDL8qsdptZC35v.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202102/2418/kGN4Au58uYCGUJc3tCowRKel.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202102/2418/4SB7ChaNGMFe7xrO5sroeq5H.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202102/2418/1VyWxJ13z4uuSbu7A7qR2o05.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202102/2418/6a8T06ngzt2EVbfzNsvjXeeY.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202102/2418/UEGBfiKE8rzkbZBDkLtjykws.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202102/2418/7OPZlyRiUYiU4Oz8UgDq5nqY.jpg"
-      ],
-      "release_date": "12/3/2021",
-      "publisher": "Activision Blizzard Int'l BV",
-      "platforms": "PS4, PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.29,
-      "store_url": "https://store.playstation.com/en-tr/concept/10000264",
-      "tilda_uid": "972416470462",
-      "sku": "",
-      "external_id": "DSHdLv9RokJU0KlmR6Kc",
-      "url": "http://arenapsgm.ru/tproduct/972416470462-crash-bandicoot-4-its-about-time-ps4ps5",
-      "published_at": "2026-09-27T02:01:37Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Крэш и Коко сражаются не за мир, а за всю мультивселенную.  \n\nНовые маски, боссы с улыбкой, джорты из другой вселенной - всё как в классике, но мощнее."
     }
   ]
 }
