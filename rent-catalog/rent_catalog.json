@@ -1,171 +1,9 @@
 {
   "version": 1,
   "catalog_id": "2026-11-24T01:26:16Z",
-  "generated_at": "2026-11-24T01:28:53Z",
-  "count": 11515,
+  "generated_at": "2026-11-24T01:35:18Z",
+  "count": 11516,
   "items": [
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-24T01:28:08Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Grand Theft Auto VI Ultimate Edition — расширенное издание с доп. контентом. Аренда на выбранный срок, П2 или П3.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-24T01:28:08Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
     {
       "id": "final-fantasy-vii-revelation",
       "slug": "final-fantasy-vii-revelation",
@@ -4720,6 +4558,168 @@
       "catalog_added_at": "2026-11-21T11:35:35Z"
     },
     {
+      "id": "grand-theft-auto-vi-ultimate-edition",
+      "slug": "grand-theft-auto-vi-ultimate-edition",
+      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
+      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 3198,
+          "7": 3998,
+          "14": 4998,
+          "21": 5998,
+          "28": 6998,
+          "56": 12596
+        },
+        "p3": {
+          "1": 3199,
+          "7": 3999,
+          "14": 4999,
+          "21": 5999,
+          "28": 6999,
+          "56": 12598
+        }
+      },
+      "prices_p2": {
+        "1": 3198,
+        "7": 3998,
+        "14": 4998,
+        "21": 5998,
+        "28": 6998,
+        "56": 12596
+      },
+      "prices_p3": {
+        "1": 3199,
+        "7": 3999,
+        "14": 4999,
+        "21": 5999,
+        "28": 6999,
+        "56": 12598
+      },
+      "price_min": 3198,
+      "lang_label": "",
+      "genre": "Экшен",
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Новинки",
+        "Только PS5",
+        "Шутеры",
+        "Приключения",
+        "Боевики",
+        "Предзаказы"
+      ],
+      "publisher": "Rockstar Games",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "18.11.2026",
+      "is_preorder": true,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
+      "description": "Grand Theft Auto VI Ultimate Edition — расширенное издание с доп. контентом. Аренда на выбранный срок, П2 или П3.",
+      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
+      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-24T01:28:08Z",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28,
+        56
+      ],
+      "lock_prices": true,
+      "skip_edition_mult": true
+    },
+    {
+      "id": "grand-theft-auto-vi",
+      "slug": "grand-theft-auto-vi",
+      "sku": "rent-grand-theft-auto-vi",
+      "title": "Grand Theft Auto VI PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 2898,
+          "7": 2998,
+          "14": 3998,
+          "21": 4998,
+          "28": 5998,
+          "56": 10796
+        },
+        "p3": {
+          "1": 2899,
+          "7": 2999,
+          "14": 3999,
+          "21": 4999,
+          "28": 5999,
+          "56": 10798
+        }
+      },
+      "prices_p2": {
+        "1": 2898,
+        "7": 2998,
+        "14": 3998,
+        "21": 4998,
+        "28": 5998,
+        "56": 10796
+      },
+      "prices_p3": {
+        "1": 2899,
+        "7": 2999,
+        "14": 3999,
+        "21": 4999,
+        "28": 5999,
+        "56": 10798
+      },
+      "price_min": 2898,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Приключения",
+        "Предзаказы"
+      ],
+      "publisher": "Rockstar Games",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 0.0,
+      "release_date": "18.11.2026",
+      "is_preorder": true,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
+      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром.",
+      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
+      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-24T01:28:08Z",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28,
+        56
+      ],
+      "lock_prices": true,
+      "skip_edition_mult": true
+    },
+    {
       "id": "darkness-and-flame-3-the-dark-side",
       "slug": "darkness-and-flame-3-the-dark-side",
       "sku": "rent-darkness-and-flame-3-the-dark-side",
@@ -6831,39 +6831,39 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
+          "1": 286,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799,
+          "56": 1438
         },
         "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
+          "1": 367,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899,
+          "56": 1618
         }
       },
       "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
+        "1": 286,
+        "7": 357,
+        "14": 490,
+        "21": 699,
+        "28": 799,
+        "56": 1438
       },
       "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
+        "1": 367,
+        "7": 459,
+        "14": 590,
+        "21": 799,
+        "28": 899,
+        "56": 1618
       },
-      "price_min": 697,
+      "price_min": 286,
       "lang_label": "Английский",
       "genre": "Уникальное, Simulator",
       "categories": [],
@@ -14939,39 +14939,39 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078,
-          "56": 1940
+          "1": 286,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799,
+          "56": 1438
         },
         "p3": {
-          "1": 899,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933,
-          "56": 3479
+          "1": 367,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899,
+          "56": 1618
         }
       },
       "prices_p2": {
-        "1": 697,
-        "7": 739,
-        "14": 827,
-        "21": 944,
-        "28": 1078,
-        "56": 1940
+        "1": 286,
+        "7": 357,
+        "14": 490,
+        "21": 699,
+        "28": 799,
+        "56": 1438
       },
       "prices_p3": {
-        "1": 899,
-        "7": 1092,
-        "14": 1292,
-        "21": 1728,
-        "28": 1933,
-        "56": 3479
+        "1": 367,
+        "7": 459,
+        "14": 590,
+        "21": 799,
+        "28": 899,
+        "56": 1618
       },
-      "price_min": 697,
+      "price_min": 286,
       "lang_label": "На русском языке! (субтитры)",
       "genre": "Шутер",
       "categories": [],
@@ -63504,7 +63504,7 @@
       "release_date": "09.07.2026",
       "is_preorder": false,
       "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2618/ee7d4a20243804f08a3c4a4eb1b4346dbe29dbce0fb59751.png",
+      "image_url": "https://static.tildacdn.com/stor3335-3064-4631-a139-333961646264/9617b41c42173f3e38b5d23dbbc0b235.jpg",
       "screenshots": [],
       "store_url": "https://store.playstation.com/en-tr/concept/10017657",
       "description": "Call of Duty: Black Ops - классика, которая до сих пор включает в себя настоящую атмосферу боев и неожиданные повороты.  \n\nНа PS4 и PS5 ты можешь проникнуть в тайны мира, управлять элитным отрядом и влиять на ход операций - как в кино, только с оружием и пульсом реальных боёв.  \n\nКинематографичные миссии, сетевой режим и полноценный «Зомби» - всё это уже у тебя под рукой.",
@@ -63565,7 +63565,7 @@
       "release_date": "09.07.2026",
       "is_preorder": false,
       "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2619/c4ce7fe379aa05dd3f6ecc11e8fa38dfea03d4b4a8bad73a.png",
+      "image_url": "https://static.tildacdn.com/stor3833-6364-4234-b233-346334633863/59077c484b88d59af4552d0f13a3ae89.jpg",
       "screenshots": [],
       "store_url": "https://store.playstation.com/en-tr/concept/10017658",
       "description": "Black Ops II - захватывающий переход в цифровой холодную войну. Ты вдруг оказываешься в мире, где технологии уже переписали правила боя.  \n\nИгра сначала вышла на ПК и теперь живёт и развивается на PS4 и PS5 - всё как в оригинале, только с мощью новых консолей.  \n\nМир, где тайны скрываются за экранами и каждый шаг - шаг к уничтожению или спасению. Ты уже здесь - просто включи и действуй. 💥",
@@ -80033,39 +80033,39 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 392,
-          "7": 490,
-          "14": 890,
-          "21": 1190,
-          "28": 1290,
-          "56": 2322
+          "1": 591,
+          "7": 739,
+          "14": 1292,
+          "21": 1444,
+          "28": 1678,
+          "56": 3020
         },
         "p3": {
-          "1": 472,
-          "7": 590,
-          "14": 990,
-          "21": 1190,
-          "28": 1290,
-          "56": 2322
+          "1": 714,
+          "7": 892,
+          "14": 1092,
+          "21": 1528,
+          "28": 1733,
+          "56": 3119
         }
       },
       "prices_p2": {
-        "1": 392,
-        "7": 490,
-        "14": 890,
-        "21": 1190,
-        "28": 1290,
-        "56": 2322
+        "1": 591,
+        "7": 739,
+        "14": 1292,
+        "21": 1444,
+        "28": 1678,
+        "56": 3020
       },
       "prices_p3": {
-        "1": 472,
-        "7": 590,
-        "14": 990,
-        "21": 1190,
-        "28": 1290,
-        "56": 2322
+        "1": 714,
+        "7": 892,
+        "14": 1092,
+        "21": 1528,
+        "28": 1733,
+        "56": 3119
       },
-      "price_min": 392,
+      "price_min": 591,
       "lang_label": "На русском языке! (субтитры)",
       "genre": "Приключение, Экшен",
       "categories": [],
@@ -169356,39 +169356,39 @@
       "platform": "PS5",
       "prices": {
         "p2": {
-          "1": 359,
-          "7": 449,
-          "14": 699,
-          "21": 899,
-          "28": 1099,
-          "56": 1978
+          "1": 286,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799,
+          "56": 1438
         },
         "p3": {
-          "1": 439,
-          "7": 549,
-          "14": 799,
-          "21": 999,
-          "28": 1199,
-          "56": 2158
+          "1": 367,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899,
+          "56": 1618
         }
       },
       "prices_p2": {
-        "1": 359,
-        "7": 449,
-        "14": 699,
-        "21": 899,
-        "28": 1099,
-        "56": 1978
+        "1": 286,
+        "7": 357,
+        "14": 490,
+        "21": 699,
+        "28": 799,
+        "56": 1438
       },
       "prices_p3": {
-        "1": 439,
-        "7": 549,
-        "14": 799,
-        "21": 999,
-        "28": 1199,
-        "56": 2158
+        "1": 367,
+        "7": 459,
+        "14": 590,
+        "21": 799,
+        "28": 899,
+        "56": 1618
       },
-      "price_min": 359,
+      "price_min": 286,
       "lang_label": "На русском языке! (субтитры)",
       "genre": "Стратегия, Приключение, Экшен",
       "categories": [],
@@ -546585,16 +546585,13 @@
       "release_date": "05.11.2021",
       "is_preorder": false,
       "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/icByXGm1W5mQmol84yMxEgD2.png",
+      "image_url": "https://static.tildacdn.com/stor6136-3263-4435-b431-353539346134/15439769.jpg",
       "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/SJtPPrV398S9KJmuyT5tfpiZ.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/GKxUsk1ms6kAlYkuMj371UM4.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/z7VX4Vqnqpw3ascvPIkCjojo.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/hg3uiuv2g1vREd5UBJrdO9j9.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/giK9ucLyak2s7NBPo6IkDpwF.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/FbxCJIGRrWGFiEU4KrbDsIaY.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/5eqisWLbS0G5k1fYyIDSAEcR.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202208/2402/Qphmea83akM1MIMXkRVhQJPu.jpg"
+        "https://static.tildacdn.com/stor3763-6264-4337-b936-613465613565/96797601.jpg",
+        "https://static.tildacdn.com/stor3937-3932-4631-b736-306663373839/25164089.jpg",
+        "https://static.tildacdn.com/stor3533-6264-4335-a132-323634393339/44289718.jpg",
+        "https://static.tildacdn.com/stor6462-3966-4034-b435-323130636566/99571525.jpg",
+        "https://static.tildacdn.com/stor3136-6466-4561-a263-363139656238/92885805.jpg"
       ],
       "store_url": "https://store.playstation.com/en-tr/concept/10001234",
       "description": "Call of Duty: Vanguard - вперёд в войну. От французских равнин до улиц Сталинграда. Погрузись в реальные сцены Второй мировой.  \n\nТы можешь бороться в одиночке, в сетях или в мире зомби - всё под рукой.  \n\nИгра работает на PS4 и PS5 - прогресс между платформами, как будто ты один.  \n\nСражайся, не теряй мотивацию. Игра - как настоящая война.",
@@ -623168,8 +623165,8 @@
       "id": "call-of-duty-modern-warfare-2-campaign-remastere",
       "slug": "call-of-duty-modern-warfare-2-campaign-remastere",
       "sku": "rent-call-of-duty-modern-warfare-2-campaign-remastere",
-      "title": "Call of Duty: Modern Warfare 2 Campaign Remastered PS4",
-      "platform": "PS4",
+      "title": "Call of Duty: Modern Warfare 2 Campaign Remastered PS4/PS5",
+      "platform": "PS4 и PS5",
       "prices": {
         "p2": {
           "1": 200,
@@ -623215,7 +623212,7 @@
       "release_date": "31.03.2020",
       "is_preorder": false,
       "is_new": true,
-      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07904_00/1/i_0da7aba5e7706bd220b4f36dfc6e361b3d3b00f6b5ea0898c325e3b8795d2c82/i/icon0.png",
+      "image_url": "https://static.tildacdn.com/stor6635-3239-4239-b532-343962663232/81167813.jpg",
       "screenshots": [
         "https://static.tildacdn.com/stor3565-6538-4933-b464-396662323432/27778741.jpg",
         "https://static.tildacdn.com/stor3361-6161-4062-a462-376665636165/39480422.jpg",
@@ -774514,6 +774511,75 @@
       "description": "Call of Duty: Black Ops III - настоящий бой за выживание в мире зомби.  \n\nТут не просто сражения - есть 8 переработанных карт, 20 флаконов Liquid Divinium и новые жевательные перки для режима Зомби.  \n\nКамуфляж «Улучшайзер» делает тебя незаметным среди толпы мёртвых.  \n\nИгра включает полноценную кампанию, сетевую игру и всё - от боя до хаоса в зомби-режиме.",
       "seo_title": "Call of Duty Cold Black Ops III PS4/PS5 аренда игры",
       "seo_descr": "Аренда Call of Duty Cold Black Ops III PS4/PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2020-01-01T00:00:00Z",
+      "from_vserent_cod": true
+    },
+    {
+      "id": "call-of-duty-black-ops-iiii",
+      "slug": "call-of-duty-black-ops-iiii",
+      "sku": "rent-call-of-duty-black-ops-iiii",
+      "title": "Call of Duty Black Ops IIII PS4/PS5",
+      "platform": "PS4 и PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На языке оригинала",
+      "genre": "Шутер",
+      "categories": [
+        "Call of Duty"
+      ],
+      "publisher": "Activision",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "",
+      "is_preorder": false,
+      "is_new": false,
+      "image_url": "https://static.tildacdn.com/stor3033-3930-4430-b639-343466626133/64360905.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6564-3931-4663-b832-366137336436/48914526.jpg",
+        "https://static.tildacdn.com/stor3934-6532-4333-a165-643835663339/18770921.jpg",
+        "https://static.tildacdn.com/stor3435-3834-4061-a532-333431396333/23643838.jpg",
+        "https://static.tildacdn.com/stor3962-3263-4562-a363-383532333037/34495900.jpg",
+        "https://static.tildacdn.com/stor3630-3439-4437-b563-363139616664/66565742.jpg"
+      ],
+      "store_url": "",
+      "description": "Держи! Запрос на карточке: Call of Duty Black Ops IIII (Пятая часть).\n\nЭто уже не просто шутер, а настоящий симулятор выживания. Миссии требуют от тебя не только быстрого реакции и точного прицела, но и умений уворачиваться от автотранспорта, взрывать мосты и бросать минированные машины в толпу врагов.\n\nГлавное здесь - атмосфера. Игра создает ощущение полного погружения в хаос войны, где за каждым углом скрывается угроза, а каждый шаг может стоить жизни. Убеди своих друзей присоединиться к этой войне на своей консоли.",
+      "seo_title": "Call of Duty Black Ops IIII PS4/PS5 аренда игры",
+      "seo_descr": "Аренда Call of Duty Black Ops IIII PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2020-01-01T00:00:00Z",
       "from_vserent_cod": true
