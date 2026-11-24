@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-24T16:16:00Z",
-  "generated_at": "2026-11-24T16:18:48Z",
-  "count": 11517,
+  "catalog_id": "2026-11-24T16:50:54Z",
+  "generated_at": "2026-11-24T16:58:31Z",
+  "count": 11520,
   "items": [
     {
       "id": "grand-theft-auto-vi",
@@ -72,7 +72,7 @@
       "seo_title": "Grand Theft Auto VI PS5 аренда игры",
       "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
       "external_id": "",
-      "catalog_added_at": "2026-11-24T16:18:05Z",
+      "catalog_added_at": "2026-11-24T16:53:03Z",
       "rent_days": [
         1,
         7,
@@ -154,7 +154,7 @@
       "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
       "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
       "external_id": "",
-      "catalog_added_at": "2026-11-24T16:18:05Z",
+      "catalog_added_at": "2026-11-24T16:53:03Z",
       "rent_days": [
         1,
         7,
@@ -3227,6 +3227,75 @@
       "catalog_added_at": "2026-11-24T10:58:29Z"
     },
     {
+      "id": "t-55",
+      "slug": "t-55",
+      "sku": "rent-t-55",
+      "title": "T-55 PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Экшен, Гонки",
+      "categories": [],
+      "publisher": "4 GLADIATORS",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "24.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/783aa169d1a195f91c32ce65064e92158ea9d1f3dd9bd314.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/e21e835b6878b674cd7977c8ed800376689110d7c337e885.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/7aa709dcafc376b55c78f8a877e3c689c09e09463d90de5a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/59541428748abcccf05d485ccb0ded3602ca7869d1a938e2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/b6f802eeb10d21af32416598c1c6d47d2bbf0fd9aa83f034.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/4b54161e483222af2cbd414e6e28bc11ee019e47052f0a37.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/b0d649d8509364ee2ce6f999fd2197881db9d6d606eb7b29.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/d7eddf268e1999c81e1b9761a24f6abd32a972dfa431d6bb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/8feac276ce3fb95d9fd8fa2e9814ddfab94047ec970dab7e.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021415",
+      "description": "Представь себе танк T-55 от ГАЗ на консоли PlayStation 5. Это не просто картинка, а настоящий виртуальный военный опыт с детализированным дизайном и качественной графикой.\n\nТанк выглядит внушительно и реалистично: броня, гусеницы и башня собраны из тысяч мелких деталей. Даже детали вроде переливов на металле или мутного стекла пушки работают на полную мощь PS5.\n\nОткроешь игру - сразу захочешь в бой. Здесь нет лишнего, только чистый тактический драйв и ощущение настоящего военного машинки.",
+      "seo_title": "T-55 PS5 аренда игры",
+      "seo_descr": "Аренда T-55 PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-24T16:50:39Z"
+    },
+    {
       "id": "storage-hunter-simulator",
       "slug": "storage-hunter-simulator",
       "sku": "rent-storage-hunter-simulator",
@@ -3296,6 +3365,75 @@
       "catalog_added_at": "2026-11-24T10:58:29Z"
     },
     {
+      "id": "hard-nuts",
+      "slug": "hard-nuts",
+      "sku": "rent-hard-nuts",
+      "title": "HARD NUTS PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Экшен, Приключение",
+      "categories": [],
+      "publisher": "4 GLADIATORS",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "24.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/89443e7b62f9b50bcbdb2b3b5d901f16968e14ca081c5741.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/9738caa020969d778bccea6d583cc27fa0766b95f8d0056c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/49afcca1fb8592ff4156869f4a69742720fce577e35f99bf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/8e7d4466ff230a46e86daa743fb8a7a957edcbc83d5bbb4b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/a4ee0a8be736f0aaf1b3d7be2f1d28d9c162eb25709d3ea8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/1af75c1d3b4b012f95f7cb7876ea2ed800ba6507a61e1f77.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/a543f5da24e458cace28e90b3a97c745093e658e72b4624e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/4bd377a4dc1c009d612d72965eaf800417947715b03c040e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1521/8246987129aa803d397d5d84cf49e30fa2230916612f9658.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021414",
+      "description": "Представьте, что вы попали в лабораторию будущего, где каждый пазл сложен как орех для жеребенка. HARD NUTS - это не просто головоломки, это настоящий квест на логику и смекалку.\n\nВас ждут десятки уровней с уникальной механикой: от классических геометрических фигур до троллейских задач, которые заставят задуматься. Здесь нет стандартных подсказок, только ваш мозг и бесконечное желание решить загадку.\n\nЭто идеальное приложение для тех, кто любит побороться со сложным или просто хочет проверить свои интеллектуальные способности в виртуальной реальности.",
+      "seo_title": "HARD NUTS PS5 аренда игры",
+      "seo_descr": "Аренда HARD NUTS PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-24T16:50:23Z"
+    },
+    {
       "id": "grimlord-vr",
       "slug": "grimlord-vr",
       "sku": "rent-grimlord-vr",
@@ -3362,6 +3500,71 @@
       "seo_descr": "Аренда Grimlord VR PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-24T04:51:12Z"
+    },
+    {
+      "id": "gothic-3-classic",
+      "slug": "gothic-3-classic",
+      "sku": "rent-gothic-3-classic",
+      "title": "Gothic 3 Classic PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Ролевая игра",
+      "categories": [],
+      "publisher": "THQ NORDIC GMBH",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.68,
+      "release_date": "24.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1813/9697fa5c96c7a0e0b60da227b4a3c1800e35132c1d2c94c0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1813/454589af0be7f4595631d7bde72a08ccd577e78a019f8d77.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1813/c0dbd548e3b12e467109e4069773f69042f2bad8c3c48820.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1813/bce9c29ab426f863de2777ebe5875bb14be1571975b784b6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1813/93f92b6f2a63b2e2165e5d7a163f202ceb878cc5ea3a8e82.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10009603",
+      "description": "Представь себе мрачный замок Рашва в дождливой Пустоши, где каждый шаг сопровождается эхом древних проклятий и гулом темной магии. Это история о безумном бароне Малик, который, несмотря на все предостережения, решается покорить легендарное Древо Жизни, чтобы стать богом.\n\nВ классическом рендере из PS5 ты не просто играешь в RPG - ты погружаешься в атмосферу ужаса и загадок, которая была самой атмосферной во всей серии. Каждый персонаж живой, каждая тайна требует настоящего расследования, а атмосфера нагнетается до предела.\n\nПогрузись в этот мир средневековой Европы и готовься к приключениям, где выбор всегда имеет последствия, а единственное верное решение - найти свой собственный путь.",
+      "seo_title": "Gothic 3 Classic PS5 аренда игры",
+      "seo_descr": "Аренда Gothic 3 Classic PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-24T16:49:57Z"
     },
     {
       "id": "what-do-you-meme-the-video-game",
