@@ -1,7 +1,7 @@
 {
   "key": "vr",
   "title": "VR",
-  "updated_at": "2026-11-23T01:45:57Z",
+  "updated_at": "2026-11-24T01:46:44Z",
   "games": [
     {
       "slug": "mutant-boxing-league-vr-ps5",
@@ -67,6 +67,68 @@
       ]
     },
     {
+      "slug": "ace-combat-7-skies-unknown-ps4-ps5",
+      "title": "ACE COMBAT 7: SKIES UNKNOWN PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07202_00/4/i_27e8211b463ec94c70e8e8c04cc652fe8d58389ad41f4aea0d0d0e86f9d4cd7e/i/icon0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07202_00/4/i_27e8211b463ec94c70e8e8c04cc652fe8d58389ad41f4aea0d0d0e86f9d4cd7e/i/icon0.png",
+        "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/FREE_CONTENT0chckJxgAzpZlBFoWfK9/PREVIEW_SCREENSHOT1_539856.jpg",
+        "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/FREE_CONTENTSzmiDFmIFkI5zi6vzrDL/PREVIEW_SCREENSHOT2_539856.jpg",
+        "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/FREE_CONTENT5PPY1Nh6rGroNBwixVXk/PREVIEW_SCREENSHOT3_539856.jpg",
+        "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/FREE_CONTENTyuBG2Rqg83rigdD4NoA7/PREVIEW_SCREENSHOT4_539856.jpg",
+        "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/FREE_CONTENT3jT4iCiLhHVeewUhjEi1/PREVIEW_SCREENSHOT5_539856.jpg",
+        "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/FREE_CONTENT3PGBXXcyV3vypcfRkpt7/PREVIEW_SCREENSHOT6_539856.jpg",
+        "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/FREE_CONTENTy75L5GZCE5l0BiLVWG61/PREVIEW_SCREENSHOT7_539856.jpg"
+      ],
+      "description": "Купите ACE COMBAT™ 7: SKIES UNKNOWN и получите в подарок дополнение F-104C: Avril.\nСтаньте летчиком-асом, покоряйте фотореалистичные небеса и сбивайте противников в напряженных воздушных боях!\nОкунитесь в мир ACE COMBAT 7: Skies Unknown благодаря эксклюзивным VR-заданиям.\nКроме того, для подключения PS Camera к консолям PS5™ требуется адаптер PlayStation Camera (не надо приобретать отдельно); перейдите на сайт Playstation.com/camera-adaptor.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "VR",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS4",
+      "platform_ps4": true,
+      "platform_ps5": false,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 699,
+          "28": 799
+        },
+        "p3": {
+          "7": 350,
+          "14": 500,
+          "21": 799,
+          "28": 899
+        }
+      },
+      "tilda_uid": "261083443582",
+      "sku": "",
+      "external_id": "dAokuJc2a2YbvY0e2uau",
+      "url": "http://arenapsgm.ru/tproduct/261083443582-ace-combat-7-skies-unknown-ps4-ps5",
+      "seo_title": "ACE COMBAT 7: SKIES UNKNOWN PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда ACE COMBAT 7: SKIES UNKNOWN PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры ACE COMBAT 7: SKIES UNKNOWN PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.51,
+      "release_date": "19/2/2019",
+      "publisher": "BANDAI NAMCO ENTERTAINMENT EUROPE",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/221661",
+      "edition_banner": "https://image.api.playstation.com/cdn/EP0700/CUSA07202_00/NpgG4kzS0yD5HaWIimgQD1NYLqxDy5mj.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
       "slug": "alien-rogue-incursion-vr-deluxe-ps5",
       "title": "Alien: Rogue Incursion VR Deluxe PS5",
       "mark": "",
@@ -120,6 +182,70 @@
       "store_url": "https://store.playstation.com/en-tr/concept/10004478",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1905/28fee925a09f7fac3ba9cf00bb0974df8c570c1e755ed0a9.png",
       "rent_days": [
+        28
+      ]
+    },
+    {
+      "slug": "five-nights-at-freddy-help-wanted-vr-ps4-ps5",
+      "title": "Five nights AT Freddy Help Wanted VR PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/7d95ddedbe9879608de4724ff5ddf1daccf01a23a8b9bf59.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/7d95ddedbe9879608de4724ff5ddf1daccf01a23a8b9bf59.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/56f285ac33ede65b729bda838fe27a79666e04a6c75332ce.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/b8479841109c01f63a4018491b4461490a194a411642b1ba.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/970087c266b71ea56a4f0e85a44ae3d911fb91e904dd1658.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/1e72e329b4a76b89104c8aa1ba881f8dcaf30ae93951cef9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/89ac3f560567617b5ab038631940e31d35ad704e66a5c956.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/734d9382252bda48689616e362ab4f8cc5dafecdc7bd5eab.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/53a05f0ea8a1171ba045f631a311356d7005c31fe7def05b.jpg"
+      ],
+      "description": "Five Nights at Freddy's: Help Wanted 2 - сиквел легендарного ужастика для PS4 и PS5. Принимайте участие в работе пиццерии, помогайте аниматроникам, заботьтесь о персонале и пробуйте мини-игры в «Сестринской локации». Погрузитесь в мир «Фазкадов» и отправляйтесь на Дикий Запад в роле ковбоя.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Хоррор",
+        "Приключения",
+        "Боевики",
+        "VR"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "313347256812",
+      "sku": "",
+      "external_id": "J66dOHNgoci72x1ughzB",
+      "url": "http://arenapsgm.ru/tproduct/313347256812-five-nights-at-freddy-help-wanted-vr-ps4-ps5",
+      "seo_title": "Five nights AT Freddy Help Wanted VR PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Five nights AT Freddy Help Wanted VR PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Five nights AT Freddy Help Wanted VR PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.31,
+      "release_date": "14/12/2023",
+      "publisher": "STEEL WOOL GAMES, LLC",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10009325",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/7d95ddedbe9879608de4724ff5ddf1daccf01a23a8b9bf59.png",
+      "rent_days": [
+        7,
+        14,
+        21,
         28
       ]
     },
@@ -187,50 +313,53 @@
       ]
     },
     {
-      "slug": "job-simulator-ps4-amp-ps5",
-      "title": "Job Simulator PS4 &amp; PS5",
+      "slug": "horizon-call-of-the-mountain-ps5",
+      "title": "Horizon Call of the Mountain PS5",
       "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3136-3363-4736-b035-663331646664/35519275.jpg",
+      "price_from": 590,
+      "price_old": 990,
+      "image_url": "https://static.tildacdn.com/stor3161-3464-4338-a538-363339346131/45355506.jpg",
       "screenshots": [
-        "https://static.tildacdn.com/stor3136-3363-4736-b035-663331646664/35519275.jpg",
-        "https://static.tildacdn.com/stor6138-3039-4036-a330-313138633735/29545641.jpg",
-        "https://static.tildacdn.com/stor3433-3230-4161-b730-623438653062/98024491.jpg",
-        "https://static.tildacdn.com/stor3164-3734-4139-b239-336535623735/23208910.jpg",
-        "https://static.tildacdn.com/stor3662-3839-4166-b536-396139366130/76667841.jpg",
-        "https://static.tildacdn.com/stor6531-3130-4663-b964-626561616537/68553191.jpg"
+        "https://static.tildacdn.com/stor3161-3464-4338-a538-363339346131/45355506.jpg",
+        "https://static.tildacdn.com/stor3731-3964-4734-a439-313163313634/46689983.jpg",
+        "https://static.tildacdn.com/stor3832-3962-4838-b632-356239396330/11370893.jpg",
+        "https://static.tildacdn.com/stor6536-6539-4763-b661-616335383361/92865935.jpg",
+        "https://static.tildacdn.com/stor6337-3366-4534-b532-393730653265/35416883.jpg",
+        "https://static.tildacdn.com/stor3539-6433-4961-b137-626264626636/49358735.jpg"
       ],
-      "description": "Черви вернулись! Прекрасная 2D-графика, новое оружие, функции создания, классические игровые функции — Worms W.M.D вас порадует.\nПройдите 30 уровней кампании с новым и классическим оружием. Новые машины и здания помогут вам захватить поле боя!\nВеселая червячная война с максимум 5 противниками с максимум 8 червей как локально, так и по сети. Бетонный осел сотрет врагов. Святая ручная граната их ликвидирует. Нападайте с вертолета или танка. 80 видов оружия и средств! Погрузитесь в хаос Worms!\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "description": "Покоряйте далекие вершины, одолевайте бесстрашные машины и раскрывайте опасные тайны мира Horizon – услышьте, как горы зовут вас, в этой новой захватывающей игре для PlayStation®VR2.\n– Играйте с новой перспективой – почувствуйте ощущение высоты и любуйтесь чарующими пейзажами земель племен Карха и Нора глазами нового персонажа Риаса.\n– Наблюдайте за живописной природой мира Horizon с обзором в 360° и взаимодействуйте с окружающим миром при помощи двух контроллеров PlayStation®VR2 Sense™.\n– Получайте удовольствие от своих действий – покоряйте горы, стреляйте из лука и изготавливайте предметы из подручных материалов благодаря интуитивно понятному управлению.\n– Пуститесь в приключение – откройте для себя живой мир опасных машин, преданий племен, захватывающих испытаний, а также новых и знакомых персонажей.\n– Разделите впечатления – позвольте друзьям и близким ощутить тот же прилив адреналина, который вы чувствуете на PS VR2 во время спуска на лодке по реке в этом полном неожиданностей приключении.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
       "categories": [
         "Лента на главной",
         "Все игры",
-        "VR"
+        "Только PS5",
+        "VR",
+        "Боевики",
+        "Приключения"
       ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
+      "platforms": "PS5",
+      "platform_ps4": false,
       "platform_ps5": true,
-      "platforms_choice": true,
+      "platforms_choice": false,
       "prices": {
         "p2": {
-          "7": 250,
-          "14": 350,
-          "21": 700,
-          "28": 800
+          "7": 590,
+          "14": 990,
+          "21": 1390,
+          "28": 1890
         },
         "p3": {
-          "7": 350,
-          "14": 450,
-          "21": 800,
-          "28": 900
+          "7": 690,
+          "14": 1090,
+          "21": 1490,
+          "28": 1990
         }
       },
-      "tilda_uid": "830239316762",
+      "tilda_uid": "921905090412",
       "sku": "",
-      "external_id": "rLllycTxbL1N1lZ5YHgp",
-      "url": "http://arenapsgm.ru/tproduct/830239316762-job-simulator-ps4-amp-ps5",
-      "seo_title": "Job Simulator PS4 &amp; PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Job Simulator PS4 &amp; PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Job Simulator PS4 &amp; PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "external_id": "1h488TvCZ5bV2vncmUFX",
+      "url": "http://arenapsgm.ru/tproduct/921905090412-horizon-call-of-the-mountain-ps5",
+      "seo_title": "Horizon Call of the Mountain VR2 PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Horizon Call of the Mountain VR2 PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Horizon Call of the Mountain VR2 PS5 для PlayStation. Быстрый доступ, без переплат.",
       "rating": null,
       "release_date": "",
       "publisher": "",
@@ -238,67 +367,6 @@
       "text_translation": "",
       "store_url": "",
       "edition_banner": "",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "no-man-s-sky-ps4-ps5",
-      "title": "No Man’s Sky PS4/PS5",
-      "mark": "",
-      "price_from": 300,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2714/107cd4a41110b3622a5e07959df3807ee61b1dd55d873674.png",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3362-6139-4537-a535-646463376538/71185523.jpg",
-        "https://static.tildacdn.com/stor3262-6434-4533-b932-323439303633/27278049.jpg",
-        "https://static.tildacdn.com/stor3663-6266-4337-b163-336537666631/83126884.jpg",
-        "https://static.tildacdn.com/stor3534-3966-4661-a266-393639646436/47127377.jpg",
-        "https://static.tildacdn.com/stor6531-6338-4032-b466-323065636433/62888167.jpg",
-        "https://static.tildacdn.com/stor3261-6530-4631-b734-663363396132/71258832.jpg"
-      ],
-      "description": "No Man’s Sky - бескрайняя вселенная с живыми планетами, опасностями и тайной в центре галактики.  \n\nЕсли у вас уже есть версия для PS4, вы получаете цифровую версию для PS5 бесплатно - но нужно ставить диск в PS5, если нет дисковода.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Приключения",
-        "Боевики",
-        "VR"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 300,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        },
-        "p3": {
-          "7": 400,
-          "14": 600,
-          "21": 900,
-          "28": 1000
-        }
-      },
-      "tilda_uid": "810532558852",
-      "sku": "",
-      "external_id": "tmk98sz455fTdVOYHfGf",
-      "url": "http://arenapsgm.ru/tproduct/810532558852-no-man-s-sky-ps4-ps5",
-      "seo_title": "No Man’s Sky PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда No Man’s Sky PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры No Man’s Sky PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.02,
-      "release_date": "12/11/2020",
-      "publisher": "Hello Games LTD",
-      "voice": "Русский, Английский",
-      "text_translation": "Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/216600",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2714/107cd4a41110b3622a5e07959df3807ee61b1dd55d873674.png",
       "rent_days": [
         7,
         14,
@@ -432,111 +500,6 @@
         14,
         21,
         28
-      ]
-    },
-    {
-      "slug": "arenda-ps-plus-ps4-ps5",
-      "title": "Аренда PS Plus PS4/PS5",
-      "mark": "",
-      "price_from": 565,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3637-3866-4433-b130-343739626565/18249a29b35708e9d561a162e6a5ec1a.png",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3637-3866-4433-b130-343739626565/18249a29b35708e9d561a162e6a5ec1a.png",
-        "https://static.tildacdn.com/stor6563-3836-4937-b433-333863633465/61354079.jpg",
-        "https://static.tildacdn.com/stor6237-3766-4236-a337-303736316636/17624538.jpg",
-        "https://static.tildacdn.com/stor3836-3131-4332-a339-383037633962/47838766.jpg",
-        "https://static.tildacdn.com/stor6238-3738-4230-b962-646266333961/57388888.jpg",
-        "https://static.tildacdn.com/stor6635-3633-4137-a233-316235336236/29586005.jpg",
-        "https://static.tildacdn.com/stor3638-3032-4934-b131-646564333734/49361455.jpg",
-        "https://static.tildacdn.com/stor3762-3338-4230-b537-633336303037/74613254.jpg"
-      ],
-      "description": "Внимaниe: за дocрoчную cдaчу аккаунтa CКИДКА oкoло 30% на слeдующую игру. Скидка дейcтвуeт в течeнии нeдели!\nПрофиль выдаётся в oдни pуки, на одну конкретную пoзицию.\nДoвoльныe клиeнты ✅\nОпeративнocть в выдaче ✅\nС нaми мoжно договориться✅\nБолее 1611 + положительных отзывов ✅\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Подписка Plus",
-        "Лента на главной",
-        "Все игры",
-        "Интерактивное кино",
-        "Только PS5",
-        "Игры на двоих",
-        "Спорт",
-        "Шутеры",
-        "Гонки",
-        "Приключения",
-        "РПГ",
-        "Платформеры",
-        "Боевики",
-        "VR",
-        "Стратегии и симуляторы",
-        "Хоррор",
-        "Подписка плюс"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 565,
-          "14": 782,
-          "21": 1116,
-          "28": 1449,
-          "42": 2053,
-          "60": 2898,
-          "75": 3536,
-          "90": 4140,
-          "105": 4709,
-          "120": 5244,
-          "135": 5744,
-          "150": 6210,
-          "165": 6641,
-          "180": 7038
-        },
-        "p3": {
-          "7": 765,
-          "14": 982,
-          "21": 1316,
-          "28": 1649,
-          "42": 2253,
-          "60": 3098,
-          "75": 3736,
-          "90": 4340,
-          "105": 4909,
-          "120": 5444,
-          "135": 5944,
-          "150": 6410,
-          "165": 6841,
-          "180": 7238
-        }
-      },
-      "tilda_uid": "199915107972",
-      "sku": "",
-      "external_id": "j3YlH8K6eTnlJCYtdAKJ",
-      "url": "http://arenapsgm.ru/playstationplus/tproduct/199915107972-ps-plus-ps4-ps5",
-      "seo_title": "Аренда PS Plus PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Аренда PS Plus PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Аренда PS Plus PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28,
-        42,
-        60,
-        75,
-        90,
-        105,
-        120,
-        135,
-        150,
-        165,
-        180
       ]
     }
   ]
