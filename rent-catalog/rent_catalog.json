@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-24T22:13:13Z",
-  "generated_at": "2026-11-24T22:15:43Z",
-  "count": 11520,
+  "catalog_id": "2026-11-24T22:53:55Z",
+  "generated_at": "2026-11-24T22:58:03Z",
+  "count": 11521,
   "items": [
     {
       "id": "grand-theft-auto-vi",
@@ -72,7 +72,7 @@
       "seo_title": "Grand Theft Auto VI PS5 аренда игры",
       "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
       "external_id": "",
-      "catalog_added_at": "2026-11-24T22:15:01Z",
+      "catalog_added_at": "2026-11-24T22:57:10Z",
       "rent_days": [
         1,
         7,
@@ -154,7 +154,7 @@
       "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
       "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
       "external_id": "",
-      "catalog_added_at": "2026-11-24T22:15:01Z",
+      "catalog_added_at": "2026-11-24T22:57:10Z",
       "rent_days": [
         1,
         7,
@@ -3294,6 +3294,75 @@
       "seo_descr": "Аренда T-55 PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-24T17:28:56Z"
+    },
+    {
+      "id": "sunstone-of-time",
+      "slug": "sunstone-of-time",
+      "sku": "rent-sunstone-of-time",
+      "title": "Sunstone of Time PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "VRKiwi",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "24.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1611/32cfab9f47f46946c5f465bff7bcbade4723c10ac6ba17c0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/1611/a618604844f44d2c0e358ea156757de3caaac3a05d25f05e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/1611/4cfb7b62322ae934b4a9d959f201dc4107573268cea4f1cd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/1611/7f39cb496f543e99b9c8c950f1cc983fb5cdc7e19d267885.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/1611/439d26fe2e8dee882b1504eb2302f779c503e592d6aa3373.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/1611/0d910f634d1ae009e4fcafb8df44cdbc85cc772488a1c81c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/1611/3cf06415ed19a20950849def33be052a530a6088109e24d6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/1611/d9d19befdbff7a749ef873cee989d8d4b74d068543b481d7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/1611/e8376ad097d2886a08c23ecb9acf429d9062c4e1c997a95b.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10017442",
+      "description": "В космосе теперь можно не просто летать, а жить во всей красе. В Sunstone of Time на PS5 ты возьмешь под контроль огромную галактику, где каждый камень - это чей-то дом и история.\n\nИгра предлагает два пути: быть бесконечно злым тираном или найти баланс между властью и человечностью. Выбор будет не только моральным, но и стратегически сложным.",
+      "seo_title": "Sunstone of Time PS5 аренда игры",
+      "seo_descr": "Аренда Sunstone of Time PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-24T22:31:13Z"
     },
     {
       "id": "storage-hunter-simulator",
