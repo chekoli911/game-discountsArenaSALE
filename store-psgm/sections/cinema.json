@@ -1,7 +1,7 @@
 {
   "key": "cinema",
   "title": "Интерактивное кино",
-  "updated_at": "2026-11-24T01:46:44Z",
+  "updated_at": "2026-11-25T01:46:45Z",
   "games": [
     {
       "slug": "a-i-l-a-aila-ps5",
@@ -96,8 +96,7 @@
         "Игры на двоих",
         "Приключения",
         "Хоррор",
-        "Новинки",
-        "Боевики"
+        "Новинки"
       ],
       "platforms": "PS5",
       "platform_ps4": false,
@@ -1120,6 +1119,69 @@
       ]
     },
     {
+      "slug": "the-quarry-ps4-ps5",
+      "title": "The Quarry PS4/PS5",
+      "mark": "",
+      "price_from": 350,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0501/FUr3M0kGxyddUfUeuKBBFf2w.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202203/0501/FUr3M0kGxyddUfUeuKBBFf2w.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202203/0501/zHuVDRfQ4X4n21JZTwISdU7W.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202203/0501/GMMQhvlsJu42IYN1rrO9Jhsv.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202203/0501/cxXszbg6ciX0lIgPGIUuPpUV.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202203/0501/Tg0xU58oi6HSjEcBeuXAOR2N.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202203/0501/RPFPjP94zW1ZDEvmu8QlsV2V.jpg"
+      ],
+      "description": "The Quarry - кинематографичный триллер о ночи ужасов в летнем лагере. Игроки выбирают, спасать друзей или жить самому. Вместе с друзьями можно голосовать за решения и смотреть на развитие событий в режиме кино. Игра доступна для PS4 и PS5.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Интерактивное кино",
+        "Игры на двоих",
+        "Хоррор",
+        "Until Dawn remake рекомендации",
+        "Silent Hilll 2 рекомендации"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 350,
+          "14": 490,
+          "21": 690,
+          "28": 890
+        },
+        "p3": {
+          "7": 450,
+          "14": 590,
+          "21": 790,
+          "28": 990
+        }
+      },
+      "tilda_uid": "714695876222",
+      "sku": "",
+      "external_id": "3rBh0GJ5RMlcnpR3acXn",
+      "url": "http://arenapsgm.ru/tproduct/714695876222-the-quarry-ps4-ps5",
+      "seo_title": "The Quarry PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда The Quarry PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры The Quarry PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.26,
+      "release_date": "10/6/2022",
+      "publisher": "2K",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10004123",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0501/FUr3M0kGxyddUfUeuKBBFf2w.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
       "slug": "the-walking-dead-the-telltale-definitive-series-ps4-ps5",
       "title": "The Walking Dead: The Telltale Definitive Series PS4/PS5",
       "mark": "",
@@ -1303,6 +1365,161 @@
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2910/3e9b3c498de43d32ecc527dd128280da0920ae7c28cf65c1.png",
       "rent_days": [
         1,
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "arenda-ps-plus-ps4-ps5",
+      "title": "Аренда PS Plus PS4/PS5",
+      "mark": "",
+      "price_from": 565,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3637-3866-4433-b130-343739626565/18249a29b35708e9d561a162e6a5ec1a.png",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3637-3866-4433-b130-343739626565/18249a29b35708e9d561a162e6a5ec1a.png",
+        "https://static.tildacdn.com/stor6563-3836-4937-b433-333863633465/61354079.jpg",
+        "https://static.tildacdn.com/stor6237-3766-4236-a337-303736316636/17624538.jpg",
+        "https://static.tildacdn.com/stor3836-3131-4332-a339-383037633962/47838766.jpg",
+        "https://static.tildacdn.com/stor6238-3738-4230-b962-646266333961/57388888.jpg",
+        "https://static.tildacdn.com/stor6635-3633-4137-a233-316235336236/29586005.jpg",
+        "https://static.tildacdn.com/stor3638-3032-4934-b131-646564333734/49361455.jpg",
+        "https://static.tildacdn.com/stor3762-3338-4230-b537-633336303037/74613254.jpg"
+      ],
+      "description": "Внимaниe: за дocрoчную cдaчу аккаунтa CКИДКА oкoло 30% на слeдующую игру. Скидка дейcтвуeт в течeнии нeдели!\nПрофиль выдаётся в oдни pуки, на одну конкретную пoзицию.\nДoвoльныe клиeнты ✅\nОпeративнocть в выдaче ✅\nС нaми мoжно договориться✅\nБолее 1611 + положительных отзывов ✅\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Подписка Plus",
+        "Лента на главной",
+        "Все игры",
+        "Интерактивное кино",
+        "Только PS5",
+        "Игры на двоих",
+        "Спорт",
+        "Шутеры",
+        "Гонки",
+        "Приключения",
+        "РПГ",
+        "Платформеры",
+        "Боевики",
+        "VR",
+        "Стратегии и симуляторы",
+        "Хоррор",
+        "Подписка плюс"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 565,
+          "14": 782,
+          "21": 1116,
+          "28": 1449,
+          "42": 2053,
+          "60": 2898,
+          "75": 3536,
+          "90": 4140,
+          "105": 4709,
+          "120": 5244,
+          "135": 5744,
+          "150": 6210,
+          "165": 6641,
+          "180": 7038
+        },
+        "p3": {
+          "7": 765,
+          "14": 982,
+          "21": 1316,
+          "28": 1649,
+          "42": 2253,
+          "60": 3098,
+          "75": 3736,
+          "90": 4340,
+          "105": 4909,
+          "120": 5444,
+          "135": 5944,
+          "150": 6410,
+          "165": 6841,
+          "180": 7238
+        }
+      },
+      "tilda_uid": "199915107972",
+      "sku": "",
+      "external_id": "j3YlH8K6eTnlJCYtdAKJ",
+      "url": "http://arenapsgm.ru/playstationplus/tproduct/199915107972-ps-plus-ps4-ps5",
+      "seo_title": "Аренда PS Plus PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Аренда PS Plus PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Аренда PS Plus PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28,
+        42,
+        60,
+        75,
+        90,
+        105,
+        120,
+        135,
+        150,
+        165,
+        180
+      ]
+    },
+    {
+      "slug": "bezumtsy-ot-450r-ps4-ps5",
+      "title": "Безумцы от 450р PS4/PS5",
+      "mark": "",
+      "price_from": 450,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor6331-3662-4762-a433-393330396533/83486256.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor6331-3662-4762-a433-393330396533/83486256.jpg",
+        "https://static.tildacdn.com/stor6632-6537-4235-b036-323432313032/30520355.jpg",
+        "https://static.tildacdn.com/stor3736-3966-4334-b132-646130623765/37561906.jpg",
+        "https://static.tildacdn.com/stor6330-3136-4132-a161-613935666439/10296150.jpg",
+        "https://static.tildacdn.com/stor3761-3835-4639-b362-316137663439/31645530.jpg",
+        "https://static.tildacdn.com/stor6262-3834-4264-b666-346466313266/97061652.jpg"
+      ],
+      "description": "Внимaниe: за дocрoчную cдaчу аккаунтa CКИДКА oкoло 30% на слeдующую игру. Скидка дейcтвуeт в течeнии нeдели!\nИгpа выдаётся в oдни pуки, на одну конкретную пoзицию.\nДoвoльныe клиeнты ✅\nОпeративнocть в выдaче ✅\nС нaми мoжно договориться✅\nБолее 1611 + положительных отзывов ✅\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Интерактивное кино",
+        "Игры на двоих"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {},
+        "p3": {}
+      },
+      "tilda_uid": "412030600952",
+      "sku": "",
+      "external_id": "eBR3dnSx4tkdkjrt4YIe",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/412030600952-450-ps4-ps5",
+      "seo_title": "Безумцы от 450р PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Безумцы от 450р PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Безумцы от 450р PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
         7,
         14,
         21,
