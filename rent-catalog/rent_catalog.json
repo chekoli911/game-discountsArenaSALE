@@ -1,171 +1,9 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-25T22:35:39Z",
-  "generated_at": "2026-11-25T22:44:53Z",
-  "count": 11523,
+  "catalog_id": "2026-11-25T23:09:54Z",
+  "generated_at": "2026-11-25T23:24:04Z",
+  "count": 11530,
   "items": [
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-25T22:41:57Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Grand Theft Auto VI Ultimate Edition — расширенное издание с доп. контентом. Аренда на выбранный срок, П2 или П3.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-25T22:41:57Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
     {
       "id": "final-fantasy-vii-revelation",
       "slug": "final-fantasy-vii-revelation",
@@ -3160,6 +2998,277 @@
       "catalog_added_at": "2026-11-21T12:13:58Z"
     },
     {
+      "id": "relaywardens",
+      "slug": "relaywardens",
+      "sku": "rent-relaywardens",
+      "title": "Relaywardens PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Стратегия",
+      "categories": [],
+      "publisher": "Brainium Games LLC",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "25.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2812/359fe5f8499cd6a2ab012df64ebc547df98e91cfb5259914.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0511/269abdbbed650c9123a2f9b320bb11f0d661cf700c48f6cb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0511/f5115a3a752ad7f48dbbd5885a36e4c85c2a12159bca31ac.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0511/ba55315dff062c76b7379c7a0ca2cb5ecc0038388ec3ed36.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0511/7a609f03bb150fc6340074df44fd2b38f30c1d075a13541d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0511/5e881cf083287f96d59eb5327342c546021f1748c06893d1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0511/bd5b4dc652bea09abf42bdd63e18b5de5210c6845e07e946.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021395",
+      "description": "Спойлер: выигрывать здесь не нужно, главное - не пропустить свой ход. В «Релей Варденз» от вас ждут не просто гонки, а настоящий детективный бумеранг с элементами хоррора.\n\nВам придется протыкать карту тайных артефактов, ловить кустарников и спасать друзей из беды, пока они сами себя не подставят в очередной раз. Геймплей построен на умении быстро думать и реагировать, ведь каждый промах может стоить вам дорого.\n\nХотите проверить, сможете ли вы угадать, кто есть кто, и не допустить, чтобы враги перевернули вашу жизнь кверху дном? Тогда игра стоит того, чтобы взять в аренду прямо сейчас.",
+      "seo_title": "Relaywardens PS5 аренда игры",
+      "seo_descr": "Аренда Relaywardens PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-25T23:08:39Z"
+    },
+    {
+      "id": "jaden-industries-cozy-automation-puzzler",
+      "slug": "jaden-industries-cozy-automation-puzzler",
+      "sku": "rent-jaden-industries-cozy-automation-puzzler",
+      "title": "Jaden Industries: Cozy Automation Puzzler PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Симулятор, Головоломка",
+      "categories": [],
+      "publisher": "PUSHKA INTERACTIVE SOFTWARE LTD",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 3.5,
+      "release_date": "25.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1708/001c91331ad5b757c8629dcf2af75b3e10c4ef65b1731144.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1608/117540b31d5c5ac1a6e50a2b50052763a0d3b5bd3ba7c3d5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1608/f2d4d42780923aa6776da5bde1dbba3db07dabab43414d95.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1608/7e30c9060fb61291ef66d3cdbc4167a55f3843e4a0947de0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1608/8dd01fe7299274c0134c308d466f1e7edce5fc15893d7411.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1608/c7038c9fe447e6e067a24c45021da96b101fc40da2abb797.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1608/bb24192ec1e13b08a05dae42eda6c2b1af7e00aca2eff1c9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1608/b250686e03b7d611102962e0f33a4f75162738dcb22ced7d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202609/1608/6e370244d31673afd1af12d701a1633d4a0cb4fe0dc72a7f.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10015031",
+      "description": "В Jaden Industries: Cozy Automation Puzzler вас ждут задачи, которые требуют не столько ума, сколько уюта и терпения. Вам предстоит управлять огромными фабриками, где каждый винтик должен быть на своем месте, а каждая деталь - идеально выверена.\n\nМир здесь спокойный и предсказуемый, но именно в этой рутине кроется настоящая магия. Вы увидите, как плавятся гигантские шипы и превращаются в сладкие конфеты, или как из обычных предметов делают удивительные инструменты для творчества.\n\nГлавная фишка игры - её «cozy» атмосфера. Никакого стресса, никаких суетливых врагов и бесконечных дедлайнов. Только приятный процесс создания чего-то полезного, красивого и даже иногда немного несправедливости по отношению к самим себе.",
+      "seo_title": "Jaden Industries: Cozy Automation Puzzler PS5 аренда игры",
+      "seo_descr": "Аренда Jaden Industries: Cozy Automation Puzzler PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-25T23:08:21Z"
+    },
+    {
+      "id": "gravity-switch",
+      "slug": "gravity-switch",
+      "sku": "rent-gravity-switch",
+      "title": "Gravity Switch PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Головоломка",
+      "categories": [],
+      "publisher": "Brainium Games LLC",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "25.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1322/77f608989c5b0391b97e8656abf76113436b2322157bff61.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1322/0fe69d1b37a4170fa37d1fa2927ca20d8fb8ae9efa648eb8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1322/75ccb4beb27ed66903569df955a4612ce7f69ba1ddf2a2f9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1322/6c2709ebae32ff2af8596eb6fcae806249f4fbb9c18ff054.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1322/9686250ae25b13fff6f30f23807b12eb7d0ae9d425c18d61.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1322/3eb4e79b1fe6aa7158503f96032e285feec56c5de4ceadf0.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021202",
+      "description": "Gravity Switch на PlayStation 5 - это уникальная смесь платформера и головоломки с механикой инверсии гравитации, которая просто захватывает дух.\n\nВы управляете персонажем в открытом мире, где каждый поворот планеты меняет правила физики: вверх становится вниз, а сила притяжения работает на вас или против вас.\n\nИграть весело и нескучно даже с первых минут - это затягивает и заставляет хотеться перезапускать игру снова и снова.",
+      "seo_title": "Gravity Switch PS5 аренда игры",
+      "seo_descr": "Аренда Gravity Switch PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-25T23:08:05Z"
+    },
+    {
+      "id": "full-metal-sergeant-2",
+      "slug": "full-metal-sergeant-2",
+      "sku": "rent-full-metal-sergeant-2",
+      "title": "Full Metal Sergeant 2 PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Стратегия",
+      "categories": [],
+      "publisher": "POLYCRUNCH GAMES LIMITED",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "25.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0916/95d75c96c116a7ce68049555e71f74108bea434f4508b6ed.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0916/39f6c2569c3f84d5608e7e4297b13c6a12a4c8a59741252d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0916/c987836d491741c3143c4704b916049ad11af2f8bebc70a8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0916/00e9fa639dea58214f5a070b458fff2bf3317bc47f87c1ca.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0916/d4ae267c8a099e22e59ed9dc7281fb8c08c3d632d4692e15.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0916/c8a485fba1422b783033fd754ee9be7d57739aadf1f5381f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0916/6c5d4556ff01ec45d3debfe8bc1619e56f5f1eec103eb93f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0916/2f4fd817a56da40026988ac6e78a21ba13160fe91df5163a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/0916/084a7dc40fdd8a88ae7afa128f4a8c4ee38b191e7d6fc933.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020111",
+      "description": "Full Metal Sergeant 2 для PlayStation 5 - это тот самый «костяк», который делает серию культовой. Если вы искали классику с открытым миром и полным отсутствием сюжетных напарников, то именно эта часть должна быть в вашем списке игр.\n\nВозьмите на себя командование небольшим отрядом парашютистов, отправляйтесь в лагерь противника и решайте, кто из них выживет, а кого нужно оставить для «ураза».\n\nОсвоите боевые навыки, прокачайте оружие и станьте настоящим сертифицированным сержантом.",
+      "seo_title": "Full Metal Sergeant 2 PS5 аренда игры",
+      "seo_descr": "Аренда Full Metal Sergeant 2 PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-25T23:07:47Z"
+    },
+    {
       "id": "daisenryaku-ssb-2",
       "slug": "daisenryaku-ssb-2",
       "sku": "rent-daisenryaku-ssb-2",
@@ -3223,6 +3332,347 @@
       "seo_descr": "Аренда Daisenryaku SSB 2 PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-25T17:19:20Z"
+    },
+    {
+      "id": "console-archives-mezase-senkyu-oh",
+      "slug": "console-archives-mezase-senkyu-oh",
+      "sku": "rent-console-archives-mezase-senkyu-oh",
+      "title": "Console Archives Mezase!! SENKYU-OH PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Головоломка",
+      "categories": [],
+      "publisher": "HAMSTER CORPORATION",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 4.5,
+      "release_date": "25.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1607/7748f7d6fac67a3fa5b84f3706866699730f45761bc082dc.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1607/0383ade90a841d35d98d8f6c993fd730abb9d8959257e99c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1607/f4a9486bbba59822e85ee80b8d3e462d05460588efa67834.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1607/b9e1900171b360d2bc6d85fd7d5ce31a625a1f4624914301.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1607/c6c61390bdec0bca7d8a99435ccb50098bf5e79b8f32a97d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1607/037584f52499010f3a43a4e9a960660678dfd876fd8ebf63.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1607/f2417d9c9d65e268edd8bbd366260ff9f4c9f0fd6ce225f7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1607/c9e099f10ea9a5faf054774bcd40834518de7226c894b979.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1607/41d41b86df8efe33ff87b95d57a39e75ee9626a41b720d26.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018913",
+      "description": "Забудь скучные сиквелы и линейные квесты. Console Archives Mezase!! SENKYU-OH - это тот редкий случай, когда игра действительно работает как интерактивный мультфильм на PlayStation 5.\n\nВот тут-то мы и чувствуем настоящую магию: камера следует за героем так плавно, что ты сам перестал замечать её присутствие. Анимация движения отполирована до блеска - каждый шаг, каждое касание выглядит живым и отзывчивым.",
+      "seo_title": "Console Archives Mezase!! SENKYU-OH PS5 аренда игры",
+      "seo_descr": "Аренда Console Archives Mezase!! SENKYU-OH PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-25T23:07:34Z"
+    },
+    {
+      "id": "calculus-of-rot",
+      "slug": "calculus-of-rot",
+      "sku": "rent-calculus-of-rot",
+      "title": "Calculus of Rot PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Стратегия",
+      "categories": [],
+      "publisher": "Brainium Games LLC",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "25.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1715/dfd073ffd02b68438a045d22541b7713f79e3733f8eb70b9.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1715/23ec7805c8c270659de142a62dbe430c2dc954323d819c95.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1715/aa1c6ef07b16562853ab333a49c0b222b07e0d35371d1dc3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1715/da88d6120d02fa9e45b2f72a62cdb351ddd6009b1dc165fc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1715/41b116d9f2d97c26a7220858096a4ffbeff019ddbe9fa303.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1715/00500b18df0cab0bdb083a64ee3aa80cf72a37ecf693cf0d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1715/d2dd046b5d8f9565a2ec590844cf455ce63eb60b6da1f437.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020959",
+      "description": "Представь собой космический симулятор, где физика работает не так, как мы привыкли. Ты управляешь огромным кораблем-циклопом в бесконечном сгустке черной материи, который выглядит одновременно как гигантский улей и как колыбель вселенной.\n\nВот тут-то и появляется самая главная фишка: математика. Каждое движение, каждое поворотное маневрирование требует от тебя реального знания производных и интегралов. Без формул корабль просто разлетится на куски в этом безумном космосе.\n\nЭто не просто стрелялка или гонки - это попытка понять саму природу вселенной через призму сложнейших вычислений, а всё это подчинено реалистичным законам физики.",
+      "seo_title": "Calculus of Rot PS5 аренда игры",
+      "seo_descr": "Аренда Calculus of Rot PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-25T23:09:33Z"
+    },
+    {
+      "id": "breakworld",
+      "slug": "breakworld",
+      "sku": "rent-breakworld",
+      "title": "Breakworld PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Аркада",
+      "categories": [],
+      "publisher": "Booster Box Ltd",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "25.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0220/2834b980dac61d8e8a55eb1e6dd22e1c94858b6579e8a283.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0220/8dc7bb7d7ee3bd8fce81ea2f53f5cc1ee58a3a0f4b0d0195.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0220/eb03495f0fb4365d9d5df3df9e402668584bc361cd68aa45.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0220/bc3ca419145078d5c5780029ad02b088ebc26c5ab6a07809.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0220/79c310d8dddf4cc36540ec7f5e0039ebc9d70a4d269a42af.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0220/f11c21be752ec38232393d22415abdd1d349fbfd2f2b9ad8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0220/c89ff51399c16edacc42721876e2bdfed8896f7fc2d247b6.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021427",
+      "description": "Breakworld на PlayStation 5. Это не просто ролевая игра, а настоящее приключение в мире, где ты - единственный, кто может изменить его судьбу.\n\nТы попадешь в готический замок, полный загадок и древних проклятий. Твоя задача? Выжить против колючих кустов и найти выход из этого подземелья.\n\nОпасность растет с каждой минутой: враги охотятся на тебя, а время идет тиками. Как ты думаешь, сможешь ли ты спасти себя и, может быть, весь мир в этой игре?",
+      "seo_title": "Breakworld PS5 аренда игры",
+      "seo_descr": "Аренда Breakworld PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-25T23:09:04Z"
+    },
+    {
+      "id": "arcade-archives-2-rainbow-islands",
+      "slug": "arcade-archives-2-rainbow-islands",
+      "sku": "rent-arcade-archives-2-rainbow-islands",
+      "title": "Arcade Archives 2 RAINBOW ISLANDS PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "HAMSTER CORPORATION",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "25.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1609/21facddf1c9bacc69a1800183097998912fab706654ef63b.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1609/0a356287102ff49f86566c253790520d2cc0aaac9af9b49e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1609/58bd00a7b134c92f187590e67e8c89d262170bad6ca47292.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1609/3d86cba39f1b7db637915504a4c3c09b45aee3541d3b97c4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1609/f054f1c7f23ba075eb5e67ce30d7f286c47e34bb584b59c8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1609/fd244e89a9bb15a7cf2e4676551520ed137660ae48b03b0d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1609/b75ff36f469a949defa00da02076b02febe3dc54f135371e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1609/9b1ed9d7427f7fb3f517efc489ab4b8c9f51f4b36493af6b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1609/3c195e63572aa579bb2959829611a4004c832b7d4422cf04.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020277",
+      "description": "Включи в «Arcade Archives 2» самый яркий блок из вселенной Марио - Rainbow Islands! Это уже не просто ретро-аркада, а полноценный приключение с уникальной механикой.\n\nСобирай друзей и отправляйтесь на оживлённые острова, где каждая платформа поджидает новых сюрпризов. Лови монетки, собирай фишки и прокладывай путь к победе в ритме классического геймплея.",
+      "seo_title": "Arcade Archives 2 RAINBOW ISLANDS PS5 аренда игры",
+      "seo_descr": "Аренда Arcade Archives 2 RAINBOW ISLANDS PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-25T23:07:21Z"
+    },
+    {
+      "id": "arcade-archives-2-dirt-dash",
+      "slug": "arcade-archives-2-dirt-dash",
+      "sku": "rent-arcade-archives-2-dirt-dash",
+      "title": "Arcade Archives 2 DIRT DASH PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Гонки",
+      "categories": [],
+      "publisher": "HAMSTER CORPORATION",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "25.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1306/5286d288bf94b9c24199ad4b82acac67320a40090bb2583a.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1307/b514e2c3181090a36c53ab12b536e6941379c1933fa0a835.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1307/6f54d3fcfc0091eaad5b233abd5dbb68b20cead68d11a5b1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1307/2395710ef0b4a681d06928b09e211639ccf8ca4ab31cf79a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1307/4b605e3dfaa57beca205368f59cb6ee807e70ea9baac297f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1307/e9c754c873fbb90140a4d4a11468674549f7df7d58bc57d1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1307/d79b6f58d0d48614b54fe3358727168e0ccb82cce1b557a2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1307/ac9da43a18f1008b3aa0756097893c1d962863ab9ab54215.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1307/5471d1c3f71556f0ad060fda0acff6a36ae59f348a74b1a0.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020491",
+      "description": "Добрый день! Как редактор Telegram-канала, я готов помочь вам с переработкой текста поста в живом, дружеском стиле, сохранив при этом все ключевые факты. Пожалуйста, отправьте исходный текст, который нужно отредактировать, и я сразу приступлю к работе, не требуя дополнительных пояснений.",
+      "seo_title": "Arcade Archives 2 DIRT DASH PS5 аренда игры",
+      "seo_descr": "Аренда Arcade Archives 2 DIRT DASH PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-25T23:07:04Z"
     },
     {
       "id": "tales-of-lagoona-orphans-of-the-ocean",
