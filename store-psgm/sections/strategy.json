@@ -1,7 +1,7 @@
 {
   "key": "strategy",
   "title": "Стратегии и симуляторы",
-  "updated_at": "2026-11-24T01:46:44Z",
+  "updated_at": "2026-11-25T01:46:45Z",
   "games": [
     {
       "slug": "a-i-l-a-aila-ps5",
@@ -64,73 +64,6 @@
       "store_url": "",
       "edition_banner": "",
       "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "ace-combat-8-wings-of-theve-ps5",
-      "title": "ACE COMBAT 8: WINGS OF THEVE PS5",
-      "mark": "NEW",
-      "price_from": 697,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor6134-6439-4364-b863-343533333332/531a646080e65bfbc64835a634fdabd9.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor6134-6439-4364-b863-343533333332/531a646080e65bfbc64835a634fdabd9.jpg",
-        "https://static.tildacdn.com/stor3231-6234-4963-b730-383136656533/8d9074bd87eeaa887ba6da2fb54279a7.jpg",
-        "https://static.tildacdn.com/stor3935-6466-4034-b236-313630613333/6f856c43e2f22179cb78ff45c6e67df0.jpg",
-        "https://static.tildacdn.com/stor3462-3139-4964-b731-386564396230/5eaa62eb5ea0c9c5114ce60eb89b973c.jpg",
-        "https://static.tildacdn.com/stor6637-3433-4162-b965-313338363836/39afd3986256bbd5b9fef81820ce0a39.jpg",
-        "https://static.tildacdn.com/stor6637-3139-4238-a632-623438316339/a090f3342d49704bc77888e903333401.jpg",
-        "https://static.tildacdn.com/stor3134-6265-4363-a337-636233353061/ac12e7402a138f6b7d190339f64736e3.jpg"
-      ],
-      "description": "ACE COMBAT 8: WINGS OF THEVE открывает перед вами мир головокружительных воздушных сражений на запредельной скорости!\nСадитесь в кабину и взмывайте ввысь в роли элитного пилота, готового покорять небеса. Вас ждут напряженные воздушные бои, уничтожение опасных врагов и серия динамичных заданий, где каждая победа приближает вас к званию настоящей легенды в этой игре от PROJECT ACES — титулованной команды, подарившей миру эту серию игр.\nРежим кампании поражает великолепной графикой и многослойными облаками, передающими всю красоту живых небес. Ощутите прилив адреналина от динамичного аркадного игрового процесса, обрушивайте на врагов всю мощь своего оружия и доминируя на поле боя.\nЗахватывающее приключение в небе и на земле\nКроме хаоса воздушных сражений вас ждут кинематографичные сцены от первого лица, раскрывающие историю вашего пилота. Ощутите тяжесть бремени командования, груз ответственности за тяжелые решения и крепость рожденных в боях уз. Общайтесь с боевыми товарищами между заданиями, вместе преодолевайте трудности и докажите, что вы — настоящий ас.\nСамый масштабный сетевой режим в истории серии\nACE COMBAT ONLINE предоставляет самые широкие возможности многопользовательской игры. Впервые в истории серии вы сможете зайти в онлайн-лобби, исследовать свою авиабазу и настроить своего аватара перед тем, как отправиться в бой. Совершайте вылеты вместе с пилотами со всего мира в разных режимах, в том числе в совместных боях и кроссплатформенной игре.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Боевики",
-        "Стратегии и симуляторы"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 697,
-          "7": 739,
-          "14": 827,
-          "21": 944,
-          "28": 1078
-        },
-        "p3": {
-          "1": 497,
-          "7": 1092,
-          "14": 1292,
-          "21": 1728,
-          "28": 1933
-        }
-      },
-      "tilda_uid": "437267479203",
-      "sku": "",
-      "external_id": "52BK6GykTIoVY8NJflpQ",
-      "url": "http://arenapsgm.ru/tproduct/437267479203-ace-combat-8-wings-of-theve-ps5",
-      "seo_title": "ACE COMBAT 8: WINGS OF THEVE на PS5 аренда игры",
-      "seo_descr": "Аренда ACE COMBAT 8: WINGS OF THEVE на PS5. ACE COMBAT 8: WINGS OF THEVE открывает перед вами мир головокружительных воздушных сражений на запредельной скорости! Быстрый доступ после оплаты.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        1,
         7,
         14,
         21,
@@ -207,31 +140,29 @@
       ]
     },
     {
-      "slug": "arma-reforger-ps5",
-      "title": "Arma Reforger PS5",
+      "slug": "age-of-empires-iv-anniversary-edition-ps5",
+      "title": "Age of Empires IV: Anniversary Edition PS5",
       "mark": "NEW",
-      "price_from": 539,
+      "price_from": 257,
       "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202411/0514/5c7c3f28cad703f2c2c066dcac0b319ef3578ef05ebee9f4.png",
+      "image_url": "https://static.tildacdn.com/stor3131-3235-4063-a232-393832343030/6fc5403ae4e927dce9ef35de1c437aa7.jpg",
       "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/0514/5c7c3f28cad703f2c2c066dcac0b319ef3578ef05ebee9f4.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/0514/7b1888aa8c9fbcb3bf2b668de72656d073fa0927ab32690e.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/0514/233dc15ba248d13f8e9b3b09755d16a7f4f2d9685dd12fa1.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/0514/8334de1a0aec169448b205b8ba5d3d123a88611a456882cb.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/0514/48d126d3af7aa6109da738dc15db3661159b6ad18d258bf1.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/0514/4a44809ae2399fd2ab112cd5b5a55465f7810c9b87585727.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/0514/438d4487ca8b28388aecbb353729f824111462df4f745309.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/0514/7a8590f5c63a5dc5faf0617d40597ec3c5b3fb6de89e138d.jpg"
+        "https://static.tildacdn.com/stor3131-3235-4063-a232-393832343030/6fc5403ae4e927dce9ef35de1c437aa7.jpg",
+        "https://static.tildacdn.com/stor3466-3563-4464-a331-653636323263/b9c47ad7a4ae882866476e84887be9a9.jpg",
+        "https://static.tildacdn.com/stor3337-3732-4530-b333-343736306337/c3df32e1e4d57a9d163c57e3a47a5980.jpg",
+        "https://static.tildacdn.com/stor6335-3632-4362-b566-653439376339/2c29e1a875f8651aa23985539a260d03.jpg",
+        "https://static.tildacdn.com/stor3236-3639-4165-a530-363237333035/64328d923656ab8abe076bb90f43cee3.jpg",
+        "https://static.tildacdn.com/stor3831-6562-4566-b561-303835333263/83a28b7e9d9bb5df3509be201479ab60.jpg",
+        "https://static.tildacdn.com/stor3336-3332-4336-a337-376263303435/63e14e8f458351b3c44390afad72d30f.jpg",
+        "https://static.tildacdn.com/stor3833-6338-4562-b661-616330393136/61fb791749a164ebdf564775088e53bb.jpg"
       ],
-      "description": "Arma Reforger - военная песочница на PS5, где вы можете вести масштабные сражения и создавать миссии в реальном времени. Игра предлагает глубокий тактический геймплей в мире холодной войны с возможностью прямого участия в боевых действиях или редактирования сценариев как Game Master. Это первая игра франшизы Arma на PlayStation, переносящая военный симулятор на консольную плат…",
+      "description": "Игровой процесс одной из лучших представительниц всеми любимой серии был досконально адаптирован для консолей: мы сохранили интуитивное и понятное управление с помощью контроллера, не пожертвовав стратегической глубиной.\nAge of Empires IV знакомит новое поколение игроков с одной из самых культовых стратегических серий в истории — лауреатом номинации «Лучший симулятор/стратегия» The Game Awards 2021 года, лучшей стратегической игрой по версии журнала PC Gamer и обладательницей многочисленных наград «Выбор редакции» и «Игра года».\nНапишите собственную историю\nМиллионы игроков Age of Empires IV: Anniversary Edition по всему миру уже успели оказаться в центре эпических сражений, изменивших мир. Погружайтесь в масштабные исторические кампании, командуйте разнообразными цивилизациями и ведите свою империю в бой.\n• Возглавьте одну из 10 уникальных цивилизаций:\nвыберите любую из 10 цивилизаций со всего света, включая англичан, китайцев, Делийский султанат и могущественных малийцев из Западной Африки. Каждая из них предлагает свои преимущества, уникальных бойцов и стратегические возможности, превращая каждый матч в неповторимый опыт.\n• Проживите 500 лет истории в ходе четырех кампаний:\nпроходя четыре тщательно проработанные кампании, вы станете свидетелем поворотных моментов истории. В 35 миссиях, охватывающих период от Темных веков до эпохи Возрождения, вам предстоит управлять ключевыми историческими фигурами и определять исход сражений на суше и на море.\n• Обретите величие вместе с выдающимися деятелями истории: дайте отпор англичанам в обличье Жанны д’Арк или покорите Азию, возглавив монгольские орды Чингисхана. От ваших решений зависит исход сражений на суше и на море.\n• Изучите и познайте «Искусство войны»: новых игроков ждут подробные обучающие задания и сюжетный режим кампании, а соревновательный многопользовательский режим потребует от ветеранов знания и понимания стратегических приемов.\n• Бросьте вызов всему миру: сражайтесь вместе с друзьями или против них в рейтинговых и нерейтинговых сетевых матчах. Игра поддерживает до 8 участников в каждом матче.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
       "categories": [
-        "Лента на главной",
         "Все игры",
+        "Новинка главная шапка",
         "Только PS5",
-        "Шутеры",
-        "Боевики",
-        "Новинки",
-        "Приключения",
+        "РПГ",
+        "Платформеры",
         "Стратегии и симуляторы"
       ],
       "platforms": "PS5",
@@ -240,32 +171,35 @@
       "platforms_choice": false,
       "prices": {
         "p2": {
-          "7": 539,
-          "14": 929,
-          "21": 1094,
-          "28": 1314
+          "1": 257,
+          "7": 357,
+          "14": 490,
+          "21": 699,
+          "28": 799
         },
         "p3": {
-          "7": 639,
-          "14": 1029,
-          "21": 1194,
-          "28": 1414
+          "1": 357,
+          "7": 459,
+          "14": 590,
+          "21": 799,
+          "28": 899
         }
       },
-      "tilda_uid": "420130776482",
+      "tilda_uid": "925228875463",
       "sku": "",
-      "external_id": "4Zi2Dhg966TasfdtibPy",
-      "url": "http://arenapsgm.ru/tproduct/420130776482-arma-reforger-ps5",
-      "seo_title": "Arma Reforger PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Arma Reforger PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Arma Reforger PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 3.68,
-      "release_date": "12/12/2024",
-      "publisher": "Bohemia Interactive a.s.",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10010198",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202411/0514/5c7c3f28cad703f2c2c066dcac0b319ef3578ef05ebee9f4.png",
+      "external_id": "V6ddMa_OeEozyo99tsW5",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/925228875463-age-of-empires-iv-anniversary-edition-ps5",
+      "seo_title": "Age of Empires IV: Anniversary Edition на PS5 аренда игры",
+      "seo_descr": "Аренда Age of Empires IV: Anniversary Edition на PS5. Игровой процесс одной из лучших представительниц всеми любимой серии был досконально адаптирован для консолей: мы сохранили интуитивное и понятное управление с… Быстрый доступ после оплаты.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
       "rent_days": [
+        1,
         7,
         14,
         21,
@@ -542,71 +476,6 @@
       ]
     },
     {
-      "slug": "deconstruction-simulator-ps5",
-      "title": "Deconstruction Simulator PS5",
-      "mark": "NEW",
-      "price_from": 257,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor6135-3765-4731-a338-306238373033/5bd1dd978931db63b4dbea6cd4beadda.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor6135-3765-4731-a338-306238373033/5bd1dd978931db63b4dbea6cd4beadda.jpg",
-        "https://static.tildacdn.com/stor3566-3064-4139-a239-633861366262/3ba2ae69f27bda4ed6ab88dc8a13968f.jpg",
-        "https://static.tildacdn.com/stor3330-3362-4562-a230-333162383933/cd26a86cdc3e32c2178e93092d97bb3f.jpg",
-        "https://static.tildacdn.com/stor3263-3238-4334-b962-333766386564/910ab1983714974ac5198510117bd24e.jpg",
-        "https://static.tildacdn.com/stor6366-3837-4237-b431-666338316565/91cfcca042a679db02f55c8f96780f58.jpg",
-        "https://static.tildacdn.com/stor6365-3232-4461-a365-323832333039/efe0999bb7e9a3267acc03d7d4b31f84.jpg",
-        "https://static.tildacdn.com/stor3762-3930-4266-b763-613333383464/26a4e246dba23d852495c0ab03d26161.jpg",
-        "https://static.tildacdn.com/stor3430-6261-4833-b238-623335383732/00376a34ab8dbb158961f389412609db.jpg"
-      ],
-      "description": "Deconstruction Simulator - это лучший симулятор разрушения, предлагающий полную свободу действий и широкий спектр контрактов, которые необходимо выполнить. Приготовьтесь к впечатляющим разрушениям.\nСНОСИТЬ, ВОССТАНАВЛИВАТЬ, ПРОДАВАТЬ\nНайдите контракт своей мечты. Сносите и разбирайте здания. Извлекайте строительные материалы и ценные предметы, а затем продавайте их с выгодой или перерабатывайте. Каждый контракт - это новый вызов и возможность заработать.\nРазбирайте дома и мебель по частям или разрушайте их с помощью молотка и отбойного шара. Продвинутая физика разрушения позволяет вам точно спланировать каждое действие по сносу или погрузиться в хаос и наблюдать, как красиво все рушится - ветхие лачуги или роскошные виллы.\nХотите ли вы стать уважаемым профессионалом? Или, может быть, теневым оператором? Вы сами решаете, за какие контракты браться и как к ним подходить. Вы можете следовать точным указаниям своих клиентов или сносить все на своем пути. Однако помните, что каждое нарушение влияет не только на потенциальную выплату, но и на ценную репутацию вашей компании!\nОБНОВЛЯЙТЕ ОБОРУДОВАНИЕ И ПОКУПАЙТЕ НЕДВИЖИМОСТЬ\nКак только вы заработали значительную сумму денег, вложите ее в развитие своего бизнеса! Купите больший автомобиль, расширьте склад и обновите инструменты. Решите, куда вы хотите направить свой бизнес по деконструкции. Вам предстоит принять множество интересных решений.\nДОМИНИРОВАТЬ В БИЗНЕСЕ ПО СНОСУ ЗДАНИЙ\nНабирайтесь опыта и укрепляйте свою репутацию на рынке подрядов. Добейтесь более высокого уровня разрешений на снос, открывая доступ к все более сложным и высокооплачиваемым работам. Доминируйте на рынке сноса!\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Стратегии и симуляторы"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 257,
-          "7": 357,
-          "14": 490,
-          "21": 699,
-          "28": 799
-        },
-        "p3": {
-          "1": 357,
-          "7": 459,
-          "14": 590,
-          "21": 799,
-          "28": 899
-        }
-      },
-      "tilda_uid": "512667513043",
-      "sku": "",
-      "external_id": "NqpzXY9Xv9dFuxyGv7ur",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/512667513043-deconstruction-simulator-ps5",
-      "seo_title": "Deconstruction Simulator на PS5 аренда игры",
-      "seo_descr": "Аренда Deconstruction Simulator на PS5. Deconstruction Simulator - это лучший симулятор разрушения, предлагающий полную свободу действий и широкий спектр контрактов, которые необходимо выполнить. Быстрый доступ после оплаты.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
       "slug": "dispatch-ps5",
       "title": "Dispatch PS5",
       "mark": "NEW",
@@ -669,67 +538,6 @@
       "store_url": "https://store.playstation.com/en-tr/concept/10013259",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0621/4fb935ea5e75490740d6726da42d05d953cb50a693188174.png",
       "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "dreamcore-ps5",
-      "title": "Dreamcore PS5",
-      "mark": "NEW",
-      "price_from": 257,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3931-3236-4530-a664-613339386131/3177e18d7d2c8e023094ebb23bdc08f3.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor3931-3236-4530-a664-613339386131/3177e18d7d2c8e023094ebb23bdc08f3.jpg",
-        "https://static.tildacdn.com/stor6363-6630-4634-a331-303732306563/67d9f2e70e77f89fa94d7449639b1e56.jpg",
-        "https://static.tildacdn.com/stor3432-6238-4433-b066-653835363833/473efe30fb4173bda1b96dfc53c146c5.jpg",
-        "https://static.tildacdn.com/stor6633-3639-4465-b332-643461303838/59e8fd1fba04dfbc272acbf810ac4393.jpg",
-        "https://static.tildacdn.com/stor3565-3439-4361-b438-323339343866/07ca5d8ef9557776f13f183712e036c0.jpg"
-      ],
-      "description": "Dreamcore — это игра психологического исследования, которая погружает игроков в жуткую красоту лиминальных пространств. Созданная для поклонников атмосферного, нелинейного игрового процесса, Dreamcore приглашает вас исследовать обширные взаимосвязанные миры, где каждый уголок скрывает тайну, а каждая тропинка ведет к открытию.\nПогрузитесь в зловещую тишину Dreampools — бесконечного лабиринта из залитых водой коридоров и мерцающих отражений. Без четкого пути вы можете свободно бродить в их глубинах, решая головоломки, вдохновленные культовыми \"комнатами с бассейнами\" интернета.\nПод идиллическим покоем Eternal Suburbia скрывается тревожная правда. Этот район, вдохновленный загадочными домиками Уровня 94, приглашает вас заглянуть за фасады обычной жизни. Сможете ли вы раскрыть его секрет или он поглотит вас?\nПоследовательность пространств, вдохновлённых детскими игровыми зонами, воссозданных в искусственной и безмолвной эстетике. По всей карте вы будете исследовать мягкие комнаты, пластиковые замковые конструкции, коридоры, заполненные шариками, сетчатые тоннели, огромные кубики и ковры с напечатанными городами. Каждая зона следует логике детских развлечений, но лишена функциональности и человеческого присутствия. Нет инструкций, звуков и чёткого направления — прогресс полностью зависит от игрока.\nLiminal Hotel — это окончательная версия знаменитого мема бэкрумсов «Уровень 188», предлагающая большое разнообразие стилей в номерах. На лифтах вы будете перемещаться по этажам отеля, и чем ниже вы спускаетесь, тем сильнее атмосфера отеля отрывается от времени.\nDead Mall отпускает игроков в кошмарную площадь со всеми атрибутами детских походов по магазинам, но искажёнными в жуткое испытание. Погружайтесь в её подсознательный аркадный зал, парковку, фуд-корт, кинотеатр и множество изолированных магазинов.\nКаждый Уровень — это загадочный лабиринт, ожидающий исследования. Ваша цель — пройти его повороты, раскрыть скрытую логику и найти выход. Но будьте осторожны: чем глубже вы погружаетесь, тем больше эти пространства будут бросать вызов вашему восприятию реальности. Без монстров и внезапных испугов, Dreamcore создает напряжение через зловещую красоту и тревожное спокойствие своих лиминальных пространств.\nС визуальным оформлением в стиле VHS и зернистой атмосферой, Dreamcore точно передаёт жуткую эстетику \"найденных записей\" 1980-х годов. Построенная на Unreal Engine 5, каждая деталь тщательно продумана, чтобы погрузить вас в её тревожный мир.\nКаждый Уровень в Dreamcore — это отдельное приключение, предлагающее уникальное сочетание исследования и атмосферы. Начиная с Dreampools и Eternal Suburbia, со временем будут добавлены новые Уровни, расширяющие мир игры. Ранние игроки получат все будущие Уровни без дополнительной оплаты.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Все игры",
-        "Только PS5",
-        "Стратегии и симуляторы"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 257,
-          "7": 357,
-          "14": 490,
-          "21": 699,
-          "28": 799
-        },
-        "p3": {
-          "1": 357,
-          "7": 459,
-          "14": 590,
-          "21": 799,
-          "28": 899
-        }
-      },
-      "tilda_uid": "673948761203",
-      "sku": "",
-      "external_id": "jwlAClpsGQGK0l0GKhK-",
-      "url": "http://arenapsgm.ru/gamescatalog/tproduct/673948761203-dreamcore-ps5",
-      "seo_title": "Dreamcore на PS5 аренда игры",
-      "seo_descr": "Аренда Dreamcore на PS5. Dreamcore — это игра психологического исследования, которая погружает игроков в жуткую красоту лиминальных пространств. Быстрый доступ после оплаты.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        1,
         7,
         14,
         21,
@@ -1055,6 +863,72 @@
       "store_url": "https://store.playstation.com/en-tr/concept/10011463",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1814/8ed0a9e5f23ed173881e2e21e259eac99a2457994f059b6c.png",
       "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "nascar-26-ps5",
+      "title": "NASCAR 26 PS5",
+      "mark": "NEW",
+      "price_from": 697,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3565-3235-4231-b530-306234323937/bd82b907c5e7ce8b67c37f3a4f89601c.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3565-3235-4231-b530-306234323937/bd82b907c5e7ce8b67c37f3a4f89601c.jpg",
+        "https://static.tildacdn.com/stor3735-6465-4630-b731-633830363133/73e6d6e316c1838cc543dea5a75ad180.jpg",
+        "https://static.tildacdn.com/stor6432-6339-4061-b064-643533303861/f48424d5699116cab65987e4ae872db3.jpg",
+        "https://static.tildacdn.com/stor6339-6332-4637-b239-653237396435/5a33fc2f0aaee1744506746a8ddc6944.jpg",
+        "https://static.tildacdn.com/stor6462-3830-4532-a566-666666373964/6a716a5060720af9870565bd01f7ab7f.jpg",
+        "https://static.tildacdn.com/stor3539-3837-4364-b735-356633303032/3a0768b6e257f3815acf599aff7f962a.jpg"
+      ],
+      "description": "Официальная игра NASCAR возвращается и становится еще лучше с NASCAR 26!\nПройдите все четыре национальные серии NASCAR в режиме карьеры, быстрой гонки, чемпионата, многопользовательском режиме или в нашем совершенно новом режиме «Погоня»! Благодаря использованию всех лазерных сканированных объектов iRacing, уровень аутентичности стал еще выше: динамическая трасса, совершенно новый режим тренировки для достижения максимальной производительности и улучшенная физика вождения для каждого шасси. А с нашей новой функцией кросс-игры вы можете сразиться со всеми своими друзьями и показать им, кто лучший!\nNASCAR 26 переносит все острые ощущения и азарт гоночного дня прямо в вашу гостиную. Готовы завести мотор?\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Спорт",
+        "Гонки",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078
+        },
+        "p3": {
+          "1": 497,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933
+        }
+      },
+      "tilda_uid": "526324071303",
+      "sku": "",
+      "external_id": "zZHbPBYrtnJwIXB6zU5D",
+      "url": "http://arenapsgm.ru/tproduct/526324071303-nascar-26-ps5",
+      "seo_title": "NASCAR 26 на PS5 аренда игры",
+      "seo_descr": "Аренда NASCAR 26 на PS5. Официальная игра NASCAR возвращается и становится еще лучше с NASCAR 26! Пройдите все четыре национальные серии NASCAR в режиме карьеры, быстрой гонки, чемпионата,… Быстрый доступ после оплаты.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        1,
         7,
         14,
         21,
@@ -1603,77 +1477,6 @@
       ]
     },
     {
-      "slug": "the-binding-of-isaac-repentance-ps5",
-      "title": "The Binding of Isaac: Repentance PS5",
-      "mark": "NEW",
-      "price_from": 390,
-      "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor6232-6566-4261-a133-383039376333/4bfbcb11e57d86aeb5efb6053d6047af.jpg",
-      "screenshots": [
-        "https://static.tildacdn.com/stor6232-6566-4261-a133-383039376333/4bfbcb11e57d86aeb5efb6053d6047af.jpg",
-        "https://static.tildacdn.com/stor6563-3437-4161-b635-373465366361/26eb725f4209f0eead5ffa831237b5d4.jpg",
-        "https://static.tildacdn.com/stor6164-3531-4239-b539-636636373262/14033d85b6de93cafda2df1bb7ba5f40.jpg",
-        "https://static.tildacdn.com/stor3536-3035-4463-b465-376330623431/beb56a13b1d8f17205e26b8977ddcc10.jpg",
-        "https://static.tildacdn.com/stor6636-3736-4265-b631-343662343165/d5de2d3ba9a00f9925b94010099803f7.jpg",
-        "https://static.tildacdn.com/stor3332-3034-4562-b665-313134653861/393bec75ec902b4647e397a65940f2fb.jpg",
-        "https://static.tildacdn.com/stor3663-6365-4566-a130-396165653034/93fb815fb7f8eab25e19b1b99da9a245.jpg",
-        "https://static.tildacdn.com/stor6131-3539-4036-b362-623536393537/20d9731c0fba868c87edcbfd910e523a.jpg"
-      ],
-      "description": "Молитесь о покаянии и возродитесь\nThe Binding of Isaac: Repentance - это последняя версия отмеченного наградами roguelike-шутера с двумя палками. Он включает в себя весь контент из предыдущих выпусков The Binding of Isaac (Rebirth, Afterbirth и Afterbirth +), а также Repentance, последнее и самое большое расширение игры, добавляющее сотни дополнительных новых функций, режимов и улучшений. Испытайте современную классику, как никогда раньше!\nИГРА, КОТОРАЯ ОПРЕДЕЛА ЖАНР\nКогда мать Исаака начинает слышать голос Бога, требующий принести жертву, чтобы доказать ее веру, Исаак убегает в темный и опасный подвал. Там он сталкивается с толпами безумных монстров, потерянных братьев и сестер, его страхами и, в конечном итоге, с существом, которое дало ему жизнь. С новыми финальными боссами и анимированными концовками Repentance представляет заключительную главу саги об Исааке!\nНЕОГРАНИЧЕННАЯ ОТВЕТСТВЕННОСТЬ\nThe Binding of Isaac: Repentance - это случайно сгенерированный экшн / ролевая игра / шутер с тяжелыми элементами roguelike, в результате чего игровой процесс может длиться многие тысячи часов. Следуя за Исааком в его путешествии, игроки откроют для себя причудливые сокровища, которые изменят облик Исаака, наделяя его сверхчеловеческими способностями и позволяя ему сражаться с толпами таинственных существ, открывать секреты и пробиваться к безопасному месту.\n• Более 700 обнаруживаемых предметов, которые тонко и драматично изменяют игровой процесс.\n• Практически бесконечное количество комбинаций предметов с бесконечными уникальными и мощными синергиями.\n• 17+ игровых персонажей с разными характеристиками, способностями и типами атак.\n• 300+ типов монстров, которых нужно победить\n• 125+ смертоносных боссов\n• Альтернативные пути, несколько уровней сложности, более 20 возможных концовок.\n• 40+ открываемых испытаний.\n• 22 000+ различных дизайнов комнат\n• 600+ открываемых предметов и секретов, которые предстоит открыть\n• И многое другое, что мы бы предпочли, чтобы вы нашли свое!\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
-      "categories": [
-        "Новинки",
-        "Все игры",
-        "Новинка главная шапка",
-        "Только PS5",
-        "Игры на двоих",
-        "Приключения",
-        "Платформеры",
-        "Боевики",
-        "Стратегии и симуляторы",
-        "Хоррор"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 390,
-          "7": 490,
-          "14": 890,
-          "21": 1190,
-          "28": 1290
-        },
-        "p3": {
-          "1": 490,
-          "7": 590,
-          "14": 990,
-          "21": 1190,
-          "28": 1290
-        }
-      },
-      "tilda_uid": "836903211753",
-      "sku": "",
-      "external_id": "higP__8mlJJBeHO0HUFG",
-      "url": "http://arenapsgm.ru/newgame/tproduct/836903211753-the-binding-of-isaac-repentance-ps5",
-      "seo_title": "The Binding of Isaac: Repentance на PS5 аренда игры",
-      "seo_descr": "Аренда The Binding of Isaac: Repentance на PS5. Молитесь о покаянии и возродитесь The Binding of Isaac: Repentance - это последняя версия отмеченного наградами roguelike-шутера с двумя палками. Быстрый доступ после оплаты.",
-      "rating": null,
-      "release_date": "",
-      "publisher": "",
-      "voice": "",
-      "text_translation": "",
-      "store_url": "",
-      "edition_banner": "",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
       "slug": "the-king-is-watching-ps5",
       "title": "The King is Watching PS5",
       "mark": "NEW",
@@ -2185,6 +1988,130 @@
       ]
     },
     {
+      "slug": "five-nights-at-freddy-s-into-the-pit-ps4-ps5",
+      "title": "Five Nights at Freddy's: Into the Pit PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "price_old": 649,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1221/c66fde2d53d2e340ba1c936de6eee1ae8f597e73cb8af303.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1221/c66fde2d53d2e340ba1c936de6eee1ae8f597e73cb8af303.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1313/5d9dcb707dbb8332c9d9b5a32716be4a7cb4c741654bee1a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1313/c92c30100342837c9ac4541354d6c3d0491e75fc085dfc18.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1313/bd9c85b2f8286ca1a96a9f537179d83ad71a7548319ee8be.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1313/8e88873a245138b3529c85420f6d1209027037c8b0818812.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1313/c9ed0a73d0d7e21d1026915b4f65cce0b7bc8615cf0b1675.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1313/7d27ba758fb3ca15a8574c2438b104e98dbc874b5af37a49.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1313/404cf6d1d1b56685fb5b696302f17307d87cc2df8df68f3f.jpg"
+      ],
+      "description": "Запрыгивайте в бассейн и погружайтесь в новую главу вселенной \"Пяти Ночей у Фредди\". Освальду наскучил его город и его жизнь. Но все меняется, когда в обшарпанной пиццерии он находит бассейн с шариками и оказывается в прошлом. Однако цена таких изменений слишком высока для Освальда...\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Платформеры",
+        "Приключения",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 300,
+          "21": 350,
+          "28": 400
+        },
+        "p3": {
+          "7": 350,
+          "14": 400,
+          "21": 450,
+          "28": 500
+        }
+      },
+      "tilda_uid": "516325538042",
+      "sku": "",
+      "external_id": "khU9fgDxa3RG5OIP9PtE",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/516325538042-five-nights-at-freddy-s-into-the-pit-ps4-ps5",
+      "seo_title": "Five Nights at Freddy's: Into the Pit PS5/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Five Nights at Freddy's: Into the Pit PS5/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Five Nights at Freddy's: Into the Pit PS5/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.71,
+      "release_date": "27/9/2024",
+      "publisher": "Mega Cat Studios",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10009158",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1221/c66fde2d53d2e340ba1c936de6eee1ae8f597e73cb8af303.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "fortniteps4-ps5",
+      "title": "FortnitePS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1715/a34caaac0a34f9342a7d2d27a64fa91873044271e66be67f.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/1715/a34caaac0a34f9342a7d2d27a64fa91873044271e66be67f.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1305/0932e909516f0e1b437d386822606798eed40d2857b06b60.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0113/a354989a381de9b52c16b16eec8d9b35c84726e8cd16633a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1505/d9ea7a5bf95b5ccb314c0ba24b2d54c0d16c0fa97de07d28.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1505/225dc2293b17b5b6ea795dd49e63a452f25dc67d82329a29.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202604/1505/b5ebb8ab29e28e7de3740b1ef3384203980efe115553847b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202603/2421/4244d47f72dffc0075a105f58e5d0bf0d3a4e6078f103a49.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202412/2017/1e0268a07a45394bb37237252ee774e40833a63e2ab34179.jpg"
+      ],
+      "description": "Fortnite на PS4 и PS5 предлагает разнообразные режимы - от королевских битв до перезарядок и фестивалей. Играйте в тысячи игр от разных разработчиков или создавайте собственные с помощью творческих инструментов. Каждая игра имеет возрастной рейтинг, чтобы выбрать то, что подходит вам.",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "542693167452",
+      "sku": "",
+      "external_id": "7N2z9efLmvNNxbZ4zD3S",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/542693167452-fortniteps4-ps5",
+      "seo_title": "FortnitePS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда FortnitePS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры FortnitePS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.31,
+      "release_date": "21/7/2017",
+      "publisher": "Epic Games Inc.",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/228748",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1715/a34caaac0a34f9342a7d2d27a64fa91873044271e66be67f.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
       "slug": "humankind-ps4-ps5",
       "title": "HUMANKIND PS4/PS5",
       "mark": "",
@@ -2307,69 +2234,6 @@
       ]
     },
     {
-      "slug": "legacy-of-kain-soul-reaver-1-i-2-remastered-ps4-ps5",
-      "title": "Legacy of Kain Soul Reaver 1 и 2 Remastered PS4/PS5",
-      "mark": "",
-      "price_from": 359,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1715/14b9503de49035832456c264fe5e34bcb80dcaf31a5101a3.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202409/1715/14b9503de49035832456c264fe5e34bcb80dcaf31a5101a3.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2521/a255f5c5dd29702a9cf98449144ccc3235dec76529e8e4f6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2521/508a6b41cd74ec8c4d4e2e57fb511ee571525d3ae0b791b0.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2521/1bf860217999cde13044308dd2c4a8abe28df7ea390d6a65.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2521/c6249cf38b99baa61cf7da6616fa36372f2a0f52d7794ca6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2521/848b002593b6f2c212b0b0c50da838d580a1c9e1f47a1efc.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2521/f5d6f733d7f0a80e2235f9d5b5897014abd21260c7caa30a.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202411/2521/644ff9b45559a0960af105fde6d2b805fc366bdf7b9efae3.jpg"
-      ],
-      "description": "Legacy of Kain: Soul Reaver 1&2 Remastered предлагает эпический конфликт Каина и Разиэля в оригинальном формате или с обновлённой графикой. Погрузитесь в историю, где вы возрождаетесь после предательства и отправляетесь на путь отмщения. Уничтожайте вампиров с помощью когтей, телекинеза и Призрачного клинка, поглощая души врагов. Перемещайтесь между мирами и решайте головоломк…",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Приключения",
-        "Стратегии и симуляторы",
-        "Новинки"
-      ],
-      "platforms": "PS4, PS5",
-      "platform_ps4": true,
-      "platform_ps5": true,
-      "platforms_choice": true,
-      "prices": {
-        "p2": {
-          "7": 359,
-          "14": 499,
-          "21": 545,
-          "28": 645
-        },
-        "p3": {
-          "7": 459,
-          "14": 599,
-          "21": 645,
-          "28": 745
-        }
-      },
-      "tilda_uid": "530440672632",
-      "sku": "",
-      "external_id": "xyzFY6JLV3ZAjnG0tJx3",
-      "url": "http://arenapsgm.ru/tproduct/530440672632-legacy-of-kain-soul-reaver-1-2-remastered-ps4-ps5",
-      "seo_title": "Legacy of Kain Soul Reaver 1 и 2 Remastered PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Legacy of Kain Soul Reaver 1 и 2 Remastered PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Legacy of Kain Soul Reaver 1 и 2 Remastered PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.69,
-      "release_date": "10/12/2024",
-      "publisher": "ASPYR MEDIA, INC",
-      "voice": "Русский, Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10009063",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1715/14b9503de49035832456c264fe5e34bcb80dcaf31a5101a3.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
       "slug": "minecraft-ps4-ps5",
       "title": "Minecraft PS4/PS5",
       "mark": "",
@@ -2424,6 +2288,129 @@
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/212779",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "monopoly-plus-ps4-ps5",
+      "title": "Monopoly Plus PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3437-6431-4436-a661-323736343863/66680890.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3437-6431-4436-a661-323736343863/66680890.jpg",
+        "https://static.tildacdn.com/stor3439-3763-4230-a134-333437303763/54450672.jpg",
+        "https://static.tildacdn.com/stor6132-6263-4930-b135-366466353234/69577295.jpg",
+        "https://static.tildacdn.com/stor3130-3632-4931-b231-633163626233/13210248.jpg",
+        "https://static.tildacdn.com/stor3634-6535-4762-a136-346433313038/84214290.jpg",
+        "https://static.tildacdn.com/stor3230-3835-4136-b930-363963663566/25526755.jpg"
+      ],
+      "description": "Игровая доска оживает! Трехмерный город\nбудет меняться по мере ваших действий. Быстрый режим и 6 основных правил. Выкладывайте игровые снимки в соцсети. «Монополия ПЛЮС» — классика на новом уровне!\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Стратегии и симуляторы",
+        "Приключения",
+        "Платформеры"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "574117966332",
+      "sku": "",
+      "external_id": "d8XXCBAbx08HKe03Y7co",
+      "url": "http://arenapsgm.ru/tproduct/574117966332-monopoly-plus-ps4-ps5",
+      "seo_title": "Monopoly Plus PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Monopoly Plus PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Monopoly Plus PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "mudrunner-ps4-ps5",
+      "title": "MudRunner PS4/PS5",
+      "mark": "",
+      "price_from": 290,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA09958_00/3/i_0c0d51b4bc70ce01226e14f2d938e412ae3644b3c3d6608c6440026dd8a6b5e9/i/icon0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA09958_00/3/i_0c0d51b4bc70ce01226e14f2d938e412ae3644b3c3d6608c6440026dd8a6b5e9/i/icon0.png",
+        "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/BbpAum5G3ndyw6D5Qg8zwPtrCUABZnQJ.jpg",
+        "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/Yow1aIv1onaahXC7FpRJb9LuHKQNUgsY.jpg",
+        "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/26DvWDyAPuTfCKq88TuYN7YBbR0DUAu6.jpg",
+        "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/XaRVLEbHI1STkLLZDTZi04uHucszlQ85.jpg",
+        "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/x37z85FkniAoDk00G9ip9lkKfBbRhFVj.jpg",
+        "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/hzoNdDVvsrQc8Z6QfFadif7uapHztWc6.jpg",
+        "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/wSinMPyT6ydgBWbWc1igdszlPnvWXAYj.jpg"
+      ],
+      "description": "MudRunner - American Wilds предлагает играть на PS4 и PS5 в экстремальных условиях Сибири и северных штатов США. Управляйте более чем 30 мощными вездеходами от Ford, Hummer и Chevrolet. Покоряйте бездорожье, выполняя задания в грязи, на реках и среди преград - в одиночку или с друзьями в кооперативе для 2-4 игроков.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Гонки",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS4",
+      "platform_ps4": true,
+      "platform_ps5": false,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 290,
+          "14": 390,
+          "21": 490,
+          "28": 690
+        },
+        "p3": {
+          "7": 390,
+          "14": 490,
+          "21": 590,
+          "28": 790
+        }
+      },
+      "tilda_uid": "478152983422",
+      "sku": "",
+      "external_id": "yxUbJ53OTZxc9Ntsuebe",
+      "url": "http://arenapsgm.ru/tproduct/478152983422-mudrunner-ps4-ps5",
+      "seo_title": "MudRunner PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда MudRunner PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры MudRunner PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.32,
+      "release_date": "23/10/2018",
+      "publisher": "Focus Entertainment",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/230052",
+      "edition_banner": "https://image.api.playstation.com/cdn/EP4133/CUSA09958_00/rE7MA0VJfBTydDSJCh8EfKYbTnSSoKJT.png",
       "rent_days": [
         7,
         14,
@@ -2554,26 +2541,25 @@
       ]
     },
     {
-      "slug": "snowrunner-premium-edition-ps4-ps5",
-      "title": "SnowRunner - Premium Edition PS4/PS5",
+      "slug": "sims-4-ps4-ps5",
+      "title": "Sims 4 PS4/PS5",
       "mark": "",
-      "price_from": 280,
+      "price_from": 250,
       "price_old": null,
-      "image_url": "https://static.tildacdn.com/stor3864-6561-4563-b230-343232376636/20085897.jpg",
+      "image_url": "https://static.tildacdn.com/stor6538-6136-4530-b339-633233333137/89182934.jpg",
       "screenshots": [
-        "https://static.tildacdn.com/stor3864-6561-4563-b230-343232376636/20085897.jpg",
-        "https://static.tildacdn.com/stor3436-3435-4835-b037-396535616463/ec74b80a23d171de24cb66e0526ff1f9.jpg",
-        "https://static.tildacdn.com/stor6562-6337-4263-b636-653937333262/a7cf70df1c2eb51ddf062ac4a89d7788.jpg",
-        "https://static.tildacdn.com/stor6164-6362-4230-b139-653963646538/1f6263aefba47bc83e884ef89aaa0129.jpg",
-        "https://static.tildacdn.com/stor3735-3833-4537-b431-306231336336/b15233198ef207b46ef513b7c3a34ac9.jpg",
-        "https://static.tildacdn.com/stor3537-3832-4237-b266-356163613666/433f6692acc08d24560341a45c3229d8.jpg"
+        "https://static.tildacdn.com/stor6538-6136-4530-b339-633233333137/89182934.jpg",
+        "https://static.tildacdn.com/stor3537-3836-4633-a463-376536353934/69a921fb2e2acbb89a0bef615432d71e.jpg",
+        "https://static.tildacdn.com/stor3464-3865-4461-b732-623563376630/a0bddcddb1864a168954b8c83f2dc9ce.jpg",
+        "https://static.tildacdn.com/stor3939-6338-4330-b331-363833313865/a2f35c9a6097feb149752648a9f35142.jpg",
+        "https://static.tildacdn.com/stor3133-3264-4436-a536-396434306133/9a497895a04acf4176d7c01d7cc39354.jpg",
+        "https://static.tildacdn.com/stor3661-6339-4664-a639-663839373263/0fecfef44f7ada7935eb78c9a94c89c2.jpg"
       ],
-      "description": "SnowRunner, ранее носивший название MudRunner 2, представляет собой непревзойденный внедорожный опыт с потрясающими визуальными эффектами, продвинутой физикой, картами, разнообразными транспортными средствами и, конечно… снегом и льдом.\nВстречайте новое поколение гонок по бездорожью!\nВас ждут мощные машины известных марок и суровые просторы с реалистичной симуляцией ландшафта. Расширяйте автопарк и настраивайте свои автомобили.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "description": "Дайте волю воображению и создайте уникальный мир, который отражает вашу личность! Загрузите игру совершенно бесплатно и изменяйте любые детали как симов, так и их домов. И это ещё далеко не всё!\nСоздавайте уникальных симов. Вам доступно целое разнообразие симов, для каждого из которых вы можете выбирать внешний вид, черты характера и жизненные цели.\nПостройте идеальный дом. С лёгкостью создавайте идеальные дома для своих симов в режиме строительства.\nИзучите яркие миры. Путешествуйте по интересным местам, открывайте для себя удивительные и самобытные районы и посещайте различные заведения.\nИграйте с жизнью. Контролируйте разнообразные и увлекательные моменты в жизни симов — от отношений до карьеры.\nДобавьте новые впечатления. Ищите вдохновение в Галерее, в сообществе таких же игроков, как вы, и добавляйте контент в игру или делитесь своими творениями.\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
       "categories": [
         "Лента на главной",
         "Все игры",
-        "Стратегии и симуляторы",
-        "Приключения"
+        "Стратегии и симуляторы"
       ],
       "platforms": "PS4, PS5",
       "platform_ps4": true,
@@ -2581,24 +2567,24 @@
       "platforms_choice": true,
       "prices": {
         "p2": {
-          "7": 280,
+          "7": 250,
           "14": 400,
           "21": 700,
           "28": 800
         },
         "p3": {
-          "7": 380,
+          "7": 350,
           "14": 500,
           "21": 800,
           "28": 900
         }
       },
-      "tilda_uid": "389436804912",
+      "tilda_uid": "325303824922",
       "sku": "",
-      "external_id": "AfRCdF5Jdx7RkHtlSRlU",
-      "url": "http://arenapsgm.ru/tproduct/389436804912-snowrunner-premium-edition-ps4-ps5",
-      "seo_title": "SnowRunner - Premium Edition PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда SnowRunner - Premium Edition PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры SnowRunner - Premium Edition PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "external_id": "nVA7U9oo2KS71DK6cPhv",
+      "url": "http://arenapsgm.ru/tproduct/325303824922-sims-4-ps4-ps5",
+      "seo_title": "Sims 4 PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Sims 4 PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Sims 4 PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
       "rating": null,
       "release_date": "",
       "publisher": "",
@@ -2735,6 +2721,172 @@
         14,
         21,
         28
+      ]
+    },
+    {
+      "slug": "tony-hawk-s-pro-skater-1-2-ps4-ps5",
+      "title": "Tony Hawk’s Pro Skater 1 + 2 PS4/PS5",
+      "mark": "",
+      "price_from": 280,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/1603/SO3OCkc1gcyGMoInvSvbRzfA.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/img/rnd/202010/1603/SO3OCkc1gcyGMoInvSvbRzfA.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/2217/ca979b5ee24b8f25d460a88cfe30f98ed33fb4152614d02c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/2217/c89a2af16afaf7e05c2131dc604b273453783662ca8c15eb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/2217/1260d86e8df334b743748c80fcd81b0553094463b9872291.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/2217/9872cb8ce669cd1a1ce4bf6d91faa57c579741dbf604f538.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/2217/865cf804d22a04834acbbd25230d567799bbf56c75489745.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202510/2217/8a06759c6ea6cf883f928d5d4136a7cd375511a24698062a.jpg"
+      ],
+      "description": "Вернитесь в прошлое с двумя легендарными играми про скейтбординг. Насладитесь эпическим сборником Tony Hawk's Pro Skater 1 + 2, воссозданным с потрясающей графикой высокой четкости. Играйте за Тони Хоука и других профессиональных скейтеров, выполняя трюки в фирменной системе управления.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Спорт",
+        "Стратегии и симуляторы"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 280,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 380,
+          "14": 500,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "291466713312",
+      "sku": "",
+      "external_id": "24GG83IkEF88JEaMtVKr",
+      "url": "http://arenapsgm.ru/tproduct/291466713312-tony-hawk-s-pro-skater-1-2-ps4-ps5",
+      "seo_title": "Tony Hawk’s Pro Skater 1 + 2 PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Tony Hawk’s Pro Skater 1 + 2 PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Tony Hawk’s Pro Skater 1 + 2 PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.43,
+      "release_date": "26/3/2021",
+      "publisher": "Activision Blizzard Int'l BV",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/235168",
+      "edition_banner": "https://image.api.playstation.com/vulcan/img/rnd/202009/0219/witS8C6Rswg5cINrjBdGdZXA.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "arenda-ps-plus-ps4-ps5",
+      "title": "Аренда PS Plus PS4/PS5",
+      "mark": "",
+      "price_from": 565,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3637-3866-4433-b130-343739626565/18249a29b35708e9d561a162e6a5ec1a.png",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3637-3866-4433-b130-343739626565/18249a29b35708e9d561a162e6a5ec1a.png",
+        "https://static.tildacdn.com/stor6563-3836-4937-b433-333863633465/61354079.jpg",
+        "https://static.tildacdn.com/stor6237-3766-4236-a337-303736316636/17624538.jpg",
+        "https://static.tildacdn.com/stor3836-3131-4332-a339-383037633962/47838766.jpg",
+        "https://static.tildacdn.com/stor6238-3738-4230-b962-646266333961/57388888.jpg",
+        "https://static.tildacdn.com/stor6635-3633-4137-a233-316235336236/29586005.jpg",
+        "https://static.tildacdn.com/stor3638-3032-4934-b131-646564333734/49361455.jpg",
+        "https://static.tildacdn.com/stor3762-3338-4230-b537-633336303037/74613254.jpg"
+      ],
+      "description": "Внимaниe: за дocрoчную cдaчу аккаунтa CКИДКА oкoло 30% на слeдующую игру. Скидка дейcтвуeт в течeнии нeдели!\nПрофиль выдаётся в oдни pуки, на одну конкретную пoзицию.\nДoвoльныe клиeнты ✅\nОпeративнocть в выдaче ✅\nС нaми мoжно договориться✅\nБолее 1611 + положительных отзывов ✅\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Подписка Plus",
+        "Лента на главной",
+        "Все игры",
+        "Интерактивное кино",
+        "Только PS5",
+        "Игры на двоих",
+        "Спорт",
+        "Шутеры",
+        "Гонки",
+        "Приключения",
+        "РПГ",
+        "Платформеры",
+        "Боевики",
+        "VR",
+        "Стратегии и симуляторы",
+        "Хоррор",
+        "Подписка плюс"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 565,
+          "14": 782,
+          "21": 1116,
+          "28": 1449,
+          "42": 2053,
+          "60": 2898,
+          "75": 3536,
+          "90": 4140,
+          "105": 4709,
+          "120": 5244,
+          "135": 5744,
+          "150": 6210,
+          "165": 6641,
+          "180": 7038
+        },
+        "p3": {
+          "7": 765,
+          "14": 982,
+          "21": 1316,
+          "28": 1649,
+          "42": 2253,
+          "60": 3098,
+          "75": 3736,
+          "90": 4340,
+          "105": 4909,
+          "120": 5444,
+          "135": 5944,
+          "150": 6410,
+          "165": 6841,
+          "180": 7238
+        }
+      },
+      "tilda_uid": "199915107972",
+      "sku": "",
+      "external_id": "j3YlH8K6eTnlJCYtdAKJ",
+      "url": "http://arenapsgm.ru/playstationplus/tproduct/199915107972-ps-plus-ps4-ps5",
+      "seo_title": "Аренда PS Plus PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Аренда PS Plus PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Аренда PS Plus PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28,
+        42,
+        60,
+        75,
+        90,
+        105,
+        120,
+        135,
+        150,
+        165,
+        180
       ]
     }
   ]
