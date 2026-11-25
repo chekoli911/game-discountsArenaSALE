@@ -1,7 +1,7 @@
 {
   "key": "vr",
   "title": "VR",
-  "updated_at": "2026-11-24T01:46:44Z",
+  "updated_at": "2026-11-25T01:46:45Z",
   "games": [
     {
       "slug": "mutant-boxing-league-vr-ps5",
@@ -60,6 +60,70 @@
       "edition_banner": "",
       "rent_days": [
         1,
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "resident-evil-4-ps4-ps5",
+      "title": "Resident Evil 4 PS4/PS5",
+      "mark": "Хит",
+      "price_from": 490,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202210/2104/qv6AsSCT8cemAD138eKidL51.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202210/2104/Zxh8NsrqsVzvQblfe4uIZCCg.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202210/2104/6j5JaZ3n5k8JDUBRlh8p8YwX.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202210/2104/D6Xht9lPH4hB4lR2Yqnk35eK.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202210/2104/wTIsr5Lm6xZA2PuTyaREAIX3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202210/2104/BUPJRjE7S3qXn5hF0uCHuSe0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202210/2104/knSaI80l7Ha2Bfcncd9CWfzp.jpg"
+      ],
+      "description": "Resident Evil 4 - ремейк классики 2005 года, переработанный сюжет и современный игровой процесс. Игра доступна на PS4 и PS5. Выживать в мире ужасов, где каждый шаг - это риск, а каждое решение может изменить судьбу героя.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Шутеры",
+        "Приключения",
+        "Хоррор",
+        "VR"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 490,
+          "14": 590,
+          "21": 690,
+          "28": 790
+        },
+        "p3": {
+          "7": 590,
+          "14": 690,
+          "21": 790,
+          "28": 890
+        }
+      },
+      "tilda_uid": "859924123882",
+      "sku": "",
+      "external_id": "TkkGMKCUGsZ4lB8xmxAa",
+      "url": "http://arenapsgm.ru/tproduct/859924123882-resident-evil-4-ps4-ps5",
+      "seo_title": "Resident Evil 4 PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Resident Evil 4 PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Resident Evil 4 PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.74,
+      "release_date": "24/3/2023",
+      "publisher": "CE EUROPE LIMITED",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10004473",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png",
+      "rent_days": [
         7,
         14,
         21,
@@ -182,6 +246,67 @@
       "store_url": "https://store.playstation.com/en-tr/concept/10004478",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1905/28fee925a09f7fac3ba9cf00bb0974df8c570c1e755ed0a9.png",
       "rent_days": [
+        28
+      ]
+    },
+    {
+      "slug": "creed-rise-to-glory-ps4-ps5",
+      "title": "Creed Rise to glory PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3363-3234-4333-a264-346131623035/11107178.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3363-3234-4333-a264-346131623035/11107178.jpg",
+        "https://static.tildacdn.com/stor3763-6333-4435-b337-636236656334/90049614.jpg",
+        "https://static.tildacdn.com/stor3334-3966-4534-b935-336637353136/44052283.jpg",
+        "https://static.tildacdn.com/stor3035-6665-4136-b964-393138663338/42577846.jpg",
+        "https://static.tildacdn.com/stor3131-3834-4436-a539-313961663439/76934526.jpg",
+        "https://static.tildacdn.com/stor6163-3963-4362-a161-623166316461/75617363.jpg",
+        "https://static.tildacdn.com/stor3033-6566-4230-a134-376166366638/94dbc24a7d053bfee4ca221ef95bb008.jpg"
+      ],
+      "description": "Ощутите бешеное биение пульса в боксерском бою благодаря достойной блокбастера кинематографичной анимации в игре Creed: Rise to Glory™. Вы — Адонис Крид, и вы сражаетесь за то, чтобы создать и укрепить свое наследие на ринге и за его пределами. Выполняйте удары и защитные маневры, соответствующие вашему боксерскому стилю, и ведите настоящий, приближенный к реальности бой.\nНапряженные поединки 1 на 1\nВоплощайте свое наследие\nЗахватывающая кинематографичная вселенная\nРазличные режимы игры\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Спорт",
+        "VR"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "388665584432",
+      "sku": "",
+      "external_id": "MC7cjEULRu2ox6JLh5bX",
+      "url": "http://arenapsgm.ru/tproduct/388665584432-creed-rise-to-glory-ps4-ps5",
+      "seo_title": "Creed Rise to glory PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Creed Rise to glory PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Creed Rise to glory PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
         28
       ]
     },
@@ -500,6 +625,111 @@
         14,
         21,
         28
+      ]
+    },
+    {
+      "slug": "arenda-ps-plus-ps4-ps5",
+      "title": "Аренда PS Plus PS4/PS5",
+      "mark": "",
+      "price_from": 565,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3637-3866-4433-b130-343739626565/18249a29b35708e9d561a162e6a5ec1a.png",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3637-3866-4433-b130-343739626565/18249a29b35708e9d561a162e6a5ec1a.png",
+        "https://static.tildacdn.com/stor6563-3836-4937-b433-333863633465/61354079.jpg",
+        "https://static.tildacdn.com/stor6237-3766-4236-a337-303736316636/17624538.jpg",
+        "https://static.tildacdn.com/stor3836-3131-4332-a339-383037633962/47838766.jpg",
+        "https://static.tildacdn.com/stor6238-3738-4230-b962-646266333961/57388888.jpg",
+        "https://static.tildacdn.com/stor6635-3633-4137-a233-316235336236/29586005.jpg",
+        "https://static.tildacdn.com/stor3638-3032-4934-b131-646564333734/49361455.jpg",
+        "https://static.tildacdn.com/stor3762-3338-4230-b537-633336303037/74613254.jpg"
+      ],
+      "description": "Внимaниe: за дocрoчную cдaчу аккаунтa CКИДКА oкoло 30% на слeдующую игру. Скидка дейcтвуeт в течeнии нeдели!\nПрофиль выдаётся в oдни pуки, на одну конкретную пoзицию.\nДoвoльныe клиeнты ✅\nОпeративнocть в выдaче ✅\nС нaми мoжно договориться✅\nБолее 1611 + положительных отзывов ✅\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Подписка Plus",
+        "Лента на главной",
+        "Все игры",
+        "Интерактивное кино",
+        "Только PS5",
+        "Игры на двоих",
+        "Спорт",
+        "Шутеры",
+        "Гонки",
+        "Приключения",
+        "РПГ",
+        "Платформеры",
+        "Боевики",
+        "VR",
+        "Стратегии и симуляторы",
+        "Хоррор",
+        "Подписка плюс"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 565,
+          "14": 782,
+          "21": 1116,
+          "28": 1449,
+          "42": 2053,
+          "60": 2898,
+          "75": 3536,
+          "90": 4140,
+          "105": 4709,
+          "120": 5244,
+          "135": 5744,
+          "150": 6210,
+          "165": 6641,
+          "180": 7038
+        },
+        "p3": {
+          "7": 765,
+          "14": 982,
+          "21": 1316,
+          "28": 1649,
+          "42": 2253,
+          "60": 3098,
+          "75": 3736,
+          "90": 4340,
+          "105": 4909,
+          "120": 5444,
+          "135": 5944,
+          "150": 6410,
+          "165": 6841,
+          "180": 7238
+        }
+      },
+      "tilda_uid": "199915107972",
+      "sku": "",
+      "external_id": "j3YlH8K6eTnlJCYtdAKJ",
+      "url": "http://arenapsgm.ru/playstationplus/tproduct/199915107972-ps-plus-ps4-ps5",
+      "seo_title": "Аренда PS Plus PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Аренда PS Plus PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Аренда PS Plus PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28,
+        42,
+        60,
+        75,
+        90,
+        105,
+        120,
+        135,
+        150,
+        165,
+        180
       ]
     }
   ]
