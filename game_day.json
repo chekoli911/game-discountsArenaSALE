@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-24T02:02:58Z",
-  "server_time_utc": "2026-11-24T02:02:58Z",
+  "updated_at": "2026-11-25T02:02:55Z",
+  "server_time_utc": "2026-11-25T02:02:55Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-25T02:00:00Z",
-  "expires_at": "2026-11-25T02:00:00Z",
+  "next_rotation_at": "2026-11-26T02:00:00Z",
+  "expires_at": "2026-11-26T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 100,
@@ -21,10 +21,62 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-25T02:00:00Z"
+    "next_rotation_at": "2026-11-26T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "saints-row-the-third-remastered-ps4-ps5",
+      "title": "Saints Row: The Third Remastered PS4/PS5",
+      "description": "В «Святых» из банды на трезубец превратился в бренд, но слава приглянулась не только им. Синдикат решил: теперь надо платить дань. Отказав злодеем и отправив врагов разбиваться об стену, вы берете управление Стиллуотером под свой контроль.\n\nЭто династия Сан-Андреса в самом диком сеттинге GTA - тут нет места законам и чинку. Поезжайте на танке с парашютом, стреляйте из пистолета или просто попрыгайте во время квестов.\n\nЕсли захотите сыграть, пишите сюда 📩 @ArenaPSGMadmin",
+      "image_url": "https://static.tildacdn.com/stor3135-6461-4430-b531-333339353336/46735859.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/img/cfn/11307FMv3AIO-H9Dlips5uMHu4GA1KAg2AhT_tUA4OQ9RdCkIwA-MzC1njc6tdwfGTC9WoPe4Ww7-_MBAyi7hoFYBogUm4Fj.jpg",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307PF87ebSoyRBIomxCcpyJdTs-JwWTqaMcbhj3PaAv1jIP5Zz17B2sczpqO4MbcleY9NCSvFHYQdndwK_wvAqvhs_KQhb.jpg",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307viUcOvoyZ7rNKxTYPMysiSUZndUzDsTpRluuARD5ELQciwSlzmb32m_tV9z3Tf-cJnTSlbEIhyO2zL6EfL2mDQu6d97.jpg",
+        "https://image.api.playstation.com/vulcan/img/cfn/113073sDFxmiiOz-bT_Bg848EX1xmnl_39RBHxQ3DoUGzeOktHDAxm2sVf0UOHXp4XOrS_Tjptezat-96DygXmdatY8N-n0U.jpg",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307DX8NhF5XjESvej0zotMGDi2DVr07h599dhXBVcuuEtYaQUrZilAT_AbDib0wV2AplddT4LLYv5tGl7IFOY8t0MXGxUF.jpg",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307xNbf1E7wcpFSjo-Uck5ZFUUW7p_11p5trolhz6fPlb8YdoRKb8r4E3gW-Wb3lsWlZS53zJIs8BFJk0rmpaYbLgMvLnQ.jpg"
+      ],
+      "release_date": "25/5/2021",
+      "publisher": "Deep Silver",
+      "platforms": "PS4, PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.34,
+      "store_url": "https://store.playstation.com/en-tr/concept/234481",
+      "tilda_uid": "868374582482",
+      "sku": "",
+      "external_id": "zGa2Y3HJuPnXb1z96S9b",
+      "url": "http://arenapsgm.ru/tproduct/868374582482-saints-row-the-third-remastered-ps4-ps5",
+      "expires_at": "2026-11-26T02:00:00Z",
+      "published_at": "2026-11-25T02:02:55Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 100,
+          "21": 100,
+          "28": 100
+        },
+        "p3": {
+          "7": 200,
+          "14": 200,
+          "21": 200,
+          "28": 200
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 100,
+        "21": 100,
+        "28": 100
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "В «Святых» из банды на трезубец превратился в бренд, но слава приглянулась не только им. Синдикат решил: теперь надо платить дань. Отказав злодеем и отправив врагов разбиваться об стену, вы берете управление Стиллуотером под свой контроль.\n\nЭто династия Сан-Андреса в самом диком сеттинге GTA - тут нет места законам и чинку. Поезжайте на танке с…"
+    }
+  ],
+  "history": [
     {
       "slug": "mafia-definitive-edition-ps4-ps5",
       "title": "Mafia: Definitive Edition PS4/PS5",
@@ -50,34 +102,31 @@
       "sku": "",
       "external_id": "o6EdgKGiej6MgTfjfjJe",
       "url": "http://arenapsgm.ru/tproduct/555935613252-mafia-definitive-edition-ps4-ps5",
-      "expires_at": "2026-11-25T02:00:00Z",
       "published_at": "2026-11-24T02:02:58Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 100,
-          "21": 100,
-          "28": 100
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 200,
-          "21": 200,
-          "28": 200
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 100,
-        "21": 100,
-        "28": 100
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "Узнайте истоки мафии в сицилийском прошлом и следуйте за Томми Анджело на фоне легендарных событий 1930-х.\n\nВ этой переделанной классике вы сможете погрузиться в жестокие интриги кланов, наслаждаясь 4K-графикой и новым сюжетом."
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "wolfenstein-alt-history-collection-ps4-ps5",
       "title": "Wolfenstein: Alt History Collection PS4/PS5",
@@ -2985,55 +3034,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Нью-Иден 1695 года: Антея погибает, превращается в призрака - теперь Ред ищет способы вернуть её.  \n\nЛюбовь, жертвы, выборы - вы решаете, за кем стоять, как бороться и нарушать правила. Мир живёт и мёртвый - всё зависит от вас."
-    },
-    {
-      "slug": "virtua-fighter-5-ultimate-showdown-ps4-ps5",
-      "title": "Virtua Fighter 5: Ultimate Showdown PS4/PS5",
-      "description": "🔥 Новинка от легендарной серии Virtua Fighter - Virtua Fighter 5: Ultimate Showdown!  \n\nГотовы к битве? Теперь с гиперреалистичной графикой, свежими механиками и всеми темами, которые делали оригинал незабываемым. Бросайте вызов лучшим бойцам в аркадном или рейтинговом режиме - и даже с друзьями до 16 человек!  \n\nСоздавайте свои турниры, участвуйте в лигах, наблюдайте за боем как эксперт - и отточите мастерство в рамках пятого мирового турнира.  \n\nВсё это - без потерь, с бешеным драйвом и настоящим духом файтинга.",
-      "image_url": "https://static.tildacdn.com/stor3732-6138-4331-b366-316137316232/53195496.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/ZzLRQtL4BLR9B9odvYoSZ2Cv.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/iimvJR5FaYW6ksYAuaqRQHHJ.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/3kFKSuslqy3XraDyGUe64bXM.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/fhwSvindCBsTWkQp6ImImAs9.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/8Pzn6FnkZR6CEKbBxpmz78a3.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1023/ph1LDWtGjsGloJWIt9sXat7V.jpg"
-      ],
-      "release_date": "1/6/2021",
-      "publisher": "SEGA EUROPE LTD",
-      "platforms": "PS4",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "rating": 3.97,
-      "store_url": "https://store.playstation.com/en-tr/concept/10000743",
-      "tilda_uid": "655591817152",
-      "sku": "",
-      "external_id": "xkOfsU3TuSpboBZ6P9Ju",
-      "url": "http://arenapsgm.ru/tproduct/655591817152-virtua-fighter-5-ultimate-showdown-ps4ps",
-      "published_at": "2026-09-28T02:01:04Z",
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "prices_p2": {
-        "7": 250,
-        "14": 400,
-        "21": 700,
-        "28": 800
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Virtua Fighter 5: Ultimate Showdown - новая эпоха файтинга с гиперреалистичной графикой и мощными механиками.  \nБои до 16 игроков, турниры, лиги - всё в одном движке, без потерь и с настоящим драйвом."
     }
   ]
 }
