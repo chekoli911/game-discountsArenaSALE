@@ -1,7 +1,7 @@
 {
   "key": "vr",
   "title": "VR",
-  "updated_at": "2026-11-25T01:46:45Z",
+  "updated_at": "2026-11-26T01:42:53Z",
   "games": [
     {
       "slug": "mutant-boxing-league-vr-ps5",
@@ -311,70 +311,6 @@
       ]
     },
     {
-      "slug": "five-nights-at-freddy-help-wanted-vr-ps4-ps5",
-      "title": "Five nights AT Freddy Help Wanted VR PS4/PS5",
-      "mark": "",
-      "price_from": 250,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/7d95ddedbe9879608de4724ff5ddf1daccf01a23a8b9bf59.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/7d95ddedbe9879608de4724ff5ddf1daccf01a23a8b9bf59.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/56f285ac33ede65b729bda838fe27a79666e04a6c75332ce.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/b8479841109c01f63a4018491b4461490a194a411642b1ba.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/970087c266b71ea56a4f0e85a44ae3d911fb91e904dd1658.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/1e72e329b4a76b89104c8aa1ba881f8dcaf30ae93951cef9.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/89ac3f560567617b5ab038631940e31d35ad704e66a5c956.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/734d9382252bda48689616e362ab4f8cc5dafecdc7bd5eab.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/53a05f0ea8a1171ba045f631a311356d7005c31fe7def05b.jpg"
-      ],
-      "description": "Five Nights at Freddy's: Help Wanted 2 - сиквел легендарного ужастика для PS4 и PS5. Принимайте участие в работе пиццерии, помогайте аниматроникам, заботьтесь о персонале и пробуйте мини-игры в «Сестринской локации». Погрузитесь в мир «Фазкадов» и отправляйтесь на Дикий Запад в роле ковбоя.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Хоррор",
-        "Приключения",
-        "Боевики",
-        "VR"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 250,
-          "14": 400,
-          "21": 700,
-          "28": 800
-        },
-        "p3": {
-          "7": 350,
-          "14": 500,
-          "21": 800,
-          "28": 900
-        }
-      },
-      "tilda_uid": "313347256812",
-      "sku": "",
-      "external_id": "J66dOHNgoci72x1ughzB",
-      "url": "http://arenapsgm.ru/tproduct/313347256812-five-nights-at-freddy-help-wanted-vr-ps4-ps5",
-      "seo_title": "Five nights AT Freddy Help Wanted VR PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Five nights AT Freddy Help Wanted VR PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Five nights AT Freddy Help Wanted VR PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 4.31,
-      "release_date": "14/12/2023",
-      "publisher": "STEEL WOOL GAMES, LLC",
-      "voice": "Английский",
-      "text_translation": "Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10009325",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/7d95ddedbe9879608de4724ff5ddf1daccf01a23a8b9bf59.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
       "slug": "gran-turismo-7-ps4-ps5",
       "title": "Gran Turismo 7 PS4/PS5",
       "mark": "",
@@ -620,6 +556,69 @@
       "text_translation": "Русский, Английский",
       "store_url": "https://store.playstation.com/en-tr/concept/235235",
       "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "skull-and-bones-ps5",
+      "title": "SKULL AND BONES PS5",
+      "mark": "",
+      "price_from": 349,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2720/c6ca32575a52c42b36b365c24cf59fa1ee0bca47ba4781ef.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/2720/c6ca32575a52c42b36b365c24cf59fa1ee0bca47ba4781ef.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/4219e8703682e26a0e4ce99c24cc61524b95074872ecf8fa.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/dc61d21a35e3d62d001c923547d87c1aa672a2ccf436b0ae.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/8dc4cc2b07306d92d284b08f1b0880690e8ce6f439264b5a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/74b381b7d97111898055e3269af9c62c33d93ab8899a5606.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/9ff16f5c6dc443e0db7af792771ebc8ac31eab9c2ddc263b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/f252b40eba3cd7432f15d3a11077b1d156a7b43907133342.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/a1784ca3b9e8bd143294e55393ab56096e516fd7ea26769c.jpg"
+      ],
+      "description": "SKULL AND BONES - стратегическая морская игра для PS5, где вы командуете кораблями разных классов в динамичных битвах. Участвуйте в сражениях с пиратами и мифическими чудовищами на детальном открытом мире. Играть можно совместно до 20 человек, а мир постоянно развивается благодаря обновлениям. Требуется интернет-подключение и подписка PlayStation®Plus.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Только PS5",
+        "Приключения",
+        "VR"
+      ],
+      "platforms": "PS5",
+      "platform_ps4": false,
+      "platform_ps5": true,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 349,
+          "14": 549,
+          "21": 645,
+          "28": 745
+        },
+        "p3": {
+          "7": 449,
+          "14": 649,
+          "21": 745,
+          "28": 845
+        }
+      },
+      "tilda_uid": "472770564572",
+      "sku": "",
+      "external_id": "CG5o0V42Pz9HzmSyMCNR",
+      "url": "http://arenapsgm.ru/tproduct/472770564572-skull-and-bones-ps5",
+      "seo_title": "SKULL AND BONES PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда SKULL AND BONES PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры SKULL AND BONES PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 2.85,
+      "release_date": "16/2/2024",
+      "publisher": "Ubisoft",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/225700",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/0c7ac434f7527fe28e0d4201db879d14438b8d409e456b86.png",
       "rent_days": [
         7,
         14,
