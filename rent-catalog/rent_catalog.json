@@ -1,171 +1,9 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-26T16:26:38Z",
-  "generated_at": "2026-11-26T16:32:50Z",
-  "count": 11539,
+  "catalog_id": "2026-11-26T17:26:10Z",
+  "generated_at": "2026-11-26T17:28:54Z",
+  "count": 11541,
   "items": [
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-26T16:28:47Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Grand Theft Auto VI Ultimate Edition — расширенное издание с доп. контентом. Аренда на выбранный срок, П2 или П3.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-26T16:28:47Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
     {
       "id": "final-fantasy-vii-revelation",
       "slug": "final-fantasy-vii-revelation",
@@ -3228,6 +3066,72 @@
       "catalog_added_at": "2026-11-26T11:29:55Z"
     },
     {
+      "id": "station-to-station",
+      "slug": "station-to-station",
+      "sku": "rent-station-to-station",
+      "title": "Station to Station PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Стратегия, Симулятор, Головоломка",
+      "categories": [],
+      "publisher": "Engine Software B.V.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "26.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0210/58baf17dba6899fde891449db3aa70ad41ed37c3c3aaf05c.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0211/488143d776829f449c1100b3cb45a49524b8d673713cb40a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0211/197c625fb0e37fb617f309f6acaba4afb2a3c18b21877807.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0211/d36ebeb76f5ae23840c1e6d73251d210fe7e941a43900870.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0211/e429d62419ddfc4a74683282c18e9ea676d20c598df6ab31.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0211/6eb29c9a74d16fee3f817ae03046de4549d653659a690840.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020137",
+      "description": "Космическая опера, где каждый шаг на новой планете - это миссия. Вы - капитан, а вас ждет бесконечное путешествие в открытый космос.\n\nВам предстоит исследовать уникальные миры, разгадывать древние тайны и решать сложные логистические задачи, чтобы выжить среди звезд. Управление кораблем здесь на высшем уровне: нужно балансировать, маневрировать и выживать.\n\nВнимание! Игра ждет только вас.",
+      "seo_title": "Station to Station PS5 аренда игры",
+      "seo_descr": "Аренда Station to Station PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T17:28:42Z"
+    },
+    {
       "id": "security-51",
       "slug": "security-51",
       "sku": "rent-security-51",
@@ -3295,6 +3199,73 @@
       "seo_descr": "Аренда Security 51 PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-26T05:28:50Z"
+    },
+    {
+      "id": "santa-s-shop-tidy-up",
+      "slug": "santa-s-shop-tidy-up",
+      "sku": "rent-santa-s-shop-tidy-up",
+      "title": "Santa's Shop Tidy Up PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Казуальная",
+      "categories": [],
+      "publisher": "Indie Games Starter Sp. z o.o.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 4.33,
+      "release_date": "26.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/2217/de3c1f2313f95e5abd09a60ba799eeef1799df69676e659c.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/2217/e74c96733f016d72cfa06d2ee26a9514adfc26896bc81317.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/2217/81960e14a8673bb94269a38517a49175ece9c7e46bd30dcf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/2217/e8db03e4d8b24da9bd449dd54b1243b2778dcb8f54435de8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/2217/a7f444f53b88a7354a1488aa123e1657919c494ed046dd3c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/2217/ca870b6f6ceee065ce4e5b2629cb64ff572b4aa986d2d882.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/2217/0fec15a2624b13404c32770c038c905d6c272e9ca777c3dd.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021523",
+      "description": "В этот рождественский сезон не нужно стоять в очередях за покупками, чтобы помочь Дед Морозу! Santa's Shop Tidy Up - это веселая головоломка про уборку волшебной лавки.\n\nГордо-гордо наряди елки и собери подарки к Новому году, пока Дед Мороз не опоздал. Твоя задача - быстро починить игрушки, собрать снеговиков и привести в порядок всю лавочку с помощью умных головоломок.\n\nОтличная игра для всей семьи, чтобы вместе поработать над новогодним настроением.",
+      "seo_title": "Santa's Shop Tidy Up PS5 аренда игры",
+      "seo_descr": "Аренда Santa's Shop Tidy Up PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T17:28:42Z"
     },
     {
       "id": "pinball-fx-vr",
@@ -3430,6 +3401,144 @@
       "seo_descr": "Аренда Origament - A Paper Adventure PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-26T05:28:50Z"
+    },
+    {
+      "id": "machine-party",
+      "slug": "machine-party",
+      "sku": "rent-machine-party",
+      "title": "Machine Party PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Party, Хоррор",
+      "categories": [],
+      "publisher": "Oro Interactive BV",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 4.75,
+      "release_date": "26.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0409/b9cc095796fa54dfe34722d034d2e468189e427cba13caf4.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0409/5be2bc89130e5b5ff9d5c7e39ea1a08b8ec5e548d5aa387f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0409/ffc35ea065f8fdc931325f2ac2e1f1de60d9e45153fdbd78.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0409/6a12f8f75aaf2cfe996121590820c0bf945cd742aab6a476.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0409/d82f70e7790b5176819affb22ec2c876163439898359c827.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0409/29120fec26f1dab52b14d74e2faf2c583b776a0c180e8462.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0409/399298f4a695252352f19deb1251ac5f10b705414940d506.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0409/bbaba13e514215a71b751edd98bbc55ff80f5e6aa8cec86c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/0409/bc549adcce1c2e41107c8ee98ffaff2597923ab76e170857.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020086",
+      "description": "Машина «Party» - это легендарная игра про безумие и абсурд. В ней нет правил, потому что правила всегда нарушают кто-нибудь первый. Вы управляете неуправляемой машиной по переполненным парковкам города, где каждый прохожий с высокой долей вероятности окажется в вашем капоте.\n\nПутешествия здесь - это квесты без цели и сюжета. Ваша задача проста: выжить в этом хаосе как можно дольше, собирая деньги на новые детали, чтобы машина стала ещё быстрее, а скорость - ещё выше.\n\nЭто чистая уличная гонки с юмором и полным отсутствием логики. Сделайте выбор: будете ли вы спасать этот город от безумия или станете его частью?",
+      "seo_title": "Machine Party PS5 аренда игры",
+      "seo_descr": "Аренда Machine Party PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T17:28:42Z"
+    },
+    {
+      "id": "bogos-binted",
+      "slug": "bogos-binted",
+      "sku": "rent-bogos-binted",
+      "title": "Bogos Binted? PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Party",
+      "categories": [],
+      "publisher": "Gamedev Oyun Yazilim ve Danismanlik Anonim Sirketi",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "26.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0911/eef04bd11feddcfdd531908bf7d57ce2e9864924bc6939cb.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0911/a387f4ae7a044e57758042939a4471e8a391335ffa23410d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0911/f3dbfd6808d726eb8ea20370b45ae00de65247cfd0d51bf7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0911/0dc8ce57c389f37d09734b3212eb0588f0f9115a45e0aada.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0911/29b28e144ea2e7a51a4ffb6d0b9cfe02fb3f643a5a6df981.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0911/cee410a71f06270226c9cd3f873897024e7b0e348943e101.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0911/f2c655828e74d264b777d72d5b3baba2dd3a3457d5aa363c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0911/64e896144faeddc4583f451b65da36540835963d90faa77d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0911/1e7214b9a74da81ccc1070a35da32123ebec8275eac0fd42.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020561",
+      "description": "Самая хипстерская игра для PlayStation 5, которая точно заставит всех пошутить.\n\nВ этом шедевре от Swedish Fish вы - самый известный босс в мире, пытающийся собрать легендарную команду из своих бывших и не только. Задача? Устроить крутой вечеринку, но с поворотом к чёрному юмору.\n\nГлавное здесь - это безумный визуал на PS5, дерзкий сюжет про «свадьбу» и то чувство ностальгии, которое невозможно выключить из головы.",
+      "seo_title": "Bogos Binted? PS5 аренда игры",
+      "seo_descr": "Аренда Bogos Binted? PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T17:28:42Z"
     },
     {
       "id": "alekhine-s-gun",
