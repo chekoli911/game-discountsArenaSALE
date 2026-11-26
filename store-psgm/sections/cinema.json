@@ -1,7 +1,7 @@
 {
   "key": "cinema",
   "title": "Интерактивное кино",
-  "updated_at": "2026-11-25T01:46:45Z",
+  "updated_at": "2026-11-26T01:42:53Z",
   "games": [
     {
       "slug": "a-i-l-a-aila-ps5",
@@ -64,75 +64,6 @@
       "store_url": "",
       "edition_banner": "",
       "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
-      "slug": "directive-8020-ps5",
-      "title": "Directive 8020 PS5",
-      "mark": "NEW",
-      "price_from": 472,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0522/cd5597316c7f1369ae9ebefba8ba4ebcbd969cce48539dfd.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202408/0522/cd5597316c7f1369ae9ebefba8ba4ebcbd969cce48539dfd.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1014/e9a87e45327d556aadc6d95ba30f8f778d469a67046e062e.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202508/1912/276caf3be792488e9d57563feedddec11695994db60b5519.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1618/829275b39862d5fab6e5f084f6deccc60009bb62be574b2e.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1014/e0186e3eb1446bb5a4666cbb7bb4e7dc4f8b549928e13aef.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1618/b342c55b4d6dada7c28d1d29f04cfdf91d5b1467a1f3010e.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202602/1014/c64ed2cfa8aad66a9ca2c4fa5f885c00a732740a40e9f1b3.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/1618/777b385746f1c1055578803a32ef17530ff3e2e740c1bf19.jpg"
-      ],
-      "description": "Directive 8020 - новое научно-фантастическое приключение в жанре хоррор от создателей UNTIL DAWN и THE QUARRY. На борту корабля «Кассиопея» вас ожидает инопланетное существо, способное принимать облик человека. Вы должны перехитрить его, чтобы спастись и защитить других. Голливудская актриса Лашана Линч играет роль астронавта Янг.",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Интерактивное кино",
-        "Только PS5",
-        "Игры на двоих",
-        "Приключения",
-        "Хоррор",
-        "Новинки"
-      ],
-      "platforms": "PS5",
-      "platform_ps4": false,
-      "platform_ps5": true,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "1": 472,
-          "7": 739,
-          "14": 1292,
-          "21": 1444,
-          "28": 1678
-        },
-        "p3": {
-          "1": 673,
-          "7": 1092,
-          "14": 1492,
-          "21": 1728,
-          "28": 1933
-        }
-      },
-      "tilda_uid": "920780984142",
-      "sku": "",
-      "external_id": "RYnthyePAfF9AUvcfDuR",
-      "url": "http://arenapsgm.ru/tproduct/920780984142-directive-8020-ps5",
-      "seo_title": "Directive 8020 на PS5 аренда игры",
-      "seo_descr": "Аренда Directive 8020 на PS5. Научно-фантастический хоррор с выбором и последствиями, напряжённая атмосфера и сюжет. Играй без покупки, быстрый доступ к игре на PlayStation 5.",
-      "rating": 4.02,
-      "release_date": "12/5/2026",
-      "publisher": "Supermassive Games Ltd",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/10008357",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0522/cd5597316c7f1369ae9ebefba8ba4ebcbd969cce48539dfd.png",
-      "rent_days": [
-        1,
         7,
         14,
         21,
@@ -349,6 +280,68 @@
       ]
     },
     {
+      "slug": "as-dusk-falls-ps4-ps5",
+      "title": "As Dusk Falls PS4/PS5",
+      "mark": "",
+      "price_from": 390,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1110/770bc4374605a43bf550afee091b6a05e416c239a7d73db3.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202401/1110/770bc4374605a43bf550afee091b6a05e416c239a7d73db3.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0212/95e404e910b5da49efb3303d8606c72ec33b4c3eaf7530ee.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0212/b076ebf79e15a53925ebc45b332f785c61cb4d5ccc202ced.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0212/db68fe1b5e0396a69cc826334b01697d5d021b11a4f5a774.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0212/3fd97a12ccc24adf7df11143d4ecd76446369ed604aea047.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0212/d9692b845eac1f25180e32fec4c13ffa4641f01347ca9f1c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0212/4fb3cda00fa879da0692115bf519195781ec31679f6926f4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0212/434466b5f759610dd84f2e2f6fd6125239007847fa77c5e2.jpg"
+      ],
+      "description": "As Dusk Falls - многопользовательское интерактивное кино от INTERIOR/NIGHT. История двух семей, переплетающихся в криминальной драме с множеством ответвлений. Ваши решения формируют судьбу героев. Играть можно как в одиночку, так и в локальном и сетевом режимах до 8 игроков на PS4 и PS5.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Игры на двоих",
+        "Интерактивное кино"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 390,
+          "14": 590,
+          "21": 790,
+          "28": 890
+        },
+        "p3": {
+          "7": 490,
+          "14": 690,
+          "21": 890,
+          "28": 990
+        }
+      },
+      "tilda_uid": "180162910642",
+      "sku": "",
+      "external_id": "fBNEDtYM4lGR46FrvRyv",
+      "url": "http://arenapsgm.ru/tproduct/180162910642-as-dusk-falls-ps4-ps5",
+      "seo_title": "As Dusk Falls PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда As Dusk Falls PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры As Dusk Falls PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.34,
+      "release_date": "7/3/2024",
+      "publisher": "INTERIOR NIGHT LIMITED",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/10008922",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1110/770bc4374605a43bf550afee091b6a05e416c239a7d73db3.png",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
       "slug": "detroit-stat-chelovekom-ps4-ps5",
       "title": "Detroit: Стать человеком PS4/PS5",
       "mark": "",
@@ -402,6 +395,64 @@
       "text_translation": "",
       "store_url": "",
       "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "erica-ps4-ps5",
+      "title": "Erica PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11882_00/5/i_435a3bb225d3460637415b33f4a4a2a5f5b648982557e20c8e69d7e650d2bf57/i/icon0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11882_00/5/i_435a3bb225d3460637415b33f4a4a2a5f5b648982557e20c8e69d7e650d2bf57/i/icon0.png",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307HEB46vnfVMles0Fpy_jbutp-fQxWIlAEk3qmGIEQ_mUHgfrvr-TzmXfFikPTGFqfVHLndh0uLUhIrwZExzY4gs_DEw-.png",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307eTeKW65SbUoP1NcULi-yOBtHMSfDN_ZG28IlBAfNyV88MXt0wtq4V72B7jm_CGD0nqXmaIUaE6HALhZT5mkb70lsyb4.png",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307I6MGMtgUS1HLt-T3mdHlfOWFncQzgrs2RUOlggImbnwZ8deU3lXTFPs_eJ659Btxjx-ha6iAE4dfEb1NutJi4IITHiC.png",
+        "https://image.api.playstation.com/vulcan/img/cfn/113074V_TeqlmPdpEtbK5fgettpBiPcmlZ-jzpcfcc2KtKyIP0-7LgiGnIobX7LOv7BNYDXjuw7aaXfxi5mlzuuoL4oX_9aY.png"
+      ],
+      "description": "Erica - интерактивный кинотриллер, в котором вы погружаетесь в тайну смерти отца главной герои. Изучайте прошлое Эрики и принимайте решения, которые меняют ход событий и приводят к разным концовкам. Игра доступна на PS4 и PS5.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Интерактивное кино"
+      ],
+      "platforms": "PS4",
+      "platform_ps4": true,
+      "platform_ps5": false,
+      "platforms_choice": false,
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "510275139952",
+      "sku": "",
+      "external_id": "PsAcnPjOcp18GZDmPtuZ",
+      "url": "http://arenapsgm.ru/tproduct/510275139952-erica-ps4-ps5",
+      "seo_title": "Erica PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Erica PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Erica PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.05,
+      "release_date": "19/8/2019",
+      "publisher": "Sony Interactive Entertainment",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/234806",
+      "edition_banner": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11882_00/5/i_435a3bb225d3460637415b33f4a4a2a5f5b648982557e20c8e69d7e650d2bf57/i/icon0.png",
       "rent_days": [
         7,
         14,
@@ -645,6 +696,68 @@
       "text_translation": "",
       "store_url": "",
       "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "late-shift-ps4-ps5",
+      "title": "Late Shift PS4/PS5",
+      "mark": "",
+      "price_from": 250,
+      "price_old": null,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0111/2e7def48cfbbddea87e772e158e276990d8edaded94abb1c.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202306/0111/2e7def48cfbbddea87e772e158e276990d8edaded94abb1c.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202305/1813/6b73876be28b208bbf9854fbc979cf9e924374916ebbc9b3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202305/1813/30b673fdeb30a930db0b60a75aa969f3bd1940ad39dc2efb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202305/1813/308989aa09b6ed326de1790a2bf60291d70f4249dcf42ca5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202305/1813/77c63a7bca3954df8fddcfdd946597af282f0e4f21ae022e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202305/1813/da75ab0e4bcdabd54442c07e31c90c523c2f003e1ac7be57.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202305/1813/1788210aa76606defa4fe2f6af3ba6b7dec143a0e5e1aad5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202305/1813/283c253b86f42afe9e073cf02340ff3d1fc1907d1da724be.jpg"
+      ],
+      "description": "Late Shift - криминальный FMV-триллер, где каждый выбор влияет на судьбу Мэтта, насильно втянутого в ограбление лондонского аукционного дома. Снято в Лондоне с живыми актёрами и несколькими концовками по стилю «выбери-себя-приключение». Повествование развивается без пауз, подталкивая к решению, которое может кардинально изменить исход.",
+      "categories": [
+        "Лента на главной",
+        "Все игры",
+        "Интерактивное кино",
+        "Приключения"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
+        },
+        "p3": {
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
+        }
+      },
+      "tilda_uid": "967511453602",
+      "sku": "",
+      "external_id": "YktAVFY5M99LpOLfIaus",
+      "url": "http://arenapsgm.ru/tproduct/967511453602-late-shift-ps4-ps5",
+      "seo_title": "Late Shift PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Late Shift PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Late Shift PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": 4.41,
+      "release_date": "29/5/2023",
+      "publisher": "Wales Interactive Limited",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "store_url": "https://store.playstation.com/en-tr/concept/227163",
+      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1715/erjJTa6cdYMcGmEs0FAa8wWV.png",
       "rent_days": [
         7,
         14,
@@ -1244,67 +1357,6 @@
       ]
     },
     {
-      "slug": "twin-mirror-ps4-ps5",
-      "title": "Twin Mirror PS4/PS5",
-      "mark": "",
-      "price_from": 350,
-      "price_old": null,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1202/z5tGmstkqZ5YZ8U4DvKNcpbZ.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1202/z5tGmstkqZ5YZ8U4DvKNcpbZ.png",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1101/9I0N2By2xr2vM5QsriG3tPAU.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1101/IRplrnRNqvZEy5iVEpfLAi9O.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1101/TkaGmGNFpikPuF67v5NlWIIV.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1101/R7Kv4bGaNDloDC4Q37eyBKf3.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1101/RAL1u0uZWgx2u5os90UrwC1f.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1101/5iIB1DmGve1gKZEzEhKy0RC2.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202010/1101/040MBK13UYvXU10Owj5V7L5R.jpg"
-      ],
-      "description": "Сэм Хиггс возвращается в родной город Басвуд, чтобы попрощаться с другом, но вскоре понимает, что его прошлое и настоящий выбор переплетены. В ходе расследования он сталкивается с тайными интригами и неуверенностью в себе. Его дедуктивное мышление и воображение помогут раскрыть скрытую истину, но каждое решение изменит путь его судьбы.",
-      "categories": [
-        "Лента на главной",
-        "Все игры",
-        "Интерактивное кино"
-      ],
-      "platforms": "PS4",
-      "platform_ps4": true,
-      "platform_ps5": false,
-      "platforms_choice": false,
-      "prices": {
-        "p2": {
-          "7": 350,
-          "14": 550,
-          "21": 900,
-          "28": 990
-        },
-        "p3": {
-          "7": 450,
-          "14": 650,
-          "21": 1000,
-          "28": 1090
-        }
-      },
-      "tilda_uid": "438672480562",
-      "sku": "",
-      "external_id": "fRkOJ3sVn7xAFRfeL9tc",
-      "url": "http://arenapsgm.ru/tproduct/438672480562-twin-mirror-ps4-ps5",
-      "seo_title": "Twin Mirror PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
-      "seo_descr": "Аренда Twin Mirror PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Twin Mirror PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
-      "rating": 3.97,
-      "release_date": "1/12/2020",
-      "publisher": "DON'T NOD ENTERTAINMENT SARL",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "store_url": "https://store.playstation.com/en-tr/concept/232892",
-      "edition_banner": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1202/z5tGmstkqZ5YZ8U4DvKNcpbZ.png",
-      "rent_days": [
-        7,
-        14,
-        21,
-        28
-      ]
-    },
-    {
       "slug": "will-follow-the-light-ps5",
       "title": "WILL: Follow The Light PS5",
       "mark": "",
@@ -1512,6 +1564,56 @@
       "url": "http://arenapsgm.ru/gamescatalog/tproduct/412030600952-450-ps4-ps5",
       "seo_title": "Безумцы от 450р PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
       "seo_descr": "Аренда Безумцы от 450р PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Безумцы от 450р PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
+      "rating": null,
+      "release_date": "",
+      "publisher": "",
+      "voice": "",
+      "text_translation": "",
+      "store_url": "",
+      "edition_banner": "",
+      "rent_days": [
+        7,
+        14,
+        21,
+        28
+      ]
+    },
+    {
+      "slug": "znaniya-sila-ot-450r-ps4-ps5",
+      "title": "Знания Сила от 450р PS4/PS5",
+      "mark": "",
+      "price_from": 450,
+      "price_old": null,
+      "image_url": "https://static.tildacdn.com/stor3738-6662-4461-a333-616335633834/72912111.jpg",
+      "screenshots": [
+        "https://static.tildacdn.com/stor3738-6662-4461-a333-616335633834/72912111.jpg",
+        "https://static.tildacdn.com/stor6363-3037-4634-a630-356639333635/36729533.jpg",
+        "https://static.tildacdn.com/stor3535-3261-4438-a635-626362633563/26748643.jpg",
+        "https://static.tildacdn.com/stor3331-6133-4432-b039-343964306437/10691524.jpg",
+        "https://static.tildacdn.com/stor3636-6431-4138-a565-316562646266/21027325.jpg",
+        "https://static.tildacdn.com/stor3234-3538-4636-b562-366264643733/50573096.jpg"
+      ],
+      "description": "Внимaниe: за дocрoчную cдaчу аккаунтa CКИДКА oкoло 30% на слeдующую игру. Скидка дейcтвуeт в течeнии нeдели!\nИгpа выдаётся в oдни pуки, на одну конкретную пoзицию.\nДoвoльныe клиeнты ✅\nОпeративнocть в выдaче ✅\nС нaми мoжно договориться✅\nБолее 1611 + положительных отзывов ✅\nДля аренды игры#nbsp;писать сюда 📩 @ArenaPSGMadmin\nВступить в приватную группу Аренда игр Playstation - ССЫЛКА\nЧАТ канала Аренда игр Playstation - ССЫЛКА\nОтзывы о нашей работе ЧИТАТЬ",
+      "categories": [
+        "Все игры",
+        "Лента на главной",
+        "Интерактивное кино",
+        "Игры на двоих"
+      ],
+      "platforms": "PS4, PS5",
+      "platform_ps4": true,
+      "platform_ps5": true,
+      "platforms_choice": true,
+      "prices": {
+        "p2": {},
+        "p3": {}
+      },
+      "tilda_uid": "607690149972",
+      "sku": "",
+      "external_id": "8OuyLzYTBrAIUyr1MVgk",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/607690149972-450-ps4-ps5",
+      "seo_title": "Знания Сила от 450р PS4/PS5 PS4 PS5 — аренда игры на PlayStation",
+      "seo_descr": "Аренда Знания Сила от 450р PS4/PS5 на PS4 и PS5. Играй без покупки полной версии — выгодная аренда игры Знания Сила от 450р PS4/PS5 для PlayStation. Быстрый доступ, без переплат.",
       "rating": null,
       "release_date": "",
       "publisher": "",
