@@ -1,171 +1,9 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-26T21:39:52Z",
-  "generated_at": "2026-11-26T21:42:29Z",
-  "count": 11543,
+  "catalog_id": "2026-11-26T22:44:25Z",
+  "generated_at": "2026-11-26T22:51:28Z",
+  "count": 11546,
   "items": [
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-26T21:41:46Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Grand Theft Auto VI Ultimate Edition — расширенное издание с доп. контентом. Аренда на выбранный срок, П2 или П3.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-26T21:41:46Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
     {
       "id": "final-fantasy-vii-revelation",
       "slug": "final-fantasy-vii-revelation",
@@ -3160,6 +2998,74 @@
       "catalog_added_at": "2026-11-21T12:13:58Z"
     },
     {
+      "id": "toziuha-night-order-of-the-alchemists",
+      "slug": "toziuha-night-order-of-the-alchemists",
+      "sku": "rent-toziuha-night-order-of-the-alchemists",
+      "title": "Toziuha Night: Order of the Alchemists PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Экшен, Приключение",
+      "categories": [],
+      "publisher": "Dolores Entertainment S.L.",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "26.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0513/667e3df73eaffbfe4ead0c77ce5f406a07b1f59fa99edffb.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0513/132b9d6d72cff4db7132299e63a20601d306cca0c343ad18.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0513/f00df5ab2e937ad5b2a3aa0991c0e199131242776a64eb0a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0513/472a90629ac1bffd39ffbb5f7a285bf177ba24cbad42def3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0513/4b11d020ba65d1fdc91031872ab06e7e5277f89b881c973b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0513/6005eabace06316c7f6806286b98a98b581e6414438410a6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0513/1954f90077fb7f6d5a7bb7a7558aa82b570e87a502198217.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0513/f8cc26abea788c02cd29789334428d1012fb291b69377482.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020139",
+      "description": "Темная магия уже не ждет. В «Nocturna Night» вы снова окажетесь в мире, где мистика и фэнтези переплелись с современностью, создав атмосферу настоящего ужаса. Сюжет завораживает, а атмосфера давит на плечи так сильно, что хочется сразу же заглянуть внутрь тьмы.\n\nВам предстоит найти ключи к древним знаниям, чтобы разгадать тайну исчезновения целого города. Но будьте осторожны: в этом мире каждый шаг может обернуться ловушкой, а союзники могут стать предателями. Искать подсказки придется не только по книгам - они прячутся повсюду.\n\nЭто та игра, которая держит в напряжении с первой минуты до самого конца.",
+      "seo_title": "Toziuha Night: Order of the Alchemists PS5 аренда игры",
+      "seo_descr": "Аренда Toziuha Night: Order of the Alchemists PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T22:44:03Z"
+    },
+    {
       "id": "the-spectrum-retreat-redux",
       "slug": "the-spectrum-retreat-redux",
       "sku": "rent-the-spectrum-retreat-redux",
@@ -3226,6 +3132,75 @@
       "seo_descr": "Аренда The Spectrum Retreat: Redux PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-26T11:29:55Z"
+    },
+    {
+      "id": "teppo-and-the-secret-ancient-city",
+      "slug": "teppo-and-the-secret-ancient-city",
+      "sku": "rent-teppo-and-the-secret-ancient-city",
+      "title": "Teppo and The Secret Ancient City PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Приключение, Экшен",
+      "categories": [],
+      "publisher": "7 RAVEN STUDIOS CO. LTD.",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 3.75,
+      "release_date": "26.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2018/79e3d71281654ce23aba2c455e2aa537bc7a1a30385429ac.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/2018/fd2e81a0b21f9df209acd6e4cfbc4386002ab9c4af76d19f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/2018/e77cb969bcbcead4b72e626ba126946dd959b3db314334ef.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/2018/81bb949e86a800124e1ff3241eee099671dadc3206362ca9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/2018/fe71d2dc73ebdcbe108c25be293dcaecded8b152d09698e3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/2018/7b8d620df15161d037cd336c6d570b7e62e8b4129b719e89.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/2018/5ed7d9a531f21e3ab97afa9bcdf0d02123de9cb0f3e9ae82.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/2018/d31e5f18473f07535f3fa62093238e0ff030a334850b4976.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202311/2018/0a87e1ee1061f6eb0e63504be9efdfd67f1447bd45e0d2ea.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10009902",
+      "description": "Взгляни на эту эпичную сагу от финского инди-студии Teppo Games! Это не просто RPG с открытым миром, а полное погружение в мрачную атмосферу Древней Эгипта.\n\nГотовься к путешествию, где древние тайны скрыты под пеплом вулканов и засохших пустынных рек. Здесь ты столкнешься с загадочными артефактами, которые могут изменить ход истории, и проведешь время в напряженных подземельях, полных ловушек.\n\nВидеоигра на PlayStation 5 предлагает уникальную возможность исследовать этот таинственный мир своими глазами.",
+      "seo_title": "Teppo and The Secret Ancient City PS5 аренда игры",
+      "seo_descr": "Аренда Teppo and The Secret Ancient City PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T22:43:44Z"
     },
     {
       "id": "station-to-station",
@@ -3632,6 +3607,211 @@
       "seo_descr": "Аренда Machine Party PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-26T17:28:42Z"
+    },
+    {
+      "id": "hotel-renovator-simulator",
+      "slug": "hotel-renovator-simulator",
+      "sku": "rent-hotel-renovator-simulator",
+      "title": "Hotel Renovator Simulator PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Simulator",
+      "categories": [],
+      "publisher": "FaGames Studio",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "26.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0516/991c1fae01322abd1be9a6ac3d20938429b0b9714116ae44.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1701/ae3cac2b638b3e0750f8cd2a4927f4a99a2a3c4fa892b60b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1701/8c1d9c159dd62f1ce33c130a1d10833d22ebe3bcca2260ae.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1701/736a925f46d1d1b07bf548cf465c7115cf97e51a5159e66f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1701/f10168d587f6d2fa3bd370621993cc8b3d8ab6ccc2a2a2d5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1701/760637f374b069fadfd1ebff1ea6adc159b6b6afe359cc7a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1701/ee49cb00e1f0e1a300df3c8b18f6b9e6e9fd44fbdb8aee9b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1701/4b4a9152f7a13d6943d762abfd86e9eeacafd31db96e00f9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1701/dd100e1937d822886e747a7e1f74be6727c2d165d76a056d.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020285",
+      "description": "Представь себе роль главного сантехника и декоратора в огромном отеле. Задача проста, а ответственность - велика: нужно превратить серые и грязные залы в роскошные гостиные для миллионеров.\n\nТут всё не так просто. Тебе придется бежать по этажам, чистить окна на высоте и мочить полы тряпками, пока клиенты ждут заветного номера. Каждая ошибка может стоить тебе работы!\n\nУправление процессом ремонта - это настоящее искусство. Выбирай инструменты, расставляй мебель по новым стандартам гостиничной индустрии и превращай отель в рой наций!",
+      "seo_title": "Hotel Renovator Simulator PS5 аренда игры",
+      "seo_descr": "Аренда Hotel Renovator Simulator PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T22:43:30Z"
+    },
+    {
+      "id": "fountains",
+      "slug": "fountains",
+      "sku": "rent-fountains",
+      "title": "FOUNTAINS PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Ролевая игра, Приключение, Экшен",
+      "categories": [],
+      "publisher": "Crunching Koalas Sp. z o.o. Sp. K.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 4.75,
+      "release_date": "26.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202607/1513/2ff196fc8447085526179edb509d300fdb185949f4ad1956.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1513/e66230c9fba62740a1d4c3d236c97b230b213483ff5e30bd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1513/90b49b13a28d402e366b786d9d9f4e3be5aaea4b94719dcb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1513/15c2b283532007ab608920987a9e06b090f60ca89354ffc0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1513/46f9f88f18169e62071680576692deea92cad39923a1d61e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202607/1513/b3919ffc63e6e762292166df1a6b8bc0c88a08ca393303c0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0410/68844fdd59bb996c1f82e72e8070ab18e95a13a99449c060.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0410/d4d23853af256029700683a1f07b35253c5b091aa3a4a8c5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0410/d9887568aee9d6c27c244b87abb5e9e91782881152bf078e.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10017983",
+      "description": "Fountains - это не просто игра о том, как пить из колодца, а уникальный приключение в мире подпольных боксерских клубов. Ты будешь жить своей жизнью, где каждый день начинается с тренировок и заканчивается битвами на ринге, от которых часто нет возврата.\n\nКто-то может подумать, что это скучный симулятор, но в Fountains твоей главной целью является один из лучших боксеров мира - Крис Тейлор. Он не просто хочет победить тебя, он готов сделать все, чтобы сломать твою жизнь и выгнать из клуба.\n\nПогрузись в этот мрачный, но захватывающий мир, где каждый удар имеет значение, а выбор врагов может стать последним для тебя.",
+      "seo_title": "FOUNTAINS PS5 аренда игры",
+      "seo_descr": "Аренда FOUNTAINS PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T22:43:12Z"
+    },
+    {
+      "id": "feral-road",
+      "slug": "feral-road",
+      "sku": "rent-feral-road",
+      "title": "Feral Road PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "Brainium Games LLC",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "26.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1420/5fe123e0a6f52dcd7e732befe7f9f033f5907f52165c6131.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1420/c330e09eba32ac26e17bafbeec4570991528a3bd62783cc1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1420/a81bdb619cac88b8d133ba1efcbd0589708ca1e402594975.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1420/fac65d719a4c3458eef21031112a4b7f731bb0be0147b334.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1420/fffe77dd7d92850d3a1d5a1df0bf88621a44a0f8f7caa7c0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1420/36780412dfe8ec6ba9a7d2aafb04addfdb9f49e804028c5f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1420/b5e3e81b73e4afececc6b655e60252968fff8197f9207437.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021036",
+      "description": "Вот и есть тот самый шедевр от Feral Interactive - Feral Road для PlayStation 5. Это не просто игра, а настоящий релакс в мире, где время течет иначе.\n\nЗдесь нет гонки за рекордами или агрессивной суеты. Только тишина, красота природы и ощущение полного контроля над своей дорогой.\n\nОсобенность этой игры - её невероятная адаптивность к графику твоей консоли. Каждую деталь пейзажа можно настроить под себя, превратив этот виртуальный мир в свою личную картинку для спокойного вечера с бутылочкой вина или просто перед телевизором.",
+      "seo_title": "Feral Road PS5 аренда игры",
+      "seo_descr": "Аренда Feral Road PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T22:42:51Z"
     },
     {
       "id": "bogos-binted",
