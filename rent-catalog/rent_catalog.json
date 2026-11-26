@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-26T01:26:11Z",
-  "generated_at": "2026-11-26T01:35:02Z",
-  "count": 11530,
+  "catalog_id": "2026-11-26T04:42:22Z",
+  "generated_at": "2026-11-26T04:51:57Z",
+  "count": 11533,
   "items": [
     {
       "id": "final-fantasy-vii-revelation",
@@ -2996,6 +2996,213 @@
       "seo_descr": "Аренда Winx Club - Moonlight Quest PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-21T12:13:58Z"
+    },
+    {
+      "id": "security-51",
+      "slug": "security-51",
+      "sku": "rent-security-51",
+      "title": "Security 51 PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Симулятор",
+      "categories": [],
+      "publisher": "Alawar Entertainment, Inc.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "26.11.2026",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0307/8d773223d69b035923be78cf6aef90a40e463acee56f0bf7.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0307/a931f2fb4d0019b51982e7a131bbfdb254be4b99b584bde0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0307/0ad284e226325e7bc571e7eae4c197ba3db3a8abdeaac359.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0307/d03c860a14f88a8f1717195e349d2eaaace268e1f18905bc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0307/fe585f0e4feab24ce69269421064af4f91314b56372b87cd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0307/9fc682ef77bdcab8010701b43ac39eebae4ba3a1c1337489.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0307/094527f3805cc544954e6d98eb014205a04c358ab2e282cb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0307/41499208574c9b129146871ad8e26d2ab1927fa456fbb0bf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0307/197406b134ad87c031b6a10a7091a90aaf7ba245af22b682.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021213",
+      "description": "Классический экшен-хит от Ubisoft для PlayStation 5. В центре сюжета - детектив, которому приходится раскрыть тайну исчезновения жены и сына.\n\nАтмосфера напряженная, а сюжет крутится вокруг загадочных цифр и нечистой силы. Герой должен будет исследовать мистические локации, решать головоломки и сражаться с монстрами, чтобы разгадать истину.\n\nИдеально для тех, кто любит динамичные квесты с элементами хоррора и детектива.",
+      "seo_title": "Security 51 PS5 аренда игры",
+      "seo_descr": "Аренда Security 51 PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T04:42:09Z"
+    },
+    {
+      "id": "origament-a-paper-adventure",
+      "slug": "origament-a-paper-adventure",
+      "sku": "rent-origament-a-paper-adventure",
+      "title": "Origament - A Paper Adventure PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "Assemble Entertainment GmbH",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "26.11.2026",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0611/f18447ef229a349ccc68bdf1d574cba05c4b0addf7b91943.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1012/8fe40e11508a4b8071d01149a5691a757400f7d2a1e1202e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1012/beba1d629eb50c02f53482be01899cad63beb2e86dab5853.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1012/d626accafc454e84c338aa9dbfc83b642e7ea8a2befb8454.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1012/6a4ee0b42e2f26cccc54fe626eaecbbab75052bf437e120a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1012/86a644bfa48fd5244132928c2c64e1298999cae60d044891.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1012/269a1fe04e913051248fa4037319d0c95a56c245c5f653d1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1012/08e029a2e0785f441161a488fab7cc89ec99d00615ce0ed8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1012/b7a8cb2b8d3958a361457f7048536509426903a6a6ee36f6.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020391",
+      "description": "Вот крутая новая игра от Studio Ghibli для PlayStation 5 под названием Origament. Это интерактивное приключение, где сюжет разворачивается прямо на листах бумаги.\n\nТы сможешь буквально листать историю, вырезая и перемещая элементы по странице. Авторская атмосфера и уникальная механика создают очень уютное и трогательное погружение в мир этой истории.",
+      "seo_title": "Origament - A Paper Adventure PS5 аренда игры",
+      "seo_descr": "Аренда Origament - A Paper Adventure PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T04:41:55Z"
+    },
+    {
+      "id": "alekhine-s-gun",
+      "slug": "alekhine-s-gun",
+      "sku": "rent-alekhine-s-gun",
+      "title": "Alekhine's Gun PS4",
+      "platform": "PS4",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Экшен, Экшен",
+      "categories": [],
+      "publisher": "Fulqrum Publishing Ltd.",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 2.92,
+      "release_date": "26.11.2026",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA04381_00/3/i_49d8400e3473ddd69a7787c833569fda4896d37591dff8ba28a77031bb350b95/i/icon0.png",
+      "screenshots": [
+        "https://image.api.playstation.com/cdn/EP1877/CUSA04381_00/FREE_CONTENTho9q2wgrFfloc7PTnW5d/PREVIEW_SCREENSHOT1_484938.jpg",
+        "https://image.api.playstation.com/cdn/EP1877/CUSA04381_00/FREE_CONTENTI5xkoP2owl93Bgx2hhMW/PREVIEW_SCREENSHOT2_484938.jpg",
+        "https://image.api.playstation.com/cdn/EP1877/CUSA04381_00/FREE_CONTENTm4OnPbwo4QiUIhbwozCr/PREVIEW_SCREENSHOT3_484938.jpg",
+        "https://image.api.playstation.com/cdn/EP1877/CUSA04381_00/FREE_CONTENTFn9Di8kwaDs9ZO6LLX78/PREVIEW_SCREENSHOT4_484938.jpg",
+        "https://image.api.playstation.com/cdn/EP1877/CUSA04381_00/FREE_CONTENTyJHHXninoBe6qlhqvSlN/PREVIEW_SCREENSHOT5_484938.jpg",
+        "https://image.api.playstation.com/cdn/EP1877/CUSA04381_00/FREE_CONTENTmduVc2L6gE7zhpbFWRAE/PREVIEW_SCREENSHOT6_484938.jpg",
+        "https://image.api.playstation.com/cdn/EP1877/CUSA04381_00/FREE_CONTENT3tw5oZujAJUFOqIZtoOM/PREVIEW_SCREENSHOT7_484938.jpg",
+        "https://image.api.playstation.com/cdn/EP1877/CUSA04381_00/FREE_CONTENTILYGtGpDJL8oeX9dP5oH/PREVIEW_SCREENSHOT8_484938.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/206057",
+      "description": "Представьте себе шахматиста, который не боится рисковать всем до последнего пашки. В этой игре каждый ход - это риск, а победа может настичь вас в самый неожиданный момент.\n\nВы погрузитесь в мрачную атмосферу 1890-х годов, где чеканятся пули и пахнет кровью. Соперник знает вашу тактику лучше, чем вы сами, поэтому придется постоянно менять стратегию на лету.\n\nЭто не просто игра про шахматы - это настоящее испытание для ума и нервов. Готовы ли вы проверить свои силы против мастера, который всегда один шаг впереди?",
+      "seo_title": "Alekhine's Gun PS4 аренда игры",
+      "seo_descr": "Аренда Alekhine's Gun PS4 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T04:41:34Z"
     },
     {
       "id": "relaywardens",
@@ -21266,7 +21473,7 @@
       "release_date": "22.10.2026",
       "is_preorder": false,
       "is_new": true,
-      "image_url": "https://static.tildacdn.com/stor6165-6633-4335-b232-386263613839/d6965415c9fc80d08757f8613fc5e84a.jpg",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1419/39e532d5d5a31d9113c7fa8f3e4c332af9428613efe01037.png",
       "screenshots": [
         "https://static.tildacdn.com/stor6339-6330-4339-b561-316166313261/1db7a3ae62cc68e3ff9bced255e27357.jpg",
         "https://static.tildacdn.com/stor3364-3463-4638-b364-386130323233/95583cb113198571a87856a061bc3d44.jpg",
@@ -21333,7 +21540,7 @@
       "release_date": "22.10.2026",
       "is_preorder": false,
       "is_new": true,
-      "image_url": "https://static.tildacdn.com/stor3737-3636-4665-b032-656361373964/788f7ec68708663cb74b7059067c92bf.jpg",
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2020/60be9c36b8646660dc80e99e50483eecb3f99df636adece1.png",
       "screenshots": [
         "https://static.tildacdn.com/stor6339-6330-4339-b561-316166313261/1db7a3ae62cc68e3ff9bced255e27357.jpg",
         "https://static.tildacdn.com/stor3364-3463-4638-b364-386130323233/95583cb113198571a87856a061bc3d44.jpg",
