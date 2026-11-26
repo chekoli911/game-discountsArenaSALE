@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-26T22:48:49+03:00",
-  "updated_at_msk": "26.11.2026 22:48",
+  "updated_at": "2026-11-26T23:48:59+03:00",
+  "updated_at_msk": "26.11.2026 23:48",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 3432,
+  "total": 3433,
   "unique_games": 1103,
   "in_demand": 253,
   "one_off": 688,
@@ -10799,9 +10799,9 @@
       "title": "Gothic 3 Classic PS5",
       "item_id": "8411326200",
       "url": "https://avito.ru",
-      "count": 26,
+      "count": 27,
       "demand": "high",
-      "avg_price": 294,
+      "avg_price": 293,
       "min_price": 257,
       "max_price": 497,
       "last_price": 257,
@@ -10809,11 +10809,11 @@
         257,
         257,
         257,
+        497,
+        497,
+        497,
+        497,
         257,
-        497,
-        497,
-        497,
-        497,
         257,
         257,
         257,
@@ -11006,7 +11006,7 @@
         0,
         10,
         26,
-        26
+        27
       ],
       "hourly": [
         0,
@@ -11187,7 +11187,7 @@
         0,
         10,
         16,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -11371,7 +11371,7 @@
         257
       ],
       "first_at": "2026-11-24T20:48:43+03:00",
-      "last_at": "2026-11-25T18:04:34+03:00"
+      "last_at": "2026-11-26T23:32:25+03:00"
     },
     {
       "id": "onimusha-wots-deluxe-edition-ps5",
@@ -619740,6 +619740,12 @@
   ],
   "recent": [
     {
+      "title": "Gothic 3 Classic PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-26T23:32:25+03:00"
+    },
+    {
       "title": "Full Throttle Remastered PS4",
       "price": 257,
       "price_string": "257 ₽",
@@ -619960,12 +619966,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-25T20:06:24+03:00"
-    },
-    {
-      "title": "Frankenstein: Awakening of Horror PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-25T18:40:23+03:00"
     },
     {
       "title": "Frankenstein: Awakening of Horror PS4/PS5",
