@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-25T02:02:55Z",
-  "server_time_utc": "2026-11-25T02:02:55Z",
+  "updated_at": "2026-11-26T02:02:51Z",
+  "server_time_utc": "2026-11-26T02:02:51Z",
   "page_url": "https://arenapsgm.ru/allgames",
-  "next_rotation_at": "2026-11-26T02:00:00Z",
-  "expires_at": "2026-11-26T02:00:00Z",
+  "next_rotation_at": "2026-11-27T02:00:00Z",
+  "expires_at": "2026-11-27T02:00:00Z",
   "prices_p2": {
     "7": 100,
     "14": 100,
@@ -21,10 +21,63 @@
     "p3_extra": 100,
     "page_url": "https://arenapsgm.ru/allgames",
     "cards_count": 1,
-    "next_rotation_at": "2026-11-26T02:00:00Z"
+    "next_rotation_at": "2026-11-27T02:00:00Z"
   },
   "cards_count": 1,
   "cards": [
+    {
+      "slug": "like-a-dragon-infinite-wealth-ps4-ps5",
+      "title": "Like a Dragon: Infinite Wealth PS4/PS5",
+      "description": "Полноценный ролевой боевик, где оружием становится само поле боя. Битвы динамичные и атмосферные - просто бейте врагов всем, что попадётся под руку! У вас есть выбор из необычных профессий и уникальных вариантов персонализации: подбирайте навыки отряда под конкретную ситуацию и побеждайте впечатляющими приёмами.\n\nМасштабное путешествие начинается в Японии и продолжается на Гавайях. Это приключение размером с Тихий океан, где каждый шаг - это новые незабываемые моменты, уникальные задания и развлекательные активности.",
+      "image_url": "https://static.tildacdn.com/stor3866-3131-4461-b964-333032353331/87712353.jpg",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202309/0412/c7b2de4a44bda3c9697ac3c518d3b81dd6e4b34d8b2e9d7d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202309/0412/f196205d5ad833f0c880feb5c50d86fa6ff964a3c2642197.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202309/0412/0dfd270174eb1e6423b05c81a677624ab0e986d91e6c4232.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202309/0412/f3e27e4ba6a594a002228f70ec67d301f728014dc59a6cb5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202309/0412/d28301fe9c013e4e7e9bbabf0ec92c3028096e486afe103a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202309/0412/fe60c6f228ecfdc85bc3b413b4abaa80d2fddaa609664f71.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202310/1705/b42062e2c8da7ce864937c446d2a86f90ee4ebee3c35f7e2.jpg"
+      ],
+      "release_date": "26/1/2024",
+      "publisher": "SEGA EUROPE LTD",
+      "platforms": "PS4, PS5",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 4.75,
+      "store_url": "https://store.playstation.com/en-tr/concept/10004462",
+      "tilda_uid": "613540689192",
+      "sku": "",
+      "external_id": "JiG6figYKyAAf1pdHEgd",
+      "url": "http://arenapsgm.ru/gamescatalog/tproduct/613540689192-like-a-dragon-infinite-wealth-ps4-ps5",
+      "expires_at": "2026-11-27T02:00:00Z",
+      "published_at": "2026-11-26T02:02:51Z",
+      "prices": {
+        "p2": {
+          "7": 100,
+          "14": 100,
+          "21": 100,
+          "28": 100
+        },
+        "p3": {
+          "7": 200,
+          "14": 200,
+          "21": 200,
+          "28": 200
+        }
+      },
+      "prices_p2": {
+        "7": 100,
+        "14": 100,
+        "21": 100,
+        "28": 100
+      },
+      "p3_extra": 100,
+      "is_game_day": true,
+      "short_description": "Игра дня: ролевой боевик, где оружием становится само поле боя. Бейте врагов всем подряд в динамичных битвах с выбором профессий и персонализации отряда!\n\nПриключение начинается в Японии и продолжается на Гавайях. Масштабное путешествие размером с Тихий океан ждет вас с новыми моментами и уникальными заданиями."
+    }
+  ],
+  "history": [
     {
       "slug": "saints-row-the-third-remastered-ps4-ps5",
       "title": "Saints Row: The Third Remastered PS4/PS5",
@@ -49,34 +102,31 @@
       "sku": "",
       "external_id": "zGa2Y3HJuPnXb1z96S9b",
       "url": "http://arenapsgm.ru/tproduct/868374582482-saints-row-the-third-remastered-ps4-ps5",
-      "expires_at": "2026-11-26T02:00:00Z",
       "published_at": "2026-11-25T02:02:55Z",
       "prices": {
         "p2": {
-          "7": 100,
-          "14": 100,
-          "21": 100,
-          "28": 100
+          "7": 250,
+          "14": 400,
+          "21": 700,
+          "28": 800
         },
         "p3": {
-          "7": 200,
-          "14": 200,
-          "21": 200,
-          "28": 200
+          "7": 350,
+          "14": 500,
+          "21": 800,
+          "28": 900
         }
       },
       "prices_p2": {
-        "7": 100,
-        "14": 100,
-        "21": 100,
-        "28": 100
+        "7": 250,
+        "14": 400,
+        "21": 700,
+        "28": 800
       },
       "p3_extra": 100,
-      "is_game_day": true,
+      "is_game_day": false,
       "short_description": "В «Святых» из банды на трезубец превратился в бренд, но слава приглянулась не только им. Синдикат решил: теперь надо платить дань. Отказав злодеем и отправив врагов разбиваться об стену, вы берете управление Стиллуотером под свой контроль.\n\nЭто династия Сан-Андреса в самом диком сеттинге GTA - тут нет места законам и чинку. Поезжайте на танке с…"
-    }
-  ],
-  "history": [
+    },
     {
       "slug": "mafia-definitive-edition-ps4-ps5",
       "title": "Mafia: Definitive Edition PS4/PS5",
@@ -2984,56 +3034,6 @@
       "p3_extra": 100,
       "is_game_day": false,
       "short_description": "Черви вновь в бою - апдейт с 30 уровнями, новыми оружиями и машинами!  \n\nТанки, вертолёты, гранаты - 80 способов уничтожить врага. Хаос для тех, кто любит браться за штык."
-    },
-    {
-      "slug": "banishers-ghosts-of-new-eden-ps5",
-      "title": "Banishers: Ghosts of New Eden PS5",
-      "description": "Нью-Иден, 1695 год. Антея и Ред - охотники на призраков, влюбленные изгнатели, которые пообещали защитить живых от ненавистных теней. Но когда Антея погибает и превращается в призрака, их мир рушится. Теперь они ищут способ вернуть её - на фоне глубокой нежити и загадочных тайн.\n\nИгра кипит эмоциями: любовь, жертвы, моральные дилеммы. Вы выберете, как вести себя - за Антеей или Редом, с колдовством, оружием или просто решением нести ответственность. Каждое действие влияет на судьбу мира и персонажей: живых и мёртвых.\n\nСекреты Нью-Идена - в каждом шаге. Раскрываете древние тайны, уничтожаете призраков, а иногда - и сами нарушаёте правила охотников. Всё это - как в классических играх DON’T NOD: сильные выборы, глубокие персонажи и мир, где мёртвые не просто пропадают - они живут.\n\nГотовы нарушить клятву ради любви? Всё зависит от вас.",
-      "image_url": "https://static.tildacdn.com/stor3634-6533-4234-b331-306331313034/38526126.jpg",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/62ff4cf508ffbf813b98bf16d00a985ada34d70749fbbce0.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/4c57d56a87f9e00729443a1f0b0b9ebf9bae97390e8376a7.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/8b2b9e9e1b30fd13e6e26e72c5b75a72398256ee5eb641d0.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/380cabd326f49f8d96f16f49aa663b832a78e823d6d255f7.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/82357eb59d2bab6641230c4873ba4643cb88f5ffea5a193c.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/6a1efae75c0bffd750124bb5e2f1f7ba9ceb39afe19d6f8e.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202311/0816/5a08f8d3ae2b4256890ec6541092c0bae291f68ee75db48b.jpg"
-      ],
-      "release_date": "13/2/2024",
-      "publisher": "Focus Entertainment",
-      "platforms": "PS5",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 4.28,
-      "store_url": "https://store.playstation.com/en-tr/concept/10006098",
-      "tilda_uid": "813677535532",
-      "sku": "",
-      "external_id": "PDfujhnRJlub2JczT1f6",
-      "url": "http://arenapsgm.ru/tproduct/813677535532-banishers-ghosts-of-new-eden-ps5",
-      "published_at": "2026-09-29T02:01:21Z",
-      "prices": {
-        "p2": {
-          "7": 359,
-          "14": 499,
-          "21": 545,
-          "28": 645
-        },
-        "p3": {
-          "7": 459,
-          "14": 599,
-          "21": 645,
-          "28": 745
-        }
-      },
-      "prices_p2": {
-        "7": 359,
-        "14": 499,
-        "21": 545,
-        "28": 645
-      },
-      "p3_extra": 100,
-      "is_game_day": false,
-      "short_description": "Нью-Иден 1695 года: Антея погибает, превращается в призрака - теперь Ред ищет способы вернуть её.  \n\nЛюбовь, жертвы, выборы - вы решаете, за кем стоять, как бороться и нарушать правила. Мир живёт и мёртвый - всё зависит от вас."
     }
   ]
 }
