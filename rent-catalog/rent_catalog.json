@@ -1,171 +1,9 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-26T09:52:58Z",
-  "generated_at": "2026-11-26T09:55:30Z",
-  "count": 11535,
+  "catalog_id": "2026-11-26T10:47:09Z",
+  "generated_at": "2026-11-26T10:53:48Z",
+  "count": 11537,
   "items": [
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-26T09:54:51Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Grand Theft Auto VI Ultimate Edition — расширенное издание с доп. контентом. Аренда на выбранный срок, П2 или П3.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-26T09:54:51Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
     {
       "id": "final-fantasy-vii-revelation",
       "slug": "final-fantasy-vii-revelation",
@@ -3160,6 +2998,74 @@
       "catalog_added_at": "2026-11-21T12:13:58Z"
     },
     {
+      "id": "the-spectrum-retreat-redux",
+      "slug": "the-spectrum-retreat-redux",
+      "sku": "rent-the-spectrum-retreat-redux",
+      "title": "The Spectrum Retreat: Redux PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение, Головоломка",
+      "categories": [],
+      "publisher": "RIPSTONE LTD",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "26.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0918/24205ba588a573a8b7546e6cb7cfc8780e7196699ce149b4.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0918/760c6e6838a8caf78ac009bc681616242f92f95568fcd2a1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0918/a44be8ada436aa632a5ea3439959019fa4d54ae6a0491ac0.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0918/9accefa27425819d40d4f68e86edc70ab8422f2f17c0b9b7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0918/506f38fa3d1f253c16889c62c4e4a4d90f11b9f7cc8ecbe3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0918/beef9c5171ec1d0dc051f2ef6daed2f683dcd4b19574ae18.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0918/c7313a5261aae38818c4a5019bf72378de91e9cc771d67dc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0918/218bd2bcbc30fa2123fb510fe7840d105443af2a25016005.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021069",
+      "description": "Приятно погрузиться в уютный, но немного мистический мир «Спектрума». Это место, где время течёт иначе, а вокруг всегда витает таинственный дым и шепот забытых имен.\n\nВ этой истории вы играете за персонажа, пытающегося найти свою идентичность среди сновидений и кошмаров. Атмосфера создаётся очень грамотно: извилистые коридоры, мерцающая гирлянда и постоянное ощущение слежки делают игру незабываемой.\n\nЭто не просто ретро-хоррор с доработанным сюжетом, а настоящий психологический триллер для тех, кто любит поиграть в «кто здесь?».",
+      "seo_title": "The Spectrum Retreat: Redux PS5 аренда игры",
+      "seo_descr": "Аренда The Spectrum Retreat: Redux PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T10:46:51Z"
+    },
+    {
       "id": "security-51",
       "slug": "security-51",
       "sku": "rent-security-51",
@@ -3227,6 +3133,72 @@
       "seo_descr": "Аренда Security 51 PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-26T05:28:50Z"
+    },
+    {
+      "id": "pinball-fx-vr",
+      "slug": "pinball-fx-vr",
+      "sku": "rent-pinball-fx-vr",
+      "title": "Pinball FX VR PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Симулятор",
+      "categories": [],
+      "publisher": "ZEN STUDIOS LTD",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "26.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1712/67bacc20dd5422b272fe6b3947da378f80fdd37bcafa2064.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1712/b5b0b43b08f2b42c0534791d89c216e1bc1f3819e844aa96.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1712/5b25eb7cc1bbb0afde53a6ed85d2391db0b551b857d7bbfb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1712/f52eb7c0659c65a62bbd2b38db1bf90291013e298c368bfe.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1712/3347c093cc8d00903ca36cb5e02d2fb7a71724306e8d04df.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1712/0058533c0fe7218ba54d9175d1fe6e2960f74e4f8d807e06.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020189",
+      "description": "Взрывные шары, светящиеся огни и звуки, которые хочется слышать снова и снова - вот что будет в Pinball FX на PS5. Это не просто симулятор механики, а настоящая виртуальная аркада, где каждый залп из пушки за граней разгоняет adrenalin до предела.\n\nВас ждут десятки уникальных игровых полей, от классических моделей до эпичных космических кораблей и футуристических станций. Каждый уровень - это отдельная история с собственной механикой, которая требует не только реакции, но и настоящего мастерства управления бочками.",
+      "seo_title": "Pinball FX VR PS5 аренда игры",
+      "seo_descr": "Аренда Pinball FX VR PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T10:46:33Z"
     },
     {
       "id": "origament-a-paper-adventure",
@@ -3432,6 +3404,141 @@
       "seo_descr": "Аренда Relaywardens PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-25T23:41:41Z"
+    },
+    {
+      "id": "melon-parker-we-are-whatever-club",
+      "slug": "melon-parker-we-are-whatever-club",
+      "sku": "rent-melon-parker-we-are-whatever-club",
+      "title": "MELON PARKER -We are Whatever Club! PS4",
+      "platform": "PS4",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Приключение",
+      "categories": [],
+      "publisher": "CYBERSTEP, INC.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "25.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1307/13982f91deaea7b342bc928d3bebd73dba0a645d3b68f2cc.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1307/860b016277c3ee13fec4561a0177e53181603aa9b0ec5002.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1307/859d06e1b0688673caf12dff67c8bb29d76402234ce6360d.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1307/01c2b77e3fa9dd4cfc01577a62a07e43362c5432813008ce.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1307/d82c1bc646cdc92289093b288019084f555d25924427dee3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1307/8ba5069c3f5ae4ad14d2f62475a86b1b6025fe8f1d50b0e4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/1307/93889a10feecc9b003c10d72594009b2a75960681818f216.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10017577",
+      "description": "Добро пожаловать в MELON PARKER - клуб, где каждый человек - это кто угодно и что угодно вместе с вами. Это не просто игра, а полное погружение в мир, где ваши решения формируют реальность прямо здесь и сейчас.\n\nПриготовьтесь к путешествию по сюрреалистичным пейзажам, где обычные правила уходят на второй план. Вы сможете создавать свои собственные истории, взаимодействовать со странными персонажами и решать загадки, которые требуют нестандартного мышления.\n\nЭто уникальная возможность испытать себя в новой роли и понять, как сильно вы готовы менять мир вокруг. Начните свой путь с MELON PARKER уже сегодня!",
+      "seo_title": "MELON PARKER -We are Whatever Club! PS4 аренда игры",
+      "seo_descr": "Аренда MELON PARKER -We are Whatever Club! PS4 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T10:46:17Z"
+    },
+    {
+      "id": "marupoyo-the-round-chick-s-adventure",
+      "slug": "marupoyo-the-round-chick-s-adventure",
+      "sku": "rent-marupoyo-the-round-chick-s-adventure",
+      "title": "Marupoyo: The Round Chick's Adventure PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Приключение, Семейная",
+      "categories": [],
+      "publisher": "CASUAL BROTHERS LIMITED",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "25.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/3119/6791fb6915acfea4220a43e1c4b55b04ffbb8b4512563e55.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2717/f831e1ca8d98cfd068505648a22ca1f7ef8b1ad8efe28393.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2717/d96c2dd4a7e208884a39de785c673bdb28151bc596416855.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2717/66c77fff8f12e06c82e57c970c570d17fa3a77e6af50d37b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2717/0dc1533ae6462993e798b06eada917b2f451dc76b0c9f357.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2717/fb4a22c9c2e60f7781eedba3937e583ad381de0488f0ba2a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2717/3312112d30332daee79364cce9d633ba5a8c69285aad2dcf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2717/c0a0ce9bf88ef4f7ac6ce87c22fed62bd095acbcc878fb8c.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10015584",
+      "description": "Представляем вам Marupoyo: The Round Chick's Adventure на PlayStation 5! Это веселая и добрая история, где вы отправляетесь в приключение вместе с Круглым Птичкой.\n\nЕго задача - найти своего друга, который потерялся в огромном лесу, полном тайн и загадок. Игра пропитана теплом и юмором, а сама птичка просто очаровательна со своей круглой фигурой и искренним выражением лица.\n\nПопав в игру, вы сами захотите вернуться, чтобы помочь еще кому-то из его друзей и узнать новые секреты этого удивительного мира.",
+      "seo_title": "Marupoyo: The Round Chick's Adventure PS5 аренда игры",
+      "seo_descr": "Аренда Marupoyo: The Round Chick's Adventure PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-26T10:45:55Z"
     },
     {
       "id": "jaden-industries-cozy-automation-puzzler",
