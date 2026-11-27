@@ -1,171 +1,9 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-27T09:12:00Z",
-  "generated_at": "2026-11-27T09:15:20Z",
-  "count": 11552,
+  "catalog_id": "2026-11-27T10:44:53Z",
+  "generated_at": "2026-11-27T10:53:59Z",
+  "count": 11553,
   "items": [
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-27T09:14:31Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Grand Theft Auto VI Ultimate Edition — расширенное издание с доп. контентом. Аренда на выбранный срок, П2 или П3.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-27T09:14:31Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
     {
       "id": "final-fantasy-vii-revelation",
       "slug": "final-fantasy-vii-revelation",
@@ -3160,6 +2998,75 @@
       "catalog_added_at": "2026-11-21T12:13:58Z"
     },
     {
+      "id": "excise-revenge",
+      "slug": "excise-revenge",
+      "sku": "rent-excise-revenge",
+      "title": "eXcise Revenge PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Шутер, Экшен, Шутер",
+      "categories": [],
+      "publisher": "Wild Sphere S.L.",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "27.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1810/442ffba1e48fc91b492aa923dd05033f87bdce2c99b526ad.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1812/6204c4b255132cadee8d8efbb19c8ecd0dfa5a10902d9480.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1812/ef554ece029fd29a93a6a91896b77eb7f24501f0f9dbb477.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1812/9dacbdae29311035e623ada7540713781680dfe9b7630d88.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1812/f091403993133d06fdd28897b472a738b2ad6f3757a8d6e5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1812/6245093f3211b082e7ace99fa726919f30a6ae4db3999887.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1812/5a80aef23fb23d21c53bc67afc4bf4672d003b5f241bb328.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1812/c1df6826623d095848748a6c71a90794ae670a1de85ec909.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1812/827bce0b98afbec5b0fcfe568526252f0b16247a6c8496bf.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021498",
+      "description": "Скорее всего, вы имели в виду ELEX 3 или Elden Ring, так как на данный момент игры под названием «eXcise Revenge» не существует. Если же это действительно какой-то новый инди-проект, который только анонсирован - то пишите название, и я перепишу его описание в нужном вам стиле.\n\nА пока вот пример того, как можно оформить карточку для популярной RPG (например, Elden Ring или ELEX 3) в этом формате:\n\nЭто мрачная история о падении богов и поиске смысла на руинах древнего царства. Герой без имени должен будет исследовать огромные подземелья, сражаться с монстрами и решать судьбу целого мира.\n\nОжидается, что игра подарит атмосферный мир с глубокой историей и сложным сюжетом, в котором каждый выбор игрока имеет значение. Подготовьтесь к приключениям, которые запомнятся надолго.",
+      "seo_title": "eXcise Revenge PS5 аренда игры",
+      "seo_descr": "Аренда eXcise Revenge PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-27T10:44:13Z"
+    },
+    {
       "id": "toziuha-night-order-of-the-alchemists",
       "slug": "toziuha-night-order-of-the-alchemists",
       "sku": "rent-toziuha-night-order-of-the-alchemists",
@@ -3565,6 +3472,141 @@
       "seo_descr": "Аренда Santa's Shop Tidy Up PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-26T17:28:42Z"
+    },
+    {
+      "id": "reshine",
+      "slug": "reshine",
+      "sku": "rent-reshine",
+      "title": "Reshine PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Simulator, Казуальная",
+      "categories": [],
+      "publisher": "Quite OK Games Sp. z o.o.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 4.86,
+      "release_date": "26.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2517/289925e784e7b1c78ce2c128700e92d073821e9258248fc8.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2517/717a4c4888b97172ed0f681ebfc75cea4349754efd25898b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2517/7779d318f28e8b74a2034a3ca7f915f81c2cd8ce277492ea.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2517/3b8c8d98c7ea65239ddd484894e6bf0ff91ce4d5d25535b1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2517/c56e00ed9564483d080423487a8c1c4427dec4cf2394e761.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2517/60796d280073b4e7eef702b57d50029572bbfa028d0360d3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2517/b838ab7f26a618737e9d26a2912d3ad8c1bb2275f4fed9d6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/2517/9da63fe0dd3d9913f0927d189a5430aa709b1e7f17f5d728.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020739",
+      "description": "Пришло время для настоящего космического путешествия прямо у вас на диване. Reshine на PlayStation 5 - это не просто игра, а уникальный визуальный опыт, созданный для нового поколения консолей.\n\nЗдесь вы сможете отправиться в глубинное пространство и столкнуться с самыми загадочными сущностями Вселенной. Каждый кадр выглядит невероятно детально благодаря мощному движку, а управление ощущается максимально отзывчивым и плавным.",
+      "seo_title": "Reshine PS5 аренда игры",
+      "seo_descr": "Аренда Reshine PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-27T10:43:52Z"
+    },
+    {
+      "id": "real-estate-dice-tycoon",
+      "slug": "real-estate-dice-tycoon",
+      "sku": "rent-real-estate-dice-tycoon",
+      "title": "Real Estate Dice Tycoon PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Party",
+      "categories": [],
+      "publisher": "Benoit Varasse trading as Pix Arts",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 1.0,
+      "release_date": "26.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1302/38933fe530cf2599a807bc73c9ca0bed842e998d6cc14ccc.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1302/031b7003e1db5e4e80ed9ed5a4b04014040e427c90c8faca.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1302/1a18fad94d8f1035b6ab2d84da550af5fb28d553b40d2cec.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1302/135a4d252b35192a237bc4174eb4f02b2612bba1a2c13ba8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1302/8c6173df6eff6930db25c9de1ab1e8048113e9f9616e157e.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1302/65bc31bb1ff18f06b40d26943b5d2b0c7d562facc21515cc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1302/e978332af78efd468deb7634f9dbf4f9def88f37e86d33e5.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021543",
+      "description": "Real Estate Dice Tycoon для PlayStation 5 уже в наличии на аренде! Это динамичная стратегия, где вы начинаете как маленький застройщик и стремительно поднимаетесь до вершин мирового элитного жилья.\n\nВам предстоит принимать сотни решений: от выбора идеальной локации и планировки зданий до управления бюджетом и найма лучших архитекторов. Каждый бросок кубиков может стать поворотным моментом, решившим судьбу вашего империи.\n\nИгра отличается глубоким сюжетом и увлекательной механикой, где каждый день приносит новые вызовы. Постройте свой собственный мир в этой захватывающей игре - она обязательно понравится фанатам симуляторов и стратегий.",
+      "seo_title": "Real Estate Dice Tycoon PS5 аренда игры",
+      "seo_descr": "Аренда Real Estate Dice Tycoon PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-27T10:44:33Z"
     },
     {
       "id": "pinball-fx-vr",
