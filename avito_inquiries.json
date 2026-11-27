@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-27T14:57:41+03:00",
-  "updated_at_msk": "27.11.2026 14:57",
+  "updated_at": "2026-11-27T15:57:49+03:00",
+  "updated_at_msk": "27.11.2026 15:57",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 3442,
+  "total": 3443,
   "unique_games": 1106,
   "in_demand": 253,
   "one_off": 690,
@@ -10273,9 +10273,9 @@
       "title": "FIFA 22 Ultimate Edition PS4/PS5",
       "item_id": "3893664760",
       "url": "https://avito.ru",
-      "count": 27,
+      "count": 28,
       "demand": "high",
-      "avg_price": 213,
+      "avg_price": 212,
       "min_price": 200,
       "max_price": 250,
       "last_price": 200,
@@ -10481,7 +10481,7 @@
         27,
         27,
         27,
-        27
+        28
       ],
       "hourly": [
         0,
@@ -10663,7 +10663,7 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -10848,7 +10848,7 @@
         200
       ],
       "first_at": "2026-07-03T18:47:04+03:00",
-      "last_at": "2026-11-22T17:42:44+03:00"
+      "last_at": "2026-11-27T15:41:29+03:00"
     },
     {
       "id": "gothic-3-classic-ps5",
@@ -624745,6 +624745,12 @@
   ],
   "recent": [
     {
+      "title": "FIFA 22 Ultimate Edition PS4/PS5",
+      "price": 200,
+      "price_string": "200 ₽",
+      "at": "2026-11-27T15:41:29+03:00"
+    },
+    {
       "title": "Layers of Fear 2 PS4",
       "price": 257,
       "price_string": "257 ₽",
@@ -624959,12 +624965,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-25T21:35:21+03:00"
-    },
-    {
-      "title": "Ship Graveyard Simulator PS4",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-25T20:38:34+03:00"
     },
     {
       "title": "Ship Graveyard Simulator PS4",
