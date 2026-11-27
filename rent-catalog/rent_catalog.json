@@ -1,171 +1,9 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-27T22:06:47Z",
-  "generated_at": "2026-11-27T22:09:44Z",
+  "catalog_id": "2026-11-27T22:31:28Z",
+  "generated_at": "2026-11-27T22:38:46Z",
   "count": 11557,
   "items": [
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-27T22:09:00Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Grand Theft Auto VI Ultimate Edition — расширенное издание с доп. контентом. Аренда на выбранный срок, П2 или П3.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-27T22:09:00Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
     {
       "id": "final-fantasy-vii-revelation",
       "slug": "final-fantasy-vii-revelation",
@@ -3229,6 +3067,75 @@
       "catalog_added_at": "2026-11-27T11:29:15Z"
     },
     {
+      "id": "chaos-mini-racer",
+      "slug": "chaos-mini-racer",
+      "sku": "rent-chaos-mini-racer",
+      "title": "Chaos Mini Racer PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Гонки",
+      "categories": [],
+      "publisher": "Benoit Varasse trading as Pix Arts",
+      "voice": "",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "27.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0411/dce9823706ddf15667bfb1529a8e510abee7c14dcc8b8733.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0411/4376cf3787688040fd45e2f87b1da48d8be521b93d6737a4.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0411/0040830e09003f89e61e6f58d7adab93b79dfc4d79f36ccf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0411/ad5f9713af9ca85114745af61efa87926bdcb5edc99a32f3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0411/24ef182f5df0d2b457f8f1d9f160f5b34be49f523017d356.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0411/941b1d37bd868e3d80f38d25a57762f3acb85068d16e742b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0411/dd141d7108a540a800284d6cf909ae102470869348e5c8ad.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0411/6991d80c6a5cc918e6ba0795370634ffa0ad7418f31b37d2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0411/802a1a692fd9e5edcce24b71ff8fdcd68f268a01905143a0.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021438",
+      "description": "Уверь меня, что в «Хаос Мини Рейсер» ты больше не будешь просто крутить руль и смотреть на дорогу.\n\nЗдесь каждый поворот - это лотерея. Ты можешь вылететь за борт или подхватить невероятный рывок, если повезет с физикой машины. Атмосфера гонки здесь - это чистый кайф от неопределенности и скорости.\n\nПодбери свой идеальный автомобиль из целого арсенала и отправляйся в безумную поездку по уникальным трассам, где каждый раз правила игры могут меняться.",
+      "seo_title": "Chaos Mini Racer PS5 аренда игры",
+      "seo_descr": "Аренда Chaos Mini Racer PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-27T22:31:00Z"
+    },
+    {
       "id": "bunker-tidy-up",
       "slug": "bunker-tidy-up",
       "sku": "rent-bunker-tidy-up",
@@ -3361,6 +3268,72 @@
       "seo_descr": "Аренда Arkheron Early Access PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-27T16:52:35Z"
+    },
+    {
+      "id": "zomblox",
+      "slug": "zomblox",
+      "sku": "rent-zomblox",
+      "title": "Zomblox PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке!",
+      "genre": "Экшен, Шутер, Приключение",
+      "categories": [],
+      "publisher": "SEASHELL STUDIO C.V.",
+      "voice": "Русский, Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "26.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2819/db356f27e1c113085040706081f18ea60b82516789f8f686.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2814/f83aab95e0e5566a75667c0df7d8ee4021e41a68fdefc728.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2814/34c94a2699f448762c6509f20f2ae39c1a98ee532edb6aa7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2814/a0d78ecde69da609f60d5af1a8b83c0a5e93ee0cd65d903c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2814/89f0af258088021528a06d6a590e13e3f2361109313e46f2.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2814/8552b52409390fdcbe2ef1aedfb89f72514c7adebd2d2696.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021370",
+      "description": "Зомби-апокалипсис уже наступил, а вы всё ещё играете в «Последний человечка» или «Видеоигры - это хорошо»? В Zomblox на PlayStation 5 эта ситуация меняется кардинально.\n\nЭто не просто шутер с зомби, а захватывающий квест, где каждая минута играет решающую роль. Вы окажетесь в мире без надежд, и ваша задача - выжить среди толпы голодных монстров, используя интеллект и смекалку, а не только стрельбу из автомата.\n\nСкорость геймплея на консоли просто ошеломляет: динамичные бои, захват новых локаций и уникальные головоломки держат в напряжении с самого начала до последних минут. Это идеальный выбор для тех, кто хочет погрузиться в мрачную историю и проверить свои навыки выживания на прочность без лишних развлечений от скучных миссий.",
+      "seo_title": "Zomblox PS5 аренда игры",
+      "seo_descr": "Аренда Zomblox PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-27T22:30:32Z"
     },
     {
       "id": "toziuha-night-order-of-the-alchemists",
