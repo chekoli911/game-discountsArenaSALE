@@ -1,171 +1,9 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-27T15:44:43Z",
-  "generated_at": "2026-11-27T15:47:52Z",
+  "catalog_id": "2026-11-27T16:31:19Z",
+  "generated_at": "2026-11-27T16:44:08Z",
   "count": 11555,
   "items": [
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-27T15:47:13Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Grand Theft Auto VI Ultimate Edition — расширенное издание с доп. контентом. Аренда на выбранный срок, П2 или П3.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-27T15:47:13Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
     {
       "id": "final-fantasy-vii-revelation",
       "slug": "final-fantasy-vii-revelation",
@@ -3227,6 +3065,140 @@
       "seo_descr": "Аренда eXcise Revenge PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-27T11:29:15Z"
+    },
+    {
+      "id": "bunker-tidy-up",
+      "slug": "bunker-tidy-up",
+      "sku": "rent-bunker-tidy-up",
+      "title": "Bunker Tidy Up PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Simulator, Головоломка, Казуальная",
+      "categories": [],
+      "publisher": "PlayWay plc",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 4.8,
+      "release_date": "27.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2308/813b17ab3db5faa98c2ef3957661e6cc67f9c59bdc03c3fa.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/8cf354c3e4d1b8dee5d7a2e3fac7ae0f859c12225ba40c4a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/a22e642d7a60f6e62380ad1a38be0bd887ea7821ff2eaf57.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/9b4e11c43726f7660cf5397e01d6092bc08ec7b162b445e5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/d71ceacc0f7165c62e8e88444af0826f9d4a35477cc24f58.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/193bfaf11900f7d7d29d3cc2287ddf3efd67d87447e5df91.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/c20ac5554180dcc0eac01460fc2d8bd5bf98fac0fce3f356.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/e3557ce76af7b45ec0b8c337f588b415e600f44aa5f28b97.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2612/656bfe2ab6a798083be5078c64c8bd3c7a7b1bd0a963eb3e.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021086",
+      "description": "В Бункере что-то не так... или точнее, слишком много там не так. Игра Bunker Tidy Up для PlayStation 5 - это когда ты берешь на себя ответственность за чистоту в заброшенном подвале, полном странных артефактов и таинственных жителей.\n\nТвоя задача проста: убрать мусор, собрать вещи, расставить мебель и сделать этот старый бункер пригодным для проживания. Но тут есть и скрытые опасности, и загадки, которые нужно разгадать, чтобы пройти дальше.\n\nЭто веселая и атмосферная головоломка с элементами хоррора-комедии. Собирай предметы, открывай новые комнаты и постепенно расчищай путь к выходу из этого подземелья вместе со своими новыми знакомыми.",
+      "seo_title": "Bunker Tidy Up PS5 аренда игры",
+      "seo_descr": "Аренда Bunker Tidy Up PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-27T16:31:01Z"
+    },
+    {
+      "id": "arkheron-early-access",
+      "slug": "arkheron-early-access",
+      "sku": "rent-arkheron-early-access",
+      "title": "Arkheron Early Access PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен, Файтинг, Ролевая игра",
+      "categories": [],
+      "publisher": "BONFIRE STUDIOS INC.",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "27.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1818/2ed56e2e5a9349ec4f84a3410d569b677a4f2d049d46a035.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/2419/4adc1e0a25476bbdb82fc4eba318f2779e7ad8fb76520a3f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/2419/d8ffabd7f7fe975a23d9dc9a87cb75077507706223dd3682.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/2419/f1b6b9c05859b67994c4ff8141e3ae580ce3be2264d96b6f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/2419/e7422474b32df6e2a3bfeaba9e118d0a5878a3799bd4fcb1.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10016490",
+      "description": "Возможно, самый интересный RPG-экшен, который выйдет в этом году - это Arkheron. Это не просто «еще одна» игра про мечтателей и драконов, а попытка переосмыслить жанр с нуля.\n\nАудитория, которая любит глубокие истории с сильной эмоциональной составляющей и красивую графику на PS5, точно оценит этот проект. В Early Access вы уже видите крутые механики: от тактики боя до уникального подхода к мирозданию.\n\nУже сейчас чувствуется, что Arkheron может стать той самой «игрой года», если разработчики не растеряют курс в доработке. Стоит ли ждать релиз? Вероятно, да - это то, что стоит попробовать, прежде чем она полностью откроет свои двери.",
+      "seo_title": "Arkheron Early Access PS5 аренда игры",
+      "seo_descr": "Аренда Arkheron Early Access PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-27T16:30:35Z"
     },
     {
       "id": "toziuha-night-order-of-the-alchemists",
