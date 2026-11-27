@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-27T07:52:59+03:00",
-  "updated_at_msk": "27.11.2026 07:52",
+  "updated_at": "2026-11-27T08:53:09+03:00",
+  "updated_at_msk": "27.11.2026 08:53",
   "source": "avito-bot",
   "since": "2026-06-01",
-  "total": 3434,
+  "total": 3435,
   "unique_games": 1103,
   "in_demand": 253,
   "one_off": 688,
@@ -961,7 +961,7 @@
       "title": "NHL 27 PS5",
       "item_id": "8355713865",
       "url": "https://avito.ru",
-      "count": 97,
+      "count": 98,
       "demand": "high",
       "avg_price": 257,
       "min_price": 257,
@@ -1169,7 +1169,7 @@
         97,
         97,
         97,
-        97
+        98
       ],
       "hourly": [
         0,
@@ -1351,7 +1351,7 @@
         4,
         0,
         0,
-        0
+        1
       ],
       "price_series": [
         null,
@@ -1536,7 +1536,7 @@
         257
       ],
       "first_at": "2026-09-05T21:51:28+03:00",
-      "last_at": "2026-11-24T14:21:11+03:00"
+      "last_at": "2026-11-27T08:14:23+03:00"
     },
     {
       "id": "ea-sports-fctm-27-ps4-ps5",
@@ -623052,6 +623052,12 @@
   ],
   "recent": [
     {
+      "title": "NHL 27 PS5",
+      "price": 257,
+      "price_string": "257 ₽",
+      "at": "2026-11-27T08:14:23+03:00"
+    },
+    {
       "title": "Truck Simulator Euro Roads 2026 PS5",
       "price": 257,
       "price_string": "257 ₽",
@@ -623284,12 +623290,6 @@
       "price": 257,
       "price_string": "257 ₽",
       "at": "2026-11-25T20:06:24+03:00"
-    },
-    {
-      "title": "Frankenstein: Awakening of Horror PS4/PS5",
-      "price": 257,
-      "price_string": "257 ₽",
-      "at": "2026-11-25T18:40:23+03:00"
     }
   ]
 }
