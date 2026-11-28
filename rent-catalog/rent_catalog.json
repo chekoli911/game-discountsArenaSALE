@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-28T09:52:27Z",
-  "generated_at": "2026-11-28T09:55:10Z",
-  "count": 11560,
+  "catalog_id": "2026-11-28T11:10:40Z",
+  "generated_at": "2026-11-28T11:18:22Z",
+  "count": 11562,
   "items": [
     {
       "id": "grand-theft-auto-vi",
@@ -72,7 +72,7 @@
       "seo_title": "Grand Theft Auto VI PS5 аренда игры",
       "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
       "external_id": "",
-      "catalog_added_at": "2026-11-28T09:54:26Z",
+      "catalog_added_at": "2026-11-28T11:13:51Z",
       "rent_days": [
         1,
         7,
@@ -154,7 +154,7 @@
       "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
       "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
       "external_id": "",
-      "catalog_added_at": "2026-11-28T09:54:26Z",
+      "catalog_added_at": "2026-11-28T11:13:51Z",
       "rent_days": [
         1,
         7,
@@ -165,6 +165,144 @@
       ],
       "lock_prices": true,
       "skip_edition_mult": true
+    },
+    {
+      "id": "the-eminence-in-shadow-phantom-echoes",
+      "slug": "the-eminence-in-shadow-phantom-echoes",
+      "sku": "rent-the-eminence-in-shadow-phantom-echoes",
+      "title": "The Eminence in Shadow: Phantom Echoes PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "NIS America",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "13.05.2027",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1120/d4415d0a55b5d3052adab66da59e64075ec2da94faca4371.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1318/fc8adbde838ec0dd9a98b9379aa90dff86c5e594faa6da04.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0218/31930b095d3832d88b1aa6d9bc190703e8bb44180c9f71ff.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1318/02016b530539807fe1040afe5a00f76f3bc82c2376a06576.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1318/ab40402cf52605aeebe9f41fd7d7629d890766a8fdffedd5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1318/5149f08f215820ac066cdf7c0c5a972f5de590a7b8ed28df.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0218/2c33b0062e86d473bd47ed5d3142f1819e5edb13d1b9cbd3.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0218/ac66dc8dcaef1e329c4c54c5b31d974e0859a380c587f1dd.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0218/d797ed9f41c278abd7e1dabba884f4f25714540944bc704b.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/UP1063-PPSA39203_00-SDWCS00000000000",
+      "description": "Вот текст поста:\n\nСекретный агент из теневого мира наконец получает свою собственную игру для PS5. The Eminence in Shadow: Phantom Echoes - это экшен-рогалик с множеством персонажей, у каждого свои стили и уникальные способности.\n\nГлавная фишка - прокачка через исследования. Собирая очки на главном экране после обучения или боёв, ты открываешь более 50 типов улучшений для своего героя. А ещё есть общее снаряжение для всех героев, чтобы подтянуть общий бой.\n\nИграть можно двумя путями: в полностью озвученном сюжетном режиме, который раскрывает тайны «утерянных эхо», или в Survival Mode с множеством дополнительных заданий и боссов.",
+      "seo_title": "The Eminence in Shadow: Phantom Echoes PS5 аренда игры",
+      "seo_descr": "Аренда The Eminence in Shadow: Phantom Echoes PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-28T11:09:57Z"
+    },
+    {
+      "id": "the-eminence-in-shadow-phantom-echoes-digital-de",
+      "slug": "the-eminence-in-shadow-phantom-echoes-digital-de",
+      "sku": "rent-the-eminence-in-shadow-phantom-echoes-digital-de",
+      "title": "The Eminence in Shadow: Phantom Echoes - Digital Deluxe Edition PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "",
+      "genre": "Экшен",
+      "categories": [],
+      "publisher": "NIS America",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "11.05.2027",
+      "is_preorder": true,
+      "is_new": false,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1120/71178b06985e17e13a105148f64dea441d75a3476eeae7b1.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0218/75a6ec0d11e1704bd9eba96824b6f5b02987a61a3dcd75e5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0218/6c7a930c99f68ef73bdf69abbe6175b4198db9ade79f81c7.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1318/fc8adbde838ec0dd9a98b9379aa90dff86c5e594faa6da04.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/8b818176805820c26613044ee9daf8fa826bd3d547661e56.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1318/02016b530539807fe1040afe5a00f76f3bc82c2376a06576.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202608/1318/ab40402cf52605aeebe9f41fd7d7629d890766a8fdffedd5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/14167023616764d20e95dab60ad7d8c7a7a778b71076eb5a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2909/360bab79c51af2957ba115cb0546fc2bfc70902b5ed733d3.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/UP1063-PPSA39203_00-DELUXEEDITION001",
+      "description": "Вот текст поста:\n\nПолучи ранний доступ к The Eminence in Shadow: Phantom Echoes на PS5 уже через 48 часов от релиза, но только если купить Digital Deluxe Edition. Игра выйдет в мае 2027 года, а бонус для предзаказчиков активируется сразу после старта игры.\n\nВместе с ранним доступом ты получишь больше очков исследования (Research Points), которые дадут преимущество на ранних этапах сюжета. Также в комплекте есть уникальные скины и персонажи - всё это доступно при покупке до конца мая 2027 года.",
+      "seo_title": "The Eminence in Shadow: Phantom Echoes - Digital Deluxe Edition PS5 аренда игры",
+      "seo_descr": "Аренда The Eminence in Shadow: Phantom Echoes - Digital Deluxe Edition PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-28T11:10:22Z"
     },
     {
       "id": "final-fantasy-vii-revelation",
