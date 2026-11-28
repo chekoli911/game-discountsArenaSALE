@@ -1,171 +1,9 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-28T02:05:22Z",
-  "generated_at": "2026-11-28T03:24:30Z",
-  "count": 11558,
+  "catalog_id": "2026-11-28T04:39:18Z",
+  "generated_at": "2026-11-28T04:47:54Z",
+  "count": 11560,
   "items": [
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-28T02:07:21Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Grand Theft Auto VI Ultimate Edition — расширенное издание с доп. контентом. Аренда на выбранный срок, П2 или П3.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-28T02:07:21Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
     {
       "id": "final-fantasy-vii-revelation",
       "slug": "final-fantasy-vii-revelation",
@@ -3160,6 +2998,75 @@
       "catalog_added_at": "2026-11-21T12:13:58Z"
     },
     {
+      "id": "idle-breaker",
+      "slug": "idle-breaker",
+      "sku": "rent-idle-breaker",
+      "title": "Idle Breaker PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Казуальная, Приключение, Экшен",
+      "categories": [],
+      "publisher": "QUBICGAMES SP. Z O.O.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 3.36,
+      "release_date": "27.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/0915/a4566e0a8d576bab93a454bc672f5c891b8964ab2417ed0c.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0915/a0e14c7e74841642adde46d9b80bf2b8b26cb43fdf453d2a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0915/ae52063b560bd7f5ad535e0458a65a1415d7f2099a6b52e5.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0915/4a8f916be9603644e81d98a2a9703679f780d840870c0ef1.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0915/dbfe26fb993aa796b7199e5f59eedcc48f4e238c2a0c9d44.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0915/34a93cb11209a55bd1cf7aaae88b94ee23447ffee33b5a11.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0915/d01e794e55895033db28de77c7aea78ad18762316493927b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0915/138483f5dbecfd3d53e7cf46c60eb05408da9e167bb8ab2b.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/0915/62eddb9fa255cd0fa5fe4b1f92751a69458ca95e39809708.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10020440",
+      "description": "Ты же любишь всё ломать? Idle Breaker - это именно то, о чём ты мечтал. Устав от скучных головоломок с таймером и кликером по монеткам, ты врываешься в мир, где разрушение - это искусство.\n\nНужно просто разбивать здания на кирпичики. Но вот тут начинаются подвохи: если нарвешься на ловушку или промахнешься с выстрелом, то за собой последует настоящий хаос. Разбитый дом не собирается сам по себе, и это может стать проблемой для самого героя игры.\n\nСложные уровни требуют стратегического мышления, а не просто бешеного клика. Это динамичная аркада с элементами выживания, где каждый кирпичик на счету, а каждый промах - реальное испытание.",
+      "seo_title": "Idle Breaker PS5 аренда игры",
+      "seo_descr": "Аренда Idle Breaker PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-28T04:31:04Z"
+    },
+    {
       "id": "excise-revenge",
       "slug": "excise-revenge",
       "sku": "rent-excise-revenge",
@@ -3227,6 +3134,73 @@
       "seo_descr": "Аренда eXcise Revenge PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-27T11:29:15Z"
+    },
+    {
+      "id": "claw-below",
+      "slug": "claw-below",
+      "sku": "rent-claw-below",
+      "title": "CLAW BELOW PS4",
+      "platform": "PS4",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Стратегия",
+      "categories": [],
+      "publisher": "Pigeon Games S.L.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "27.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202611/1114/c003613a92f5a5f35f98fa31168ac84720909c8edfc5b3db.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1117/57638f54bbdd8a0649f9bed9845ba5d2124cf7b799c4a5bf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1117/f1717799b157af197921e200f58ea92a930e1cd21d63e989.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1117/808d28ec797b1eae6dce164dcab0e2a7dfb7a80dd6e669db.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1117/2e24c791c350c79246684e394c81a289bd7eb7dd3a0faa60.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1117/dc8aa82d59fcded646b4389e9abef2302b52dc06ce54e8fb.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202611/1117/f1eefd39b93ddbf1f05542f2febc39ffe3c3c68ba6aaccf9.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021541",
+      "description": "Представь, что ты прямо в центре огромного города, где все переплелось вместе - это и есть суть «Claw Below». Ты просыпаешься в неоновом безумии, где твоя реальность переплетается с цифровым хаосом. Это не просто игра, а погружение в мир, где границы между нами и виртуальностью стираются на глазах.\n\nОсобый акцент стоит сделать на механике управления: ты будешь управлять гигантским роботом-кротоловом, который должен справляться с невероятным количеством ситуаций одновременно. Это динамичная аркада, требующая полного присутствия и навыков, где каждое решение может изменить ход событий.\n\nПопробуй сыграть в «Claw Below» и почувствуй этот уникальный микс реальности и цифрового безумия firsthand!",
+      "seo_title": "CLAW BELOW PS4 аренда игры",
+      "seo_descr": "Аренда CLAW BELOW PS4 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-28T04:30:42Z"
     },
     {
       "id": "chaos-mini-racer",
@@ -7565,6 +7539,180 @@
       "seo_descr": "Аренда Kitsune Zero PS4/PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-21T11:35:35Z"
+    },
+    {
+      "id": "grand-theft-auto-vi-ultimate-edition",
+      "slug": "grand-theft-auto-vi-ultimate-edition",
+      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
+      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 3198,
+          "7": 3998,
+          "14": 4998,
+          "21": 5998,
+          "28": 6998,
+          "56": 12596
+        },
+        "p3": {
+          "1": 3199,
+          "7": 3999,
+          "14": 4999,
+          "21": 5999,
+          "28": 6999,
+          "56": 12598
+        }
+      },
+      "prices_p2": {
+        "1": 3198,
+        "7": 3998,
+        "14": 4998,
+        "21": 5998,
+        "28": 6998,
+        "56": 12596
+      },
+      "prices_p3": {
+        "1": 3199,
+        "7": 3999,
+        "14": 4999,
+        "21": 5999,
+        "28": 6999,
+        "56": 12598
+      },
+      "price_min": 3198,
+      "lang_label": "",
+      "genre": "Экшен",
+      "categories": [
+        "Все игры",
+        "Новинка главная шапка",
+        "Новинки",
+        "Только PS5",
+        "Шутеры",
+        "Приключения",
+        "Боевики",
+        "Предзаказы"
+      ],
+      "publisher": "Rockstar Games",
+      "voice": "",
+      "text_translation": "",
+      "rating": 0.0,
+      "release_date": "18.11.2026",
+      "is_preorder": true,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/efe905decdf3fee4483364656968be5a3de687e5c29dd03a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/9106bb2a9b8835b8f617c892edbbe46312cb2e0e3d16b480.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/5e641d4c505e5a7ebc604b58b5fc7c052571ef419a328637.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1f2d0373af9f1b6bace15d7d8462ee7843b3d42452e97d37.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/5d18cf5f59260666abe5029f450ba2b5a61d996b0503e1fc.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/5de51b1e1cc3d3ea85e7bd8eba993be5c0c267316ca18147.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
+      "description": "Grand Theft Auto VI Ultimate Edition — расширенное издание с доп. контентом. Аренда на выбранный срок, П2 или П3.",
+      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
+      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-28T04:41:57Z",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28,
+        56
+      ],
+      "lock_prices": true,
+      "skip_edition_mult": true
+    },
+    {
+      "id": "grand-theft-auto-vi",
+      "slug": "grand-theft-auto-vi",
+      "sku": "rent-grand-theft-auto-vi",
+      "title": "Grand Theft Auto VI PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 2898,
+          "7": 2998,
+          "14": 3998,
+          "21": 4998,
+          "28": 5998,
+          "56": 10796
+        },
+        "p3": {
+          "1": 2899,
+          "7": 2999,
+          "14": 3999,
+          "21": 4999,
+          "28": 5999,
+          "56": 10798
+        }
+      },
+      "prices_p2": {
+        "1": 2898,
+        "7": 2998,
+        "14": 3998,
+        "21": 4998,
+        "28": 5998,
+        "56": 10796
+      },
+      "prices_p3": {
+        "1": 2899,
+        "7": 2999,
+        "14": 3999,
+        "21": 4999,
+        "28": 5999,
+        "56": 10798
+      },
+      "price_min": 2898,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Экшен",
+      "categories": [
+        "Новинка главная шапка",
+        "Все игры",
+        "Новинки",
+        "Только PS5",
+        "Приключения",
+        "Предзаказы"
+      ],
+      "publisher": "Rockstar Games",
+      "voice": "Английский",
+      "text_translation": "Русский, Английский",
+      "rating": 0.0,
+      "release_date": "18.11.2026",
+      "is_preorder": true,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/04c76fb93ac12cca381c9ae3b01ced760fcb9ffbd00bb296.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b3c84f0fb852eb9c6f42b2403f03682ae2e8aeb286445266.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a527b3d5d7613984e14facb01cb1193aa750a7969a5861c8.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/40e2c2955261bb6142f786b75b3182868f70e35de3413122.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/6ea734e2626b8279370536b3b5faecd5243d3022f080a76a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/f252d9477be2e9b7e291da18fee79afe6d31954e80e11f8e.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
+      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром.",
+      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
+      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-28T04:41:57Z",
+      "rent_days": [
+        1,
+        7,
+        14,
+        21,
+        28,
+        56
+      ],
+      "lock_prices": true,
+      "skip_edition_mult": true
     },
     {
       "id": "darkness-and-flame-3-the-dark-side",
