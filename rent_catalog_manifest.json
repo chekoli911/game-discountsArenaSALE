@@ -1,7 +1,7 @@
 {
-  "version": 2,
-  "catalog_id": "2026-11-28T04:39:18Z",
-  "generated_at": "2026-11-28T04:56:43Z",
+  "version": 1795846117,
+  "catalog_id": "2026-11-28T06:05:44Z",
+  "generated_at": "2026-11-28T06:08:36Z",
   "count": 11560,
   "chunk_size": 100,
   "chunk_count": 116,
@@ -124,5 +124,9 @@
     "rent_catalog_chunk_115.json"
   ],
   "full_catalog": "catalog/rent_catalog.json",
-  "search_index": "rent_catalog_search.json"
+  "search_index": "rent_catalog_search.json",
+  "pinned_slugs": [
+    "grand-theft-auto-vi",
+    "grand-theft-auto-vi-ultimate-edition"
+  ]
 }
