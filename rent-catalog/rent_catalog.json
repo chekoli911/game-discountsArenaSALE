@@ -1,171 +1,9 @@
 {
   "version": 1,
-  "catalog_id": "2026-11-28T16:21:00Z",
-  "generated_at": "2026-11-28T16:24:52Z",
+  "catalog_id": "2026-11-28T17:26:12Z",
+  "generated_at": "2026-11-28T17:29:22Z",
   "count": 11562,
   "items": [
-    {
-      "id": "grand-theft-auto-vi",
-      "slug": "grand-theft-auto-vi",
-      "sku": "rent-grand-theft-auto-vi",
-      "title": "Grand Theft Auto VI PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 2898,
-          "7": 2998,
-          "14": 3998,
-          "21": 4998,
-          "28": 5998,
-          "56": 10796
-        },
-        "p3": {
-          "1": 2899,
-          "7": 2999,
-          "14": 3999,
-          "21": 4999,
-          "28": 5999,
-          "56": 10798
-        }
-      },
-      "prices_p2": {
-        "1": 2898,
-        "7": 2998,
-        "14": 3998,
-        "21": 4998,
-        "28": 5998,
-        "56": 10796
-      },
-      "prices_p3": {
-        "1": 2899,
-        "7": 2999,
-        "14": 3999,
-        "21": 4999,
-        "28": 5999,
-        "56": 10798
-      },
-      "price_min": 2898,
-      "lang_label": "На русском языке! (субтитры)",
-      "genre": "Экшен",
-      "categories": [
-        "Новинка главная шапка",
-        "Все игры",
-        "Новинки",
-        "Только PS5",
-        "Приключения",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "Английский",
-      "text_translation": "Русский, Английский",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/c9f078c260d79339cb581054ce5ca49f2b56ab943d1beb20.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/b9230c74f83827391d528e54dc521a744e820bc27da6a511.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202505/0616/a3d626ccae5d05b34fb6b749be574dca91fa1bb3366ef847.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/concept/10000730",
-      "description": "Представьте, что вы живете в Лас-Вегасе и Сан-Анджелесе на полную катушку. Это не просто игра, а целая вселенная с новыми персонажами, сюжетом и миром.",
-      "seo_title": "Grand Theft Auto VI PS5 аренда игры",
-      "seo_descr": "Аренда Grand Theft Auto VI на PS5. Standard Edition, П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-28T15:05:16Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
-    {
-      "id": "grand-theft-auto-vi-ultimate-edition",
-      "slug": "grand-theft-auto-vi-ultimate-edition",
-      "sku": "rent-grand-theft-auto-vi-ultimate-edition",
-      "title": "Grand Theft Auto VI: Ultimate Edition PS5",
-      "platform": "PS5",
-      "prices": {
-        "p2": {
-          "1": 3198,
-          "7": 3998,
-          "14": 4998,
-          "21": 5998,
-          "28": 6998,
-          "56": 12596
-        },
-        "p3": {
-          "1": 3199,
-          "7": 3999,
-          "14": 4999,
-          "21": 5999,
-          "28": 6999,
-          "56": 12598
-        }
-      },
-      "prices_p2": {
-        "1": 3198,
-        "7": 3998,
-        "14": 4998,
-        "21": 5998,
-        "28": 6998,
-        "56": 12596
-      },
-      "prices_p3": {
-        "1": 3199,
-        "7": 3999,
-        "14": 4999,
-        "21": 5999,
-        "28": 6999,
-        "56": 12598
-      },
-      "price_min": 3198,
-      "lang_label": "",
-      "genre": "Экшен",
-      "categories": [
-        "Все игры",
-        "Новинка главная шапка",
-        "Новинки",
-        "Только PS5",
-        "Шутеры",
-        "Приключения",
-        "Боевики",
-        "Предзаказы"
-      ],
-      "publisher": "Rockstar Games",
-      "voice": "",
-      "text_translation": "",
-      "rating": 0.0,
-      "release_date": "18.11.2026",
-      "is_preorder": true,
-      "is_new": true,
-      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1819/f73cd287d6bbf6a95aa5a93f5a294a2614288a00af4dcdba.png",
-      "screenshots": [
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/1b1bb3a94bbd1a8a4e7514763d016f510e24247b4d864ff6.jpg",
-        "https://image.api.playstation.com/vulcan/ap/rnd/202606/1821/fc25469bbd7e674c1db234296d0697f77ab10dbd28174aba.jpg"
-      ],
-      "store_url": "https://store.playstation.com/en-tr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-      "description": "Grand Theft Auto VI Ultimate Edition — расширенное издание с доп. контентом. Аренда на выбранный срок, П2 или П3.",
-      "seo_title": "Grand Theft Auto VI: Ultimate Edition PS5 аренда",
-      "seo_descr": "Аренда Grand Theft Auto VI Ultimate Edition на PS5. П2 и П3.",
-      "external_id": "",
-      "catalog_added_at": "2026-11-28T15:05:16Z",
-      "rent_days": [
-        1,
-        7,
-        14,
-        21,
-        28,
-        56
-      ],
-      "lock_prices": true,
-      "skip_edition_mult": true
-    },
     {
       "id": "the-eminence-in-shadow-phantom-echoes",
       "slug": "the-eminence-in-shadow-phantom-echoes",
@@ -3296,6 +3134,144 @@
       "seo_descr": "Аренда Winx Club - Moonlight Quest PS5 на PlayStation.",
       "external_id": "",
       "catalog_added_at": "2026-11-21T12:13:58Z"
+    },
+    {
+      "id": "lucky-me",
+      "slug": "lucky-me",
+      "sku": "rent-lucky-me",
+      "title": "Lucky me PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "На русском языке! (субтитры)",
+      "genre": "Ролевая игра",
+      "categories": [],
+      "publisher": "Hangzhou Shanhai Xingchen Culture and Technology Co. , Ltd.",
+      "voice": "",
+      "text_translation": "Русский, Английский",
+      "rating": 5.0,
+      "release_date": "28.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/9cebaa397b5fc859433270c809ad472e9ddad507715bfa52.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/13dc2255db234dc87981176f4e8c0ec3566f2199093a9d53.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/678bfccd880f245c29547a8d68be046ef136947aae09a80c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/68f46f4e13894a789c2ff19432e48a1b1d87150663787e59.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/c4dc7be20926952dd910bcc2246b59171876532d8fc5dba9.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/9ec28b5336ff5481bd2f4aca985ed7264a043bb22864371a.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/9f44b989d5554a9f6996d121bdbbbd72dc6f9fab6cd9e05f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/3f438ab317513bbfc67d7d582b8bb0ce6ecbfee26bea81ee.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202610/2608/5bd6980b85245d67f99cea9287cdedb5646946e8b9bd62ee.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10021344",
+      "description": "Игра Lucky Me на PlayStation 5 - это всё о том, чтобы просто расслабиться. Никакой напряжённой сюжетной линии и сложных головоломок здесь нет.\n\nМеханика работает очень элегантно: тебе нужно собирать случайные предметы, которые появляются в поле зрения. За каждый собранный предмет ты получаешь шанс выпадения следующего. Чем больше предметов соберёшь за прогон - тем выше шансы на крутой джекпот.\n\nЭто идеальный способ потратить время в ожидании чего-то важного или когда просто хочется посмеяться над своей удачей (или её отсутствием).",
+      "seo_title": "Lucky me PS5 аренда игры",
+      "seo_descr": "Аренда Lucky me PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-28T17:29:11Z"
+    },
+    {
+      "id": "i-am-monkey",
+      "slug": "i-am-monkey",
+      "sku": "rent-i-am-monkey",
+      "title": "I Am Monkey PS5",
+      "platform": "PS5",
+      "prices": {
+        "p2": {
+          "1": 697,
+          "7": 739,
+          "14": 827,
+          "21": 944,
+          "28": 1078,
+          "56": 1940
+        },
+        "p3": {
+          "1": 899,
+          "7": 1092,
+          "14": 1292,
+          "21": 1728,
+          "28": 1933,
+          "56": 3479
+        }
+      },
+      "prices_p2": {
+        "1": 697,
+        "7": 739,
+        "14": 827,
+        "21": 944,
+        "28": 1078,
+        "56": 1940
+      },
+      "prices_p3": {
+        "1": 899,
+        "7": 1092,
+        "14": 1292,
+        "21": 1728,
+        "28": 1933,
+        "56": 3479
+      },
+      "price_min": 697,
+      "lang_label": "Английский",
+      "genre": "Аркада, Simulator",
+      "categories": [],
+      "publisher": "NEW FOLDER GAMES LTD",
+      "voice": "Английский",
+      "text_translation": "Английский",
+      "rating": 5.0,
+      "release_date": "28.11.2026",
+      "is_preorder": false,
+      "is_new": true,
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1410/210f4c7fce2f6253955c0949aec8b610b6e2600dc1f44bea.png",
+      "screenshots": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1410/e19ac746201b3d8f0a19f19400f7f12db5dc6ed5dbea78af.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1410/8c95f3c79eaca8128c06a96186a5a33bfa6e57ffec43648c.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1410/a62ba22976a586867c5996459d9b7e39ee13270d724ecc68.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1410/fc995c4d9595f8943b447f5ac2e3a4ebc0f729956e7882ba.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1410/4f1775884973837529c14d90a0ad2fd36ecf8323080a8025.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1410/994cbc9edd8745f63b4263655bafebe23daa2b0a959a02bf.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1410/298c6446b18dbc9c3e4f4e0c7da2d14e266b2e350f43214f.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202605/1410/746ad89d4a6335515ed940a7a095941c28168c0b7592fa24.jpg"
+      ],
+      "store_url": "https://store.playstation.com/en-tr/concept/10018334",
+      "description": "Представь, ты один в огромном заповеднике, а вокруг тебя целая армия обезьян, готовых тебя съесть! Твоя единственная задача - отгородиться и выжить.\n\nЭто не просто экшен, это психологический кошмар в реальном времени. Тебе придется постоянно прыгать по веткам, карабкаться на деревья и бежать, пока твои враги пытаются найти твой запах в джунглях.\n\nИгра - это честный, безлимитный стресс-тест для мозга.",
+      "seo_title": "I Am Monkey PS5 аренда игры",
+      "seo_descr": "Аренда I Am Monkey PS5 на PlayStation.",
+      "external_id": "",
+      "catalog_added_at": "2026-11-28T17:29:11Z"
     },
     {
       "id": "idle-breaker",
